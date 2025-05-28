@@ -1,4 +1,4 @@
-# My Osu Songs Folder
+# My Osu Songs Folder 1.7GB 34923 Maps
 
 Includes All MANIA Ranked and Loved state Beatmaps. NO AUDIO &amp; PICTURES
 around 15% graveyard maps.
@@ -12,7 +12,7 @@ IDEA: My goal is to make it possible to have the most comprimized Songs folder f
 Note: You need to have git and osu! installed!
 
 Create a folder on your System. Go into it. Clone my repo.
-Change the name of the original Sons folder and Copy the  cloned Songs folder into your osu! directory. :3
+Change the name of the original Songs folder and copy the cloned Songs folder into your osu! directory. :3
 
 **On Windows:** press win+R: Type `cmd`. Go to your folder with `cd`.If you dont know where you are, type in `dir`. Then navigate throug your directories with `cd` until you are in your previous created folder. Type in `git clone https://github.com/PatrickMagAnime/My-Osu-Songs-Folder.git`
 
