@@ -1,0 +1,159 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 6188
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.5
+BeatDivisor: 1
+GridSize: 32
+TimelineZoom: 0.1
+
+[Metadata]
+Title:Goat standing up meme undertale (Extended Edit)
+TitleUnicode:Goat standing up meme undertale (Extended Edit)
+Artist:eg_9371
+ArtistUnicode:eg_9371
+Creator:AL-E
+Version:Normal
+Source:UNDERTALE
+Tags:asriel tryna trynna be cray memory short version toby fox pissy pamper young nudy pi'erre pierre bourne playboi carti video game instrumental ln long note release silvagunner siivagunner floating child ending rap cover music box
+BeatmapID:4608824
+BeatmapSetID:2052341
+
+[Difficulty]
+HPDrainRate:5.5
+CircleSize:4
+OverallDifficulty:5.5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.png",0,-10
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+335,731.707317073171,4,2,1,30,1,0
+
+
+[HitObjects]
+320,192,335,5,0,0:0:0:70:meow_5_D.wav
+448,192,700,128,0,1066:0:0:0:70:bass_3_D.wav
+64,192,883,1,0,0:0:0:70:meow_5_Fsharp.wav
+192,192,1432,1,0,0:0:0:70:meow_5_B.wav
+448,192,1432,128,0,1798:0:0:0:70:bass_3_D.wav
+320,192,1981,1,0,0:0:0:70:meow_6_Csharp.wav
+64,192,2164,128,0,2530:0:0:0:70:bass_3_D.wav
+192,192,2530,1,0,0:0:0:70:meow_5_A.wav
+448,192,2895,1,0,0:0:0:70:meow_5_B.wav
+64,192,2895,128,0,3261:0:0:0:70:bass_3_D.wav
+320,192,3261,1,0,0:0:0:70:meow_5_Gsharp.wav
+448,192,3627,128,0,3993:0:0:0:70:bass_3_Fsharp.wav
+64,192,3810,1,0,0:0:0:70:meow_5_E.wav
+192,192,4359,1,0,0:0:0:70:meow_5_Fsharp.wav
+448,192,4359,128,0,4725:0:0:0:70:bass_3_Fsharp.wav
+448,192,5091,128,0,5456:0:0:0:70:bass_3_Fsharp.wav
+320,192,5822,128,0,6188:0:0:0:70:bass_3_A.wav
+192,192,6188,1,0,0:0:0:70:meow_5_D.wav
+64,192,6554,128,0,6920:0:0:0:70:bass_3_D.wav
+448,192,6737,1,0,0:0:0:70:meow_5_Fsharp.wav
+64,192,7286,128,0,7652:0:0:0:70:bass_3_D.wav
+320,192,7286,1,0,0:0:0:70:meow_5_B.wav
+192,192,7835,1,0,0:0:0:70:meow_6_Csharp.wav
+448,192,8017,128,0,8383:0:0:0:70:bass_3_D.wav
+320,192,8383,1,0,0:0:0:70:meow_5_A.wav
+448,192,8749,128,0,9115:0:0:0:70:bass_3_D.wav
+64,192,8749,1,0,0:0:0:70:meow_5_B.wav
+192,192,9115,1,0,0:0:0:70:meow_5_Gsharp.wav
+64,192,9481,128,0,9847:0:0:0:70:bass_3_Fsharp.wav
+448,192,9664,1,0,0:0:0:70:meow_5_E.wav
+64,192,10213,128,0,10578:0:0:0:70:bass_3_Fsharp.wav
+320,192,10213,1,0,0:0:0:70:meow_5_Fsharp.wav
+64,192,10944,128,0,11310:0:0:0:70:bass_3_Fsharp.wav
+192,192,11676,128,0,12042:0:0:0:70:bass_3_A.wav
+448,192,12042,5,0,0:0:0:70:meow_5_D.wav
+320,192,12408,128,0,12774:0:0:0:70:bass_3_D.wav
+64,192,12591,1,0,0:0:0:70:meow_5_Fsharp.wav
+192,192,13139,1,0,0:0:0:70:meow_5_B.wav
+320,192,13139,128,0,13505:0:0:0:70:bass_3_D.wav
+448,192,13688,1,0,0:0:0:70:meow_6_Csharp.wav
+64,192,13871,128,0,14237:0:0:0:70:bass_3_D.wav
+192,192,14237,1,0,0:0:0:70:meow_5_A.wav
+64,192,14603,128,0,14969:0:0:0:70:bass_3_D.wav
+320,192,14603,1,0,0:0:0:70:meow_5_B.wav
+448,192,14969,1,0,0:0:0:70:meow_5_Gsharp.wav
+320,192,15335,128,0,15700:0:0:0:70:bass_3_Fsharp.wav
+64,192,15517,1,0,0:0:0:70:meow_5_E.wav
+192,192,16066,1,0,0:0:0:70:meow_5_Fsharp.wav
+320,192,16066,128,0,16432:0:0:0:70:bass_3_Fsharp.wav
+320,192,16798,128,0,17164:0:0:0:70:bass_3_Fsharp.wav
+448,192,17530,128,0,17895:0:0:0:70:bass_3_A.wav
+64,192,17895,5,0,0:0:0:70:meow_5_D.wav
+192,192,18261,128,0,18627:0:0:0:70:bass_3_D.wav
+448,192,18444,1,0,0:0:0:70:meow_5_Fsharp.wav
+320,192,18993,1,0,0:0:0:70:meow_5_B.wav
+192,192,18993,128,0,19359:0:0:0:70:bass_3_D.wav
+64,192,19542,1,0,0:0:0:70:meow_6_Csharp.wav
+448,192,19725,128,0,20091:0:0:0:70:bass_3_D.wav
+320,192,20091,1,0,0:0:0:70:meow_5_A.wav
+192,192,20456,1,0,0:0:0:70:meow_5_B.wav
+448,192,20456,128,0,20822:0:0:0:70:bass_3_D.wav
+64,192,20822,1,0,0:0:0:70:meow_5_Gsharp.wav
+192,192,21188,128,0,21554:0:0:0:70:bass_3_Fsharp.wav
+448,192,21371,1,0,0:0:0:70:meow_5_E.wav
+192,192,21920,128,0,22286:0:0:0:70:bass_3_Fsharp.wav
+320,192,21920,1,0,0:0:0:70:meow_5_Fsharp.wav
+192,192,22652,128,0,23017:0:0:0:70:bass_3_Fsharp.wav
+64,192,23383,128,0,23749:0:0:0:70:bass_3_A.wav
+448,192,23749,1,0,0:0:0:70:meow_5_D.wav
+320,192,24115,128,0,24481:0:0:0:70:bass_3_D.wav
+192,192,24298,1,0,0:0:0:70:meow_5_Fsharp.wav
+320,192,24847,128,0,25213:0:0:0:70:bass_3_D.wav
+64,192,24847,1,0,0:0:0:70:meow_5_B.wav
+448,192,25395,1,0,0:0:0:70:meow_6_Csharp.wav
+192,192,25578,128,0,25944:0:0:0:70:bass_3_D.wav
+64,192,25944,1,0,0:0:0:70:meow_5_A.wav
+320,192,26310,1,0,0:0:0:70:meow_5_B.wav
+192,192,26310,128,0,26676:0:0:0:70:bass_3_D.wav
+448,192,26676,1,0,0:0:0:70:meow_5_Gsharp.wav
+320,192,27042,128,0,27408:0:0:0:70:bass_3_Fsharp.wav
+192,192,27225,1,0,0:0:0:70:meow_5_E.wav
+320,192,27774,128,0,28139:0:0:0:70:bass_3_Fsharp.wav
+64,192,27774,1,0,0:0:0:70:meow_5_Fsharp.wav
+320,192,28505,128,0,28871:0:0:0:70:bass_3_Fsharp.wav
+448,192,29237,128,0,29603:0:0:0:70:bass_3_A.wav
+64,192,29603,1,0,0:0:0:70:meow_5_D.wav
+192,192,29969,128,0,30335:0:0:0:70:bass_3_D.wav
+320,192,30152,1,0,0:0:0:70:meow_5_Fsharp.wav
+448,192,30700,1,0,0:0:0:70:meow_5_B.wav
+192,192,30700,128,0,31066:0:0:0:70:bass_3_D.wav
+64,192,31249,1,0,0:0:0:70:meow_6_Csharp.wav
+320,192,31432,128,0,31798:0:0:0:70:bass_3_D.wav
+448,192,31798,1,0,0:0:0:70:meow_5_A.wav
+320,192,32164,128,0,32530:0:0:0:70:bass_3_D.wav
+192,192,32164,1,0,0:0:0:70:meow_5_B.wav
+64,192,32530,1,0,0:0:0:70:meow_5_Gsharp.wav
+192,192,32895,128,0,33261:0:0:0:70:bass_3_Fsharp.wav
+320,192,33078,1,0,0:0:0:70:meow_5_E.wav
+448,192,33627,1,0,0:0:0:70:meow_5_Fsharp.wav
+192,192,33627,128,0,33993:0:0:0:70:bass_3_Fsharp.wav
+192,192,34359,128,0,34725:0:0:0:70:bass_3_Fsharp.wav
+64,192,35091,128,0,35456:0:0:0:70:bass_3_A.wav
+320,192,35456,1,0,0:0:0:70:meow_5_D.wav

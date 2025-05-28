@@ -1,0 +1,58 @@
+osu file format v14
+
+[General]
+AudioFilename: silence.mp3
+AudioLeadIn: 0
+PreviewTime: 1051
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+EpilepsyWarning: 1
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.5
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 2.5
+
+[Metadata]
+Title:MAKE IT FUNKY NOW
+TitleUnicode:MAKE IT FUNKY NOW
+Artist:DOT96
+ArtistUnicode:DOT96
+Creator:Tunnelblick
+Version:delete
+Source:BOFU2017 - LEGENDA EST A MYTH -
+Tags:featured artist fa the 3rd trial the bms of fighers ultimate 2017 bofu bofu2017 misokabocha strlabel ninetysix notosu modchart storyboard sb electronic instrumental amm funky tech quarter finals qf anti meta madness disguise
+BeatmapID:4611011
+BeatmapSetID:2085716
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:4
+OverallDifficulty:6
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+-181,410.958892822266,4,2,0,20,1,0
+
+
+[HitObjects]
+64,192,24,128,0,390031:0:0:0:0:

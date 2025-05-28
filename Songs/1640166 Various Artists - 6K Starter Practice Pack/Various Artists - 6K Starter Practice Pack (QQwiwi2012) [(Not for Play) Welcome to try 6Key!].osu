@@ -1,0 +1,59 @@
+osu file format v14
+
+[General]
+AudioFilename: Delete This.mp3
+AudioLeadIn: 0
+PreviewTime: 78600
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.3
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:6K Starter Practice Pack
+TitleUnicode:6K Starter Practice Pack
+Artist:Various Artists
+ArtistUnicode:Various Artists
+Creator:QQwiwi2012
+Version:(Not for Play) Welcome to try 6Key!
+Source:
+Tags:itg in the groove kyle ward bms Lagoona Always in my Uniq Amore DJ Doo Do U Love Me Cyrex Starfield Missing Heart Charlene Banzai Zodiac カラフル・サウンズ・ポート CHERRY DOLL Colorful Sounds Port Hands up! Digital Explosion Mythology 上杉うた with 星明 Canon (blazing summer mix) celas with StarL Vanilla Ninja Tough Enough The Beginning Queen of Light Smiley Fantasia Andreas Viklund Sweet Things Xacla a.k.a. fen deep blue sunrise anubasu-anubasu The Island of Albatross Nina Let My Go Blind KaW Kagami E-Rotic Touch Me Erotic Twilight white crystal sensitive Shiraishi horizon しらいし Lemmings on the Run Oasis F Rabbeat The Universe Festival MD10 Junk Qualia SHANADOO King Kong Land of imagination 梅干茶漬け Galaxy in Toybox Umeboshi Chazuke kozato D-period -moonlit world line- Nick Furry vs. 悪いケモノ-A 蝎虎天体 Warui Kemono-A Lacertid Mind Reflection Da Roots (Folk YOASOBI 夜に駆ける Yoru ni Kakeru Rochelle Mouth BeautifulDay Feel The O2Jam! in Belize Crispy Bubble Dancer Lime Daydreamer SHK 月哀月夜 Sad of the Moon Night of the
+BeatmapID:3347765
+BeatmapSetID:1640166
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:6
+OverallDifficulty:10
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BG.jpg",0,0
+//Break Periods
+2,200,598800
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,600,4,2,0,5,1,0
+
+
+[HitObjects]
+42,192,0,5,0,0:0:0:0:
+42,192,600000,5,0,0:0:0:0:

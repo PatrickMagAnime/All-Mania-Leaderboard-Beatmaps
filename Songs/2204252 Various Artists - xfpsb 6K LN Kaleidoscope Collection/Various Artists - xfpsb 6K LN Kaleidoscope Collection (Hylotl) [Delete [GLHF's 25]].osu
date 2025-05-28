@@ -1,0 +1,59 @@
+osu file format v14
+
+[General]
+AudioFilename: delete.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 2.7
+BeatDivisor: 8
+GridSize: 16
+TimelineZoom: 1.4
+
+[Metadata]
+Title:xfpsb 6K LN Kaleidoscope Collection
+TitleUnicode:xfpsb 6K LN Kaleidoscope Collection
+Artist:Various Artists
+ArtistUnicode:Various Artists
+Creator:Hylotl
+Version:Delete [GLHF's 25]
+Source:
+Tags:long note Benson_ Mihyo_San Pardofelis truEleysia Elysia cherrychou AhoUsagi GuaZi 1799019275 Arkman YuzakiTsukasa Muses [GS]hina teradora DJ Hamcheese Sudden Death r300k ELISA Shining Wind senya 夜桜に君を隠して Yozakura ni kimi o kakushite Mili Utopiosphere 周傳雄 黃昏 Steve Chou Hun Sunset 宮本るり 内山夕実 通り雨drop Ruri Miyamoto Yumi Uchiyama Tooriame drop Kalafina 君の銀の庭 no Gin no Niwa Otokaze 雨道 -amamichi- 埋葬 万吨匿名信 闫东炜 Y..J Ten Thousand Tons of Anonymous Letters アイマリン 内田彩 The Boon! iMarine Uchida Aya 南ゆに 上弦の月 (Instrumental) Yuni Minami Jougen no Tsuki てにをは feat. 初音ミク 名探偵連続殺人事件 Teniwoha Hatsune Miku Meitantei Renzoku Satsujin Jiken xi Wish upon Twin Stars 猫叉Master アヴァロンの丘 Nekomata Master Avalon no Oka TQ☆ Revival TQ* Roselia FIRE BIRD Kana Nishino 西野カナ Love you, Miss you Omoi テオ Teo ころんば koronba ヤツメ穴 Yatsume Ana Oratorio The God only knows WaMi あの娘シークレット Anoko Secret あず♪ 春竜 ～Haryu～ Azu 春奈るな TRUE STORY Haruna Luna HOYO-MiX 黄龄 Isabelle Huang ゆいこんぬ ＆ あやぽんず＊ すーぱーぬこわーるど yuikonnu & ayaponzu* Super Nuko World
+BeatmapID:4665868
+BeatmapSetID:2204252
+
+[Difficulty]
+HPDrainRate:8
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"P.jpg",0,0
+//Break Periods
+2,954436,959336
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+636,7.91452314998021,4,2,0,0,1,0
+
+
+[HitObjects]
+64,192,954236,5,0,0:0:0:0:
+448,192,960536,5,0,0:0:0:0:

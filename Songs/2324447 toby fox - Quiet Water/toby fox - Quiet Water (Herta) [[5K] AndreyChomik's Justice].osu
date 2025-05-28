@@ -1,0 +1,112 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime:6048
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+SpecialStyle: 0
+
+[Editor]
+DistanceSpacing: 2
+BeatDivisor: 8
+GridSize: 8
+TimelineZoom: 0.9
+
+[Metadata]
+Title:Quiet Water
+TitleUnicode:Quiet Water
+Artist:toby fox
+ArtistUnicode:toby fox
+Creator:Herta
+Version:[5K] AndreyChomik's Justice
+Tags:Sadu carpihat krfawy vincus marcialus matthewwwwww utiba xytoper kyrian andreychomik video game music vgm instrumental ost original soundtrack calm calming slow piano ambient radiation waterfall easy
+BeatmapSetID:2324447
+Source:UNDERTALE
+BeatmapID:4982038
+
+[Difficulty]
+HPDrainRate:7.5
+CircleSize:5
+OverallDifficulty:7.5
+ApproachRate:7
+SliderMultiplier:1.5
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"duh-veed_devianart.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+173,1000,3,2,1,15,1,0
+
+
+[Colours]
+Combo1 : 20,90,140
+Combo2 : 30,30,130
+SliderBorder : 255,255,255
+SliderTrackOverride : 40,240,240
+
+[HitObjects]
+460,192,173,5,0,0:0:0:0:
+358,192,173,1,0,0:0:0:0:
+256,192,235,1,0,0:0:0:0:
+153,192,298,128,0,2923:0:0:0:0:
+51,192,3173,1,0,0:0:0:0:
+153,192,3173,1,0,0:0:0:0:
+256,192,3235,1,0,0:0:0:0:
+358,192,3298,128,0,5923:0:0:0:0:
+460,192,6173,128,0,9173:0:0:0:0:
+358,192,6173,128,2,7173:0:0:0:0:
+153,192,6298,1,0,0:0:0:0:
+51,192,7173,128,8,8173:0:0:0:0:
+153,192,8173,128,8,9173:0:0:0:0:
+256,192,9173,128,0,12173:0:0:0:0:
+358,192,9173,128,2,10173:0:0:0:0:
+51,192,9298,1,0,0:0:0:0:
+51,192,10173,128,8,11173:0:0:0:0:
+153,192,10673,128,8,11673:0:0:0:0:
+358,192,11173,128,2,11673:0:0:0:0:
+460,192,11673,1,8,0:0:0:0:
+51,192,12173,128,0,14923:0:0:0:0:
+153,192,12173,128,2,14173:0:0:0:0:
+358,192,12235,1,0,0:0:0:0:
+460,192,12298,1,0,0:0:0:0:
+256,192,15173,1,8,0:0:0:0:
+153,192,15173,1,0,0:0:0:0:
+358,192,15235,1,0,0:0:0:0:
+460,192,15298,128,0,18173:0:0:0:0:
+358,192,16173,128,2,17173:0:0:0:0:
+256,192,16673,128,8,17673:0:0:0:0:
+153,192,17173,128,2,17673:0:0:0:0:
+51,192,17673,128,2,18173:0:0:0:0:
+153,192,18173,128,0,19673:0:0:0:0:
+256,192,18173,128,8,21173:0:0:0:0:
+358,192,18298,1,0,0:0:0:0:
+358,192,19173,128,8,20673:0:0:0:0:
+460,192,20173,128,2,21173:0:0:0:0:
+51,192,21173,128,8,24173:0:0:0:0:
+153,192,21173,128,0,22673:0:0:0:0:
+358,192,21298,1,0,0:0:0:0:
+256,192,22173,128,2,23923:0:0:0:0:
+358,192,23173,128,8,23923:0:0:0:0:
+460,192,24173,128,0,27173:0:0:0:0:
+358,192,24173,128,2,26673:0:0:0:0:
+256,192,24235,1,0,0:0:0:0:
+153,192,24298,1,0,0:0:0:0:
+153,192,27173,1,0,0:0:0:0:
+51,192,27173,1,2,0:0:0:0:
+256,192,27235,1,0,0:0:0:0:
+358,192,27298,128,0,32173:0:0:0:0:

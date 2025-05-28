@@ -1,0 +1,59 @@
+osu file format v14
+
+[General]
+AudioFilename: nan.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 3
+GridSize: 16
+TimelineZoom: 1
+
+[Metadata]
+Title:FELT LN Collection
+TitleUnicode:FELT LN Collection
+Artist:FELT
+ArtistUnicode:FELT
+Creator:-[Ulazis]-
+Version:delete
+Source:
+Tags:
+BeatmapID:4747526
+BeatmapSetID:1532787
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:5
+OverallDifficulty:0
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+2,200,997966
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,4000,4,1,0,100,1,0
+
+
+[HitObjects]
+256,192,0,5,0,0:0:0:0:
+256,192,999166,5,0,0:0:0:0:
+256,192,1000000,1,0,0:0:0:0:

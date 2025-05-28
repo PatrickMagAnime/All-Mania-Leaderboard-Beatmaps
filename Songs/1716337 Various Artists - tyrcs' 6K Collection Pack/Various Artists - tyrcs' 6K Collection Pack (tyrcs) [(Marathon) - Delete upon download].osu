@@ -1,0 +1,75 @@
+osu file format v14
+
+[General]
+AudioFilename: Delete upon download_0.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 2.899999
+
+[Metadata]
+Title:tyrcs' 6K Collection Pack
+TitleUnicode:tyrcs' 6K Collection Pack
+Artist:Various Artists
+ArtistUnicode:Various Artists
+Creator:tyrcs
+Version:(Marathon) - Delete upon download
+Source:
+Tags:BMS The Quick Brown Fox Break TQBF renard LeaF 失望Choco Shitsubou Choco goreshit slavik goblins Aitsuki Nakuru 藍月なくる Monochrome Butterfly 現実をカットアップしてみた yu^ta Genjitsu o Cut-up Shite Mita -45 Aci-L A c i - L Yoshikawa-45 cornandbeans {Blaze} 八大地獄邪魂転生狂葬散火歌 さかみりと Sakamirito Hachidaijigoku Jakontensei Kyousou Sanbika Sakamiya 一之瀬りと Rito Ichinose かめりあ feat. ななひら ベィスドロップ・フリークス Camellia feat. Nanahira Bassdrop Freaks DEAF KEV Invincible ueotan Mario Paint (Time Regression Mix for BMS) Oerba Tanaka Vanilla Y ヲルバ＝田中・ヴァニラ Schwerkraft ROKINA ロキナ Silentroom Nhelv SHAGAN DAISHI KAKU P-MODEL 遮眼大師 核P-MODEL 平沢進 Susumu Hirasawa ああああ AAAA lifework LUZE LuzeriA ルゼ katagiri ch3rry cherry かたぎり Laur Sheriruth (Laur Remix) Team Grimoire vs. Laur Grievous Lady Getty vs. DJ DiA Ops Code Rapture Vicetone & Tony Igy Astronomia (Camellia Remix) Coffin Dance かめりあ Fastest Crash Cut Tatsh reunion Asymmetry Reol アシンメトリー れをる
+BeatmapID:3507108
+BeatmapSetID:1716337
+
+[Difficulty]
+HPDrainRate:8
+CircleSize:6
+OverallDifficulty:8
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"blank.jpg",0,0
+//Break Periods
+2,457,1194516
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+-1,86.095566078347,4,1,0,5,1,0
+
+
+[HitObjects]
+213,192,193,5,0,0:0:0:0:
+298,192,214,1,0,0:0:0:0:
+128,192,214,1,0,0:0:0:0:
+384,192,235,1,0,0:0:0:0:
+42,192,235,1,0,0:0:0:0:
+469,192,257,1,0,0:0:0:0:
+384,192,1195716,5,0,0:0:0:0:
+469,192,1195802,128,0,1196254:0:0:0:0:
+298,192,1195802,1,0,0:0:0:0:
+384,192,1195996,1,0,0:0:0:0:
+298,192,1196039,128,0,1196297:0:0:0:0:
+384,192,1196319,1,0,0:0:0:0:
+128,192,1196362,1,0,0:0:0:0:
+42,192,1196448,128,0,1196943:0:0:0:0:
+213,192,1196470,128,0,1196706:0:0:0:0:
+128,192,1196749,1,0,0:0:0:0:
+213,192,1196922,1,0,0:0:0:0:
+128,192,1196969,1,0,0:0:0:0:

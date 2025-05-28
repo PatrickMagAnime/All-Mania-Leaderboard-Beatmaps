@@ -1,0 +1,63 @@
+osu file format v14
+
+[General]
+AudioFilename: .mp3
+AudioLeadIn: 0
+PreviewTime: 236590
+Countdown: 0
+SampleSet: Drum
+StackLeniency: 0
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 6375,38375,76775,89575,116317,125460,143746,180730,197281,236590,249831,272176,298661,328865
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 3.1
+
+[Metadata]
+Title:Best of JOKE 1 & 2
+TitleUnicode:Best of JOKE 1 & 2
+Artist:Various Artists
+ArtistUnicode:Various Artists
+Creator:Sparxe
+Version:Meta
+Source:
+Tags:Jaye HowToPlayLN HTPLN Paturages Erkfir r1chyy jaye's one key event 2 spacebar jam Knife Party & Tom Morello Battle Sirens (RIOT Remix) Thank You Scientist Wrinkle Culprate & Bloom Aurora Cranky Feline, the White... 青龍 AO-∞ Seiryu AO-Infinity はとれ Heartresonator Love so “Radio active mix” Ooshima Takao 大島高雄 polysha Has not come yet DJ'TEKINA//SOMETHING You Need Fxxkin' Anthem Powerless Remix yuyoyuppe LeaF Aleph-0 ℵ0 cornandbeans Blaze 黒皇帝 Kurokotei Lusamine in a Perfect World P*Light NINJA IS DEAD IIDX ver. The Flashbulb The Bridgeport Run benn jordan BlackY vs. cosMo@BousouP cosMo​@​暴走P Improvisation Colosseum fallen shepherd feat. RabbiTon Strings ENDYMION Getty Pump It t+pazolite !!!Chaos Time!!! !!!カオスタイム!!! Chaos Time BilliumMoto & Dictate niu arx 1KARUGA ikaruga 1k
+BeatmapID:4124544
+BeatmapSetID:1985705
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:1
+OverallDifficulty:5.5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+-25,400,4,3,0,70,1,0
+-25,-51.7241379310345,4,3,0,70,0,0
+115175,285.714285714286,4,3,0,70,1,0
+115175,-72.4137931034482,4,3,0,70,0,0
+180317,206.896551724138,4,3,0,70,1,8
+180317,-100,4,3,0,70,0,8
+
+
+[HitObjects]
+256,192,599903,5,0,0:0:0:0:

@@ -1,0 +1,63 @@
+osu file format v14
+
+[General]
+AudioFilename: .mp3
+AudioLeadIn: 0
+PreviewTime: 80861
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 245587
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 2
+
+[Metadata]
+Title:Jack Dumps
+TitleUnicode:Jack Dumps
+Artist:Various Artists
+ArtistUnicode:Various Artists
+Creator:Seiryuu
+Version:Marathon - Delete After Download
+Source:
+Tags:[-Seiryuu-] BMS SHIKI Angelic Layer MuryokuP 無力P Powerless Existence Soleily Frost Crystal dj TAKA feat. AiMEE True Blue 星の器～STAR OF ANDROMEDA anodromeda sun3 ZUN Hoshi no Utsuwa サクラヨゾラ Xceon feat. Mayumi Morinaga Sakurayozora supercell feat. gazelle melt 3M mix nagi メルト sakuzyo AXION 削除 佐藤-SATOH- ダークサンバランド Dark Samba Master -SATOH- Dark Sambaland Lime
+BeatmapID:3386456
+BeatmapSetID:675918
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:9
+SliderMultiplier:1.92
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BG.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1197,365.853658536585,4,2,1,13,1,0
+
+
+[Colours]
+Combo1 : 255,128,128
+Combo2 : 255,255,121
+Combo3 : 149,149,202
+Combo4 : 255,179,102
+
+[HitObjects]

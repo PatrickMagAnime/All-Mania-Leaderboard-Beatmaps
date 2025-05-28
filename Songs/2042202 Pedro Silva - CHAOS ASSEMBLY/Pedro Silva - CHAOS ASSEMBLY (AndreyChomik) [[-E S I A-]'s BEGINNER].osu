@@ -1,0 +1,193 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 32011
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.1
+BeatDivisor: 4
+GridSize: 16
+TimelineZoom: 0.6
+
+[Metadata]
+Title:CHAOS ASSEMBLY
+TitleUnicode:CHAOS ASSEMBLY
+Artist:Pedro Silva
+ArtistUnicode:Pedro Silva
+Creator:AndreyChomik
+Version:[-E S I A-]'s BEGINNER
+Source:OMORI
+Tags:vgm music videogame zyletinee E_S_I_A [-E_S_I_A-] ESIA [-ESIA-] meiqth electronic instrumental indie video game omocat download window battle theme slime girls original soundtrack ost
+BeatmapID:4273333
+BeatmapSetID:2042202
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:6
+ApproachRate:4
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"yea.jpeg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,15511,0,"snare.wav",30
+Sample,32511,0,"snare.wav",30
+Sample,34511,0,"snare.wav",30
+Sample,36511,0,"snare.wav",30
+Sample,38511,0,"snare.wav",30
+Sample,43511,0,"clap10.wav",30
+Sample,45511,0,"clap10.wav",30
+Sample,47511,0,"clap10.wav",30
+Sample,50511,0,"clap10.wav",30
+Sample,51511,0,"clap10.wav",30
+Sample,52511,0,"clap10.wav",30
+Sample,53511,0,"clap10.wav",30
+Sample,54511,0,"clap10.wav",30
+Sample,55511,0,"clap10.wav",30
+Sample,56511,0,"clap10.wav",30
+Sample,58511,0,"clap10.wav",30
+Sample,59511,0,"clap10.wav",30
+Sample,60511,0,"clap10.wav",30
+Sample,61511,0,"clap10.wav",30
+Sample,62511,0,"clap10.wav",30
+Sample,63511,0,"clap10.wav",30
+Sample,64511,0,"clap10.wav",30
+
+[TimingPoints]
+11,500,4,2,1,45,1,0
+8011,-100,4,2,1,55,0,0
+24011,-100,4,2,1,45,0,0
+32011,-100,4,2,1,60,0,0
+40011,-100,4,2,1,40,0,1
+42011,-100,4,2,1,50,0,0
+50011,-100,4,2,1,60,0,1
+65011,-100,4,2,1,60,0,0
+
+
+[HitObjects]
+64,192,4011,5,0,0:0:0:60:kick.wav
+448,192,4511,1,0,0:0:0:60:kick.wav
+320,192,5011,1,0,0:0:0:60:kick.wav
+192,192,5511,1,0,0:0:0:60:kick.wav
+448,192,6011,1,0,0:0:0:60:kick.wav
+64,192,6511,1,0,0:0:0:60:kick.wav
+192,192,7011,1,0,0:0:0:60:kick.wav
+320,192,7511,1,0,0:0:0:0:
+64,192,8011,1,0,0:0:0:60:kick.wav
+192,192,8011,1,0,0:0:0:0:
+448,192,8386,1,0,0:0:0:55:loud1.wav
+448,192,8761,1,0,0:0:0:55:loud1.wav
+192,192,9511,128,0,10011:0:0:0:60:kick.wav
+320,192,10011,1,0,0:0:0:60:kick.wav
+64,192,10386,1,0,0:0:0:55:loud1.wav
+192,192,10761,1,0,0:0:0:55:loud1.wav
+448,192,11511,1,0,0:0:0:60:kick.wav
+320,192,12011,1,0,0:0:0:60:kick.wav
+64,192,12386,1,0,0:0:0:55:loud1.wav
+64,192,12761,1,0,0:0:0:55:loud1.wav
+320,192,13511,128,0,14011:0:0:0:60:kick.wav
+192,192,14011,1,0,0:0:0:60:kick.wav
+448,192,14386,1,0,0:0:0:55:loud1.wav
+320,192,14761,1,0,0:0:0:55:loud1.wav
+192,192,15011,1,0,0:0:0:60:kick.wav
+64,192,15511,128,0,16011:0:0:0:60:kick.wav
+192,192,16011,1,0,0:0:0:60:kick.wav
+448,192,16386,1,0,0:0:0:55:loud1.wav
+448,192,16761,1,0,0:0:0:55:loud1.wav
+192,192,17511,128,0,18011:0:0:0:60:kick.wav
+320,192,18011,1,0,0:0:0:60:kick.wav
+64,192,18386,1,0,0:0:0:55:loud1.wav
+192,192,18761,1,0,0:0:0:55:loud1.wav
+448,192,19511,1,0,0:0:0:60:kick.wav
+320,192,20011,1,0,0:0:0:60:kick.wav
+64,192,20386,1,0,0:0:0:55:loud1.wav
+64,192,20761,1,0,0:0:0:55:loud1.wav
+320,192,21511,128,0,22011:0:0:0:60:kick.wav
+192,192,22011,1,0,0:0:0:60:kick.wav
+448,192,22386,1,0,0:0:0:55:loud1.wav
+320,192,22761,1,0,0:0:0:55:loud1.wav
+192,192,23011,1,0,0:0:0:60:kick.wav
+320,192,23511,1,0,0:0:0:30:snare.wav
+64,192,24011,128,0,26011:0:0:0:60:kick.wav
+448,192,26011,128,0,28011:0:0:0:60:kick.wav
+192,192,28011,128,0,30011:0:0:0:60:kick.wav
+320,192,30011,128,0,32011:0:0:0:60:kick.wav
+448,192,32011,128,0,32511:0:0:0:60:kick.wav
+192,192,32511,1,0,0:0:0:60:kick.wav
+320,192,33011,1,0,0:0:0:0:
+64,192,33761,1,0,0:0:0:30:snare.wav
+192,192,34011,128,0,34511:0:0:0:60:kick.wav
+320,192,34511,1,0,0:0:0:60:kick.wav
+64,192,35011,1,0,0:0:0:0:
+448,192,35761,1,0,0:0:0:30:snare.wav
+320,192,36011,128,0,36511:0:0:0:60:kick.wav
+192,192,36511,1,0,0:0:0:60:kick.wav
+448,192,37011,1,0,0:0:0:0:
+192,192,37761,1,0,0:0:0:30:snare.wav
+64,192,38011,128,0,38511:0:0:0:60:kick.wav
+320,192,38511,1,0,0:0:0:60:kick.wav
+448,192,39011,1,0,0:0:0:0:
+64,192,39761,1,0,0:0:0:70:tom02.wav
+192,192,40011,1,0,0:0:0:60:kick.wav
+64,192,42011,1,0,0:0:0:60:kick.wav
+448,192,42011,128,0,43511:0:0:0:70:finish.wav
+192,192,43511,1,0,0:0:0:60:kick.wav
+64,192,44011,128,0,45511:0:0:0:60:kick.wav
+320,192,44011,1,0,0:0:0:0:
+448,192,45511,1,0,0:0:0:60:kick.wav
+192,192,46011,1,0,0:0:0:60:kick.wav
+320,192,46011,128,0,47511:0:0:0:0:
+64,192,47511,1,0,0:0:0:60:kick.wav
+192,192,48011,128,0,49011:0:0:0:60:kick.wav
+448,192,48011,1,0,0:0:0:0:
+320,192,49011,1,0,0:0:0:60:kick.wav
+448,192,50011,128,0,50511:0:0:0:60:kick.wav
+320,192,50511,1,0,0:0:0:60:kick.wav
+64,192,51011,128,0,51511:0:0:0:60:kick.wav
+192,192,51511,1,0,0:0:0:60:kick.wav
+320,192,52011,128,0,52511:0:0:0:60:kick.wav
+448,192,52511,1,0,0:0:0:60:kick.wav
+192,192,53011,128,0,53511:0:0:0:60:kick.wav
+64,192,53511,1,0,0:0:0:60:kick.wav
+448,192,54011,128,0,54511:0:0:0:60:kick.wav
+320,192,54511,1,0,0:0:0:60:kick.wav
+64,192,55011,128,0,55511:0:0:0:60:kick.wav
+192,192,55511,1,0,0:0:0:60:kick.wav
+320,192,56011,128,0,56511:0:0:0:60:kick.wav
+192,192,56511,1,0,0:0:0:60:kick.wav
+64,192,57011,128,0,58011:0:0:0:60:kick.wav
+448,192,58011,128,0,58511:0:0:0:60:kick.wav
+320,192,58511,1,0,0:0:0:60:kick.wav
+64,192,59011,128,0,59511:0:0:0:60:kick.wav
+192,192,59511,1,0,0:0:0:60:kick.wav
+320,192,60011,128,0,60511:0:0:0:60:kick.wav
+448,192,60511,1,0,0:0:0:60:kick.wav
+192,192,61011,128,0,61511:0:0:0:60:kick.wav
+64,192,61511,1,0,0:0:0:60:kick.wav
+448,192,62011,128,0,62511:0:0:0:60:kick.wav
+320,192,62511,1,0,0:0:0:60:kick.wav
+64,192,63011,128,0,63511:0:0:0:60:kick.wav
+192,192,63511,1,0,0:0:0:60:kick.wav
+320,192,64011,128,0,64511:0:0:0:60:kick.wav
+192,192,64511,1,0,0:0:0:60:kick.wav
+448,192,65011,1,0,0:0:0:70:tom01.wav
+64,192,65511,1,0,0:0:0:30:snare.wav
+320,192,65761,1,0,0:0:0:30:snare.wav

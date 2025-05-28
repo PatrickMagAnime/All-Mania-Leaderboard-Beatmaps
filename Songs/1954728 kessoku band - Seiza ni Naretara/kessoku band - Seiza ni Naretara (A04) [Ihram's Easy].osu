@@ -1,0 +1,4933 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.ogg
+AudioLeadIn: 0
+PreviewTime: 68631
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+SamplesMatchPlaybackRate: 1
+
+[Editor]
+Bookmarks: 8941,16746,20649,36258,44063,53819,61624,66258,67234,68210,68576,69429,77234,82844,83819,85039,92844,97478,98454,100649,108454,116258,124063,126015,133819,138454,139429,140405,141624,149429,154063,155039,155771,157234,165039,169673,170649,171136,172844,180649,184307,186258,188454,196258,204063,204795,205771,206746,207478,221380,222355,223331,224550,230404,230892,231380,231867,232355,236258,236989,237965,239672,240160,247965
+DistanceSpacing: 1.2
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1.5
+
+[Metadata]
+Title:Seiza ni Naretara
+TitleUnicode:星座になれたら
+Artist:kessoku band
+ArtistUnicode:結束バンド
+Creator:A04
+Version:Ihram's Easy
+Source:ぼっち・ざ・ろっく！
+Tags:Ihram Ihram-San DenYi ML-ysg A04360436 AnatharaX Her LN Mapper release anime japanese j-pop jpop pop j-rock jrock rock svwc-70613 ANXX-01157 female vocalist vocals bocchi the rock! btr gotou ryou 後藤ひとり gotoh hitori 山田リョウ yamada ryo 伊地知虹夏 ijichi nijika 喜多郁代 kita ikuyo 長谷川 育美 hasegawa ikumi 水野 朔 mizuno saku 鈴代 紗弓 suzushiro sayumi 青山 吉能 aoyama yoshino Higuchi Ai 樋口爱 Naito Hidemasa 内藤英雅 mitsui ritsuo 三井律郎 第12話劇中曲  12th episode Insert Song aniplex sony music marketing united inc. If I could be a constellation
+BeatmapID:4052670
+BeatmapSetID:1954728
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+Sample,510,0,"Hi-Hat close.ogg",70
+Sample,1120,0,"Kick.ogg",70
+Sample,1120,0,"Hi-Hat open L.ogg",70
+Sample,1120,0,"35_C#1_123_239.ogg",100
+Sample,1120,0,"4 6 5 6 4 Dbmaj7 320.ogg",76
+Sample,1363,0,"35_C2_123_119.ogg",100
+Sample,1485,0,"35_C#2_123_119.ogg",100
+Sample,1729,0,"x x 15 80.ogg",100
+Sample,1729,0,"35_G#1_123_119.ogg",100
+Sample,1973,0,"x 14 80.ogg",100
+Sample,2095,0,"Kick.ogg",70
+Sample,2095,0,"Hi-Hat open L.ogg",70
+Sample,2095,0,"35_C1_123_119.ogg",100
+Sample,2095,0,"x 8 8 8 x 8 Cm7 Staccato 160.ogg",76
+Sample,2461,0,"Kick.ogg",70
+Sample,2461,0,"Hi-Hat open L.ogg",70
+Sample,2461,0,"35_B0_123_119.ogg",100
+Sample,2461,0,"x 7 7 7 x 7 Bm7 80.ogg",76
+Sample,2827,0,"Kick.ogg",70
+Sample,2827,0,"Hi-Hat open L.ogg",70
+Sample,2827,0,"35_A#0_123_119.ogg",100
+Sample,2827,0,"x 6 6 6 x 6 Bbm7 Staccato 160.ogg",76
+Sample,3233,0,"13 14 13 13 Dbadd9_Eb Arpeggio down 800.ogg",76
+Sample,3437,0,"35_A#1_123_239.ogg",100
+Sample,4046,0,"35_D#1_123_479.ogg",100
+Sample,4209,0,"Snare.ogg",70
+Sample,4372,0,"Kick.ogg",70
+Sample,4534,0,"35_D#0_123_479.ogg",100
+Sample,5022,0,"35_C#1_123_239.ogg",100
+Sample,5022,0,"4 6 5 6 4 Dbmaj7 320.ogg",76
+Sample,5022,0,"x x 13 Staccato 160.ogg",100
+Sample,5144,0,"Hi-Hat close.ogg",70
+Sample,5266,0,"Hi-Hat open.ogg",70
+Sample,5266,0,"35_C2_123_119.ogg",100
+Sample,5388,0,"35_C#2_123_119.ogg",100
+Sample,5510,0,"x x 13 80.ogg",100
+Sample,5632,0,"Hi-Hat close.ogg",70
+Sample,5632,0,"35_G#1_123_119.ogg",100
+Sample,5632,0,"x x 15 80.ogg",100
+Sample,5754,0,"x 13 80.ogg",100
+Sample,5876,0,"Hi-Hat close.ogg",70
+Sample,5876,0,"x 14 80.ogg",100
+Sample,5998,0,"Hi-Hat open L.ogg",70
+Sample,5998,0,"35_C1_123_119.ogg",100
+Sample,5998,0,"x 8 8 8 x 8 Cm7 Staccato 160.ogg",76
+Sample,5998,0,"x 13 Staccato 160.ogg",100
+Sample,6363,0,"Hi-Hat open L.ogg",70
+Sample,6363,0,"35_B0_123_119.ogg",100
+Sample,6363,0,"x 7 7 7 x 7 Bm7 80.ogg",76
+Sample,6363,0,"x x 13 80.ogg",100
+Sample,6729,0,"Hi-Hat open L.ogg",70
+Sample,6729,0,"35_A#0_123_119.ogg",100
+Sample,6729,0,"x 6 6 6 x 6 Bbm7 Staccato 160.ogg",76
+Sample,6729,0,"x x x 13 Staccato 160.ogg",100
+Sample,7217,0,"Hi-Hat close.ogg",70
+Sample,7217,0,"35_F2_123_119.ogg",100
+Sample,7339,0,"Hi-Hat close.ogg",70
+Sample,7339,0,"35_D#2_123_239.ogg",100
+Sample,7461,0,"Snare.ogg",70
+Sample,7583,0,"Hi-Hat close.ogg",70
+Sample,7583,0,"35_C2_123_119.ogg",100
+Sample,7705,0,"Hi-Hat close.ogg",70
+Sample,7827,0,"Snare.ogg",70
+Sample,7949,0,"Hi-Hat close.ogg",70
+Sample,7949,0,"35_D#1_123_119.ogg",100
+Sample,7949,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,8071,0,"Tom1.ogg",70
+Sample,8071,0,"35_F1_123_119.ogg",100
+Sample,8071,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,8193,0,"Tom2.ogg",70
+Sample,8193,0,"35_A#1_123_239.ogg",100
+Sample,8193,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,8315,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,8437,0,"Snare.ogg",70
+Sample,8437,0,"35_A1_123_479.ogg",100
+Sample,8437,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,8437,0,"x 13 13 13 Mute 80.ogg",100
+Sample,8559,0,"Snare.ogg",70
+Sample,8559,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,8559,0,"x 13 13 13 Mute 80.ogg",100
+Sample,8680,0,"Tom2.ogg",70
+Sample,8680,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,8680,0,"x 13 13 13 Mute 80.ogg",100
+Sample,8802,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,8802,0,"x 13 13 13 Mute 80.ogg",100
+Sample,8924,0,"35_C#1_123_239.ogg",100
+Sample,8924,0,"4 6 5 6 4 Dbmaj7 240.ogg",76
+Sample,8924,0,"x x 13 160.ogg",100
+Sample,9168,0,"Hi-Hat close.ogg",70
+Sample,9168,0,"35_C2_123_119.ogg",100
+Sample,9290,0,"Hi-Hat close.ogg",70
+Sample,9290,0,"35_C#2_123_119.ogg",100
+Sample,9290,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,9412,0,"Snare.ogg",70
+Sample,9412,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,9412,0,"x x 13 80.ogg",100
+Sample,9534,0,"Hi-Hat close.ogg",70
+Sample,9534,0,"35_G#1_123_119.ogg",100
+Sample,9534,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,9534,0,"x x 15 80.ogg",100
+Sample,9656,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,9656,0,"x 13 80.ogg",100
+Sample,9778,0,"Hi-Hat open.ogg",70
+Sample,9778,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,9778,0,"x 14 80.ogg",100
+Sample,9900,0,"Hi-Hat close.ogg",70
+Sample,9900,0,"35_C1_123_119.ogg",100
+Sample,9900,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,9900,0,"x 13 160.ogg",100
+Sample,10022,0,"Snare.ogg",70
+Sample,10144,0,"Hi-Hat close.ogg",70
+Sample,10144,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,10144,0,"x x 13 Mute 80.ogg",100
+Sample,10266,0,"35_B0_123_119.ogg",100
+Sample,10266,0,"x 7 7 7 x 7 Bm7 80.ogg",76
+Sample,10266,0,"x x 13 80.ogg",100
+Sample,10388,0,"Kick.ogg",70
+Sample,10388,0,"Snare.ogg",70
+Sample,10388,0,"x 7 7 7 x 7 Bm7 Mute 80.ogg",76
+Sample,10388,0,"x x 13 Mute 80.ogg",100
+Sample,10510,0,"Hi-Hat close.ogg",70
+Sample,10510,0,"x 7 7 7 x 7 Bm7 Mute 80.ogg",76
+Sample,10510,0,"x x 13 Mute 80.ogg",100
+Sample,10632,0,"35_A#0_123_119.ogg",100
+Sample,10632,0,"x 6 6 6 x 6 Bbm7 320.ogg",76
+Sample,10632,0,"x x 15 160.ogg",100
+Sample,10754,0,"Hi-Hat open.ogg",70
+Sample,10876,0,"Kick.ogg",70
+Sample,10876,0,"Hi-Hat close.ogg",70
+Sample,10876,0,"x x 15 160.ogg",100
+Sample,10998,0,"Hi-Hat close.ogg",70
+Sample,11119,0,"35_G#1_123_119.ogg",100
+Sample,11119,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,11119,0,"x x 15 80.ogg",100
+Sample,11241,0,"Hi-Hat close.ogg",70
+Sample,11241,0,"35_A#1_123_239.ogg",100
+Sample,11241,0,"x x 17 80.ogg",100
+Sample,11363,0,"Kick.ogg",70
+Sample,11363,0,"Snare.ogg",70
+Sample,11363,0,"x 6 6 6 x 6 Bbm7 320.ogg",76
+Sample,11363,0,"x x x 13 Mute 80.ogg",100
+Sample,11485,0,"Hi-Hat close.ogg",70
+Sample,11485,0,"35_F1_123_119.ogg",100
+Sample,11485,0,"x x x 13 Mute 80.ogg",100
+Sample,11607,0,"x x x 13 80.ogg",100
+Sample,11729,0,"Hi-Hat close.ogg",70
+Sample,11729,0,"x x x 15 80.ogg",100
+Sample,11851,0,"Kick.ogg",70
+Sample,11851,0,"Hi-Hat close.ogg",70
+Sample,11851,0,"35_D#1_123_239.ogg",100
+Sample,11851,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,11851,0,"x x 13 Mute 80.ogg",100
+Sample,11973,0,"x x 13 80.ogg",100
+Sample,12095,0,"Hi-Hat close.ogg",70
+Sample,12095,0,"35_A#0_123_239.ogg",100
+Sample,12095,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,12095,0,"x x x 15 Mute 80.ogg",100
+Sample,12217,0,"Hi-Hat close.ogg",70
+Sample,12217,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,12217,0,"x x x 15 80.ogg",100
+Sample,12339,0,"Snare.ogg",70
+Sample,12339,0,"35_D#0_123_479.ogg",100
+Sample,12339,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,12339,0,"x x 13 160.ogg",100
+Sample,12461,0,"Hi-Hat close.ogg",70
+Sample,12583,0,"Hi-Hat close.ogg",70
+Sample,12583,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,12583,0,"x x x 15 80.ogg",100
+Sample,12705,0,"Hi-Hat open.ogg",70
+Sample,12705,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,12705,0,"x x x 13 80.ogg",100
+Sample,12827,0,"Hi-Hat close.ogg",70
+Sample,12827,0,"35_C#1_123_239.ogg",100
+Sample,12827,0,"4 6 5 6 4 Dbmaj7 240.ogg",76
+Sample,12827,0,"x x 13 160.ogg",100
+Sample,12949,0,"Hi-Hat close.ogg",70
+Sample,13071,0,"Hi-Hat close.ogg",70
+Sample,13071,0,"35_C2_123_119.ogg",100
+Sample,13193,0,"Hi-Hat close.ogg",70
+Sample,13193,0,"35_C#2_123_119.ogg",100
+Sample,13193,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,13315,0,"Snare.ogg",70
+Sample,13315,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,13315,0,"x x 13 80.ogg",100
+Sample,13437,0,"Hi-Hat close.ogg",70
+Sample,13437,0,"35_G#1_123_119.ogg",100
+Sample,13437,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,13437,0,"x x 15 80.ogg",100
+Sample,13559,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,13559,0,"x 13 80.ogg",100
+Sample,13680,0,"Hi-Hat close.ogg",70
+Sample,13680,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,13680,0,"x 14 80.ogg",100
+Sample,13802,0,"Hi-Hat close.ogg",70
+Sample,13802,0,"35_C1_123_119.ogg",100
+Sample,13802,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,13802,0,"x 13 160.ogg",100
+Sample,13924,0,"Snare.ogg",70
+Sample,14046,0,"Hi-Hat close.ogg",70
+Sample,14046,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,14046,0,"x x 13 Mute 80.ogg",100
+Sample,14168,0,"x 7 7 7 x 7 Bm7 80.ogg",76
+Sample,14168,0,"x x 13 80.ogg",100
+Sample,14290,0,"Kick.ogg",70
+Sample,14290,0,"Snare.ogg",70
+Sample,14290,0,"x 7 7 7 x 7 Bm7 Mute 80.ogg",76
+Sample,14290,0,"x x 13 Mute 80.ogg",100
+Sample,14412,0,"Hi-Hat close.ogg",70
+Sample,14412,0,"x 7 7 7 x 7 Bm7 Mute 80.ogg",76
+Sample,14412,0,"x x 13 Mute 80.ogg",100
+Sample,14534,0,"35_A#0_123_119.ogg",100
+Sample,14534,0,"x 6 6 6 x 6 Bbm7 320.ogg",76
+Sample,14534,0,"x x x 13 80.ogg",100
+Sample,14656,0,"Hi-Hat open.ogg",70
+Sample,14656,0,"x x x 15 240.ogg",100
+Sample,14778,0,"Kick.ogg",70
+Sample,14778,0,"Hi-Hat close.ogg",70
+Sample,14900,0,"Hi-Hat close.ogg",70
+Sample,15022,0,"35_F2_123_119.ogg",100
+Sample,15022,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,15022,0,"x x x 13 160.ogg",100
+Sample,15144,0,"Hi-Hat close.ogg",70
+Sample,15144,0,"35_D#2_123_239.ogg",100
+Sample,15266,0,"Snare.ogg",70
+Sample,15266,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,15388,0,"Hi-Hat close.ogg",70
+Sample,15388,0,"35_C2_123_119.ogg",100
+Sample,15510,0,"x 6 6 6 x 6 Bbm7 Mute 80.ogg",76
+Sample,15510,0,"x 16 bend half 320.ogg",100
+Sample,15632,0,"Hi-Hat open.ogg",70
+Sample,15632,0,"x 6 6 6 x 6 Bbm7 Mute 80.ogg",76
+Sample,15754,0,"Kick.ogg",70
+Sample,15754,0,"Hi-Hat open.ogg",70
+Sample,15754,0,"35_A1_123_239.ogg",100
+Sample,15754,0,"x 5 6 6 x 5 Amaj7 160.ogg",76
+Sample,15998,0,"35_E1_123_239.ogg",100
+Sample,15998,0,"x 5 6 6 x 5 Amaj7 Mute 80.ogg",76
+Sample,15998,0,"x 16 160.ogg",100
+Sample,16119,0,"x 5 6 6 x 5 Amaj7 Mute 80.ogg",76
+Sample,16241,0,"Snare.ogg",70
+Sample,16241,0,"35_A1_123_479.ogg",100
+Sample,16241,0,"x 5 6 6 x 5 Amaj7 320.ogg",76
+Sample,16241,0,"x 14 160.ogg",100
+Sample,16363,0,"Snare.ogg",70
+Sample,16485,0,"Tom2.ogg",70
+Sample,16485,0,"x 14 160.ogg",100
+Sample,16729,0,"35_G#0_123_119.ogg",100
+Sample,16729,0,"x 4 5 5 x 4 Abmaj7 Arpeggio down 1280.ogg",76
+Sample,16729,0,"trill x 13 (14)  480.ogg",100
+Sample,16973,0,"Hi-Hat close.ogg",70
+Sample,16973,0,"35_G#0_123_239.ogg",100
+Sample,17095,0,"Hi-Hat close.ogg",70
+Sample,17217,0,"Snare.ogg",70
+Sample,17339,0,"Hi-Hat close.ogg",70
+Sample,17339,0,"35_G#0_123_119.ogg",100
+Sample,17461,0,"Hi-Hat close.ogg",70
+Sample,17461,0,"trill x 11 (13)  480.ogg",100
+Sample,17583,0,"Hi-Hat open.ogg",70
+Sample,17583,0,"35_G#0_123_119.ogg",100
+Sample,17705,0,"Hi-Hat close.ogg",70
+Sample,17705,0,"35_D#1_123_119.ogg",100
+Sample,17827,0,"Snare.ogg",70
+Sample,17827,0,"35_F1_123_119.ogg",100
+Sample,17949,0,"35_G#1_123_359.ogg",100
+Sample,17949,0,"Arp. x x x 5 160.ogg",76
+Sample,18071,0,"Hi-Hat close.ogg",70
+Sample,18193,0,"Snare.ogg",70
+Sample,18193,0,"Arp. x x 5 160.ogg",76
+Sample,18193,0,"trill x 9 (11)  480.ogg",100
+Sample,18315,0,"Hi-Hat close.ogg",70
+Sample,18315,0,"35_G#1_123_119.ogg",100
+Sample,18437,0,"Hi-Hat close.ogg",70
+Sample,18437,0,"35_D#1_123_239.ogg",100
+Sample,18437,0,"Arp. x x x 5 160.ogg",76
+Sample,18559,0,"Hi-Hat open.ogg",70
+Sample,18680,0,"Hi-Hat close.ogg",70
+Sample,18680,0,"35_G#0_123_119.ogg",100
+Sample,18680,0,"Arp. x 4 240.ogg",76
+Sample,18802,0,"Hi-Hat close.ogg",70
+Sample,18924,0,"Hi-Hat close.ogg",70
+Sample,18924,0,"35_G#0_123_119.ogg",100
+Sample,18924,0,"trill x 8 (9)  480.ogg",100
+Sample,19046,0,"Hi-Hat close.ogg",70
+Sample,19046,0,"35_G#0_123_119.ogg",100
+Sample,19046,0,"Arp. x x 5 240.ogg",76
+Sample,19168,0,"Snare.ogg",70
+Sample,19290,0,"Hi-Hat close.ogg",70
+Sample,19290,0,"35_G#0_123_119.ogg",100
+Sample,19412,0,"Hi-Hat close.ogg",70
+Sample,19412,0,"Arp. x x x 5 800.ogg",76
+Sample,19534,0,"Hi-Hat close.ogg",70
+Sample,19534,0,"35_G#0_123_119.ogg",100
+Sample,19656,0,"Hi-Hat close.ogg",70
+Sample,19656,0,"35_D#1_123_119.ogg",100
+Sample,19656,0,"x 4 640.ogg",100
+Sample,19778,0,"Hi-Hat close.ogg",70
+Sample,19778,0,"35_F1_123_119.ogg",100
+Sample,19900,0,"35_G#1_123_239.ogg",100
+Sample,20144,0,"Snare.ogg",70
+Sample,20144,0,"35_D#1_123_479.ogg",100
+Sample,20266,0,"Snare.ogg",70
+Sample,20388,0,"Tom2.ogg",70
+Sample,20632,0,"35_C#1_123_119.ogg",100
+Sample,20632,0,"4 6 5 6 4 Dbmaj7 240.ogg",76
+Sample,20876,0,"35_C#1_123_239.ogg",100
+Sample,20998,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,21241,0,"Hi-Hat close.ogg",70
+Sample,21241,0,"35_C#1_123_119.ogg",100
+Sample,21363,0,"Hi-Hat close.ogg",70
+Sample,21485,0,"Hi-Hat close.ogg",70
+Sample,21485,0,"35_C#1_123_119.ogg",100
+Sample,21607,0,"Hi-Hat close.ogg",70
+Sample,21729,0,"Hi-Hat close.ogg",70
+Sample,21729,0,"35_A#0_123_119.ogg",100
+Sample,21851,0,"Hi-Hat close.ogg",70
+Sample,21851,0,"35_C#1_123_239.ogg",100
+Sample,21851,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,21973,0,"Hi-Hat close.ogg",70
+Sample,21973,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,22095,0,"35_G#0_123_119.ogg",100
+Sample,22095,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,22217,0,"Hi-Hat close.ogg",70
+Sample,22217,0,"35_A#0_123_119.ogg",100
+Sample,22217,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,22339,0,"35_C#1_123_239.ogg",100
+Sample,22339,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,22461,0,"Hi-Hat open.ogg",70
+Sample,22461,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,22583,0,"Hi-Hat close.ogg",70
+Sample,22583,0,"35_D#1_123_119.ogg",100
+Sample,22583,0,"6 6 6 6 6 Db6add9_Eb 240.ogg",76
+Sample,22705,0,"Hi-Hat close.ogg",70
+Sample,22827,0,"Hi-Hat close.ogg",70
+Sample,22827,0,"35_D#1_123_239.ogg",100
+Sample,22949,0,"Hi-Hat close.ogg",70
+Sample,22949,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,23193,0,"Hi-Hat close.ogg",70
+Sample,23193,0,"35_D#1_123_119.ogg",100
+Sample,23315,0,"Hi-Hat close.ogg",70
+Sample,23437,0,"Hi-Hat close.ogg",70
+Sample,23437,0,"35_D#1_123_119.ogg",100
+Sample,23559,0,"Hi-Hat close.ogg",70
+Sample,23680,0,"Snare.ogg",70
+Sample,23680,0,"35_A#0_123_119.ogg",100
+Sample,23802,0,"Hi-Hat close.ogg",70
+Sample,23802,0,"35_C1_123_239.ogg",100
+Sample,23924,0,"Hi-Hat close.ogg",70
+Sample,24046,0,"35_D#1_123_239.ogg",100
+Sample,24168,0,"Hi-Hat close.ogg",70
+Sample,24290,0,"35_A#0_123_239.ogg",100
+Sample,24290,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,24412,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,24534,0,"Hi-Hat close.ogg",70
+Sample,24534,0,"35_C1_123_119.ogg",100
+Sample,24534,0,"x 8 8 8 x 8 Cm7 240.ogg",76
+Sample,24656,0,"Hi-Hat close.ogg",70
+Sample,24778,0,"Hi-Hat close.ogg",70
+Sample,24778,0,"35_C1_123_239.ogg",100
+Sample,24900,0,"Hi-Hat close.ogg",70
+Sample,24900,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,25144,0,"Hi-Hat close.ogg",70
+Sample,25144,0,"35_C1_123_119.ogg",100
+Sample,25266,0,"Hi-Hat close.ogg",70
+Sample,25388,0,"Hi-Hat open.ogg",70
+Sample,25388,0,"35_C1_123_119.ogg",100
+Sample,25510,0,"Hi-Hat close.ogg",70
+Sample,25632,0,"Hi-Hat close.ogg",70
+Sample,25754,0,"Hi-Hat close.ogg",70
+Sample,25754,0,"35_C1_123_239.ogg",100
+Sample,25754,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,25876,0,"Hi-Hat close.ogg",70
+Sample,25876,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,25998,0,"35_G1_123_239.ogg",100
+Sample,25998,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,26119,0,"Hi-Hat close.ogg",70
+Sample,26119,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,26241,0,"35_F#1_123_239.ogg",100
+Sample,26241,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,26363,0,"Hi-Hat close.ogg",70
+Sample,26363,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,26485,0,"Hi-Hat close.ogg",70
+Sample,26485,0,"35_F1_123_119.ogg",100
+Sample,26485,0,"8 9 8 10 8 Fm7 240.ogg",76
+Sample,26607,0,"Hi-Hat close.ogg",70
+Sample,26729,0,"Hi-Hat close.ogg",70
+Sample,26729,0,"35_F1_123_239.ogg",100
+Sample,26851,0,"Hi-Hat close.ogg",70
+Sample,26851,0,"8 9 8 10 8 Fm7 80.ogg",76
+Sample,27095,0,"Hi-Hat close.ogg",70
+Sample,27095,0,"35_F0_123_119.ogg",100
+Sample,27217,0,"Hi-Hat close.ogg",70
+Sample,27339,0,"Hi-Hat close.ogg",70
+Sample,27339,0,"35_F0_123_119.ogg",100
+Sample,27461,0,"Hi-Hat close.ogg",70
+Sample,27583,0,"Snare.ogg",70
+Sample,27705,0,"Hi-Hat close.ogg",70
+Sample,27705,0,"35_G0_123_239.ogg",100
+Sample,27827,0,"Hi-Hat close.ogg",70
+Sample,27949,0,"35_G#0_123_239.ogg",100
+Sample,28071,0,"Hi-Hat close.ogg",70
+Sample,28193,0,"35_C1_123_239.ogg",100
+Sample,28193,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,28315,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,28437,0,"Hi-Hat close.ogg",70
+Sample,28437,0,"35_C#1_123_119.ogg",100
+Sample,28437,0,"4 6 5 6 4 Dbmaj7 240.ogg",76
+Sample,28559,0,"Hi-Hat close.ogg",70
+Sample,28680,0,"Hi-Hat close.ogg",70
+Sample,28680,0,"35_C#1_123_239.ogg",100
+Sample,28802,0,"Hi-Hat close.ogg",70
+Sample,28802,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,29046,0,"Hi-Hat close.ogg",70
+Sample,29046,0,"35_C#1_123_119.ogg",100
+Sample,29168,0,"Hi-Hat close.ogg",70
+Sample,29290,0,"Hi-Hat open.ogg",70
+Sample,29290,0,"35_C#1_123_119.ogg",100
+Sample,29412,0,"Hi-Hat close.ogg",70
+Sample,29534,0,"Hi-Hat close.ogg",70
+Sample,29534,0,"35_A#0_123_119.ogg",100
+Sample,29656,0,"Hi-Hat close.ogg",70
+Sample,29656,0,"35_C#1_123_239.ogg",100
+Sample,29656,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,29778,0,"Hi-Hat close.ogg",70
+Sample,29778,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,29900,0,"35_G#0_123_119.ogg",100
+Sample,29900,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,30022,0,"Hi-Hat close.ogg",70
+Sample,30022,0,"35_A#0_123_119.ogg",100
+Sample,30022,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,30144,0,"35_C#1_123_239.ogg",100
+Sample,30144,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,30266,0,"Hi-Hat open.ogg",70
+Sample,30266,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,30388,0,"Hi-Hat close.ogg",70
+Sample,30388,0,"35_D#1_123_119.ogg",100
+Sample,30388,0,"6 6 6 6 6 Db6add9_Eb 240.ogg",76
+Sample,30510,0,"Hi-Hat close.ogg",70
+Sample,30632,0,"Hi-Hat close.ogg",70
+Sample,30632,0,"35_D#1_123_239.ogg",100
+Sample,30754,0,"Hi-Hat close.ogg",70
+Sample,30754,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,30998,0,"Hi-Hat close.ogg",70
+Sample,30998,0,"35_D#1_123_119.ogg",100
+Sample,31119,0,"Hi-Hat close.ogg",70
+Sample,31241,0,"Hi-Hat close.ogg",70
+Sample,31241,0,"35_D#1_123_119.ogg",100
+Sample,31363,0,"Hi-Hat close.ogg",70
+Sample,31485,0,"Snare.ogg",70
+Sample,31485,0,"35_A#0_123_119.ogg",100
+Sample,31607,0,"Hi-Hat close.ogg",70
+Sample,31607,0,"35_C1_123_239.ogg",100
+Sample,31729,0,"Hi-Hat close.ogg",70
+Sample,31851,0,"35_D#1_123_239.ogg",100
+Sample,31973,0,"Hi-Hat close.ogg",70
+Sample,32095,0,"35_A#0_123_239.ogg",100
+Sample,32095,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,32217,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,32339,0,"Hi-Hat close.ogg",70
+Sample,32339,0,"35_C1_123_119.ogg",100
+Sample,32339,0,"x 8 8 8 x 8 Cm7 240.ogg",76
+Sample,32461,0,"Hi-Hat close.ogg",70
+Sample,32583,0,"Hi-Hat close.ogg",70
+Sample,32583,0,"35_C1_123_239.ogg",100
+Sample,32705,0,"Hi-Hat close.ogg",70
+Sample,32705,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,32949,0,"Hi-Hat close.ogg",70
+Sample,32949,0,"35_C1_123_119.ogg",100
+Sample,33071,0,"Hi-Hat close.ogg",70
+Sample,33193,0,"Hi-Hat open.ogg",70
+Sample,33193,0,"35_C1_123_119.ogg",100
+Sample,33315,0,"Hi-Hat close.ogg",70
+Sample,33437,0,"Hi-Hat close.ogg",70
+Sample,33559,0,"Hi-Hat open.ogg",70
+Sample,33559,0,"35_C1_123_239.ogg",100
+Sample,33559,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,33680,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,33802,0,"35_G1_123_239.ogg",100
+Sample,33802,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,33924,0,"Hi-Hat close.ogg",70
+Sample,33924,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,34046,0,"35_F#1_123_239.ogg",100
+Sample,34046,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,34168,0,"Hi-Hat close.ogg",70
+Sample,34168,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,34290,0,"Hi-Hat open.ogg",70
+Sample,34290,0,"35_F1_123_119.ogg",100
+Sample,34290,0,"8 9 8 10 8 Fm7 240.ogg",76
+Sample,34534,0,"Hi-Hat open L.ogg",70
+Sample,34534,0,"35_F1_123_239.ogg",100
+Sample,34656,0,"Snare.ogg",70
+Sample,34656,0,"8 9 8 10 8 Fm7 80.ogg",76
+Sample,34900,0,"Kick.ogg",70
+Sample,34900,0,"Hi-Hat open L.ogg",70
+Sample,34900,0,"35_F0_123_119.ogg",100
+Sample,35144,0,"Hi-Hat open L.ogg",70
+Sample,35144,0,"35_F0_123_119.ogg",100
+Sample,35388,0,"Snare.ogg",70
+Sample,35510,0,"Hi-Hat open L.ogg",70
+Sample,35510,0,"35_G0_123_239.ogg",100
+Sample,35754,0,"35_G#0_123_239.ogg",100
+Sample,35998,0,"Hi-Hat close.ogg",70
+Sample,35998,0,"35_C1_123_239.ogg",100
+Sample,35998,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,36119,0,"Hi-Hat close.ogg",70
+Sample,36119,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,36119,0,"x x 13 80.ogg",100
+Sample,36241,0,"35_C#1_123_119.ogg",100
+Sample,36241,0,"4 6 5 6 4 Dbmaj7 240.ogg",76
+Sample,36363,0,"x x 13 80.ogg",100
+Sample,36485,0,"35_C#1_123_239.ogg",100
+Sample,36607,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,36607,0,"x x 13 80.ogg",100
+Sample,36729,0,"x x 13 80.ogg",100
+Sample,36851,0,"Hi-Hat close.ogg",70
+Sample,36851,0,"35_C#1_123_119.ogg",100
+Sample,36851,0,"x x 13 80.ogg",100
+Sample,36973,0,"Hi-Hat close.ogg",70
+Sample,36973,0,"x x x 15 80.ogg",100
+Sample,37095,0,"Hi-Hat open.ogg",70
+Sample,37095,0,"35_C#1_123_119.ogg",100
+Sample,37095,0,"x x x 13 80.ogg",100
+Sample,37217,0,"Hi-Hat close.ogg",70
+Sample,37217,0,"x x 13 Staccato 160.ogg",100
+Sample,37339,0,"Hi-Hat close.ogg",70
+Sample,37461,0,"Hi-Hat open.ogg",70
+Sample,37461,0,"35_C#1_123_239.ogg",100
+Sample,37461,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,37461,0,"x x 15 80.ogg",100
+Sample,37583,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,37583,0,"x x 13 80.ogg",100
+Sample,37705,0,"35_G#1_123_239.ogg",100
+Sample,37705,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,37827,0,"Hi-Hat close.ogg",70
+Sample,37827,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,37949,0,"Hi-Hat close.ogg",70
+Sample,37949,0,"35_F1_123_239.ogg",100
+Sample,37949,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,38071,0,"Hi-Hat open.ogg",70
+Sample,38071,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,38193,0,"Hi-Hat close.ogg",70
+Sample,38193,0,"35_D#1_123_119.ogg",100
+Sample,38193,0,"6 6 6 6 6 Db6add9_Eb 240.ogg",76
+Sample,38315,0,"Hi-Hat close.ogg",70
+Sample,38437,0,"Hi-Hat open.ogg",70
+Sample,38437,0,"35_D#1_123_239.ogg",100
+Sample,38559,0,"Hi-Hat close.ogg",70
+Sample,38559,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,38802,0,"Hi-Hat close.ogg",70
+Sample,38802,0,"35_A#1_123_59.ogg",100
+Sample,38863,0,"35_C2_123_59.ogg",100
+Sample,38924,0,"Hi-Hat close.ogg",70
+Sample,39046,0,"Hi-Hat close.ogg",70
+Sample,39046,0,"35_A#1_123_119.ogg",100
+Sample,39168,0,"Hi-Hat close.ogg",70
+Sample,39290,0,"Snare.ogg",70
+Sample,39412,0,"Hi-Hat close.ogg",70
+Sample,39412,0,"35_D#1_123_239.ogg",100
+Sample,39534,0,"Hi-Hat close.ogg",70
+Sample,39656,0,"35_D#1_123_239.ogg",100
+Sample,39778,0,"Hi-Hat close.ogg",70
+Sample,39900,0,"35_C#1_123_239.ogg",100
+Sample,39900,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,40022,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,40022,0,"x x 12 80.ogg",100
+Sample,40144,0,"Hi-Hat close.ogg",70
+Sample,40144,0,"35_C1_123_119.ogg",100
+Sample,40144,0,"x 8 8 8 x 8 Cm7 240.ogg",76
+Sample,40266,0,"Hi-Hat close.ogg",70
+Sample,40266,0,"x x 12 80.ogg",100
+Sample,40388,0,"Hi-Hat close.ogg",70
+Sample,40388,0,"35_C1_123_239.ogg",100
+Sample,40510,0,"Hi-Hat close.ogg",70
+Sample,40510,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,40510,0,"x x 12 80.ogg",100
+Sample,40632,0,"x x 12 80.ogg",100
+Sample,40754,0,"Hi-Hat close.ogg",70
+Sample,40754,0,"35_C1_123_119.ogg",100
+Sample,40754,0,"x x 12 80.ogg",100
+Sample,40876,0,"Hi-Hat close.ogg",70
+Sample,40876,0,"x x x 13 80.ogg",100
+Sample,40998,0,"Hi-Hat open.ogg",70
+Sample,40998,0,"35_C1_123_119.ogg",100
+Sample,40998,0,"x x x x 15 80.ogg",100
+Sample,41119,0,"Hi-Hat close.ogg",70
+Sample,41119,0,"x x x 13 Staccato 160.ogg",70
+Sample,41241,0,"Hi-Hat close.ogg",70
+Sample,41363,0,"Hi-Hat open.ogg",70
+Sample,41363,0,"35_G0_123_119.ogg",100
+Sample,41363,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,41363,0,"x x x 15 80.ogg",70
+Sample,41485,0,"Hi-Hat close.ogg",70
+Sample,41485,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,41485,0,"x x x 13 80.ogg",70
+Sample,41607,0,"35_C1_123_239.ogg",100
+Sample,41607,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,41729,0,"Hi-Hat close.ogg",70
+Sample,41729,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,41851,0,"Hi-Hat open.ogg",70
+Sample,41851,0,"35_G0_123_239.ogg",100
+Sample,41851,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,41973,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,42095,0,"Hi-Hat close.ogg",70
+Sample,42095,0,"35_F0_123_119.ogg",100
+Sample,42095,0,"8 9 8 10 8 Fm7 240.ogg",76
+Sample,42217,0,"Hi-Hat close.ogg",70
+Sample,42339,0,"Hi-Hat close.ogg",70
+Sample,42339,0,"35_F0_123_239.ogg",100
+Sample,42461,0,"Hi-Hat close.ogg",70
+Sample,42461,0,"8 9 8 10 8 Fm7 80.ogg",76
+Sample,42705,0,"Hi-Hat close.ogg",70
+Sample,42705,0,"35_F0_123_119.ogg",100
+Sample,42827,0,"Hi-Hat close.ogg",70
+Sample,42949,0,"Hi-Hat open.ogg",70
+Sample,42949,0,"35_F0_123_239.ogg",100
+Sample,43071,0,"Hi-Hat close.ogg",70
+Sample,43071,0,"x 9 8 Mute 80.ogg",76
+Sample,43193,0,"Snare.ogg",70
+Sample,43193,0,"35_G0_123_359.ogg",100
+Sample,43193,0,"x 9 8 Mute 80.ogg",76
+Sample,43315,0,"Hi-Hat close.ogg",70
+Sample,43315,0,"x 9 8 80.ogg",76
+Sample,43437,0,"Hi-Hat close.ogg",70
+Sample,43437,0,"x 11 10 80.ogg",76
+Sample,43559,0,"35_G#0_123_239.ogg",100
+Sample,43559,0,"x 9 8 160.ogg",76
+Sample,43802,0,"35_C1_123_239.ogg",100
+Sample,43802,0,"x 9 8 Mute 80.ogg",76
+Sample,43924,0,"Snare.ogg",70
+Sample,43924,0,"x 9 8 Mute 80.ogg",76
+Sample,43924,0,"x x 13 80.ogg",100
+Sample,44046,0,"35_C#1_123_119.ogg",100
+Sample,44046,0,"4 6 5 6 4 Dbmaj7 240.ogg",76
+Sample,44168,0,"x x 13 80.ogg",100
+Sample,44290,0,"35_C#1_123_239.ogg",100
+Sample,44412,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,44412,0,"x x 13 80.ogg",100
+Sample,44534,0,"x x 13 80.ogg",100
+Sample,44656,0,"Hi-Hat close.ogg",70
+Sample,44656,0,"35_C#1_123_119.ogg",100
+Sample,44656,0,"x x 13 80.ogg",100
+Sample,44778,0,"Hi-Hat close.ogg",70
+Sample,44778,0,"x x x 15 80.ogg",100
+Sample,44900,0,"Hi-Hat close.ogg",70
+Sample,44900,0,"35_C#1_123_119.ogg",100
+Sample,44900,0,"x x x 13 80.ogg",100
+Sample,45022,0,"Hi-Hat close.ogg",70
+Sample,45022,0,"35_C#1_123_239.ogg",100
+Sample,45022,0,"x x 13 Staccato 160.ogg",100
+Sample,45144,0,"Hi-Hat close.ogg",70
+Sample,45266,0,"Hi-Hat open.ogg",70
+Sample,45266,0,"35_A#1_123_239.ogg",100
+Sample,45266,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,45266,0,"x x 15 80.ogg",100
+Sample,45388,0,"Hi-Hat close.ogg",70
+Sample,45388,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,45388,0,"x x 13 80.ogg",100
+Sample,45510,0,"35_G#1_123_239.ogg",100
+Sample,45510,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,45632,0,"Hi-Hat close.ogg",70
+Sample,45632,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,45754,0,"Hi-Hat close.ogg",70
+Sample,45754,0,"35_F1_123_239.ogg",100
+Sample,45754,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,45876,0,"Hi-Hat close.ogg",70
+Sample,45876,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,45998,0,"Hi-Hat close.ogg",70
+Sample,45998,0,"35_D#1_123_119.ogg",100
+Sample,45998,0,"6 6 6 6 6 Db6add9_Eb 240.ogg",76
+Sample,46119,0,"Hi-Hat close.ogg",70
+Sample,46241,0,"Hi-Hat close.ogg",70
+Sample,46241,0,"35_D#1_123_239.ogg",100
+Sample,46363,0,"Hi-Hat close.ogg",70
+Sample,46363,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,46607,0,"Hi-Hat close.ogg",70
+Sample,46607,0,"35_D#1_123_119.ogg",100
+Sample,46729,0,"Hi-Hat close.ogg",70
+Sample,46851,0,"Hi-Hat open.ogg",70
+Sample,46851,0,"35_D#1_123_119.ogg",100
+Sample,46973,0,"Hi-Hat close.ogg",70
+Sample,46973,0,"35_D#1_123_239.ogg",100
+Sample,47095,0,"Snare.ogg",70
+Sample,47217,0,"Hi-Hat close.ogg",70
+Sample,47217,0,"35_C2_123_239.ogg",100
+Sample,47339,0,"Hi-Hat close.ogg",70
+Sample,47461,0,"Hi-Hat close.ogg",70
+Sample,47461,0,"35_A#1_123_239.ogg",100
+Sample,47583,0,"Hi-Hat close.ogg",70
+Sample,47705,0,"35_F1_123_239.ogg",100
+Sample,47705,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,47827,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,47827,0,"x x 12 80.ogg",100
+Sample,47949,0,"Hi-Hat close.ogg",70
+Sample,47949,0,"35_C1_123_119.ogg",100
+Sample,47949,0,"x 8 8 8 x 8 Cm7 240.ogg",76
+Sample,48071,0,"Hi-Hat close.ogg",70
+Sample,48071,0,"x x 12 80.ogg",100
+Sample,48193,0,"Hi-Hat close.ogg",70
+Sample,48193,0,"35_C1_123_239.ogg",100
+Sample,48315,0,"Hi-Hat close.ogg",70
+Sample,48315,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,48315,0,"x x 12 80.ogg",100
+Sample,48437,0,"x x 12 80.ogg",100
+Sample,48559,0,"Hi-Hat close.ogg",70
+Sample,48559,0,"35_A#1_123_59.ogg",100
+Sample,48559,0,"x x 12 80.ogg",100
+Sample,48619,0,"35_C2_123_59.ogg",100
+Sample,48680,0,"Hi-Hat open.ogg",70
+Sample,48680,0,"x x x 13 80.ogg",100
+Sample,48802,0,"35_A#1_123_359.ogg",100
+Sample,48802,0,"x x x x 15 80.ogg",100
+Sample,48924,0,"Hi-Hat close.ogg",70
+Sample,48924,0,"x x x 13 Staccato 160.ogg",70
+Sample,49168,0,"Hi-Hat open L.ogg",70
+Sample,49168,0,"35_G1_123_239.ogg",100
+Sample,49168,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,49168,0,"x x x 15 80.ogg",70
+Sample,49290,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,49290,0,"x x x 13 80.ogg",70
+Sample,49412,0,"35_C1_123_239.ogg",100
+Sample,49412,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,49534,0,"Hi-Hat close.ogg",70
+Sample,49534,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,49656,0,"35_D1_123_239.ogg",100
+Sample,49656,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,49778,0,"Hi-Hat open.ogg",70
+Sample,49778,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,49900,0,"Hi-Hat close.ogg",70
+Sample,49900,0,"35_F0_123_239.ogg",100
+Sample,49900,0,"8 9 8 10 8 Fm7 1280.ogg",76
+Sample,50022,0,"Hi-Hat close.ogg",70
+Sample,50144,0,"Hi-Hat close.ogg",70
+Sample,50144,0,"35_F1_123_239.ogg",100
+Sample,50144,0,"15 16 160.ogg",100
+Sample,50266,0,"Hi-Hat close.ogg",70
+Sample,50388,0,"35_G0_123_239.ogg",100
+Sample,50510,0,"Hi-Hat close.ogg",70
+Sample,50632,0,"Hi-Hat close.ogg",70
+Sample,50632,0,"35_G1_123_239.ogg",100
+Sample,50632,0,"Arp. 8 320.ogg",76
+Sample,50632,0,"11 13 160.ogg",100
+Sample,50754,0,"Hi-Hat close.ogg",70
+Sample,50876,0,"Hi-Hat close.ogg",70
+Sample,50876,0,"35_G#0_123_239.ogg",100
+Sample,50998,0,"Snare.ogg",70
+Sample,51119,0,"Hi-Hat close.ogg",70
+Sample,51119,0,"35_G#1_123_239.ogg",100
+Sample,51119,0,"Arp. x 9 160.ogg",76
+Sample,51119,0,"8 9 160.ogg",100
+Sample,51241,0,"Hi-Hat close.ogg",70
+Sample,51363,0,"35_C1_123_239.ogg",100
+Sample,51363,0,"Arp. x x 8 160.ogg",76
+Sample,51485,0,"Hi-Hat close.ogg",70
+Sample,51607,0,"35_C2_123_239.ogg",100
+Sample,51607,0,"Arp. x x x 10 160.ogg",76
+Sample,51607,0,"8 80.ogg",100
+Sample,51729,0,"9 80.ogg",100
+Sample,51851,0,"Hi-Hat close.ogg",70
+Sample,51851,0,"35_G#0_123_239.ogg",100
+Sample,51851,0,"Arp. x x x x 3 160-2.ogg",76
+Sample,51851,0,"8 80.ogg",100
+Sample,51973,0,"Hi-Hat close.ogg",70
+Sample,51973,0,"x 9 80.ogg",100
+Sample,52095,0,"Hi-Hat close.ogg",70
+Sample,52095,0,"35_D#1_123_239.ogg",100
+Sample,52095,0,"Arp. x x x 5 160.ogg",76
+Sample,52095,0,"x x 8 Staccato 160.ogg",100
+Sample,52217,0,"Hi-Hat close.ogg",70
+Sample,52339,0,"35_G#1_123_239.ogg",100
+Sample,52339,0,"Arp. x x 5 160.ogg",76
+Sample,52339,0,"x x 5 80.ogg",100
+Sample,52461,0,"Hi-Hat close.ogg",70
+Sample,52461,0,"x x 6 80.ogg",100
+Sample,52583,0,"Hi-Hat close.ogg",70
+Sample,52583,0,"35_G#1_123_239.ogg",100
+Sample,52583,0,"Arp. x 4 800.ogg",76
+Sample,52583,0,"x x 5 800.ogg",100
+Sample,52705,0,"Snare.ogg",70
+Sample,52827,0,"Hi-Hat close.ogg",70
+Sample,52827,0,"35_A#1_123_239.ogg",100
+Sample,52949,0,"Snare.ogg",70
+Sample,53071,0,"Tom2.ogg",70
+Sample,53071,0,"35_G#1_123_239.ogg",100
+Sample,53193,0,"Tom4.ogg",70
+Sample,53315,0,"35_A#0_123_479.ogg",100
+Sample,53437,0,"Tom2.ogg",70
+Sample,53559,0,"Tom4.ogg",70
+Sample,53680,0,"Tom4.ogg",70
+Sample,53802,0,"35_A#0_123_119.ogg",100
+Sample,53802,0,"x 6 6 6 x 6 Bbm7 1280.ogg",76
+Sample,53802,0,"x x x x 13 80.ogg",100
+Sample,53924,0,"x x x x 15 80.ogg",100
+Sample,54046,0,"35_A#0_123_479.ogg",100
+Sample,54046,0,"x x x 13 80.ogg",100
+Sample,54168,0,"x x x 15 80.ogg",100
+Sample,54290,0,"Hi-Hat close.ogg",70
+Sample,54290,0,"x x 13 80.ogg",100
+Sample,54412,0,"x x 15 80.ogg",100
+Sample,54534,0,"Hi-Hat close.ogg",70
+Sample,54534,0,"35_A#0_123_119.ogg",100
+Sample,54534,0,"x 13 80.ogg",100
+Sample,54656,0,"35_A#0_123_119.ogg",100
+Sample,54656,0,"x 14 80.ogg",100
+Sample,54778,0,"Hi-Hat close.ogg",70
+Sample,54778,0,"x 13 80.ogg",100
+Sample,54900,0,"Snare.ogg",70
+Sample,54900,0,"35_G#0_123_119.ogg",100
+Sample,54900,0,"x x 15 80.ogg",100
+Sample,55022,0,"Hi-Hat close.ogg",70
+Sample,55022,0,"35_A#0_123_239.ogg",100
+Sample,55022,0,"x x 13 80.ogg",100
+Sample,55144,0,"x x x 15 80.ogg",100
+Sample,55266,0,"Hi-Hat close.ogg",70
+Sample,55266,0,"35_A#0_123_479.ogg",100
+Sample,55266,0,"x x x 13 80.ogg",100
+Sample,55388,0,"x x x x 15 80.ogg",100
+Sample,55510,0,"x x x x 13 80.ogg",100
+Sample,55632,0,"x x x x 11 80.ogg",100
+Sample,55754,0,"Hi-Hat close.ogg",70
+Sample,55754,0,"35_C1_123_119.ogg",100
+Sample,55754,0,"Arp. x x x x 3 160-2.ogg",76
+Sample,55754,0,"x x x x 13 80.ogg",100
+Sample,55876,0,"x x x x 15 80.ogg",100
+Sample,55998,0,"Hi-Hat close.ogg",70
+Sample,55998,0,"35_C1_123_479.ogg",100
+Sample,55998,0,"Arp. x x x 5 160.ogg",76
+Sample,55998,0,"x x x 13 80.ogg",100
+Sample,56119,0,"x x x 15 80.ogg",100
+Sample,56241,0,"Hi-Hat close.ogg",70
+Sample,56241,0,"Arp. x x 3 160-2.ogg",76
+Sample,56241,0,"x x 13 80.ogg",100
+Sample,56363,0,"x x 15 80.ogg",100
+Sample,56485,0,"Hi-Hat close.ogg",70
+Sample,56485,0,"35_C1_123_119.ogg",100
+Sample,56485,0,"Arp. x 4 800.ogg",76
+Sample,56485,0,"x 13 80.ogg",100
+Sample,56607,0,"35_C1_123_119.ogg",100
+Sample,56607,0,"x 16 80.ogg",100
+Sample,56729,0,"Hi-Hat close.ogg",70
+Sample,56729,0,"x 13 80.ogg",100
+Sample,56851,0,"Snare.ogg",70
+Sample,56851,0,"35_C1_123_119.ogg",100
+Sample,56851,0,"x x 15 80.ogg",100
+Sample,56973,0,"Hi-Hat close.ogg",70
+Sample,56973,0,"35_G#1_123_239.ogg",100
+Sample,56973,0,"x x 13 80.ogg",100
+Sample,57095,0,"x x x 15 80.ogg",100
+Sample,57217,0,"Hi-Hat close.ogg",70
+Sample,57217,0,"35_G1_123_239.ogg",100
+Sample,57217,0,"x x x 13 80.ogg",100
+Sample,57339,0,"x x x x 15 80.ogg",100
+Sample,57461,0,"35_G#1_123_239.ogg",100
+Sample,57461,0,"x x x x 13 80.ogg",100
+Sample,57583,0,"x x x x 11 80.ogg",100
+Sample,57705,0,"Hi-Hat close.ogg",70
+Sample,57705,0,"35_C#1_123_119.ogg",100
+Sample,57705,0,"4 6 5 6 4 Dbmaj7 1280.ogg",76
+Sample,57705,0,"x x x x 13 80.ogg",100
+Sample,57827,0,"x x x x 15 80.ogg",100
+Sample,57949,0,"Hi-Hat close.ogg",70
+Sample,57949,0,"35_C#1_123_479.ogg",100
+Sample,57949,0,"x x x 13 80.ogg",100
+Sample,58071,0,"x x x 15 80.ogg",100
+Sample,58193,0,"Hi-Hat close.ogg",70
+Sample,58193,0,"x x 13 80.ogg",100
+Sample,58315,0,"x x 15 80.ogg",100
+Sample,58437,0,"Hi-Hat close.ogg",70
+Sample,58437,0,"35_C#1_123_119.ogg",100
+Sample,58437,0,"x 13 80.ogg",100
+Sample,58559,0,"35_C#1_123_119.ogg",100
+Sample,58559,0,"x 14 80.ogg",100
+Sample,58680,0,"Hi-Hat close.ogg",70
+Sample,58680,0,"x 13 80.ogg",100
+Sample,58802,0,"Snare.ogg",70
+Sample,58802,0,"35_G#0_123_119.ogg",100
+Sample,58802,0,"x x 15 80.ogg",100
+Sample,58924,0,"Hi-Hat close.ogg",70
+Sample,58924,0,"35_C#1_123_239.ogg",100
+Sample,58924,0,"x x 13 80.ogg",100
+Sample,59046,0,"x x x 15 80.ogg",100
+Sample,59168,0,"Hi-Hat close.ogg",70
+Sample,59168,0,"35_C#1_123_239.ogg",100
+Sample,59168,0,"x x x 13 80.ogg",100
+Sample,59290,0,"x x x x 15 80.ogg",100
+Sample,59412,0,"35_C#1_123_239.ogg",100
+Sample,59412,0,"x x x x 13 80.ogg",100
+Sample,59534,0,"x x x x 11 80.ogg",100
+Sample,59656,0,"Hi-Hat close.ogg",70
+Sample,59656,0,"35_G#0_123_239.ogg",100
+Sample,59656,0,"Arp. x x x x x 4 160.ogg",76
+Sample,59656,0,"x x x x 13 80.ogg",100
+Sample,59778,0,"x x x x 15 80.ogg",100
+Sample,59900,0,"Hi-Hat close.ogg",70
+Sample,59900,0,"35_D#1_123_239.ogg",100
+Sample,59900,0,"Arp. x x x 5 160.ogg",76
+Sample,59900,0,"x x x 13 80.ogg",100
+Sample,60022,0,"x x x 15 80.ogg",100
+Sample,60144,0,"Hi-Hat close.ogg",70
+Sample,60144,0,"35_G#1_123_239.ogg",100
+Sample,60144,0,"Arp. x x 5 160.ogg",76
+Sample,60144,0,"x x 13 80.ogg",100
+Sample,60266,0,"x x 15 80.ogg",100
+Sample,60388,0,"Hi-Hat close.ogg",70
+Sample,60388,0,"35_D#1_123_239.ogg",100
+Sample,60388,0,"Arp. x 4 800.ogg",76
+Sample,60388,0,"x 13 80.ogg",100
+Sample,60510,0,"x 16 80.ogg",100
+Sample,60632,0,"Tom2.ogg",70
+Sample,60632,0,"35_G1_123_62.ogg",100
+Sample,60632,0,"x 13 80.ogg",100
+Sample,60693,0,"35_A#1_123_175.ogg",100
+Sample,60754,0,"Snare.ogg",70
+Sample,60754,0,"x x 15 80.ogg",100
+Sample,60876,0,"Hi-Hat open L.ogg",70
+Sample,60876,0,"35_G#1_123_239.ogg",100
+Sample,60876,0,"x x 13 80.ogg",100
+Sample,60998,0,"x x x 15 80.ogg",100
+Sample,61119,0,"35_D#1_123_239.ogg",100
+Sample,61119,0,"x x x 13 80.ogg",100
+Sample,61241,0,"Snare.ogg",70
+Sample,61241,0,"x x x x 15 80.ogg",100
+Sample,61363,0,"Tom2.ogg",70
+Sample,61363,0,"35_G#0_123_239.ogg",100
+Sample,61363,0,"x x x x 13 80.ogg",100
+Sample,61485,0,"Tom2.ogg",70
+Sample,61485,0,"x x x x 11 80.ogg",100
+Sample,61607,0,"35_A#0_123_119.ogg",100
+Sample,61607,0,"x 6 6 6 x 6 Bbm7 1280.ogg",76
+Sample,61607,0,"x x x x 13 80.ogg",100
+Sample,61729,0,"x x x x 15 80.ogg",100
+Sample,61851,0,"35_A#0_123_479.ogg",100
+Sample,61851,0,"x x x 13 80.ogg",100
+Sample,61973,0,"x x x 15 80.ogg",100
+Sample,62095,0,"Hi-Hat close.ogg",70
+Sample,62095,0,"x x 13 80.ogg",100
+Sample,62217,0,"x x 15 80.ogg",100
+Sample,62339,0,"Hi-Hat close.ogg",70
+Sample,62339,0,"35_A#0_123_119.ogg",100
+Sample,62339,0,"x 13 80.ogg",100
+Sample,62461,0,"35_A#0_123_119.ogg",100
+Sample,62461,0,"x 14 80.ogg",100
+Sample,62583,0,"Hi-Hat close.ogg",70
+Sample,62583,0,"35_A#1_123_239.ogg",100
+Sample,62583,0,"x 13 80.ogg",100
+Sample,62705,0,"Snare.ogg",70
+Sample,62705,0,"x x 15 80.ogg",100
+Sample,62827,0,"Hi-Hat open L.ogg",70
+Sample,62827,0,"35_G#1_123_239.ogg",100
+Sample,62827,0,"x x 13 80.ogg",100
+Sample,62949,0,"x x x 15 80.ogg",100
+Sample,63071,0,"Hi-Hat close.ogg",70
+Sample,63071,0,"35_F1_123_239.ogg",100
+Sample,63071,0,"x x x 13 80.ogg",100
+Sample,63193,0,"x x x x 15 80.ogg",100
+Sample,63315,0,"35_G#0_123_239.ogg",100
+Sample,63315,0,"x x x x 13 80.ogg",100
+Sample,63437,0,"x x x x 11 80.ogg",100
+Sample,63559,0,"Hi-Hat close.ogg",70
+Sample,63559,0,"35_C1_123_119.ogg",100
+Sample,63559,0,"Arp. x x x x 3 160-2.ogg",76
+Sample,63559,0,"x x x x 13 80.ogg",100
+Sample,63680,0,"x x x x 15 80.ogg",100
+Sample,63802,0,"Hi-Hat close.ogg",70
+Sample,63802,0,"35_C1_123_599.ogg",100
+Sample,63802,0,"Arp. x x x 6 160.ogg",76
+Sample,63802,0,"x x x 13 80.ogg",100
+Sample,63924,0,"x x x 15 80.ogg",100
+Sample,64046,0,"Hi-Hat close.ogg",70
+Sample,64046,0,"Arp. x x 3 160-2.ogg",76
+Sample,64046,0,"x x 13 80.ogg",100
+Sample,64168,0,"x x 15 80.ogg",100
+Sample,64290,0,"Hi-Hat close.ogg",70
+Sample,64290,0,"Arp. x 4 800.ogg",76
+Sample,64290,0,"x 13 80.ogg",100
+Sample,64412,0,"35_G#1_123_359.ogg",100
+Sample,64412,0,"x 16 80.ogg",100
+Sample,64534,0,"Hi-Hat close.ogg",70
+Sample,64534,0,"13 80.ogg",100
+Sample,64656,0,"Snare.ogg",70
+Sample,64656,0,"15 80.ogg",100
+Sample,64778,0,"Hi-Hat open L.ogg",70
+Sample,64778,0,"35_G1_123_239.ogg",100
+Sample,64778,0,"16 480.ogg",100
+Sample,65022,0,"Hi-Hat close.ogg",70
+Sample,65022,0,"35_G#1_123_479.ogg",100
+Sample,65388,0,"Snare.ogg",70
+Sample,65510,0,"Hi-Hat close.ogg",70
+Sample,65510,0,"35_C#1_123_239.ogg",100
+Sample,65510,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,65510,0,"x x 5 3 3 160.ogg",100
+Sample,65754,0,"Hi-Hat close.ogg",70
+Sample,65754,0,"35_C2_123_239.ogg",100
+Sample,65754,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,65754,0,"x x 5 3 3 160.ogg",100
+Sample,65998,0,"Kick.ogg",70
+Sample,65998,0,"Hi-Hat close.ogg",70
+Sample,65998,0,"35_G#1_123_239.ogg",100
+Sample,66241,0,"35_D1_123_479.ogg",100
+Sample,66241,0,"x 6 5 6 5 Dm7b5 320.ogg",76
+Sample,66241,0,"x x 7 x 5 320.ogg",100
+Sample,66485,0,"Kick.ogg",70
+Sample,66485,0,"Hi-Hat close.ogg",70
+Sample,66729,0,"Hi-Hat close.ogg",70
+Sample,66729,0,"35_D1_123_239.ogg",100
+Sample,66729,0,"x 6 5 6 5 Dm7b5 160.ogg",76
+Sample,66729,0,"x x 7 x 5 160.ogg",100
+Sample,66973,0,"Hi-Hat close.ogg",70
+Sample,67217,0,"35_D#1_123_479.ogg",100
+Sample,67217,0,"6 6 6 6 6 Db6add9_Eb 320.ogg",76
+Sample,67217,0,"x x 8 x 6 320.ogg",100
+Sample,67461,0,"Kick.ogg",70
+Sample,67461,0,"Hi-Hat close.ogg",70
+Sample,67705,0,"Hi-Hat close.ogg",70
+Sample,67705,0,"35_A#1_123_239.ogg",100
+Sample,67705,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,67705,0,"x x 13 x 11 160.ogg",100
+Sample,67949,0,"Kick.ogg",70
+Sample,67949,0,"Hi-Hat close.ogg",70
+Sample,67949,0,"35_F2_123_239.ogg",100
+Sample,67949,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,68193,0,"35_D#2_123_239.ogg",100
+Sample,68193,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,68193,0,"x x 12 x 10 160.ogg",100
+Sample,68437,0,"11 11 Mute 80.ogg",100
+Sample,68559,0,"Snare.ogg",70
+Sample,68559,0,"Finish.ogg",50
+Sample,68559,0,"11 11 Mute 80.ogg",100
+Sample,68680,0,"11 11 80.ogg",100
+Sample,68802,0,"Tom4.ogg",70
+Sample,68802,0,"13 13 80.ogg",100
+Sample,68924,0,"11 11 320.ogg",100
+Sample,69046,0,"Tom4.ogg",70
+Sample,69168,0,"Tom4.ogg",70
+Sample,69412,0,"35_C#1_123_239.ogg",100
+Sample,69412,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,69412,0,"Arp. x x x 13 160.ogg",100
+Sample,69656,0,"Hi-Hat open L.ogg",70
+Sample,69656,0,"35_C#1_123_239.ogg",100
+Sample,69656,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,69656,0,"Arp. x 11 160.ogg",100
+Sample,69900,0,"Snare.ogg",70
+Sample,69900,0,"Hi-Hat close.ogg",70
+Sample,69900,0,"35_C#1_123_239.ogg",100
+Sample,69900,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,69900,0,"Arp. x x 13 160.ogg",100
+Sample,70144,0,"Hi-Hat open L.ogg",70
+Sample,70144,0,"35_C#1_123_119.ogg",100
+Sample,70144,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,70144,0,"Arp. 11 160.ogg",100
+Sample,70266,0,"35_C#1_123_359.ogg",100
+Sample,70266,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,70388,0,"Hi-Hat close.ogg",70
+Sample,70388,0,"Arp. x x 13 160.ogg",100
+Sample,70510,0,"Snare.ogg",70
+Sample,70510,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,70632,0,"35_C#1_123_239.ogg",100
+Sample,70632,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,70632,0,"Arp. x 11 160.ogg",100
+Sample,70876,0,"Snare.ogg",70
+Sample,70876,0,"Hi-Hat close.ogg",70
+Sample,70876,0,"35_G#1_123_239.ogg",100
+Sample,70876,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,70876,0,"Arp. x x 13 160.ogg",100
+Sample,71119,0,"Hi-Hat open L.ogg",70
+Sample,71119,0,"35_C#1_123_239.ogg",100
+Sample,71119,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,71119,0,"Arp. 11 160.ogg",100
+Sample,71241,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,71363,0,"Hi-Hat close.ogg",70
+Sample,71363,0,"35_D#1_123_239.ogg",100
+Sample,71363,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,71363,0,"Arp. x x 13 160.ogg",100
+Sample,71607,0,"Hi-Hat open L.ogg",70
+Sample,71607,0,"35_D#1_123_239.ogg",100
+Sample,71607,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,71607,0,"Arp. x 11 160.ogg",100
+Sample,71851,0,"Snare.ogg",70
+Sample,71851,0,"Hi-Hat close.ogg",70
+Sample,71851,0,"35_D#1_123_239.ogg",100
+Sample,71851,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,71851,0,"Arp. x x 13 160.ogg",100
+Sample,72095,0,"Hi-Hat open L.ogg",70
+Sample,72095,0,"35_D#1_123_119.ogg",100
+Sample,72095,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,72095,0,"Arp. 11 160.ogg",100
+Sample,72217,0,"35_D#1_123_239.ogg",100
+Sample,72217,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,72339,0,"Hi-Hat close.ogg",70
+Sample,72339,0,"Arp. x x 13 160.ogg",100
+Sample,72461,0,"Snare.ogg",70
+Sample,72461,0,"35_D#1_123_119.ogg",100
+Sample,72461,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,72583,0,"35_A#0_123_119.ogg",100
+Sample,72583,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,72583,0,"Arp. x 11 160.ogg",100
+Sample,72705,0,"35_C1_123_119.ogg",100
+Sample,72827,0,"Snare.ogg",70
+Sample,72827,0,"Hi-Hat close.ogg",70
+Sample,72827,0,"35_D#1_123_239.ogg",100
+Sample,72827,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,72827,0,"Arp. x x 13 160.ogg",100
+Sample,73071,0,"Hi-Hat open L.ogg",70
+Sample,73071,0,"35_A#0_123_239.ogg",100
+Sample,73071,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,73071,0,"Arp. 11 160.ogg",100
+Sample,73193,0,"Snare.ogg",70
+Sample,73193,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,73315,0,"Hi-Hat close.ogg",70
+Sample,73315,0,"35_C1_123_239.ogg",100
+Sample,73315,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,73315,0,"Arp. x x 13 160.ogg",100
+Sample,73559,0,"Hi-Hat open L.ogg",70
+Sample,73559,0,"35_C1_123_239.ogg",100
+Sample,73559,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,73559,0,"Arp. x 11 160.ogg",100
+Sample,73802,0,"Snare.ogg",70
+Sample,73802,0,"Hi-Hat close.ogg",70
+Sample,73802,0,"35_C1_123_239.ogg",100
+Sample,73802,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,73802,0,"Arp. x x 13 160.ogg",100
+Sample,74046,0,"Hi-Hat open L.ogg",70
+Sample,74046,0,"35_C1_123_119.ogg",100
+Sample,74046,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,74046,0,"Arp. 11 160.ogg",100
+Sample,74168,0,"35_C1_123_239.ogg",100
+Sample,74168,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,74290,0,"Hi-Hat close.ogg",70
+Sample,74290,0,"Arp. x x 13 160.ogg",100
+Sample,74412,0,"Snare.ogg",70
+Sample,74412,0,"35_C1_123_119.ogg",100
+Sample,74412,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,74534,0,"35_G1_123_479.ogg",100
+Sample,74534,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,74534,0,"Arp. x 11 160.ogg",100
+Sample,74778,0,"Snare.ogg",70
+Sample,74778,0,"Hi-Hat close.ogg",70
+Sample,74778,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,74778,0,"Arp. x x 13 160.ogg",100
+Sample,75022,0,"35_F#1_123_239.ogg",100
+Sample,75022,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,75022,0,"x x 13 13 Mute 80.ogg",100
+Sample,75144,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,75144,0,"x x 13 13 Mute 80.ogg",100
+Sample,75266,0,"Hi-Hat close.ogg",70
+Sample,75266,0,"35_F1_123_479.ogg",100
+Sample,75266,0,"8 9 8 10 8 Fm7 160.ogg",76
+Sample,75266,0,"x x 13 x 11 160.ogg",100
+Sample,75388,0,"Snare.ogg",70
+Sample,75510,0,"Hi-Hat open L.ogg",70
+Sample,75510,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,75510,0,"x x 13 x 11 Mute 80.ogg",100
+Sample,75632,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,75632,0,"x x 13 x 11 Mute 80.ogg",100
+Sample,75754,0,"Snare.ogg",70
+Sample,75754,0,"Hi-Hat close.ogg",70
+Sample,75754,0,"35_E1_123_479.ogg",100
+Sample,75754,0,"7 8 7 9 7 Em7160.ogg",76
+Sample,75754,0,"x x 12 x 10 160.ogg",100
+Sample,75998,0,"Hi-Hat open L.ogg",70
+Sample,75998,0,"7 8 7 9 7 Em7 Mute 80.ogg",76
+Sample,75998,0,"x x 12 x 10 Mute 80.ogg",100
+Sample,76119,0,"7 8 7 9 7 Em7 Mute 80.ogg",76
+Sample,76119,0,"x x 12 x 10 Mute 80.ogg",100
+Sample,76241,0,"Hi-Hat close.ogg",70
+Sample,76241,0,"35_D#1_123_239.ogg",100
+Sample,76241,0,"6 7 6 8 6 Ebm7 160.ogg",76
+Sample,76241,0,"x 14 x 11 160.ogg",100
+Sample,76363,0,"Snare.ogg",70
+Sample,76485,0,"Hi-Hat open L.ogg",70
+Sample,76485,0,"35_A#0_123_239.ogg",100
+Sample,76485,0,"6 7 6 8 6 Ebm7 Mute 80.ogg",76
+Sample,76485,0,"x 14 x 11 Mute 80.ogg",100
+Sample,76607,0,"6 7 6 8 6 Ebm7 Mute 80.ogg",76
+Sample,76607,0,"x 14 x 11 Mute 80.ogg",100
+Sample,76729,0,"Snare.ogg",70
+Sample,76729,0,"Hi-Hat close.ogg",70
+Sample,76729,0,"35_G#0_123_239.ogg",100
+Sample,76729,0,"4 4 5 6 6 4 Ab 160.ogg",76
+Sample,76729,0,"x 13 x 10 160.ogg",100
+Sample,76973,0,"Hi-Hat open L.ogg",70
+Sample,76973,0,"35_C1_123_239.ogg",100
+Sample,76973,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,76973,0,"x 13 x 10 80.ogg",100
+Sample,77095,0,"Snare.ogg",70
+Sample,77095,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,77095,0,"x 13 x 10 80.ogg",100
+Sample,77217,0,"35_C#1_123_239.ogg",100
+Sample,77217,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,77217,0,"x x 13 x 11 160.ogg",100
+Sample,77461,0,"Hi-Hat open L.ogg",70
+Sample,77461,0,"35_C#1_123_239.ogg",100
+Sample,77461,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,77461,0,"x x 13 x 11 80.ogg",100
+Sample,77583,0,"x x 13 x 11 80.ogg",100
+Sample,77705,0,"Snare.ogg",70
+Sample,77705,0,"Hi-Hat close.ogg",70
+Sample,77705,0,"35_C#1_123_239.ogg",100
+Sample,77705,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,77705,0,"x x 13 x 11 160.ogg",100
+Sample,77949,0,"Hi-Hat open L.ogg",70
+Sample,77949,0,"35_C#1_123_119.ogg",100
+Sample,77949,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,77949,0,"x x 13 x 11 80.ogg",100
+Sample,78071,0,"35_C#1_123_239.ogg",100
+Sample,78071,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,78071,0,"x x 13 x 11 160.ogg",100
+Sample,78193,0,"Hi-Hat close.ogg",70
+Sample,78315,0,"Snare.ogg",70
+Sample,78315,0,"35_C#1_123_119.ogg",100
+Sample,78315,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,78315,0,"x x 13 x 11 80.ogg",100
+Sample,78437,0,"35_F1_123_239.ogg",100
+Sample,78437,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,78437,0,"x x 13 x 11 160.ogg",100
+Sample,78680,0,"Snare.ogg",70
+Sample,78680,0,"Hi-Hat close.ogg",70
+Sample,78680,0,"35_G#1_123_239.ogg",100
+Sample,78680,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,78680,0,"x x 13 x 11 160.ogg",100
+Sample,78924,0,"Hi-Hat open L.ogg",70
+Sample,78924,0,"35_F1_123_239.ogg",100
+Sample,78924,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,78924,0,"x x 12 x 10 80.ogg",100
+Sample,79046,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,79046,0,"x x 13 x 11 80.ogg",100
+Sample,79168,0,"Hi-Hat close.ogg",70
+Sample,79168,0,"35_D#1_123_239.ogg",100
+Sample,79168,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,79168,0,"x x 12 x 10 160.ogg",100
+Sample,79412,0,"Hi-Hat open L.ogg",70
+Sample,79412,0,"35_D#1_123_239.ogg",100
+Sample,79412,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,79412,0,"x x 12 x 10 160.ogg",100
+Sample,79656,0,"Snare.ogg",70
+Sample,79656,0,"Hi-Hat close.ogg",70
+Sample,79656,0,"35_D#1_123_239.ogg",100
+Sample,79656,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,79656,0,"x x 12 x 10 160.ogg",100
+Sample,79900,0,"Hi-Hat open L.ogg",70
+Sample,79900,0,"35_D#1_123_119.ogg",100
+Sample,79900,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,79900,0,"x x 8 x 6 80.ogg",100
+Sample,80022,0,"35_D#1_123_239.ogg",100
+Sample,80022,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,80022,0,"x x 8 x 6 160.ogg",100
+Sample,80144,0,"Hi-Hat close.ogg",70
+Sample,80266,0,"Snare.ogg",70
+Sample,80266,0,"35_G1_123_119.ogg",100
+Sample,80266,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,80266,0,"x x 8 x 6 80.ogg",100
+Sample,80388,0,"35_C2_123_239.ogg",100
+Sample,80388,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,80388,0,"x x 8 x 6 160.ogg",100
+Sample,80632,0,"Snare.ogg",70
+Sample,80632,0,"Hi-Hat close.ogg",70
+Sample,80632,0,"35_A#1_123_239.ogg",100
+Sample,80632,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,80632,0,"x x 8 x 6 160.ogg",100
+Sample,80876,0,"Hi-Hat open L.ogg",70
+Sample,80876,0,"35_F1_123_239.ogg",100
+Sample,80876,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,80876,0,"x x 8 x 6 Mute 80.ogg",100
+Sample,80998,0,"Snare.ogg",70
+Sample,80998,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,80998,0,"x x 8 x 6 Mute 80.ogg",100
+Sample,81119,0,"Hi-Hat close.ogg",70
+Sample,81119,0,"35_C1_123_239.ogg",100
+Sample,81119,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,81119,0,"x 8 8 8 160.ogg",100
+Sample,81363,0,"Snare.ogg",70
+Sample,81363,0,"Hi-Hat open L.ogg",70
+Sample,81363,0,"35_C1_123_239.ogg",100
+Sample,81363,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,81363,0,"x 8 8 8 160.ogg",100
+Sample,81607,0,"Hi-Hat close.ogg",70
+Sample,81607,0,"35_C1_123_239.ogg",100
+Sample,81851,0,"Hi-Hat open L.ogg",70
+Sample,81851,0,"35_E1_123_479.ogg",100
+Sample,81851,0,"6 8 6 8 7 Edim7 320.ogg",76
+Sample,81851,0,"x 8 6 8 320.ogg",100
+Sample,82095,0,"Kick.ogg",70
+Sample,82095,0,"Hi-Hat close.ogg",70
+Sample,82339,0,"Hi-Hat open L.ogg",70
+Sample,82339,0,"35_C1_123_239.ogg",100
+Sample,82339,0,"6 8 6 8 7 Edim7 160.ogg",76
+Sample,82339,0,"x 8 6 8 160.ogg",100
+Sample,82583,0,"Kick.ogg",70
+Sample,82583,0,"Hi-Hat close.ogg",70
+Sample,82583,0,"35_D#0_123_239.ogg",100
+Sample,82827,0,"35_F0_123_479.ogg",100
+Sample,82827,0,"8 9 8 10 8 Fm7 320.ogg",76
+Sample,82827,0,"x 9 8 10 320.ogg",100
+Sample,83071,0,"Kick.ogg",70
+Sample,83071,0,"Hi-Hat close.ogg",70
+Sample,83315,0,"Hi-Hat open L.ogg",70
+Sample,83315,0,"35_F0_123_239.ogg",100
+Sample,83315,0,"8 9 8 10 8 Fm7 160.ogg",76
+Sample,83315,0,"x x 8 160.ogg",100
+Sample,83559,0,"Hi-Hat close.ogg",70
+Sample,83559,0,"35_G0_123_239.ogg",100
+Sample,83559,0,"x 11 10 160.ogg",100
+Sample,83802,0,"35_G#0_123_479.ogg",100
+Sample,83802,0,"4 4 5 6 6 4 Ab 320.ogg",76
+Sample,83802,0,"x 9 8 160.ogg",100
+Sample,84046,0,"Kick.ogg",70
+Sample,84046,0,"11 x 8 Mute 80.ogg",100
+Sample,84168,0,"Tom1.ogg",70
+Sample,84168,0,"11 x 8 Mute 80.ogg",100
+Sample,84290,0,"35_A#0_123_239.ogg",100
+Sample,84290,0,"4 4 5 6 6 4 Ab 160.ogg",76
+Sample,84290,0,"11 x 8 80.ogg",100
+Sample,84412,0,"13 x 10 80.ogg",100
+Sample,84534,0,"35_C1_123_239.ogg",100
+Sample,84534,0,"4 4 5 6 6 4 Ab 160.ogg",76
+Sample,84534,0,"11 x 8 320.ogg",100
+Sample,84656,0,"Tom2.ogg",70
+Sample,84778,0,"35_G#0_123_239.ogg",100
+Sample,84778,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,84900,0,"Tom4.ogg",70
+Sample,84900,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,85022,0,"35_C#1_123_239.ogg",100
+Sample,85022,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,85022,0,"Arp. x x x 13 160.ogg",100
+Sample,85266,0,"Hi-Hat open L.ogg",70
+Sample,85266,0,"35_C#1_123_239.ogg",100
+Sample,85266,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,85266,0,"Arp. x 11 160.ogg",100
+Sample,85510,0,"Snare.ogg",70
+Sample,85510,0,"Hi-Hat close.ogg",70
+Sample,85510,0,"35_C#1_123_239.ogg",100
+Sample,85510,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,85510,0,"Arp. x x 13 160.ogg",100
+Sample,85754,0,"Hi-Hat open L.ogg",70
+Sample,85754,0,"35_C#1_123_119.ogg",100
+Sample,85754,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,85754,0,"Arp. 11 160.ogg",100
+Sample,85876,0,"35_C#1_123_239.ogg",100
+Sample,85876,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,85998,0,"Hi-Hat close.ogg",70
+Sample,85998,0,"Arp. x x 13 160.ogg",100
+Sample,86119,0,"Snare.ogg",70
+Sample,86119,0,"35_C#1_123_119.ogg",100
+Sample,86119,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,86241,0,"35_F1_123_239.ogg",100
+Sample,86241,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,86241,0,"Arp. x 11 160.ogg",100
+Sample,86485,0,"Snare.ogg",70
+Sample,86485,0,"Hi-Hat close.ogg",70
+Sample,86485,0,"35_G#1_123_239.ogg",100
+Sample,86485,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,86485,0,"Arp. x x 13 160.ogg",100
+Sample,86729,0,"Hi-Hat open L.ogg",70
+Sample,86729,0,"35_F1_123_239.ogg",100
+Sample,86729,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,86729,0,"Arp. 11 160.ogg",100
+Sample,86851,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,86973,0,"Hi-Hat close.ogg",70
+Sample,86973,0,"35_D#1_123_239.ogg",100
+Sample,86973,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,86973,0,"Arp. x x 13 160.ogg",100
+Sample,87095,0,"Snare.ogg",70
+Sample,87217,0,"Hi-Hat open L.ogg",70
+Sample,87217,0,"35_D#1_123_239.ogg",100
+Sample,87217,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,87217,0,"Arp. x 11 160.ogg",100
+Sample,87461,0,"Snare.ogg",70
+Sample,87461,0,"Hi-Hat close.ogg",70
+Sample,87461,0,"35_D#1_123_239.ogg",100
+Sample,87461,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,87461,0,"Arp. x x 13 160.ogg",100
+Sample,87705,0,"Hi-Hat open L.ogg",70
+Sample,87705,0,"35_D#1_123_119.ogg",100
+Sample,87705,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,87705,0,"Arp. 11 160.ogg",100
+Sample,87827,0,"35_D#1_123_239.ogg",100
+Sample,87827,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,87949,0,"Hi-Hat close.ogg",70
+Sample,87949,0,"Arp. x x 13 160.ogg",100
+Sample,88071,0,"Snare.ogg",70
+Sample,88071,0,"35_D#1_123_119.ogg",100
+Sample,88071,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,88193,0,"35_A#0_123_119.ogg",100
+Sample,88193,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,88193,0,"Arp. x 11 160.ogg",100
+Sample,88315,0,"35_C1_123_119.ogg",100
+Sample,88437,0,"Snare.ogg",70
+Sample,88437,0,"Hi-Hat close.ogg",70
+Sample,88437,0,"35_D#1_123_239.ogg",100
+Sample,88437,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,88437,0,"Arp. x x 13 160.ogg",100
+Sample,88680,0,"Hi-Hat open L.ogg",70
+Sample,88680,0,"35_A#0_123_239.ogg",100
+Sample,88680,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,88680,0,"Arp. 11 160.ogg",100
+Sample,88802,0,"Snare.ogg",70
+Sample,88802,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,88924,0,"Hi-Hat close.ogg",70
+Sample,88924,0,"35_C1_123_239.ogg",100
+Sample,88924,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,88924,0,"Arp. x x 13 160.ogg",100
+Sample,89168,0,"Hi-Hat open L.ogg",70
+Sample,89168,0,"35_C1_123_239.ogg",100
+Sample,89168,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,89168,0,"Arp. x 11 160.ogg",100
+Sample,89412,0,"Snare.ogg",70
+Sample,89412,0,"Hi-Hat close.ogg",70
+Sample,89412,0,"35_C1_123_239.ogg",100
+Sample,89412,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,89412,0,"Arp. x x 13 160.ogg",100
+Sample,89656,0,"Hi-Hat open L.ogg",70
+Sample,89656,0,"35_C1_123_119.ogg",100
+Sample,89656,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,89656,0,"Arp. 11 160.ogg",100
+Sample,89778,0,"35_C1_123_239.ogg",100
+Sample,89778,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,89900,0,"Hi-Hat close.ogg",70
+Sample,89900,0,"Arp. x x 13 160.ogg",100
+Sample,90022,0,"Snare.ogg",70
+Sample,90022,0,"35_C1_123_119.ogg",100
+Sample,90022,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,90144,0,"35_G1_123_479.ogg",100
+Sample,90144,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,90144,0,"Arp. x 11 160.ogg",100
+Sample,90388,0,"Snare.ogg",70
+Sample,90388,0,"Hi-Hat close.ogg",70
+Sample,90388,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,90388,0,"Arp. x x 13 160.ogg",100
+Sample,90632,0,"35_F#1_123_239.ogg",100
+Sample,90632,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,90632,0,"x x 13 13 Mute 80.ogg",100
+Sample,90754,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,90754,0,"x x 13 13 Mute 80.ogg",100
+Sample,90876,0,"Hi-Hat close.ogg",70
+Sample,90876,0,"35_F1_123_479.ogg",100
+Sample,90876,0,"8 9 8 10 8 Fm7 160.ogg",76
+Sample,90876,0,"x x 13 x 11 160.ogg",100
+Sample,91119,0,"Hi-Hat open L.ogg",70
+Sample,91119,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,91119,0,"x x 13 x 11 Mute 80.ogg",100
+Sample,91241,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,91241,0,"x x 13 x 11 Mute 80.ogg",100
+Sample,91363,0,"Snare.ogg",70
+Sample,91363,0,"Hi-Hat close.ogg",70
+Sample,91363,0,"35_E1_123_479.ogg",100
+Sample,91363,0,"7 8 7 9 7 Em7160.ogg",76
+Sample,91363,0,"x x 12 x 10 160.ogg",100
+Sample,91607,0,"Hi-Hat open L.ogg",70
+Sample,91607,0,"7 8 7 9 7 Em7 Mute 80.ogg",76
+Sample,91607,0,"x x 12 x 10 Mute 80.ogg",100
+Sample,91729,0,"7 8 7 9 7 Em7 Mute 80.ogg",76
+Sample,91729,0,"x x 12 x 10 Mute 80.ogg",100
+Sample,91851,0,"Hi-Hat close.ogg",70
+Sample,91851,0,"35_D#1_123_239.ogg",100
+Sample,91851,0,"6 7 6 8 6 Ebm7 160.ogg",76
+Sample,91851,0,"x 14 x 11 160.ogg",100
+Sample,91973,0,"Snare.ogg",70
+Sample,92095,0,"Hi-Hat open L.ogg",70
+Sample,92095,0,"35_A#0_123_239.ogg",100
+Sample,92095,0,"6 7 6 8 6 Ebm7 Mute 80.ogg",76
+Sample,92095,0,"x 14 x 11 Mute 80.ogg",100
+Sample,92217,0,"6 7 6 8 6 Ebm7 Mute 80.ogg",76
+Sample,92217,0,"x 14 x 11 Mute 80.ogg",100
+Sample,92339,0,"Snare.ogg",70
+Sample,92339,0,"Hi-Hat close.ogg",70
+Sample,92339,0,"35_G#0_123_479.ogg",100
+Sample,92339,0,"4 4 5 6 6 4 Ab 160.ogg",76
+Sample,92339,0,"x 13 x 10 160.ogg",100
+Sample,92583,0,"Hi-Hat open L.ogg",70
+Sample,92583,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,92583,0,"x 13 x 10 80.ogg",100
+Sample,92705,0,"Snare.ogg",70
+Sample,92705,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,92705,0,"x 13 x 10 80.ogg",100
+Sample,92827,0,"35_A#0_123_239.ogg",100
+Sample,92827,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,92827,0,"x 16 x 13 Mute 80.ogg",100
+Sample,92949,0,"x 16 x 13 Mute 80.ogg",100
+Sample,93071,0,"Hi-Hat open L.ogg",70
+Sample,93071,0,"35_A#0_123_239.ogg",100
+Sample,93071,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,93071,0,"x 16 x 13 80.ogg",100
+Sample,93193,0,"x 16 x 13 Mute 80.ogg",100
+Sample,93315,0,"Snare.ogg",70
+Sample,93315,0,"Hi-Hat close.ogg",70
+Sample,93315,0,"35_A#0_123_239.ogg",100
+Sample,93315,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,93315,0,"x 16 x 13 Mute 80.ogg",100
+Sample,93437,0,"x 16 x 13 80.ogg",100
+Sample,93559,0,"Hi-Hat open L.ogg",70
+Sample,93559,0,"35_A#0_123_119.ogg",100
+Sample,93559,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,93559,0,"x 16 x 13 Mute 80.ogg",100
+Sample,93680,0,"35_A#0_123_359.ogg",100
+Sample,93680,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,93680,0,"x 16 x 13 Mute 80.ogg",100
+Sample,93802,0,"Hi-Hat close.ogg",70
+Sample,93802,0,"x 16 x 13 80.ogg",100
+Sample,93924,0,"Snare.ogg",70
+Sample,93924,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,93924,0,"x 16 x 13 80.ogg",100
+Sample,94046,0,"35_F0_123_239.ogg",100
+Sample,94046,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,94046,0,"x 16 x 13 80.ogg",100
+Sample,94168,0,"x 16 x 13 80.ogg",100
+Sample,94290,0,"Snare.ogg",70
+Sample,94290,0,"Hi-Hat close.ogg",70
+Sample,94290,0,"35_G#0_123_239.ogg",100
+Sample,94290,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,94290,0,"x 16 x 13 Mute 80.ogg",100
+Sample,94412,0,"x 16 x 13 Mute 80.ogg",100
+Sample,94534,0,"Hi-Hat open L.ogg",70
+Sample,94534,0,"35_A#0_123_239.ogg",100
+Sample,94534,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,94534,0,"x 16 x 13 80.ogg",100
+Sample,94656,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,94656,0,"x 16 x 13 80.ogg",100
+Sample,94778,0,"Hi-Hat close.ogg",70
+Sample,94778,0,"35_C1_123_239.ogg",100
+Sample,94778,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,94778,0,"x 16 x 13 Mute 80.ogg",100
+Sample,94900,0,"x 16 x 13 Mute 80.ogg",100
+Sample,95022,0,"Hi-Hat open L.ogg",70
+Sample,95022,0,"35_C1_123_239.ogg",100
+Sample,95022,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,95022,0,"x 16 x 13 80.ogg",100
+Sample,95144,0,"x 16 x 13 Mute 80.ogg",100
+Sample,95266,0,"Snare.ogg",70
+Sample,95266,0,"Hi-Hat close.ogg",70
+Sample,95266,0,"35_C1_123_239.ogg",100
+Sample,95266,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,95266,0,"x 16 x 13 Mute 80.ogg",100
+Sample,95388,0,"x 16 x 13 80.ogg",100
+Sample,95510,0,"Hi-Hat open L.ogg",70
+Sample,95510,0,"35_C1_123_119.ogg",100
+Sample,95510,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,95510,0,"x 16 x 13 Mute 80.ogg",100
+Sample,95632,0,"35_C1_123_239.ogg",100
+Sample,95632,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,95632,0,"x 16 x 13 Mute 80.ogg",100
+Sample,95754,0,"Hi-Hat close.ogg",70
+Sample,95754,0,"x 16 x 13 80.ogg",100
+Sample,95876,0,"Snare.ogg",70
+Sample,95876,0,"35_C1_123_119.ogg",100
+Sample,95876,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,95876,0,"x 16 x 13 80.ogg",100
+Sample,95998,0,"35_G#1_123_239.ogg",100
+Sample,95998,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,95998,0,"x 16 x 13 80.ogg",100
+Sample,96119,0,"x 16 x 13 80.ogg",100
+Sample,96241,0,"Snare.ogg",70
+Sample,96241,0,"Hi-Hat close.ogg",70
+Sample,96241,0,"35_G1_123_239.ogg",100
+Sample,96241,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,96241,0,"x 16 x 13 Mute 80.ogg",100
+Sample,96363,0,"x 16 x 13 Mute 80.ogg",100
+Sample,96485,0,"Hi-Hat open L.ogg",70
+Sample,96485,0,"35_D#1_123_239.ogg",100
+Sample,96485,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,96485,0,"x 16 x 13 80.ogg",100
+Sample,96607,0,"Snare.ogg",70
+Sample,96607,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,96607,0,"x 16 x 13 80.ogg",100
+Sample,96729,0,"Hi-Hat close.ogg",70
+Sample,96729,0,"35_C#1_123_239.ogg",100
+Sample,96729,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,96729,0,"x 16 x 13 Mute 80.ogg",100
+Sample,96851,0,"x 16 x 13 Mute 80.ogg",100
+Sample,96973,0,"Hi-Hat open L.ogg",70
+Sample,96973,0,"35_C#1_123_239.ogg",100
+Sample,96973,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,96973,0,"x 16 x 13 80.ogg",100
+Sample,97095,0,"x 16 x 13 80.ogg",100
+Sample,97217,0,"Snare.ogg",70
+Sample,97217,0,"Hi-Hat close.ogg",70
+Sample,97217,0,"35_C#1_123_239.ogg",100
+Sample,97217,0,"x 16 x 13 Mute 80.ogg",100
+Sample,97339,0,"x 16 x 13 Mute 80.ogg",100
+Sample,97461,0,"35_D1_123_479.ogg",100
+Sample,97461,0,"x 3 3 3 5 Bb_D 320.ogg",76
+Sample,97461,0,"x 15 15 320.ogg",100
+Sample,97705,0,"Kick.ogg",70
+Sample,97949,0,"Tom4.ogg",70
+Sample,97949,0,"35_D1_123_239.ogg",100
+Sample,97949,0,"x 3 3 3 5 Bb_D 160.ogg",76
+Sample,97949,0,"x 15 15 160.ogg",100
+Sample,98193,0,"Snare.ogg",70
+Sample,98193,0,"Tom4.ogg",70
+Sample,98193,0,"35_A#0_123_239.ogg",100
+Sample,98437,0,"35_D#1_123_479.ogg",100
+Sample,98437,0,"6 6 6 6 6 Db6add9_Eb 320.ogg",76
+Sample,98437,0,"x x x 13 320.ogg",100
+Sample,98680,0,"Kick.ogg",70
+Sample,98924,0,"Tom4.ogg",70
+Sample,98924,0,"35_A#0_123_239.ogg",100
+Sample,98924,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,98924,0,"x x 15 160.ogg",100
+Sample,99168,0,"Tom2.ogg",70
+Sample,99168,0,"35_D#1_123_239.ogg",100
+Sample,99168,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,99168,0,"x x 13 160.ogg",100
+Sample,99412,0,"35_F1_123_239.ogg",100
+Sample,99412,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,99412,0,"x 16 320.ogg",100
+Sample,99534,0,"Snare.ogg",70
+Sample,99656,0,"35_D#1_123_239.ogg",100
+Sample,99656,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,99778,0,"Snare.ogg",70
+Sample,99900,0,"Tom2.ogg",70
+Sample,99900,0,"35_A#0_123_239.ogg",100
+Sample,99900,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,99900,0,"x 21 Left-hand vibrato 480.ogg",100
+Sample,100022,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,100144,0,"Snare.ogg",70
+Sample,100144,0,"35_G#0_123_479.ogg",100
+Sample,100144,0,"4 4 5 6 6 4 Ab 320.ogg",76
+Sample,100266,0,"Tom2.ogg",70
+Sample,100388,0,"Tom4.ogg",70
+Sample,100510,0,"Tom4.ogg",70
+Sample,100632,0,"35_C#1_123_239.ogg",100
+Sample,100632,0,"4 6 5 6 4 Dbmaj7 240.ogg",76
+Sample,100632,0,"x x 13 160.ogg",100
+Sample,100876,0,"Hi-Hat close.ogg",70
+Sample,100876,0,"35_C2_123_119.ogg",100
+Sample,100998,0,"Hi-Hat close.ogg",70
+Sample,100998,0,"35_C#2_123_119.ogg",100
+Sample,100998,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,101119,0,"Snare.ogg",70
+Sample,101119,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,101119,0,"x x 13 80.ogg",100
+Sample,101241,0,"Hi-Hat close.ogg",70
+Sample,101241,0,"35_G#1_123_119.ogg",100
+Sample,101241,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,101241,0,"x x 15 80.ogg",100
+Sample,101363,0,"Hi-Hat close.ogg",70
+Sample,101363,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,101363,0,"x 13 80.ogg",100
+Sample,101485,0,"Hi-Hat open.ogg",70
+Sample,101485,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,101485,0,"x 14 80.ogg",100
+Sample,101607,0,"Hi-Hat close.ogg",70
+Sample,101607,0,"35_C1_123_119.ogg",100
+Sample,101607,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,101607,0,"x 13 160.ogg",100
+Sample,101729,0,"Snare.ogg",70
+Sample,101851,0,"Hi-Hat close.ogg",70
+Sample,101851,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,101851,0,"x x 13 Mute 80.ogg",100
+Sample,101973,0,"35_B0_123_119.ogg",100
+Sample,101973,0,"x 7 7 7 x 7 Bm7 80.ogg",76
+Sample,101973,0,"x x 13 80.ogg",100
+Sample,102095,0,"Kick.ogg",70
+Sample,102095,0,"Snare.ogg",70
+Sample,102095,0,"x 7 7 7 x 7 Bm7 Mute 80.ogg",76
+Sample,102095,0,"x x 13 Mute 80.ogg",100
+Sample,102217,0,"Hi-Hat close.ogg",70
+Sample,102217,0,"x 7 7 7 x 7 Bm7 Mute 80.ogg",76
+Sample,102217,0,"x x 13 Mute 80.ogg",100
+Sample,102339,0,"35_A#0_123_119.ogg",100
+Sample,102339,0,"x 6 6 6 x 6 Bbm7 240.ogg",76
+Sample,102339,0,"x x 15 160.ogg",100
+Sample,102461,0,"Hi-Hat open.ogg",70
+Sample,102583,0,"Kick.ogg",70
+Sample,102583,0,"Hi-Hat close.ogg",70
+Sample,102583,0,"x x 15 160.ogg",100
+Sample,102705,0,"Hi-Hat close.ogg",70
+Sample,102705,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,102827,0,"35_G#1_123_119.ogg",100
+Sample,102827,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,102827,0,"x x 15 80.ogg",100
+Sample,102949,0,"Hi-Hat close.ogg",70
+Sample,102949,0,"35_A#1_123_239.ogg",100
+Sample,102949,0,"x x 17 80.ogg",100
+Sample,103071,0,"Snare.ogg",70
+Sample,103071,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,103071,0,"x x x 13 Mute 80.ogg",100
+Sample,103193,0,"Hi-Hat close.ogg",70
+Sample,103193,0,"35_F1_123_119.ogg",100
+Sample,103193,0,"x x x 13 Mute 80.ogg",100
+Sample,103315,0,"x 6 6 6 x 6 Bbm7 Mute 80.ogg",76
+Sample,103315,0,"x x x 13 80.ogg",100
+Sample,103437,0,"Hi-Hat close.ogg",70
+Sample,103437,0,"x 6 6 6 x 6 Bbm7 Mute 80.ogg",76
+Sample,103437,0,"x x x 15 80.ogg",100
+Sample,103559,0,"Kick.ogg",70
+Sample,103559,0,"Hi-Hat close.ogg",70
+Sample,103559,0,"35_D#1_123_239.ogg",100
+Sample,103559,0,"x 6 6 6 x 6 Bbm7 Mute 80.ogg",76
+Sample,103559,0,"x x 13 Mute 80.ogg",100
+Sample,103680,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,103680,0,"x x 13 80.ogg",100
+Sample,103802,0,"Hi-Hat close.ogg",70
+Sample,103802,0,"35_D#1_123_239.ogg",100
+Sample,103802,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,103802,0,"x x x 15 Mute 80.ogg",100
+Sample,103924,0,"Hi-Hat close.ogg",70
+Sample,103924,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,103924,0,"x x x 15 80.ogg",100
+Sample,104046,0,"Snare.ogg",70
+Sample,104046,0,"35_A#0_123_239.ogg",100
+Sample,104046,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,104046,0,"x x 13 160.ogg",100
+Sample,104168,0,"Hi-Hat close.ogg",70
+Sample,104290,0,"Hi-Hat close.ogg",70
+Sample,104290,0,"35_G#0_123_239.ogg",100
+Sample,104290,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,104290,0,"x x x 15 80.ogg",100
+Sample,104412,0,"Hi-Hat open.ogg",70
+Sample,104412,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,104412,0,"x x x 13 80.ogg",100
+Sample,104534,0,"Hi-Hat close.ogg",70
+Sample,104534,0,"35_C#1_123_239.ogg",100
+Sample,104534,0,"4 6 5 6 4 Dbmaj7 240.ogg",76
+Sample,104534,0,"x x 13 160.ogg",100
+Sample,104656,0,"Hi-Hat close.ogg",70
+Sample,104778,0,"Hi-Hat close.ogg",70
+Sample,104778,0,"35_C2_123_119.ogg",100
+Sample,104900,0,"Hi-Hat close.ogg",70
+Sample,104900,0,"35_C#2_123_119.ogg",100
+Sample,104900,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,105022,0,"Snare.ogg",70
+Sample,105022,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,105022,0,"x x 13 80.ogg",100
+Sample,105144,0,"Hi-Hat close.ogg",70
+Sample,105144,0,"35_G#1_123_119.ogg",100
+Sample,105144,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,105144,0,"x x 15 80.ogg",100
+Sample,105266,0,"Hi-Hat close.ogg",70
+Sample,105266,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,105266,0,"x 13 80.ogg",100
+Sample,105388,0,"Hi-Hat close.ogg",70
+Sample,105388,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,105388,0,"x 14 80.ogg",100
+Sample,105510,0,"Hi-Hat close.ogg",70
+Sample,105510,0,"35_C1_123_119.ogg",100
+Sample,105510,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,105510,0,"x 13 160.ogg",100
+Sample,105632,0,"Snare.ogg",70
+Sample,105754,0,"Hi-Hat close.ogg",70
+Sample,105754,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,105754,0,"x x 13 Mute 80.ogg",100
+Sample,105876,0,"35_B0_123_119.ogg",100
+Sample,105876,0,"x 7 7 7 x 7 Bm7 80.ogg",76
+Sample,105876,0,"x x 13 80.ogg",100
+Sample,105998,0,"Kick.ogg",70
+Sample,105998,0,"Snare.ogg",70
+Sample,105998,0,"x 7 7 7 x 7 Bm7 Mute 80.ogg",76
+Sample,105998,0,"x x 13 Mute 80.ogg",100
+Sample,106119,0,"Hi-Hat close.ogg",70
+Sample,106119,0,"x 7 7 7 x 7 Bm7 Mute 80.ogg",76
+Sample,106119,0,"x x 13 Mute 80.ogg",100
+Sample,106241,0,"35_A#0_123_119.ogg",100
+Sample,106241,0,"x 6 6 6 x 6 Bbm7 240.ogg",76
+Sample,106241,0,"x x x 13 80.ogg",100
+Sample,106363,0,"Hi-Hat open.ogg",70
+Sample,106363,0,"x x x 15 240.ogg",100
+Sample,106485,0,"Kick.ogg",70
+Sample,106485,0,"Hi-Hat close.ogg",70
+Sample,106485,0,"35_F0_123_239.ogg",100
+Sample,106607,0,"Hi-Hat close.ogg",70
+Sample,106607,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,106729,0,"35_F2_123_119.ogg",100
+Sample,106729,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,106729,0,"x x x 13 160.ogg",100
+Sample,106851,0,"Hi-Hat close.ogg",70
+Sample,106851,0,"35_F2_123_239.ogg",100
+Sample,106973,0,"Snare.ogg",70
+Sample,106973,0,"x 6 6 6 x 6 Bbm7 320.ogg",76
+Sample,106973,0,"x 16 Mute 80.ogg",100
+Sample,107095,0,"Hi-Hat close.ogg",70
+Sample,107095,0,"35_D#2_123_119.ogg",100
+Sample,107095,0,"x 16 Mute 80.ogg",100
+Sample,107217,0,"x 16 bend full 320.ogg",100
+Sample,107339,0,"Hi-Hat open.ogg",70
+Sample,107461,0,"Hi-Hat open.ogg",70
+Sample,107461,0,"35_A#1_123_119.ogg",100
+Sample,107461,0,"6 6 6 6 6 Db6add9_Eb 640.ogg",76
+Sample,107583,0,"Snare.ogg",70
+Sample,107583,0,"35_C2_123_119.ogg",100
+Sample,107705,0,"Hi-Hat open.ogg",70
+Sample,107705,0,"35_F1_123_119.ogg",100
+Sample,107705,0,"16 160.ogg",100
+Sample,107827,0,"Snare.ogg",70
+Sample,107827,0,"35_G1_123_119.ogg",100
+Sample,107949,0,"Snare.ogg",70
+Sample,107949,0,"35_D#1_123_479.ogg",100
+Sample,107949,0,"x x 15 bend full release 320.ogg",100
+Sample,108071,0,"Snare.ogg",70
+Sample,108193,0,"Tom2.ogg",70
+Sample,108315,0,"Tom4.ogg",70
+Sample,108437,0,"35_C#1_123_239.ogg",100
+Sample,108437,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,108437,0,"x x 13 Left-hand vibrato 960.ogg",100
+Sample,108924,0,"Snare.ogg",70
+Sample,108924,0,"35_C#1_123_239.ogg",100
+Sample,108924,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,109168,0,"Hi-Hat close.ogg",70
+Sample,109290,0,"Hi-Hat close.ogg",70
+Sample,109412,0,"Hi-Hat close.ogg",70
+Sample,109412,0,"35_C#1_123_359.ogg",100
+Sample,109412,0,"4 6 5 6 4 Dbmaj7 240.ogg",76
+Sample,109534,0,"Hi-Hat close.ogg",70
+Sample,109656,0,"Hi-Hat close.ogg",70
+Sample,109778,0,"Kick.ogg",70
+Sample,109778,0,"Hi-Hat close.ogg",70
+Sample,109778,0,"35_C#1_123_119.ogg",100
+Sample,109778,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,110022,0,"Hi-Hat close.ogg",70
+Sample,110144,0,"Hi-Hat close.ogg",70
+Sample,110144,0,"35_G#1_123_119.ogg",100
+Sample,110144,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,110266,0,"Hi-Hat open.ogg",70
+Sample,110266,0,"35_G#1_123_119.ogg",100
+Sample,110266,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,110388,0,"Hi-Hat close.ogg",70
+Sample,110388,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,110510,0,"Kick.ogg",70
+Sample,110510,0,"Hi-Hat close.ogg",70
+Sample,110510,0,"35_D#1_123_239.ogg",100
+Sample,110510,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,110510,0,"x x 12 80.ogg",100
+Sample,110632,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,110632,0,"x x x 13 80.ogg",100
+Sample,110754,0,"Hi-Hat close.ogg",70
+Sample,110754,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,110876,0,"Snare.ogg",70
+Sample,110876,0,"35_D#1_123_239.ogg",100
+Sample,110876,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,110876,0,"x x 12 80.ogg",100
+Sample,110998,0,"Hi-Hat close.ogg",70
+Sample,111119,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,111119,0,"x x 15 80.ogg",100
+Sample,111241,0,"Hi-Hat close.ogg",70
+Sample,111241,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,111363,0,"Hi-Hat close.ogg",70
+Sample,111363,0,"35_G#1_123_119.ogg",100
+Sample,111363,0,"5 5 5 5 5 C6_D 80.ogg",76
+Sample,111363,0,"x x 12 240.ogg",100
+Sample,111485,0,"Hi-Hat close.ogg",70
+Sample,111485,0,"35_A#1_123_239.ogg",100
+Sample,111485,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,111607,0,"Hi-Hat close.ogg",70
+Sample,111729,0,"35_D#2_123_119.ogg",100
+Sample,111729,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,111729,0,"x x x 13 80.ogg",100
+Sample,111851,0,"Snare.ogg",70
+Sample,112339,0,"Hi-Hat close.ogg",70
+Sample,112339,0,"35_C1_123_119.ogg",100
+Sample,112339,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,112339,0,"x x 12 80.ogg",100
+Sample,112461,0,"35_C1_123_119.ogg",100
+Sample,112461,0,"x x 12 80.ogg",100
+Sample,112583,0,"Hi-Hat close.ogg",70
+Sample,112583,0,"x x x 13 80.ogg",100
+Sample,112705,0,"Hi-Hat close.ogg",70
+Sample,112827,0,"Snare.ogg",70
+Sample,112827,0,"35_C1_123_239.ogg",100
+Sample,112827,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,112827,0,"x x 12 80.ogg",100
+Sample,113071,0,"Hi-Hat close.ogg",70
+Sample,113071,0,"x x x 13 80.ogg",100
+Sample,113193,0,"Hi-Hat close.ogg",70
+Sample,113315,0,"Hi-Hat close.ogg",70
+Sample,113315,0,"35_C1_123_359.ogg",100
+Sample,113315,0,"x 8 8 8 x 8 Cm7 240.ogg",76
+Sample,113315,0,"x x 12 80.ogg",100
+Sample,113559,0,"Hi-Hat close.ogg",70
+Sample,113559,0,"x x x 13 80.ogg",100
+Sample,113680,0,"Kick.ogg",70
+Sample,113680,0,"Hi-Hat close.ogg",70
+Sample,113680,0,"35_C1_123_119.ogg",100
+Sample,113680,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,113680,0,"x x 12 80.ogg",100
+Sample,113924,0,"Hi-Hat close.ogg",70
+Sample,113924,0,"x x 15 80.ogg",100
+Sample,114046,0,"Hi-Hat close.ogg",70
+Sample,114046,0,"35_G1_123_119.ogg",100
+Sample,114046,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,114168,0,"Hi-Hat open.ogg",70
+Sample,114168,0,"35_G1_123_119.ogg",100
+Sample,114168,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,114168,0,"x x 13 80.ogg",100
+Sample,114290,0,"Hi-Hat close.ogg",70
+Sample,114290,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,114412,0,"Kick.ogg",70
+Sample,114412,0,"Hi-Hat close.ogg",70
+Sample,114412,0,"35_F1_123_239.ogg",100
+Sample,114412,0,"8 9 8 10 8 Fm7 80.ogg",76
+Sample,114412,0,"x x 13 80.ogg",100
+Sample,114534,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,114534,0,"x x x 15 80.ogg",100
+Sample,114656,0,"Hi-Hat close.ogg",70
+Sample,114656,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,114656,0,"x x x 13 80.ogg",100
+Sample,114778,0,"Snare.ogg",70
+Sample,114778,0,"35_F1_123_239.ogg",100
+Sample,114778,0,"8 9 8 10 8 Fm7 160.ogg",76
+Sample,114778,0,"x x 13 80.ogg",100
+Sample,114900,0,"Hi-Hat close.ogg",70
+Sample,115022,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,115022,0,"x x 15 bend full 80.ogg",100
+Sample,115144,0,"Hi-Hat close.ogg",70
+Sample,115144,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,115266,0,"Hi-Hat close.ogg",70
+Sample,115266,0,"35_F0_123_119.ogg",100
+Sample,115266,0,"7 8 7 9 7 Em7 80.ogg",76
+Sample,115266,0,"x x 13 240.ogg",100
+Sample,115388,0,"Hi-Hat close.ogg",70
+Sample,115388,0,"35_G0_123_239.ogg",100
+Sample,115388,0,"8 9 8 10 8 Fm7 160.ogg",76
+Sample,115510,0,"Hi-Hat close.ogg",70
+Sample,115632,0,"Snare.ogg",70
+Sample,115632,0,"35_C1_123_239.ogg",100
+Sample,115632,0,"8 9 8 10 8 Fm7 80.ogg",76
+Sample,115632,0,"x x x 15 240.ogg",100
+Sample,115876,0,"Tom2.ogg",70
+Sample,115998,0,"Tom4.ogg",70
+Sample,115998,0,"35_C1_123_239.ogg",100
+Sample,116241,0,"35_C#1_123_119.ogg",100
+Sample,116241,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,116241,0,"x x 13 80.ogg",100
+Sample,116363,0,"35_C#1_123_119.ogg",100
+Sample,116363,0,"x x 13 80.ogg",100
+Sample,116485,0,"x x x 15 80.ogg",100
+Sample,116729,0,"Snare.ogg",70
+Sample,116729,0,"35_C#1_123_239.ogg",100
+Sample,116729,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,116729,0,"x x 13 80.ogg",100
+Sample,116973,0,"Hi-Hat close.ogg",70
+Sample,116973,0,"x x x 15 80.ogg",100
+Sample,117095,0,"Hi-Hat close.ogg",70
+Sample,117217,0,"Hi-Hat close.ogg",70
+Sample,117217,0,"35_D#1_123_119.ogg",100
+Sample,117217,0,"4 6 5 6 4 Dbmaj7 240.ogg",76
+Sample,117217,0,"x x 13 80.ogg",100
+Sample,117339,0,"Hi-Hat close.ogg",70
+Sample,117339,0,"35_F1_123_239.ogg",100
+Sample,117461,0,"Hi-Hat close.ogg",70
+Sample,117461,0,"x x x 15 80.ogg",100
+Sample,117583,0,"Kick.ogg",70
+Sample,117583,0,"Hi-Hat close.ogg",70
+Sample,117583,0,"35_G#1_123_359.ogg",100
+Sample,117583,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,117583,0,"x x 13 80.ogg",100
+Sample,117827,0,"Hi-Hat close.ogg",70
+Sample,117827,0,"x x 15 bend full 80.ogg",100
+Sample,117949,0,"Hi-Hat close.ogg",70
+Sample,117949,0,"35_G#1_123_119.ogg",100
+Sample,117949,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,118071,0,"Hi-Hat open.ogg",70
+Sample,118071,0,"35_G#1_123_119.ogg",100
+Sample,118071,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,118071,0,"x x 12 80.ogg",100
+Sample,118193,0,"Hi-Hat close.ogg",70
+Sample,118193,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,118315,0,"Kick.ogg",70
+Sample,118315,0,"Hi-Hat close.ogg",70
+Sample,118315,0,"35_D#1_123_239.ogg",100
+Sample,118315,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,118315,0,"x x 12 80.ogg",100
+Sample,118437,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,118437,0,"x x x 13 80.ogg",100
+Sample,118559,0,"Hi-Hat close.ogg",70
+Sample,118559,0,"35_D#1_123_119.ogg",100
+Sample,118559,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,118680,0,"Snare.ogg",70
+Sample,118680,0,"35_D#1_123_239.ogg",100
+Sample,118680,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,118680,0,"x x 12 80.ogg",100
+Sample,118802,0,"Hi-Hat close.ogg",70
+Sample,118924,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,118924,0,"x x x 13 80.ogg",100
+Sample,119046,0,"Hi-Hat close.ogg",70
+Sample,119046,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,119168,0,"Hi-Hat close.ogg",70
+Sample,119168,0,"35_G#1_123_119.ogg",100
+Sample,119168,0,"5 5 5 5 5 C6_D 80.ogg",76
+Sample,119168,0,"x x 12 80.ogg",100
+Sample,119290,0,"35_A#1_123_119.ogg",100
+Sample,119290,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,119290,0,"x x 13 160.ogg",100
+Sample,119412,0,"Hi-Hat close.ogg",70
+Sample,119412,0,"35_D#2_123_119.ogg",100
+Sample,119534,0,"Snare.ogg",70
+Sample,119534,0,"35_G#1_123_119.ogg",100
+Sample,119534,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,119534,0,"x x 12 80.ogg",100
+Sample,119656,0,"35_A#1_123_119.ogg",100
+Sample,119778,0,"Hi-Hat close.ogg",70
+Sample,119778,0,"35_D#2_123_119.ogg",100
+Sample,119900,0,"35_F1_123_239.ogg",100
+Sample,120144,0,"Hi-Hat close.ogg",70
+Sample,120144,0,"35_C1_123_119.ogg",100
+Sample,120144,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,120144,0,"x x 12 80.ogg",100
+Sample,120266,0,"35_C1_123_119.ogg",100
+Sample,120266,0,"x x 12 80.ogg",100
+Sample,120388,0,"Hi-Hat close.ogg",70
+Sample,120388,0,"x x x 13 80.ogg",100
+Sample,120510,0,"Hi-Hat close.ogg",70
+Sample,120632,0,"Snare.ogg",70
+Sample,120632,0,"35_C1_123_479.ogg",100
+Sample,120632,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,120632,0,"x x 12 80.ogg",100
+Sample,120876,0,"Hi-Hat close.ogg",70
+Sample,120876,0,"x x x 13 80.ogg",100
+Sample,120998,0,"Hi-Hat close.ogg",70
+Sample,121119,0,"Hi-Hat close.ogg",70
+Sample,121119,0,"35_C2_123_359.ogg",100
+Sample,121119,0,"x 8 8 8 x 8 Cm7 240.ogg",76
+Sample,121119,0,"x x 12 80.ogg",100
+Sample,121363,0,"Hi-Hat close.ogg",70
+Sample,121363,0,"x x x 13 80.ogg",100
+Sample,121485,0,"Kick.ogg",70
+Sample,121485,0,"Hi-Hat close.ogg",70
+Sample,121485,0,"35_C2_123_119.ogg",100
+Sample,121485,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,121485,0,"x x 12 80.ogg",100
+Sample,121729,0,"Hi-Hat close.ogg",70
+Sample,121729,0,"x x 15 80.ogg",100
+Sample,121851,0,"Hi-Hat close.ogg",70
+Sample,121851,0,"35_F2_123_119.ogg",100
+Sample,121851,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,121973,0,"Hi-Hat open.ogg",70
+Sample,121973,0,"35_F2_123_119.ogg",100
+Sample,121973,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,121973,0,"x x 13 80.ogg",100
+Sample,122095,0,"Hi-Hat close.ogg",70
+Sample,122095,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,122217,0,"Kick.ogg",70
+Sample,122217,0,"Hi-Hat close.ogg",70
+Sample,122217,0,"35_D#2_123_119.ogg",100
+Sample,122217,0,"8 9 8 10 8 Fm7 80.ogg",76
+Sample,122217,0,"x x 13 80.ogg",100
+Sample,122339,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,122339,0,"x x x 15 80.ogg",100
+Sample,122461,0,"Hi-Hat close.ogg",70
+Sample,122461,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,122461,0,"x x x 13 80.ogg",100
+Sample,122583,0,"Snare.ogg",70
+Sample,122583,0,"35_C2_123_119.ogg",100
+Sample,122583,0,"8 9 8 10 8 Fm7 160.ogg",76
+Sample,122583,0,"x x 13 80.ogg",100
+Sample,122827,0,"35_A#1_123_119.ogg",100
+Sample,122827,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,122827,0,"x x 15 bend full 80.ogg",100
+Sample,122949,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,123071,0,"Hi-Hat close.ogg",70
+Sample,123071,0,"35_G#1_123_479.ogg",100
+Sample,123071,0,"7 8 7 9 7 Em7 80.ogg",76
+Sample,123071,0,"x x 13 Left-hand vibrato 480.ogg",100
+Sample,123193,0,"8 9 8 10 8 Fm7 160.ogg",76
+Sample,123315,0,"Snare.ogg",70
+Sample,123437,0,"8 9 8 10 8 Fm7 80.ogg",76
+Sample,123559,0,"35_F1_123_479.ogg",100
+Sample,123680,0,"Snare.ogg",70
+Sample,123802,0,"Tom2.ogg",70
+Sample,124046,0,"35_G#0_123_239.ogg",100
+Sample,124046,0,"Arp. x 4 5 5 x 4 Abmaj7 1280.ogg",76
+Sample,124046,0,"x 8 Mute 80.ogg",100
+Sample,124168,0,"x 8 Mute 80.ogg",100
+Sample,124290,0,"Hi-Hat close.ogg",70
+Sample,124290,0,"35_D#1_123_239.ogg",100
+Sample,124290,0,"Arp. x 4 160.ogg",76
+Sample,124290,0,"x 8 80.ogg",100
+Sample,124412,0,"Kick.ogg",70
+Sample,124412,0,"x 9 80.ogg",100
+Sample,124534,0,"Hi-Hat close.ogg",70
+Sample,124534,0,"35_G#1_123_239.ogg",100
+Sample,124534,0,"Arp. x x 5 160.ogg",76
+Sample,124534,0,"x 8 80.ogg",100
+Sample,124656,0,"x x 8 80.ogg",100
+Sample,124778,0,"Kick.ogg",70
+Sample,124778,0,"Tom2.ogg",70
+Sample,124778,0,"35_G#1_123_239.ogg",100
+Sample,124778,0,"Arp. x 4 800.ogg",76
+Sample,124778,0,"x x 5 80.ogg",100
+Sample,124900,0,"x x 6 80.ogg",100
+Sample,125022,0,"Hi-Hat close.ogg",70
+Sample,125022,0,"35_A#1_123_239.ogg",100
+Sample,125022,0,"x x 5 Left-hand vibrato 640.ogg",100
+Sample,125144,0,"Tom2.ogg",70
+Sample,125266,0,"35_G#1_123_239.ogg",100
+Sample,125388,0,"Tom2.ogg",70
+Sample,125510,0,"35_A#0_123_479.ogg",100
+Sample,125632,0,"Snare.ogg",70
+Sample,125754,0,"Tom2.ogg",70
+Sample,125876,0,"Tom4.ogg",70
+Sample,125998,0,"35_A#0_123_119.ogg",100
+Sample,125998,0,"x 6 6 6 x 6 Bbm7 1280.ogg",76
+Sample,125998,0,"x x x x 10 80.ogg",100
+Sample,126119,0,"x x x x 11 80.ogg",100
+Sample,126241,0,"Hi-Hat close.ogg",70
+Sample,126241,0,"35_A#0_123_239.ogg",100
+Sample,126241,0,"x x x 10 80.ogg",100
+Sample,126363,0,"Hi-Hat close.ogg",70
+Sample,126363,0,"x x x 13 80.ogg",100
+Sample,126485,0,"35_A#0_123_239.ogg",100
+Sample,126485,0,"x x 12 80.ogg",100
+Sample,126607,0,"Hi-Hat close.ogg",70
+Sample,126607,0,"x x 13 80.ogg",100
+Sample,126729,0,"Kick.ogg",70
+Sample,126729,0,"Hi-Hat close.ogg",70
+Sample,126729,0,"35_A#0_123_119.ogg",100
+Sample,126729,0,"x 13 80.ogg",100
+Sample,126851,0,"Kick.ogg",70
+Sample,126851,0,"Hi-Hat close.ogg",70
+Sample,126851,0,"35_A#0_123_119.ogg",100
+Sample,126851,0,"11 80.ogg",100
+Sample,126973,0,"15 80.ogg",100
+Sample,127095,0,"Hi-Hat close.ogg",70
+Sample,127095,0,"11 80.ogg",100
+Sample,127217,0,"Hi-Hat close.ogg",70
+Sample,127217,0,"35_A#0_123_239.ogg",100
+Sample,127217,0,"x 13 80.ogg",100
+Sample,127339,0,"Hi-Hat close.ogg",70
+Sample,127339,0,"15 80.ogg",100
+Sample,127461,0,"35_A#0_123_239.ogg",100
+Sample,127583,0,"Hi-Hat close.ogg",70
+Sample,127583,0,"15 80.ogg",100
+Sample,127705,0,"Hi-Hat close.ogg",70
+Sample,127705,0,"35_A#0_123_239.ogg",100
+Sample,127705,0,"11 80.ogg",100
+Sample,127827,0,"Hi-Hat close.ogg",70
+Sample,127827,0,"x 13 80.ogg",100
+Sample,127949,0,"Hi-Hat close.ogg",70
+Sample,127949,0,"35_C1_123_119.ogg",100
+Sample,127949,0,"Arp. x x x x 3 160-2.ogg",76
+Sample,127949,0,"11 80.ogg",100
+Sample,128071,0,"Hi-Hat close.ogg",70
+Sample,128071,0,"8 80.ogg",100
+Sample,128193,0,"Hi-Hat close.ogg",70
+Sample,128193,0,"35_C1_123_239.ogg",100
+Sample,128193,0,"Arp. x x x 5 160.ogg",76
+Sample,128193,0,"x 9 80.ogg",100
+Sample,128315,0,"Hi-Hat close.ogg",70
+Sample,128315,0,"11 80.ogg",100
+Sample,128437,0,"35_C1_123_239.ogg",100
+Sample,128437,0,"Arp. x x 3 160-2.ogg",76
+Sample,128559,0,"Hi-Hat close.ogg",70
+Sample,128559,0,"11 80.ogg",100
+Sample,128680,0,"Kick.ogg",70
+Sample,128680,0,"Hi-Hat close.ogg",70
+Sample,128680,0,"35_C1_123_119.ogg",100
+Sample,128680,0,"Arp. x 4 800.ogg",76
+Sample,128680,0,"8 80.ogg",100
+Sample,128802,0,"Kick.ogg",70
+Sample,128802,0,"Hi-Hat close.ogg",70
+Sample,128802,0,"35_C1_123_119.ogg",100
+Sample,128802,0,"x 9 80.ogg",100
+Sample,128924,0,"x 8 80.ogg",100
+Sample,129046,0,"Hi-Hat close.ogg",70
+Sample,129046,0,"35_C1_123_119.ogg",100
+Sample,129046,0,"x 9 80.ogg",100
+Sample,129168,0,"Hi-Hat close.ogg",70
+Sample,129168,0,"35_G#1_123_239.ogg",100
+Sample,129168,0,"x 11 80.ogg",100
+Sample,129290,0,"Hi-Hat close.ogg",70
+Sample,129290,0,"x x 8 80.ogg",100
+Sample,129412,0,"35_G1_123_239.ogg",100
+Sample,129534,0,"Hi-Hat close.ogg",70
+Sample,129656,0,"Hi-Hat close.ogg",70
+Sample,129656,0,"35_G#1_123_239.ogg",100
+Sample,129778,0,"Hi-Hat close.ogg",70
+Sample,129900,0,"Hi-Hat close.ogg",70
+Sample,129900,0,"35_C#1_123_119.ogg",100
+Sample,129900,0,"4 6 5 6 4 Dbmaj7 1280.ogg",76
+Sample,129900,0,"x x x x 10 80.ogg",100
+Sample,130022,0,"Hi-Hat close.ogg",70
+Sample,130022,0,"x x x x 11 80.ogg",100
+Sample,130144,0,"Hi-Hat close.ogg",70
+Sample,130144,0,"35_C#1_123_239.ogg",100
+Sample,130144,0,"x x x 10 80.ogg",100
+Sample,130266,0,"Hi-Hat close.ogg",70
+Sample,130266,0,"x x x 13 80.ogg",100
+Sample,130388,0,"35_C#1_123_239.ogg",100
+Sample,130388,0,"x x 12 80.ogg",100
+Sample,130510,0,"Hi-Hat close.ogg",70
+Sample,130510,0,"x x 13 80.ogg",100
+Sample,130632,0,"Kick.ogg",70
+Sample,130632,0,"Hi-Hat close.ogg",70
+Sample,130632,0,"35_C#1_123_119.ogg",100
+Sample,130632,0,"x 13 80.ogg",100
+Sample,130754,0,"Hi-Hat open.ogg",70
+Sample,130754,0,"35_C#1_123_119.ogg",100
+Sample,130754,0,"11 80.ogg",100
+Sample,130876,0,"Hi-Hat close.ogg",70
+Sample,130876,0,"15 80.ogg",100
+Sample,130998,0,"11 80.ogg",100
+Sample,131119,0,"Hi-Hat open.ogg",70
+Sample,131119,0,"35_C#1_123_239.ogg",100
+Sample,131119,0,"x 13 80.ogg",100
+Sample,131241,0,"15 80.ogg",100
+Sample,131363,0,"35_C#1_123_239.ogg",100
+Sample,131485,0,"Hi-Hat close.ogg",70
+Sample,131485,0,"15 80.ogg",100
+Sample,131607,0,"Hi-Hat close.ogg",70
+Sample,131607,0,"35_C#1_123_239.ogg",100
+Sample,131607,0,"11 80.ogg",100
+Sample,131729,0,"Hi-Hat close.ogg",70
+Sample,131729,0,"x 13 80.ogg",100
+Sample,131851,0,"Hi-Hat close.ogg",70
+Sample,131851,0,"35_G#0_123_479.ogg",100
+Sample,131851,0,"Arp. x x x x x 4 160.ogg",76
+Sample,131851,0,"11 80.ogg",100
+Sample,131973,0,"Hi-Hat close.ogg",70
+Sample,131973,0,"8 80.ogg",100
+Sample,132095,0,"Hi-Hat close.ogg",70
+Sample,132095,0,"Arp. x x x 5 160.ogg",76
+Sample,132095,0,"x 9 80.ogg",100
+Sample,132217,0,"Hi-Hat close.ogg",70
+Sample,132217,0,"11 80.ogg",100
+Sample,132339,0,"35_D#1_123_239.ogg",100
+Sample,132339,0,"Arp. x x 5 160.ogg",76
+Sample,132461,0,"Hi-Hat close.ogg",70
+Sample,132461,0,"11 80.ogg",100
+Sample,132583,0,"Kick.ogg",70
+Sample,132583,0,"Hi-Hat close.ogg",70
+Sample,132583,0,"35_G#1_123_239.ogg",100
+Sample,132583,0,"Arp. x 4 800.ogg",76
+Sample,132583,0,"8 80.ogg",100
+Sample,132705,0,"Hi-Hat close.ogg",70
+Sample,132705,0,"x 9 80.ogg",100
+Sample,132827,0,"Hi-Hat close.ogg",70
+Sample,132827,0,"35_G1_123_62.ogg",100
+Sample,132827,0,"x 8 80.ogg",100
+Sample,132888,0,"35_A#1_123_175.ogg",100
+Sample,132949,0,"Hi-Hat close.ogg",70
+Sample,132949,0,"x 9 80.ogg",100
+Sample,133071,0,"Hi-Hat open.ogg",70
+Sample,133071,0,"35_G#1_123_239.ogg",100
+Sample,133071,0,"x 11 80.ogg",100
+Sample,133193,0,"8 80.ogg",100
+Sample,133315,0,"Hi-Hat open.ogg",70
+Sample,133315,0,"35_D#1_123_239.ogg",100
+Sample,133437,0,"Snare.ogg",70
+Sample,133559,0,"Tom2.ogg",70
+Sample,133559,0,"35_G#0_123_239.ogg",100
+Sample,133802,0,"35_A#0_123_119.ogg",100
+Sample,133802,0,"x 6 6 6 x 6 Bbm7 1280.ogg",76
+Sample,133802,0,"x x x x 10 80.ogg",100
+Sample,133924,0,"x x x x 11 80.ogg",100
+Sample,134046,0,"Hi-Hat close.ogg",70
+Sample,134046,0,"35_A#0_123_239.ogg",100
+Sample,134046,0,"x x x 10 80.ogg",100
+Sample,134168,0,"Hi-Hat close.ogg",70
+Sample,134168,0,"x x x 13 80.ogg",100
+Sample,134290,0,"35_A#0_123_239.ogg",100
+Sample,134290,0,"x x 12 80.ogg",100
+Sample,134412,0,"Hi-Hat close.ogg",70
+Sample,134412,0,"x x 13 80.ogg",100
+Sample,134534,0,"Kick.ogg",70
+Sample,134534,0,"Hi-Hat close.ogg",70
+Sample,134534,0,"35_A#0_123_119.ogg",100
+Sample,134534,0,"x 13 80.ogg",100
+Sample,134656,0,"Hi-Hat open.ogg",70
+Sample,134656,0,"35_A#0_123_119.ogg",100
+Sample,134656,0,"11 80.ogg",100
+Sample,134778,0,"Hi-Hat close.ogg",70
+Sample,134778,0,"15 80.ogg",100
+Sample,134900,0,"Hi-Hat close.ogg",70
+Sample,134900,0,"11 80.ogg",100
+Sample,135022,0,"Hi-Hat open.ogg",70
+Sample,135022,0,"35_A#0_123_239.ogg",100
+Sample,135022,0,"x 13 80.ogg",100
+Sample,135144,0,"15 80.ogg",100
+Sample,135266,0,"35_A#0_123_239.ogg",100
+Sample,135388,0,"Hi-Hat close.ogg",70
+Sample,135388,0,"15 80.ogg",100
+Sample,135510,0,"35_A#0_123_239.ogg",100
+Sample,135510,0,"11 80.ogg",100
+Sample,135632,0,"Hi-Hat close.ogg",70
+Sample,135632,0,"x 13 80.ogg",100
+Sample,135754,0,"Hi-Hat close.ogg",70
+Sample,135754,0,"35_C1_123_119.ogg",100
+Sample,135754,0,"Arp. x x x x 3 160-2.ogg",76
+Sample,135754,0,"11 80.ogg",100
+Sample,135876,0,"Hi-Hat close.ogg",70
+Sample,135876,0,"8 80.ogg",100
+Sample,135998,0,"Hi-Hat close.ogg",70
+Sample,135998,0,"35_C1_123_239.ogg",100
+Sample,135998,0,"Arp. x x x 6 160.ogg",76
+Sample,135998,0,"x 9 80.ogg",100
+Sample,136119,0,"Hi-Hat close.ogg",70
+Sample,136119,0,"11 80.ogg",100
+Sample,136241,0,"35_C1_123_239.ogg",100
+Sample,136241,0,"Arp. x x 3 160-2.ogg",76
+Sample,136363,0,"Hi-Hat close.ogg",70
+Sample,136363,0,"11 80.ogg",100
+Sample,136485,0,"Kick.ogg",70
+Sample,136485,0,"Hi-Hat close.ogg",70
+Sample,136485,0,"35_C1_123_119.ogg",100
+Sample,136485,0,"Arp. x 4 800.ogg",76
+Sample,136485,0,"8 80.ogg",100
+Sample,136607,0,"Hi-Hat open.ogg",70
+Sample,136607,0,"35_C1_123_119.ogg",100
+Sample,136607,0,"x 9 80.ogg",100
+Sample,136729,0,"Hi-Hat close.ogg",70
+Sample,136729,0,"35_G#1_123_239.ogg",100
+Sample,136729,0,"x 8 80.ogg",100
+Sample,136851,0,"Hi-Hat close.ogg",70
+Sample,136851,0,"x 9 80.ogg",100
+Sample,136973,0,"Hi-Hat open.ogg",70
+Sample,136973,0,"35_G1_123_239.ogg",100
+Sample,136973,0,"x 11 80.ogg",100
+Sample,137095,0,"x x 8 80.ogg",100
+Sample,137217,0,"Hi-Hat close.ogg",70
+Sample,137217,0,"35_D#1_123_479.ogg",100
+Sample,137583,0,"Snare.ogg",70
+Sample,137705,0,"35_C#1_123_239.ogg",100
+Sample,137705,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,137705,0,"x x 5 3 3 160.ogg",100
+Sample,137949,0,"35_G#1_123_239.ogg",100
+Sample,137949,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,137949,0,"x x 5 3 3 160.ogg",100
+Sample,138030,0,"Snare.ogg",70
+Sample,138111,0,"Tom4.ogg",70
+Sample,138193,0,"Kick.ogg",70
+Sample,138193,0,"35_C#1_123_239.ogg",100
+Sample,138437,0,"35_D1_123_479.ogg",100
+Sample,138437,0,"x 6 5 6 5 Dm7b5 320.ogg",76
+Sample,138437,0,"x x 7 x 5 320.ogg",100
+Sample,138680,0,"Kick.ogg",70
+Sample,138924,0,"Tom4.ogg",70
+Sample,138924,0,"35_A#1_123_239.ogg",100
+Sample,138924,0,"x 6 5 6 5 Dm7b5 160.ogg",76
+Sample,138924,0,"x x 7 x 5 160.ogg",100
+Sample,139168,0,"Tom2.ogg",70
+Sample,139168,0,"Tom4.ogg",70
+Sample,139168,0,"35_D2_123_239.ogg",100
+Sample,139412,0,"35_D#2_123_479.ogg",100
+Sample,139412,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,139412,0,"x x 8 x 6 320.ogg",100
+Sample,139656,0,"Kick.ogg",70
+Sample,139656,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,139778,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,139900,0,"Tom4.ogg",70
+Sample,139900,0,"35_A#1_123_239.ogg",100
+Sample,139900,0,"8 8 8 8 8 D#6_F 160.ogg",76
+Sample,139900,0,"x x 13 x 11 160.ogg",100
+Sample,140144,0,"Kick.ogg",70
+Sample,140144,0,"Tom2.ogg",70
+Sample,140144,0,"Tom4.ogg",70
+Sample,140144,0,"35_D#0_123_239.ogg",100
+Sample,140144,0,"8 8 8 8 8 D#6_F Mute 80.ogg",76
+Sample,140266,0,"8 8 8 8 8 D#6_F Mute 80.ogg",76
+Sample,140388,0,"Tom4.ogg",70
+Sample,140388,0,"35_D#0_123_479.ogg",100
+Sample,140388,0,"6 6 6 6 6 Db6add9_Eb 320.ogg",76
+Sample,140388,0,"x x 12 x 10 160.ogg",100
+Sample,140632,0,"Kick.ogg",70
+Sample,140632,0,"11 11 Mute 80.ogg",100
+Sample,140754,0,"11 11 Mute 80.ogg",100
+Sample,140876,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,140876,0,"x 11 10 80.ogg",100
+Sample,140998,0,"Snare.ogg",70
+Sample,140998,0,"x 13 12 80.ogg",100
+Sample,141119,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,141119,0,"x 11 10 320.ogg",100
+Sample,141363,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,141485,0,"Snare.ogg",70
+Sample,141607,0,"35_C#1_123_239.ogg",100
+Sample,141607,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,141607,0,"Arp. x x x 13 160.ogg",100
+Sample,141851,0,"Hi-Hat open L.ogg",70
+Sample,141851,0,"35_C#1_123_239.ogg",100
+Sample,141851,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,141851,0,"Arp. x 11 160.ogg",100
+Sample,142095,0,"Snare.ogg",70
+Sample,142095,0,"Hi-Hat close.ogg",70
+Sample,142095,0,"35_C#1_123_239.ogg",100
+Sample,142095,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,142095,0,"Arp. x x 13 160.ogg",100
+Sample,142339,0,"Hi-Hat open L.ogg",70
+Sample,142339,0,"35_C#1_123_119.ogg",100
+Sample,142339,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,142339,0,"Arp. 11 160.ogg",100
+Sample,142461,0,"35_C#1_123_359.ogg",100
+Sample,142461,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,142583,0,"Hi-Hat close.ogg",70
+Sample,142583,0,"Arp. x x 13 160.ogg",100
+Sample,142705,0,"Snare.ogg",70
+Sample,142705,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,142827,0,"35_C#1_123_239.ogg",100
+Sample,142827,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,142827,0,"Arp. x 11 160.ogg",100
+Sample,143071,0,"Snare.ogg",70
+Sample,143071,0,"Hi-Hat close.ogg",70
+Sample,143071,0,"35_G#1_123_239.ogg",100
+Sample,143071,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,143071,0,"Arp. x x 13 160.ogg",100
+Sample,143315,0,"Hi-Hat open L.ogg",70
+Sample,143315,0,"35_C#1_123_239.ogg",100
+Sample,143315,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,143315,0,"Arp. 11 160.ogg",100
+Sample,143437,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,143559,0,"Hi-Hat close.ogg",70
+Sample,143559,0,"35_D#1_123_239.ogg",100
+Sample,143559,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,143559,0,"Arp. x x 13 160.ogg",100
+Sample,143802,0,"Hi-Hat open L.ogg",70
+Sample,143802,0,"35_D#1_123_239.ogg",100
+Sample,143802,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,143802,0,"Arp. x 11 160.ogg",100
+Sample,144046,0,"Snare.ogg",70
+Sample,144046,0,"Hi-Hat close.ogg",70
+Sample,144046,0,"35_D#1_123_239.ogg",100
+Sample,144046,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,144046,0,"Arp. x x 13 160.ogg",100
+Sample,144290,0,"Hi-Hat open L.ogg",70
+Sample,144290,0,"35_D#1_123_119.ogg",100
+Sample,144290,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,144290,0,"Arp. 11 160.ogg",100
+Sample,144412,0,"35_D#1_123_239.ogg",100
+Sample,144412,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,144534,0,"Hi-Hat close.ogg",70
+Sample,144534,0,"Arp. x x 13 160.ogg",100
+Sample,144656,0,"Snare.ogg",70
+Sample,144656,0,"35_D#1_123_119.ogg",100
+Sample,144656,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,144778,0,"35_A#0_123_119.ogg",100
+Sample,144778,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,144778,0,"Arp. x 11 160.ogg",100
+Sample,144900,0,"35_C1_123_119.ogg",100
+Sample,145022,0,"Snare.ogg",70
+Sample,145022,0,"Hi-Hat close.ogg",70
+Sample,145022,0,"35_D#1_123_239.ogg",100
+Sample,145022,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,145022,0,"Arp. x x 13 160.ogg",100
+Sample,145266,0,"Hi-Hat open L.ogg",70
+Sample,145266,0,"35_A#0_123_239.ogg",100
+Sample,145266,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,145266,0,"Arp. 11 160.ogg",100
+Sample,145388,0,"Snare.ogg",70
+Sample,145388,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,145510,0,"Hi-Hat close.ogg",70
+Sample,145510,0,"35_C1_123_239.ogg",100
+Sample,145510,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,145510,0,"Arp. x x 13 160.ogg",100
+Sample,145754,0,"Hi-Hat open L.ogg",70
+Sample,145754,0,"35_C1_123_239.ogg",100
+Sample,145754,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,145754,0,"Arp. x 11 160.ogg",100
+Sample,145998,0,"Snare.ogg",70
+Sample,145998,0,"Hi-Hat close.ogg",70
+Sample,145998,0,"35_C1_123_239.ogg",100
+Sample,145998,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,145998,0,"Arp. x x 13 160.ogg",100
+Sample,146241,0,"Hi-Hat open L.ogg",70
+Sample,146241,0,"35_C1_123_119.ogg",100
+Sample,146241,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,146241,0,"Arp. 11 160.ogg",100
+Sample,146363,0,"35_C1_123_239.ogg",100
+Sample,146363,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,146485,0,"Hi-Hat close.ogg",70
+Sample,146485,0,"Arp. x x 13 160.ogg",100
+Sample,146607,0,"Snare.ogg",70
+Sample,146607,0,"35_C1_123_119.ogg",100
+Sample,146607,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,146729,0,"35_G1_123_479.ogg",100
+Sample,146729,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,146729,0,"Arp. x 11 160.ogg",100
+Sample,146973,0,"Snare.ogg",70
+Sample,146973,0,"Hi-Hat close.ogg",70
+Sample,146973,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,146973,0,"Arp. x x 13 160.ogg",100
+Sample,147217,0,"35_F#1_123_239.ogg",100
+Sample,147217,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,147217,0,"x x 13 13 Mute 80.ogg",100
+Sample,147339,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,147339,0,"x x 13 13 Mute 80.ogg",100
+Sample,147461,0,"Hi-Hat close.ogg",70
+Sample,147461,0,"35_F1_123_479.ogg",100
+Sample,147461,0,"8 9 8 10 8 Fm7 160.ogg",76
+Sample,147461,0,"x x 13 x 11 160.ogg",100
+Sample,147583,0,"Snare.ogg",70
+Sample,147705,0,"Hi-Hat open L.ogg",70
+Sample,147705,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,147705,0,"x x 13 x 11 Mute 80.ogg",100
+Sample,147827,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,147827,0,"x x 13 x 11 Mute 80.ogg",100
+Sample,147949,0,"Snare.ogg",70
+Sample,147949,0,"Hi-Hat close.ogg",70
+Sample,147949,0,"35_E1_123_479.ogg",100
+Sample,147949,0,"7 8 7 9 7 Em7160.ogg",76
+Sample,147949,0,"x x 12 x 10 160.ogg",100
+Sample,148193,0,"Hi-Hat open L.ogg",70
+Sample,148193,0,"7 8 7 9 7 Em7 Mute 80.ogg",76
+Sample,148193,0,"x x 12 x 10 Mute 80.ogg",100
+Sample,148315,0,"7 8 7 9 7 Em7 Mute 80.ogg",76
+Sample,148315,0,"x x 12 x 10 Mute 80.ogg",100
+Sample,148437,0,"Hi-Hat close.ogg",70
+Sample,148437,0,"35_D#1_123_239.ogg",100
+Sample,148437,0,"6 7 6 8 6 Ebm7 160.ogg",76
+Sample,148437,0,"x 14 x 11 160.ogg",100
+Sample,148559,0,"Snare.ogg",70
+Sample,148680,0,"Hi-Hat open L.ogg",70
+Sample,148680,0,"35_A#0_123_239.ogg",100
+Sample,148680,0,"6 7 6 8 6 Ebm7 Mute 80.ogg",76
+Sample,148680,0,"x 14 x 11 Mute 80.ogg",100
+Sample,148802,0,"6 7 6 8 6 Ebm7 Mute 80.ogg",76
+Sample,148802,0,"x 14 x 11 Mute 80.ogg",100
+Sample,148924,0,"Snare.ogg",70
+Sample,148924,0,"Hi-Hat close.ogg",70
+Sample,148924,0,"35_G#0_123_239.ogg",100
+Sample,148924,0,"4 4 5 6 6 4 Ab 160.ogg",76
+Sample,148924,0,"x 13 x 10 160.ogg",100
+Sample,149168,0,"Hi-Hat open L.ogg",70
+Sample,149168,0,"35_C1_123_239.ogg",100
+Sample,149168,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,149168,0,"x 13 x 10 80.ogg",100
+Sample,149290,0,"Snare.ogg",70
+Sample,149290,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,149290,0,"x 13 x 10 80.ogg",100
+Sample,149412,0,"35_C#1_123_239.ogg",100
+Sample,149412,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,149412,0,"x x 13 x 11 160.ogg",100
+Sample,149656,0,"Hi-Hat open L.ogg",70
+Sample,149656,0,"35_C#1_123_239.ogg",100
+Sample,149656,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,149656,0,"x x 13 x 11 80.ogg",100
+Sample,149778,0,"x x 13 x 11 80.ogg",100
+Sample,149900,0,"Snare.ogg",70
+Sample,149900,0,"Hi-Hat close.ogg",70
+Sample,149900,0,"35_C#1_123_239.ogg",100
+Sample,149900,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,149900,0,"x x 13 x 11 160.ogg",100
+Sample,150144,0,"Hi-Hat open L.ogg",70
+Sample,150144,0,"35_C#1_123_119.ogg",100
+Sample,150144,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,150144,0,"x x 13 x 11 80.ogg",100
+Sample,150266,0,"35_C#1_123_239.ogg",100
+Sample,150266,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,150266,0,"x x 13 x 11 160.ogg",100
+Sample,150388,0,"Hi-Hat close.ogg",70
+Sample,150510,0,"Snare.ogg",70
+Sample,150510,0,"35_C#1_123_119.ogg",100
+Sample,150510,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,150510,0,"x x 13 x 11 80.ogg",100
+Sample,150632,0,"35_F1_123_239.ogg",100
+Sample,150632,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,150632,0,"x x 13 x 11 160.ogg",100
+Sample,150876,0,"Snare.ogg",70
+Sample,150876,0,"Hi-Hat close.ogg",70
+Sample,150876,0,"35_G#1_123_239.ogg",100
+Sample,150876,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,150876,0,"x x 13 x 11 160.ogg",100
+Sample,151119,0,"Hi-Hat open L.ogg",70
+Sample,151119,0,"35_F1_123_239.ogg",100
+Sample,151119,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,151119,0,"x x 12 x 10 80.ogg",100
+Sample,151241,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,151241,0,"x x 13 x 11 80.ogg",100
+Sample,151363,0,"Hi-Hat close.ogg",70
+Sample,151363,0,"35_D#1_123_239.ogg",100
+Sample,151363,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,151363,0,"x x 12 x 10 160.ogg",100
+Sample,151607,0,"Hi-Hat open L.ogg",70
+Sample,151607,0,"35_D#1_123_239.ogg",100
+Sample,151607,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,151607,0,"x x 12 x 10 160.ogg",100
+Sample,151851,0,"Snare.ogg",70
+Sample,151851,0,"Hi-Hat close.ogg",70
+Sample,151851,0,"35_D#1_123_239.ogg",100
+Sample,151851,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,151851,0,"x x 12 x 10 160.ogg",100
+Sample,152095,0,"Hi-Hat open L.ogg",70
+Sample,152095,0,"35_D#1_123_119.ogg",100
+Sample,152095,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,152095,0,"x x 8 x 6 80.ogg",100
+Sample,152217,0,"35_D#1_123_239.ogg",100
+Sample,152217,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,152217,0,"x x 8 x 6 160.ogg",100
+Sample,152339,0,"Hi-Hat close.ogg",70
+Sample,152461,0,"Snare.ogg",70
+Sample,152461,0,"35_G1_123_119.ogg",100
+Sample,152461,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,152461,0,"x x 8 x 6 80.ogg",100
+Sample,152583,0,"35_C2_123_239.ogg",100
+Sample,152583,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,152583,0,"x x 8 x 6 160.ogg",100
+Sample,152827,0,"Snare.ogg",70
+Sample,152827,0,"Hi-Hat close.ogg",70
+Sample,152827,0,"35_A#1_123_239.ogg",100
+Sample,152827,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,152827,0,"x x 8 x 6 160.ogg",100
+Sample,153071,0,"35_F1_123_239.ogg",100
+Sample,153071,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,153071,0,"x x 8 x 6 Mute 80.ogg",100
+Sample,153193,0,"Snare.ogg",70
+Sample,153193,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,153193,0,"x x 8 x 6 Mute 80.ogg",100
+Sample,153315,0,"Hi-Hat close.ogg",70
+Sample,153315,0,"35_C1_123_239.ogg",100
+Sample,153315,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,153315,0,"x 8 8 8 160.ogg",100
+Sample,153559,0,"Snare.ogg",70
+Sample,153559,0,"Hi-Hat open L.ogg",70
+Sample,153559,0,"35_C1_123_239.ogg",100
+Sample,153559,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,153559,0,"x 8 8 8 160.ogg",100
+Sample,153802,0,"Hi-Hat close.ogg",70
+Sample,153802,0,"35_C1_123_239.ogg",100
+Sample,154046,0,"Finish.ogg",50
+Sample,154046,0,"35_E1_123_479.ogg",100
+Sample,154046,0,"6 8 6 8 7 Edim7 320.ogg",76
+Sample,154046,0,"x 8 6 8 320.ogg",100
+Sample,154290,0,"Kick.ogg",70
+Sample,154534,0,"35_C1_123_239.ogg",100
+Sample,154534,0,"6 8 6 8 7 Edim7 160.ogg",76
+Sample,154534,0,"x 8 6 8 160.ogg",100
+Sample,154778,0,"Kick.ogg",70
+Sample,154778,0,"Tom4.ogg",70
+Sample,154778,0,"35_D#0_123_239.ogg",100
+Sample,155022,0,"35_F0_123_479.ogg",100
+Sample,155022,0,"8 9 8 10 8 Fm7 320.ogg",76
+Sample,155022,0,"x 9 8 10 320.ogg",100
+Sample,155266,0,"Kick.ogg",70
+Sample,155510,0,"35_F0_123_239.ogg",100
+Sample,155510,0,"8 9 8 10 8 Fm7 160.ogg",76
+Sample,155510,0,"x x 8 160.ogg",100
+Sample,155754,0,"Finish.ogg",50
+Sample,155754,0,"Tom4.ogg",70
+Sample,155754,0,"35_G0_123_239.ogg",100
+Sample,155754,0,"x 11 10 160.ogg",100
+Sample,155998,0,"4 4 5 6 6 4 Ab 320.ogg",76
+Sample,155998,0,"x 9 8 160.ogg",100
+Sample,156119,0,"Snare.ogg",70
+Sample,156241,0,"Kick.ogg",70
+Sample,156241,0,"11 x 8 Mute 80.ogg",100
+Sample,156363,0,"Tom1.ogg",70
+Sample,156363,0,"11 x 8 Mute 80.ogg",100
+Sample,156485,0,"35_A#0_123_239.ogg",100
+Sample,156485,0,"4 4 5 6 6 4 Ab 160.ogg",76
+Sample,156485,0,"11 x 8 80.ogg",100
+Sample,156607,0,"13 x 10 80.ogg",100
+Sample,156729,0,"35_C1_123_239.ogg",100
+Sample,156729,0,"4 4 5 6 6 4 Ab 160.ogg",76
+Sample,156729,0,"11 x 8 320.ogg",100
+Sample,156851,0,"Tom2.ogg",70
+Sample,156973,0,"35_G#0_123_239.ogg",100
+Sample,156973,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,157095,0,"Tom4.ogg",70
+Sample,157095,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,157217,0,"35_C#1_123_239.ogg",100
+Sample,157217,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,157217,0,"Arp. x x x 13 160.ogg",100
+Sample,157461,0,"Hi-Hat open L.ogg",70
+Sample,157461,0,"35_C#1_123_239.ogg",100
+Sample,157461,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,157461,0,"Arp. x 11 160.ogg",100
+Sample,157705,0,"Snare.ogg",70
+Sample,157705,0,"Hi-Hat close.ogg",70
+Sample,157705,0,"35_C#1_123_239.ogg",100
+Sample,157705,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,157705,0,"Arp. x x 13 160.ogg",100
+Sample,157949,0,"Hi-Hat open L.ogg",70
+Sample,157949,0,"35_C#1_123_119.ogg",100
+Sample,157949,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,157949,0,"Arp. 11 160.ogg",100
+Sample,158071,0,"35_C#1_123_359.ogg",100
+Sample,158071,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,158193,0,"Hi-Hat close.ogg",70
+Sample,158193,0,"Arp. x x 13 160.ogg",100
+Sample,158315,0,"Snare.ogg",70
+Sample,158315,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,158437,0,"35_F1_123_239.ogg",100
+Sample,158437,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,158437,0,"Arp. x 11 160.ogg",100
+Sample,158680,0,"Snare.ogg",70
+Sample,158680,0,"Hi-Hat close.ogg",70
+Sample,158680,0,"35_G#1_123_239.ogg",100
+Sample,158680,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,158680,0,"Arp. x x 13 160.ogg",100
+Sample,158924,0,"Hi-Hat open L.ogg",70
+Sample,158924,0,"35_F1_123_239.ogg",100
+Sample,158924,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,158924,0,"Arp. 11 160.ogg",100
+Sample,159046,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,159168,0,"Hi-Hat close.ogg",70
+Sample,159168,0,"35_D#1_123_239.ogg",100
+Sample,159168,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,159168,0,"Arp. x x 13 160.ogg",100
+Sample,159290,0,"Snare.ogg",70
+Sample,159412,0,"Hi-Hat open L.ogg",70
+Sample,159412,0,"35_C2_123_239.ogg",100
+Sample,159412,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,159412,0,"Arp. x 11 160.ogg",100
+Sample,159656,0,"Snare.ogg",70
+Sample,159656,0,"Hi-Hat close.ogg",70
+Sample,159656,0,"35_A#1_123_239.ogg",100
+Sample,159656,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,159656,0,"Arp. x x 13 160.ogg",100
+Sample,159900,0,"Hi-Hat open L.ogg",70
+Sample,159900,0,"35_F2_123_239.ogg",100
+Sample,159900,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,159900,0,"Arp. 11 160.ogg",100
+Sample,160022,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,160144,0,"Hi-Hat close.ogg",70
+Sample,160144,0,"35_D#2_123_239.ogg",100
+Sample,160144,0,"Arp. x x 13 160.ogg",100
+Sample,160266,0,"Snare.ogg",70
+Sample,160266,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,160388,0,"35_A#1_123_239.ogg",100
+Sample,160388,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,160388,0,"Arp. x 11 160.ogg",100
+Sample,160632,0,"Snare.ogg",70
+Sample,160632,0,"Hi-Hat close.ogg",70
+Sample,160632,0,"35_D#1_123_239.ogg",100
+Sample,160632,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,160632,0,"Arp. x x 13 160.ogg",100
+Sample,160876,0,"Hi-Hat open L.ogg",70
+Sample,160876,0,"35_C#1_123_239.ogg",100
+Sample,160876,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,160876,0,"Arp. 11 160.ogg",100
+Sample,160998,0,"Snare.ogg",70
+Sample,160998,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,161119,0,"Hi-Hat close.ogg",70
+Sample,161119,0,"35_C1_123_239.ogg",100
+Sample,161119,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,161119,0,"Arp. x x 13 160.ogg",100
+Sample,161363,0,"Hi-Hat open L.ogg",70
+Sample,161363,0,"35_C1_123_239.ogg",100
+Sample,161363,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,161363,0,"Arp. x 11 160.ogg",100
+Sample,161607,0,"Snare.ogg",70
+Sample,161607,0,"Hi-Hat close.ogg",70
+Sample,161607,0,"35_C1_123_239.ogg",100
+Sample,161607,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,161607,0,"Arp. x x 13 160.ogg",100
+Sample,161851,0,"Hi-Hat open L.ogg",70
+Sample,161851,0,"35_C1_123_119.ogg",100
+Sample,161851,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,161851,0,"Arp. 11 160.ogg",100
+Sample,161973,0,"35_C1_123_359.ogg",100
+Sample,161973,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,162095,0,"Hi-Hat close.ogg",70
+Sample,162095,0,"Arp. x x 13 160.ogg",100
+Sample,162217,0,"Snare.ogg",70
+Sample,162217,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,162339,0,"35_C2_123_239.ogg",100
+Sample,162339,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,162339,0,"Arp. x 11 160.ogg",100
+Sample,162583,0,"Snare.ogg",70
+Sample,162583,0,"Hi-Hat close.ogg",70
+Sample,162583,0,"35_C2_123_239.ogg",100
+Sample,162583,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,162583,0,"Arp. x x 13 160.ogg",100
+Sample,162827,0,"35_G1_123_239.ogg",100
+Sample,162827,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,162827,0,"x x 13 13 Mute 80.ogg",100
+Sample,162949,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,162949,0,"x x 13 13 Mute 80.ogg",100
+Sample,163071,0,"Hi-Hat close.ogg",70
+Sample,163071,0,"35_F1_123_479.ogg",100
+Sample,163071,0,"8 9 8 10 8 Fm7 160.ogg",76
+Sample,163071,0,"x x 13 x 11 160.ogg",100
+Sample,163315,0,"Hi-Hat open L.ogg",70
+Sample,163315,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,163315,0,"x x 13 x 11 Mute 80.ogg",100
+Sample,163437,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,163437,0,"x x 13 x 11 Mute 80.ogg",100
+Sample,163559,0,"Snare.ogg",70
+Sample,163559,0,"Hi-Hat close.ogg",70
+Sample,163559,0,"35_E1_123_479.ogg",100
+Sample,163559,0,"7 8 7 9 7 Em7160.ogg",76
+Sample,163559,0,"x x 12 x 10 160.ogg",100
+Sample,163802,0,"Hi-Hat open L.ogg",70
+Sample,163802,0,"7 8 7 9 7 Em7 Mute 80.ogg",76
+Sample,163802,0,"x x 12 x 10 Mute 80.ogg",100
+Sample,163924,0,"7 8 7 9 7 Em7 Mute 80.ogg",76
+Sample,163924,0,"x x 12 x 10 Mute 80.ogg",100
+Sample,164046,0,"Hi-Hat close.ogg",70
+Sample,164046,0,"35_D#1_123_239.ogg",100
+Sample,164046,0,"6 7 6 8 6 Ebm7 160.ogg",76
+Sample,164046,0,"x 14 x 11 160.ogg",100
+Sample,164168,0,"Snare.ogg",70
+Sample,164290,0,"Hi-Hat open L.ogg",70
+Sample,164290,0,"35_A#0_123_239.ogg",100
+Sample,164290,0,"6 7 6 8 6 Ebm7 Mute 80.ogg",76
+Sample,164290,0,"x 14 x 11 Mute 80.ogg",100
+Sample,164412,0,"6 7 6 8 6 Ebm7 Mute 80.ogg",76
+Sample,164412,0,"x 14 x 11 Mute 80.ogg",100
+Sample,164534,0,"Snare.ogg",70
+Sample,164534,0,"Hi-Hat close.ogg",70
+Sample,164534,0,"35_G#0_123_239.ogg",100
+Sample,164534,0,"4 4 5 6 6 4 Ab 160.ogg",76
+Sample,164534,0,"x 13 x 10 160.ogg",100
+Sample,164778,0,"Hi-Hat open L.ogg",70
+Sample,164778,0,"35_C1_123_239.ogg",100
+Sample,164778,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,164778,0,"x 13 x 10 80.ogg",100
+Sample,164900,0,"Snare.ogg",70
+Sample,164900,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,164900,0,"x 13 x 10 80.ogg",100
+Sample,165022,0,"35_A#0_123_239.ogg",100
+Sample,165022,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,165022,0,"x 16 x 13 Mute 80.ogg",100
+Sample,165144,0,"x 16 x 13 Mute 80.ogg",100
+Sample,165266,0,"Hi-Hat open L.ogg",70
+Sample,165266,0,"35_A#0_123_239.ogg",100
+Sample,165266,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,165266,0,"x 16 x 13 80.ogg",100
+Sample,165388,0,"x 16 x 13 Mute 80.ogg",100
+Sample,165510,0,"Snare.ogg",70
+Sample,165510,0,"Hi-Hat close.ogg",70
+Sample,165510,0,"35_A#0_123_239.ogg",100
+Sample,165510,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,165510,0,"x 16 x 13 Mute 80.ogg",100
+Sample,165632,0,"x 16 x 13 80.ogg",100
+Sample,165754,0,"Hi-Hat open L.ogg",70
+Sample,165754,0,"35_A#0_123_119.ogg",100
+Sample,165754,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,165754,0,"x 16 x 13 Mute 80.ogg",100
+Sample,165876,0,"35_A#0_123_359.ogg",100
+Sample,165876,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,165876,0,"x 16 x 13 Mute 80.ogg",100
+Sample,165998,0,"Hi-Hat close.ogg",70
+Sample,165998,0,"x 16 x 13 80.ogg",100
+Sample,166119,0,"Snare.ogg",70
+Sample,166119,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,166119,0,"x 16 x 13 80.ogg",100
+Sample,166241,0,"35_F0_123_239.ogg",100
+Sample,166241,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,166241,0,"x 16 x 13 80.ogg",100
+Sample,166363,0,"x 16 x 13 80.ogg",100
+Sample,166485,0,"Snare.ogg",70
+Sample,166485,0,"Hi-Hat close.ogg",70
+Sample,166485,0,"35_G#0_123_239.ogg",100
+Sample,166485,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,166485,0,"x 16 x 13 Mute 80.ogg",100
+Sample,166607,0,"x 16 x 13 Mute 80.ogg",100
+Sample,166729,0,"Hi-Hat open L.ogg",70
+Sample,166729,0,"35_A#0_123_239.ogg",100
+Sample,166729,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,166729,0,"x 16 x 13 80.ogg",100
+Sample,166851,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,166851,0,"x 16 x 13 80.ogg",100
+Sample,166973,0,"Hi-Hat close.ogg",70
+Sample,166973,0,"35_C1_123_239.ogg",100
+Sample,166973,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,166973,0,"x 16 x 13 Mute 80.ogg",100
+Sample,167095,0,"x 16 x 13 Mute 80.ogg",100
+Sample,167217,0,"Hi-Hat open L.ogg",70
+Sample,167217,0,"35_C1_123_239.ogg",100
+Sample,167217,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,167217,0,"x 16 x 13 80.ogg",100
+Sample,167339,0,"x 16 x 13 Mute 80.ogg",100
+Sample,167461,0,"Snare.ogg",70
+Sample,167461,0,"Hi-Hat close.ogg",70
+Sample,167461,0,"35_C1_123_239.ogg",100
+Sample,167461,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,167461,0,"x 16 x 13 Mute 80.ogg",100
+Sample,167583,0,"x 16 x 13 80.ogg",100
+Sample,167705,0,"Hi-Hat open L.ogg",70
+Sample,167705,0,"35_C1_123_119.ogg",100
+Sample,167705,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,167705,0,"x 16 x 13 Mute 80.ogg",100
+Sample,167827,0,"35_C1_123_359.ogg",100
+Sample,167827,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,167827,0,"x 16 x 13 Mute 80.ogg",100
+Sample,167949,0,"Hi-Hat close.ogg",70
+Sample,167949,0,"x 16 x 13 80.ogg",100
+Sample,168071,0,"Snare.ogg",70
+Sample,168071,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,168071,0,"x 16 x 13 80.ogg",100
+Sample,168193,0,"35_G#1_123_239.ogg",100
+Sample,168193,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,168193,0,"x 16 x 13 80.ogg",100
+Sample,168315,0,"x 16 x 13 80.ogg",100
+Sample,168437,0,"Snare.ogg",70
+Sample,168437,0,"Hi-Hat close.ogg",70
+Sample,168437,0,"35_G1_123_239.ogg",100
+Sample,168437,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,168437,0,"x 16 x 13 Mute 80.ogg",100
+Sample,168559,0,"x 16 x 13 Mute 80.ogg",100
+Sample,168680,0,"35_D#1_123_239.ogg",100
+Sample,168680,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,168680,0,"x 16 x 13 80.ogg",100
+Sample,168802,0,"Snare.ogg",70
+Sample,168802,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,168802,0,"x 16 x 13 80.ogg",100
+Sample,168924,0,"Hi-Hat close.ogg",70
+Sample,168924,0,"35_C#1_123_239.ogg",100
+Sample,168924,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,168924,0,"x 16 x 13 Mute 80.ogg",100
+Sample,169046,0,"x 16 x 13 Mute 80.ogg",100
+Sample,169168,0,"Hi-Hat open L.ogg",70
+Sample,169168,0,"35_C#1_123_239.ogg",100
+Sample,169168,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,169168,0,"x 16 x 13 80.ogg",100
+Sample,169290,0,"x 16 x 13 80.ogg",100
+Sample,169412,0,"Snare.ogg",70
+Sample,169412,0,"Hi-Hat close.ogg",70
+Sample,169412,0,"35_C#1_123_239.ogg",100
+Sample,169412,0,"x 16 x 13 Mute 80.ogg",100
+Sample,169534,0,"x 16 x 13 Mute 80.ogg",100
+Sample,169656,0,"35_D1_123_479.ogg",100
+Sample,169656,0,"x 3 3 3 5 Bb_D 320.ogg",76
+Sample,169656,0,"x 15 15 320.ogg",100
+Sample,169900,0,"Kick.ogg",70
+Sample,170144,0,"Tom4.ogg",70
+Sample,170144,0,"35_D1_123_239.ogg",100
+Sample,170144,0,"x 3 3 3 5 Bb_D 160.ogg",76
+Sample,170144,0,"x 15 15 160.ogg",100
+Sample,170388,0,"Snare.ogg",70
+Sample,170388,0,"Tom4.ogg",70
+Sample,170388,0,"35_A#0_123_239.ogg",100
+Sample,170632,0,"35_D#1_123_479.ogg",100
+Sample,170632,0,"6 6 6 6 6 Db6add9_Eb 320.ogg",76
+Sample,170632,0,"x x x 13 320.ogg",100
+Sample,170876,0,"Kick.ogg",70
+Sample,171119,0,"Finish.ogg",50
+Sample,171119,0,"35_D#0_123_239.ogg",100
+Sample,171119,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,171119,0,"x x 15 160.ogg",100
+Sample,171363,0,"35_D#0_123_239.ogg",100
+Sample,171363,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,171363,0,"x x 13 160.ogg",100
+Sample,171607,0,"35_D#0_123_239.ogg",100
+Sample,171607,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,171607,0,"x 16 320.ogg",100
+Sample,171729,0,"Snare.ogg",70
+Sample,171851,0,"Snare.ogg",70
+Sample,171851,0,"35_A#0_123_239.ogg",100
+Sample,171851,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,171973,0,"Snare.ogg",70
+Sample,172095,0,"Snare.ogg",70
+Sample,172095,0,"35_D#1_123_239.ogg",100
+Sample,172095,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,172095,0,"x 21 Left-hand vibrato 480.ogg",100
+Sample,172217,0,"Snare.ogg",70
+Sample,172217,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,172339,0,"Snare.ogg",70
+Sample,172339,0,"35_G#0_123_479.ogg",100
+Sample,172339,0,"x x x x x 4 320.ogg",76
+Sample,172461,0,"Snare.ogg",70
+Sample,172583,0,"Snare.ogg",70
+Sample,172705,0,"Snare.ogg",70
+Sample,172827,0,"35_C1_123_239.ogg",100
+Sample,172827,0,"solo x x 5 3 3 Fm_C 160.ogg",76
+Sample,172827,0,"solo 1 1 1 Mute 80.ogg",100
+Sample,172949,0,"solo 1 1 1 Mute 80.ogg",100
+Sample,173071,0,"Hi-Hat open L.ogg",70
+Sample,173071,0,"35_C1_123_239.ogg",100
+Sample,173071,0,"solo x x 5 3 3 Fm_C 160.ogg",76
+Sample,173071,0,"solo x x x 6 80.ogg",100
+Sample,173193,0,"solo x x x 5 80.ogg",100
+Sample,173315,0,"Snare.ogg",70
+Sample,173315,0,"Hi-Hat close.ogg",70
+Sample,173315,0,"35_C1_123_239.ogg",100
+Sample,173315,0,"solo x x 5 3 3 Fm_C 160.ogg",76
+Sample,173315,0,"solo x x x 6 80.ogg",100
+Sample,173437,0,"solo x x x 8 80.ogg",100
+Sample,173559,0,"Hi-Hat open L.ogg",70
+Sample,173559,0,"35_C#1_123_479.ogg",100
+Sample,173559,0,"solo x x 6 3 4 Db 160.ogg",76
+Sample,173559,0,"solo x x x 10 160.ogg",100
+Sample,173802,0,"Kick.ogg",70
+Sample,173802,0,"Hi-Hat close.ogg",70
+Sample,173802,0,"solo x x 6 3 4 Db 160.ogg",76
+Sample,173802,0,"solo x x x 8 160.ogg",100
+Sample,174046,0,"35_G#1_123_239.ogg",100
+Sample,174046,0,"solo x x 6 3 4 Db 160.ogg",76
+Sample,174046,0,"solo x x x 6 80.ogg",100
+Sample,174290,0,"Snare.ogg",70
+Sample,174290,0,"Hi-Hat close.ogg",70
+Sample,174290,0,"35_C#1_123_239.ogg",100
+Sample,174290,0,"solo x x 6 3 4 Db 160.ogg",76
+Sample,174290,0,"solo x x x x 6 160.ogg",100
+Sample,174534,0,"Hi-Hat open L.ogg",70
+Sample,174534,0,"35_C#1_123_239.ogg",100
+Sample,174534,0,"solo x x 6 3 4 Db 80.ogg",76
+Sample,174534,0,"solo x x x x x 8 80.ogg",100
+Sample,174656,0,"solo x x 6 3 4 Db 80.ogg",76
+Sample,174656,0,"solo x x x x x 9 80.ogg",100
+Sample,174778,0,"Hi-Hat close.ogg",70
+Sample,174778,0,"35_D#1_123_239.ogg",100
+Sample,174778,0,"solo x x 8 8 6 Eb 160.ogg",76
+Sample,174778,0,"solo x x x x 6 160.ogg",100
+Sample,175022,0,"Hi-Hat open L.ogg",70
+Sample,175022,0,"35_D#1_123_239.ogg",100
+Sample,175022,0,"solo x x 8 8 6 Eb 160.ogg",76
+Sample,175022,0,"solo x x x x x 9 80.ogg",100
+Sample,175144,0,"solo x x x x x 8 80.ogg",100
+Sample,175266,0,"Snare.ogg",70
+Sample,175266,0,"Hi-Hat close.ogg",70
+Sample,175266,0,"35_D#1_123_239.ogg",100
+Sample,175266,0,"solo x x 8 8 6 Eb Mute 80.ogg",76
+Sample,175266,0,"solo x x x x x 6 160.ogg",100
+Sample,175388,0,"solo x x 8 8 6 Eb Mute 80.ogg",76
+Sample,175510,0,"Hi-Hat open L.ogg",70
+Sample,175510,0,"35_F1_123_479.ogg",100
+Sample,175510,0,"solo 1 1 1 3 3 1 Fm 320.ogg",76
+Sample,175510,0,"solo x x x x x 8 80.ogg",100
+Sample,175632,0,"solo x x x x x 9 80.ogg",100
+Sample,175754,0,"Kick.ogg",70
+Sample,175754,0,"Hi-Hat close.ogg",70
+Sample,175754,0,"solo x x x x x 8 80.ogg",100
+Sample,175876,0,"solo x x x x x 6 80.ogg",100
+Sample,175998,0,"35_G1_123_239.ogg",100
+Sample,175998,0,"solo 1 1 1 3 3 1 Fm 160.ogg",76
+Sample,175998,0,"solo x x x x x 8 480.ogg",100
+Sample,176241,0,"Snare.ogg",70
+Sample,176241,0,"Hi-Hat close.ogg",70
+Sample,176241,0,"35_D#1_123_479.ogg",100
+Sample,176241,0,"solo 1 1 1 3 3 1 Fm 160.ogg",76
+Sample,176485,0,"Hi-Hat open L.ogg",70
+Sample,176485,0,"solo 1 1 1 3 3 1 Fm 80.ogg",76
+Sample,176607,0,"solo 1 1 1 3 3 1 Fm 80.ogg",76
+Sample,176729,0,"Hi-Hat close.ogg",70
+Sample,176729,0,"35_C1_123_239.ogg",100
+Sample,176729,0,"solo x x 5 3 3 Fm_C 160.ogg",76
+Sample,176729,0,"solo x x x x x 3 Mute 80.ogg",100
+Sample,176851,0,"solo x x x x x 3 Mute 80.ogg",100
+Sample,176973,0,"Hi-Hat open L.ogg",70
+Sample,176973,0,"35_C1_123_239.ogg",100
+Sample,176973,0,"solo x x 5 3 3 Fm_C 160.ogg",76
+Sample,176973,0,"solo x x x x x 3 80.ogg",100
+Sample,177095,0,"solo x x x x x 4 80.ogg",100
+Sample,177217,0,"Snare.ogg",70
+Sample,177217,0,"Hi-Hat close.ogg",70
+Sample,177217,0,"35_C1_123_239.ogg",100
+Sample,177217,0,"solo x x 5 3 3 Fm_C 160.ogg",76
+Sample,177217,0,"solo x x x x 3 80.ogg",100
+Sample,177339,0,"solo x x x x 6 80.ogg",100
+Sample,177461,0,"Hi-Hat open L.ogg",70
+Sample,177461,0,"35_C#1_123_479.ogg",100
+Sample,177461,0,"solo x x 6 3 4 Db 160.ogg",76
+Sample,177461,0,"solo x x x 5 Mute 80.ogg",100
+Sample,177583,0,"solo x x x 5 80.ogg",100
+Sample,177705,0,"Kick.ogg",70
+Sample,177705,0,"Hi-Hat close.ogg",70
+Sample,177705,0,"solo x x 6 3 4 Db 160.ogg",76
+Sample,177705,0,"solo x x x 6 80.ogg",100
+Sample,177827,0,"solo x x 5 80.ogg",100
+Sample,177949,0,"35_G#1_123_239.ogg",100
+Sample,177949,0,"solo x x 6 3 4 Db 160.ogg",76
+Sample,177949,0,"solo x x 8 80.ogg",100
+Sample,178071,0,"solo x 8 Mute 80.ogg",100
+Sample,178193,0,"Snare.ogg",70
+Sample,178193,0,"Hi-Hat close.ogg",70
+Sample,178193,0,"35_C#1_123_239.ogg",100
+Sample,178193,0,"solo x x 6 3 4 Db 160.ogg",76
+Sample,178193,0,"solo x 8 80.ogg",100
+Sample,178315,0,"solo x 9 80.ogg",100
+Sample,178437,0,"Hi-Hat open L.ogg",70
+Sample,178437,0,"35_C#1_123_239.ogg",100
+Sample,178437,0,"solo x x 6 3 4 Db 80.ogg",76
+Sample,178437,0,"solo 8 80.ogg",100
+Sample,178559,0,"solo x x 6 3 4 Db 80.ogg",76
+Sample,178559,0,"solo 11 80.ogg",100
+Sample,178680,0,"Hi-Hat close.ogg",70
+Sample,178680,0,"35_D#1_123_239.ogg",100
+Sample,178680,0,"solo x x 8 8 6 Eb 160.ogg",76
+Sample,178802,0,"solo 9 80.ogg",100
+Sample,178924,0,"Hi-Hat open L.ogg",70
+Sample,178924,0,"35_A#1_123_239.ogg",100
+Sample,178924,0,"solo x x 8 8 6 Eb 160.ogg",76
+Sample,178924,0,"solo 8 80.ogg",100
+Sample,179046,0,"solo x 9 80.ogg",100
+Sample,179168,0,"Snare.ogg",70
+Sample,179168,0,"Hi-Hat close.ogg",70
+Sample,179168,0,"35_D#1_123_239.ogg",100
+Sample,179168,0,"solo x x 8 8 6 Eb Mute 80.ogg",76
+Sample,179168,0,"solo x 8 80.ogg",100
+Sample,179290,0,"solo x x 8 8 6 Eb Mute 80.ogg",76
+Sample,179290,0,"solo x x 10 80.ogg",100
+Sample,179412,0,"Hi-Hat open L.ogg",70
+Sample,179412,0,"35_F1_123_479.ogg",100
+Sample,179412,0,"solo 1 1 1 3 3 1 Fm 320.ogg",76
+Sample,179412,0,"solo x x 8 80.ogg",100
+Sample,179534,0,"solo x x x 11 80.ogg",100
+Sample,179656,0,"Kick.ogg",70
+Sample,179656,0,"Hi-Hat close.ogg",70
+Sample,179656,0,"solo x x x x x 15 160.ogg",100
+Sample,179900,0,"35_C2_123_239.ogg",100
+Sample,179900,0,"solo 1 1 1 3 3 1 Fm 160.ogg",76
+Sample,179900,0,"solo x x 13 160.ogg",100
+Sample,180144,0,"Snare.ogg",70
+Sample,180144,0,"Hi-Hat close.ogg",70
+Sample,180144,0,"35_C2_123_479.ogg",100
+Sample,180144,0,"solo 1 1 1 3 3 1 Fm 160.ogg",76
+Sample,180144,0,"solo x x 17 160.ogg",100
+Sample,180388,0,"Hi-Hat open L.ogg",70
+Sample,180388,0,"solo 1 1 1 3 3 1 Fm 80.ogg",76
+Sample,180388,0,"solo x 16 160.ogg",100
+Sample,180510,0,"solo 1 1 1 3 3 1 Fm 80.ogg",76
+Sample,180632,0,"35_C1_123_239.ogg",100
+Sample,180632,0,"solo x x 5 3 3 Fm_C 160.ogg",76
+Sample,180632,0,"solo 15 240.ogg",100
+Sample,180876,0,"Hi-Hat open L.ogg",70
+Sample,180876,0,"35_C1_123_239.ogg",100
+Sample,180876,0,"solo x x 5 3 3 Fm_C 160.ogg",76
+Sample,180998,0,"solo x 16 240.ogg",100
+Sample,181119,0,"Snare.ogg",70
+Sample,181119,0,"Hi-Hat close.ogg",70
+Sample,181119,0,"35_C1_123_239.ogg",100
+Sample,181119,0,"solo x x 5 3 3 Fm_C 160.ogg",76
+Sample,181363,0,"Hi-Hat open L.ogg",70
+Sample,181363,0,"35_C#1_123_479.ogg",100
+Sample,181363,0,"solo x x 6 3 4 Db 160.ogg",76
+Sample,181363,0,"solo x 18 240.ogg",100
+Sample,181607,0,"Kick.ogg",70
+Sample,181607,0,"Hi-Hat close.ogg",70
+Sample,181607,0,"solo x x 6 3 4 Db 160.ogg",76
+Sample,181729,0,"solo 18 240.ogg",100
+Sample,181851,0,"35_G#1_123_239.ogg",100
+Sample,181851,0,"solo x x 6 3 4 Db 160.ogg",76
+Sample,182095,0,"Snare.ogg",70
+Sample,182095,0,"Hi-Hat close.ogg",70
+Sample,182095,0,"35_C#1_123_239.ogg",100
+Sample,182095,0,"solo x x 6 3 4 Db 160.ogg",76
+Sample,182095,0,"solo 16 240.ogg",100
+Sample,182339,0,"Hi-Hat open L.ogg",70
+Sample,182339,0,"35_C#1_123_239.ogg",100
+Sample,182339,0,"solo x x 6 3 4 Db 80.ogg",76
+Sample,182461,0,"solo x x 6 3 4 Db 80.ogg",76
+Sample,182461,0,"solo 20 240.ogg",100
+Sample,182583,0,"Hi-Hat close.ogg",70
+Sample,182583,0,"35_D#1_123_239.ogg",100
+Sample,182583,0,"solo x x 8 8 6 Eb 160.ogg",76
+Sample,182705,0,"Snare.ogg",70
+Sample,182827,0,"Hi-Hat open L.ogg",70
+Sample,182827,0,"35_D#1_123_239.ogg",100
+Sample,182827,0,"solo x x 8 8 6 Eb 160.ogg",76
+Sample,182827,0,"solo 18 240.ogg",100
+Sample,183071,0,"Snare.ogg",70
+Sample,183071,0,"Hi-Hat close.ogg",70
+Sample,183071,0,"35_D#1_123_239.ogg",100
+Sample,183071,0,"solo x x 8 8 6 Eb Mute 80.ogg",76
+Sample,183193,0,"solo x x 8 8 6 Eb Mute 80.ogg",76
+Sample,183193,0,"solo 20 bend full 240.ogg",100
+Sample,183315,0,"Hi-Hat open L.ogg",70
+Sample,183315,0,"35_F1_123_479.ogg",100
+Sample,183315,0,"solo 1 1 1 3 3 1 Fm 320.ogg",76
+Sample,183559,0,"Kick.ogg",70
+Sample,183559,0,"Hi-Hat close.ogg",70
+Sample,183559,0,"solo 20 320.ogg",100
+Sample,183680,0,"Snare.ogg",70
+Sample,183802,0,"35_F1_123_239.ogg",100
+Sample,183802,0,"solo 1 1 1 3 3 1 Fm 160.ogg",76
+Sample,184046,0,"Snare.ogg",70
+Sample,184046,0,"Hi-Hat close.ogg",70
+Sample,184046,0,"35_F1_123_239.ogg",100
+Sample,184046,0,"solo 1 1 1 3 3 1 Fm 160.ogg",76
+Sample,184046,0,"solo 16 160.ogg",100
+Sample,184290,0,"35_F#1_123_479.ogg",100
+Sample,184290,0,"2 2 3 4 4 2 Gb 1120.ogg",76
+Sample,184290,0,"solo 16 16 320.ogg",100
+Sample,184534,0,"Kick.ogg",70
+Sample,184778,0,"35_D#2_123_239.ogg",100
+Sample,184778,0,"Arp. x x x 4 160.ogg",76
+Sample,185022,0,"Snare.ogg",70
+Sample,185022,0,"Hi-Hat close.ogg",70
+Sample,185022,0,"35_C#2_123_239.ogg",100
+Sample,185022,0,"Arp. x 2 160.ogg",76
+Sample,185022,0,"solo 13 16 bend full 320.ogg",100
+Sample,185266,0,"35_G#2_123_239.ogg",100
+Sample,185266,0,"Arp. x x 3 160-2.ogg",76
+Sample,185510,0,"Kick.ogg",70
+Sample,185510,0,"Hi-Hat close.ogg",70
+Sample,185510,0,"35_F#2_123_239.ogg",100
+Sample,185510,0,"Arp. 2 160.ogg",76
+Sample,185632,0,"Snare.ogg",70
+Sample,185754,0,"35_C#2_123_479.ogg",100
+Sample,185754,0,"Arp. x 2 160.ogg",76
+Sample,185754,0,"solo x 13 15 bend full 160.ogg",100
+Sample,185998,0,"Snare.ogg",70
+Sample,185998,0,"Hi-Hat close.ogg",70
+Sample,185998,0,"solo x x 15 80.ogg",100
+Sample,186119,0,"solo x x 13 80.ogg",100
+Sample,186241,0,"35_D#0_123_479.ogg",100
+Sample,186241,0,"x 9 8 8 6 Ebsus4 320.ogg",76
+Sample,186241,0,"solo x x 15 320.ogg",100
+Sample,186485,0,"Kick.ogg",70
+Sample,186729,0,"Tom4.ogg",70
+Sample,186729,0,"35_A#0_123_239.ogg",100
+Sample,186729,0,"x 9 8 8 6 Ebsus4 160.ogg",76
+Sample,186729,0,"solo x x x x 10 53.ogg",100
+Sample,186811,0,"solo x x x x 11 53.ogg",100
+Sample,186892,0,"solo x x x x 13 53.ogg",100
+Sample,186973,0,"Snare.ogg",70
+Sample,186973,0,"Tom4.ogg",70
+Sample,186973,0,"35_F1_123_239.ogg",100
+Sample,186973,0,"x 9 8 8 6 Ebsus4 160.ogg",76
+Sample,186973,0,"solo x x x 10 53.ogg",100
+Sample,187054,0,"solo x x x 11 53.ogg",100
+Sample,187136,0,"solo x x x 13 53.ogg",100
+Sample,187217,0,"Tom4.ogg",70
+Sample,187217,0,"35_D#1_123_239.ogg",100
+Sample,187217,0,"x 8 8 8 6 Eb 160.ogg",76
+Sample,187217,0,"solo x x 10 53.ogg",100
+Sample,187298,0,"solo x x 12 53.ogg",100
+Sample,187380,0,"solo x x 13 53.ogg",100
+Sample,187461,0,"Snare.ogg",70
+Sample,187461,0,"Tom4.ogg",70
+Sample,187461,0,"35_D#1_123_239.ogg",100
+Sample,187461,0,"x 8 8 8 6 Eb 160.ogg",76
+Sample,187461,0,"solo x 11 53.ogg",100
+Sample,187542,0,"solo x 13 53.ogg",100
+Sample,187624,0,"solo x 14 53.ogg",100
+Sample,187705,0,"35_D#1_123_239.ogg",100
+Sample,187705,0,"x 8 8 8 6 Eb 160.ogg",76
+Sample,187705,0,"solo 11 480.ogg",100
+Sample,187827,0,"Snare.ogg",70
+Sample,187949,0,"Snare.ogg",70
+Sample,187949,0,"35_D#1_123_479.ogg",100
+Sample,187949,0,"x 8 8 8 6 Eb 160.ogg",76
+Sample,188071,0,"Tom2.ogg",70
+Sample,188193,0,"Tom4.ogg",70
+Sample,188193,0,"x 8 8 8 6 Eb 160.ogg",76
+Sample,188315,0,"Tom4.ogg",70
+Sample,188437,0,"35_C#1_123_239.ogg",100
+Sample,188437,0,"x x 5 6 4 Dbmaj7 160.ogg",76
+Sample,188437,0,"x 9 8 160.ogg",100
+Sample,188680,0,"35_C#1_123_239.ogg",100
+Sample,188680,0,"x x 5 6 4 Dbmaj7 160.ogg",76
+Sample,188680,0,"x 9 8 160.ogg",100
+Sample,188924,0,"35_G#1_123_359.ogg",100
+Sample,188924,0,"x x 5 6 4 Dbmaj7 160.ogg",76
+Sample,188924,0,"x 9 8 160.ogg",100
+Sample,189168,0,"Ride.ogg",70
+Sample,189168,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,189168,0,"x 8 8 160.ogg",100
+Sample,189290,0,"35_D#1_123_239.ogg",100
+Sample,189412,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,189412,0,"x 8 8 160.ogg",100
+Sample,189534,0,"35_D#1_123_119.ogg",100
+Sample,189656,0,"Ride.ogg",70
+Sample,189656,0,"35_D#1_123_239.ogg",100
+Sample,189656,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,189656,0,"x 8 8 160.ogg",100
+Sample,189900,0,"35_A#0_123_239.ogg",100
+Sample,189900,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,189900,0,"x 8 8 160.ogg",100
+Sample,190144,0,"Ride.ogg",70
+Sample,190144,0,"35_D#1_123_239.ogg",100
+Sample,190144,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,190144,0,"x 8 8 160.ogg",100
+Sample,190388,0,"35_C1_123_239.ogg",100
+Sample,190388,0,"x x 5 5 3 Cm 160.ogg",76
+Sample,190388,0,"x 8 8 160.ogg",100
+Sample,190632,0,"Ride.ogg",70
+Sample,190632,0,"35_C1_123_239.ogg",100
+Sample,190632,0,"x x 5 5 3 Cm 160.ogg",76
+Sample,190632,0,"x 8 8 160.ogg",100
+Sample,190876,0,"35_G1_123_239.ogg",100
+Sample,190876,0,"x x 5 5 3 Cm 160.ogg",76
+Sample,190876,0,"x 8 8 160.ogg",100
+Sample,191119,0,"Ride.ogg",70
+Sample,191119,0,"x x 6 6 4 Db 160.ogg",76
+Sample,191119,0,"x 9 8 160.ogg",100
+Sample,191241,0,"35_C#1_123_239.ogg",100
+Sample,191363,0,"Ride.ogg",70
+Sample,191363,0,"x x 6 6 4 Db 160.ogg",76
+Sample,191363,0,"x 9 8 160.ogg",100
+Sample,191485,0,"35_C#1_123_119.ogg",100
+Sample,191607,0,"Ride.ogg",70
+Sample,191607,0,"35_F1_123_239.ogg",100
+Sample,191607,0,"x x 6 6 4 Db 160.ogg",76
+Sample,191607,0,"x 9 8 160.ogg",100
+Sample,191851,0,"35_G#1_123_239.ogg",100
+Sample,191851,0,"x x 6 6 4 Db 160.ogg",76
+Sample,191851,0,"x 9 8 160.ogg",100
+Sample,192095,0,"35_F1_123_239.ogg",100
+Sample,192095,0,"x x 6 6 4 Db 160.ogg",76
+Sample,192095,0,"x 9 8 160.ogg",100
+Sample,192339,0,"35_C#1_123_239.ogg",100
+Sample,192339,0,"x x 6 6 4 Db 160.ogg",76
+Sample,192339,0,"x 9 8 160.ogg",100
+Sample,192583,0,"Ride.ogg",70
+Sample,192583,0,"35_C#1_123_239.ogg",100
+Sample,192583,0,"x x 6 6 4 Db 160.ogg",76
+Sample,192583,0,"x 9 8 160.ogg",100
+Sample,192827,0,"35_G1_123_119.ogg",100
+Sample,192827,0,"x x 6 6 4 Db 160.ogg",76
+Sample,192827,0,"x 9 8 160.ogg",100
+Sample,192949,0,"35_G#1_123_239.ogg",100
+Sample,193071,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,193071,0,"x 8 8 160.ogg",100
+Sample,193193,0,"Kick.ogg",70
+Sample,193193,0,"35_D#1_123_239.ogg",100
+Sample,193315,0,"Ride.ogg",70
+Sample,193315,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,193315,0,"x 8 8 160.ogg",100
+Sample,193437,0,"35_D#1_123_119.ogg",100
+Sample,193559,0,"Ride.ogg",70
+Sample,193559,0,"35_A#0_123_119.ogg",100
+Sample,193559,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,193559,0,"x 8 8 160.ogg",100
+Sample,193680,0,"35_C1_123_119.ogg",100
+Sample,193802,0,"35_D#1_123_239.ogg",100
+Sample,193802,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,193802,0,"x 8 8 160.ogg",100
+Sample,194046,0,"35_C#1_123_239.ogg",100
+Sample,194046,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,194046,0,"x 8 8 160.ogg",100
+Sample,194290,0,"Ride.ogg",70
+Sample,194290,0,"35_C1_123_239.ogg",100
+Sample,194290,0,"x x 5 5 3 Cm 160.ogg",76
+Sample,194290,0,"x 11 8 160.ogg",100
+Sample,194534,0,"Ride.ogg",70
+Sample,194534,0,"35_C1_123_239.ogg",100
+Sample,194534,0,"x x 5 5 3 Cm 160.ogg",76
+Sample,194534,0,"x 11 8 160.ogg",100
+Sample,194778,0,"35_C1_123_119.ogg",100
+Sample,194778,0,"x x 5 5 3 Cm Mute 80.ogg",76
+Sample,194778,0,"x 11 8 160.ogg",100
+Sample,194900,0,"35_C2_123_239.ogg",100
+Sample,194900,0,"x x 5 5 3 Cm Mute 80.ogg",76
+Sample,195022,0,"Ride.ogg",70
+Sample,195022,0,"x x x 3 3 1 Fm 160.ogg",76
+Sample,195022,0,"x 9 8 160.ogg",100
+Sample,195144,0,"35_F2_123_359.ogg",100
+Sample,195266,0,"Ride.ogg",70
+Sample,195266,0,"x x x 3 3 1 Fm 160.ogg",76
+Sample,195266,0,"x 9 8 160.ogg",100
+Sample,195388,0,"Snare.ogg",70
+Sample,195510,0,"Tom2.ogg",70
+Sample,195510,0,"35_D#2_123_239.ogg",100
+Sample,195510,0,"x x x 3 3 1 Fm 160.ogg",76
+Sample,195510,0,"x 9 8 160.ogg",100
+Sample,195632,0,"Tom2.ogg",70
+Sample,195754,0,"35_C2_123_239.ogg",100
+Sample,195754,0,"x x x 3 3 1 Fm 320.ogg",76
+Sample,195754,0,"x 9 8 160.ogg",100
+Sample,195876,0,"Tom2.ogg",70
+Sample,195998,0,"35_C1_123_239.ogg",100
+Sample,195998,0,"x 9 8 160.ogg",100
+Sample,196119,0,"Tom4.ogg",70
+Sample,196241,0,"35_C#1_123_239.ogg",100
+Sample,196241,0,"x x 5 6 4 Dbmaj7 160.ogg",76
+Sample,196241,0,"x 9 8 160.ogg",100
+Sample,196485,0,"35_C#1_123_239.ogg",100
+Sample,196485,0,"x x 5 6 4 Dbmaj7 160.ogg",76
+Sample,196485,0,"x 9 8 160.ogg",100
+Sample,196729,0,"35_G1_123_119.ogg",100
+Sample,196729,0,"x x 5 6 4 Dbmaj7 160.ogg",76
+Sample,196729,0,"x 9 8 160.ogg",100
+Sample,196851,0,"35_G#1_123_239.ogg",100
+Sample,196973,0,"Ride.ogg",70
+Sample,196973,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,196973,0,"x 8 8 160.ogg",100
+Sample,197095,0,"35_D#1_123_239.ogg",100
+Sample,197217,0,"Ride.ogg",70
+Sample,197217,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,197217,0,"x 8 8 160.ogg",100
+Sample,197339,0,"Snare.ogg",70
+Sample,197339,0,"35_D#1_123_119.ogg",100
+Sample,197461,0,"Ride.ogg",70
+Sample,197461,0,"35_A#0_123_119.ogg",100
+Sample,197461,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,197461,0,"x 8 8 160.ogg",100
+Sample,197583,0,"35_C1_123_119.ogg",100
+Sample,197705,0,"35_D#1_123_239.ogg",100
+Sample,197705,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,197705,0,"x 8 8 160.ogg",100
+Sample,197949,0,"Ride.ogg",70
+Sample,197949,0,"35_C#1_123_239.ogg",100
+Sample,197949,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,197949,0,"x 8 8 160.ogg",100
+Sample,198193,0,"Ride.ogg",70
+Sample,198193,0,"35_C1_123_239.ogg",100
+Sample,198193,0,"x x 5 5 3 Cm 160.ogg",76
+Sample,198193,0,"x 8 8 160.ogg",100
+Sample,198437,0,"Ride.ogg",70
+Sample,198437,0,"35_C1_123_239.ogg",100
+Sample,198437,0,"x x 5 5 3 Cm 160.ogg",76
+Sample,198437,0,"x 8 8 160.ogg",100
+Sample,198680,0,"35_G1_123_239.ogg",100
+Sample,198680,0,"x x 5 5 3 Cm 160.ogg",76
+Sample,198680,0,"x 8 8 160.ogg",100
+Sample,198924,0,"Ride.ogg",70
+Sample,198924,0,"x x 6 6 4 Db 160.ogg",76
+Sample,198924,0,"x 9 8 160.ogg",100
+Sample,199046,0,"35_C#1_123_239.ogg",100
+Sample,199168,0,"Ride.ogg",70
+Sample,199168,0,"x x 6 6 4 Db 160.ogg",76
+Sample,199168,0,"x 9 8 160.ogg",100
+Sample,199290,0,"Snare.ogg",70
+Sample,199290,0,"35_C#1_123_119.ogg",100
+Sample,199412,0,"Ride.ogg",70
+Sample,199412,0,"35_F1_123_239.ogg",100
+Sample,199412,0,"x x 6 6 4 Db 160.ogg",76
+Sample,199412,0,"x 9 8 160.ogg",100
+Sample,199656,0,"35_G#1_123_239.ogg",100
+Sample,199656,0,"x x 6 6 4 Db 160.ogg",76
+Sample,199656,0,"x 9 8 160.ogg",100
+Sample,199900,0,"35_F1_123_239.ogg",100
+Sample,199900,0,"x x 6 6 4 Db 160.ogg",76
+Sample,199900,0,"x 9 8 160.ogg",100
+Sample,200144,0,"Ride.ogg",70
+Sample,200144,0,"35_C#1_123_239.ogg",100
+Sample,200144,0,"x x 6 6 4 Db 160.ogg",76
+Sample,200144,0,"x 9 8 160.ogg",100
+Sample,200388,0,"Ride.ogg",70
+Sample,200388,0,"35_C#1_123_239.ogg",100
+Sample,200388,0,"x x 6 6 4 Db 160.ogg",76
+Sample,200388,0,"x 9 8 160.ogg",100
+Sample,200632,0,"35_G#1_123_359.ogg",100
+Sample,200632,0,"x x 6 6 4 Db 160.ogg",76
+Sample,200632,0,"x 9 8 160.ogg",100
+Sample,200876,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,200876,0,"x 8 8 160.ogg",100
+Sample,200998,0,"Kick.ogg",70
+Sample,200998,0,"35_A#1_123_359.ogg",100
+Sample,201119,0,"Ride.ogg",70
+Sample,201119,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,201119,0,"x 8 8 160.ogg",100
+Sample,201241,0,"Snare.ogg",70
+Sample,201363,0,"Ride.ogg",70
+Sample,201363,0,"35_D#2_123_239.ogg",100
+Sample,201363,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,201363,0,"x 8 8 160.ogg",100
+Sample,201607,0,"35_A#1_123_239.ogg",100
+Sample,201607,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,201607,0,"x 8 8 160.ogg",100
+Sample,201851,0,"Ride.ogg",70
+Sample,201851,0,"35_D#2_123_239.ogg",100
+Sample,201851,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,201851,0,"x 8 8 160.ogg",100
+Sample,202095,0,"Ride.ogg",70
+Sample,202095,0,"35_F2_123_239.ogg",100
+Sample,202095,0,"x x x 3 3 1 Fm 160.ogg",76
+Sample,202095,0,"x 11 8 160.ogg",100
+Sample,202339,0,"Ride.ogg",70
+Sample,202339,0,"35_D#2_123_239.ogg",100
+Sample,202339,0,"x x x 3 3 1 Fm 160.ogg",76
+Sample,202339,0,"x 11 8 160.ogg",100
+Sample,202583,0,"35_C2_123_119.ogg",100
+Sample,202583,0,"x x x 3 3 1 Fm 160.ogg",76
+Sample,202583,0,"x 11 8 160.ogg",100
+Sample,202705,0,"35_A#1_123_119.ogg",100
+Sample,202827,0,"Ride.ogg",70
+Sample,202827,0,"x x x 6 6 4 Ab 160.ogg",76
+Sample,202827,0,"x 9 8 160.ogg",100
+Sample,202949,0,"35_G#1_123_359.ogg",100
+Sample,203071,0,"Ride.ogg",70
+Sample,203071,0,"x x x 6 6 4 Ab 160.ogg",76
+Sample,203071,0,"x 9 8 160.ogg",100
+Sample,203193,0,"Snare.ogg",70
+Sample,203315,0,"Ride.ogg",70
+Sample,203315,0,"35_F1_123_239.ogg",100
+Sample,203315,0,"x x x 6 6 4 Ab 160.ogg",76
+Sample,203315,0,"x 9 8 160.ogg",100
+Sample,203559,0,"35_D#1_123_239.ogg",100
+Sample,203559,0,"x x x 6 6 4 Ab 160.ogg",76
+Sample,203559,0,"x 9 8 160.ogg",100
+Sample,203802,0,"35_C1_123_239.ogg",100
+Sample,203802,0,"x x x 6 6 4 Ab 160.ogg",76
+Sample,203802,0,"x 9 8 160.ogg",100
+Sample,203924,0,"Tom4.ogg",70
+Sample,204046,0,"35_C#1_123_239.ogg",100
+Sample,204046,0,"x x 5 6 4 Dbmaj7 160.ogg",76
+Sample,204046,0,"x 9 8 160.ogg",100
+Sample,204290,0,"Snare.ogg",70
+Sample,204290,0,"35_C#1_123_239.ogg",100
+Sample,204290,0,"x x 5 6 4 Dbmaj7 160.ogg",76
+Sample,204290,0,"x 9 8 160.ogg",100
+Sample,204778,0,"35_D#1_123_479.ogg",100
+Sample,204778,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,204778,0,"x 8 8 320.ogg",100
+Sample,205266,0,"Tom4.ogg",70
+Sample,205266,0,"35_D#1_123_119.ogg",100
+Sample,205266,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,205266,0,"x 8 8 160.ogg",100
+Sample,205510,0,"Kick.ogg",70
+Sample,205510,0,"Snare.ogg",70
+Sample,205510,0,"Tom4.ogg",70
+Sample,205510,0,"x x 8 8 6 Eb Mute 80.ogg",76
+Sample,205632,0,"x x 8 8 6 Eb Mute 80.ogg",76
+Sample,205754,0,"Finish.ogg",50
+Sample,205754,0,"35_A#0_123_119.ogg",100
+Sample,205754,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,205754,0,"x 9 x 6 160.ogg",100
+Sample,205998,0,"Kick.ogg",70
+Sample,206241,0,"Tom4.ogg",70
+Sample,206241,0,"35_C1_123_119.ogg",100
+Sample,206241,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,206241,0,"x 11 x 8 160.ogg",100
+Sample,206485,0,"Kick.ogg",70
+Sample,206729,0,"35_C#1_123_119.ogg",100
+Sample,206729,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,206729,0,"x 13 x 10 160.ogg",100
+Sample,206973,0,"Kick.ogg",70
+Sample,206973,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,207095,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,207136,0,"Tom2.ogg",70
+Sample,207217,0,"35_D#0_123_239.ogg",100
+Sample,207217,0,"x x x x 6 160.ogg",76
+Sample,207217,0,"x 9 x 6 Staccato 160.ogg",100
+Sample,207380,0,"Kick.ogg",70
+Sample,207461,0,"35_D#1_123_1439.ogg",100
+Sample,207461,0,"x 8 8 8 6 Eb 960.ogg",76
+Sample,207461,0,"x 16 x 13 960.ogg",100
+Sample,208437,0,"35_A#0_123_479.ogg",100
+Sample,208924,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,209167,0,"Hi-Hat close.ogg",70
+Sample,209167,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,209411,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,209533,0,"Hi-Hat close.ogg",70
+Sample,209655,0,"Hi-Hat close.ogg",70
+Sample,209655,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,209899,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,210143,0,"Hi-Hat close.ogg",70
+Sample,210143,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,210387,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,210631,0,"Hi-Hat close.ogg",70
+Sample,210631,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,210753,0,"Hi-Hat close.ogg",70
+Sample,210875,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,211119,0,"Hi-Hat close.ogg",70
+Sample,211119,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,211363,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,211484,0,"Hi-Hat close.ogg",70
+Sample,211606,0,"Hi-Hat close.ogg",70
+Sample,211606,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,211850,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,212094,0,"Hi-Hat close.ogg",70
+Sample,212094,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,212338,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,212582,0,"Hi-Hat close.ogg",70
+Sample,212582,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,212704,0,"Hi-Hat close.ogg",70
+Sample,212826,0,"x x x 1 3 Cm P.M. 160.ogg",76
+Sample,213070,0,"Hi-Hat close.ogg",70
+Sample,213070,0,"x x x 1 3 Cm P.M. 160.ogg",76
+Sample,213314,0,"x x x 1 3 Cm P.M. 160.ogg",76
+Sample,213436,0,"Hi-Hat close.ogg",70
+Sample,213558,0,"Hi-Hat close.ogg",70
+Sample,213558,0,"x x x 1 3 Cm P.M. 160.ogg",76
+Sample,213802,0,"x x x 1 3 Cm P.M. 160.ogg",76
+Sample,214045,0,"Hi-Hat close.ogg",70
+Sample,214045,0,"x x x 1 3 Cm P.M. 160.ogg",76
+Sample,214289,0,"x x x 1 3 Cm P.M. 160.ogg",76
+Sample,214533,0,"Hi-Hat close.ogg",70
+Sample,214533,0,"x x x 1 3 Cm P.M. 160.ogg",76
+Sample,214655,0,"Hi-Hat close.ogg",70
+Sample,214777,0,"x x x 6 8 Fm P.M. 160.ogg",76
+Sample,215021,0,"Hi-Hat close.ogg",70
+Sample,215021,0,"x x x 6 8 Fm P.M. 160.ogg",76
+Sample,215265,0,"x x x 6 8 Fm P.M. 160.ogg",76
+Sample,215387,0,"Hi-Hat close.ogg",70
+Sample,215509,0,"Hi-Hat close.ogg",70
+Sample,215509,0,"x x x 6 8 Fm P.M. 160.ogg",76
+Sample,215753,0,"x x x 6 8 Fm P.M. 160.ogg",76
+Sample,215997,0,"Hi-Hat close.ogg",70
+Sample,215997,0,"x x x 6 8 Fm P.M. 160.ogg",76
+Sample,216241,0,"x x x 6 8 Fm P.M. 160.ogg",76
+Sample,216484,0,"Hi-Hat open L.ogg",70
+Sample,216484,0,"x x x 6 8 Fm P.M. 160.ogg",76
+Sample,216728,0,"Hi-Hat close.ogg",70
+Sample,216728,0,"35_C#2_123_1919.ogg",100
+Sample,216728,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,216972,0,"Hi-Hat close.ogg",70
+Sample,216972,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,217216,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,217460,0,"Hi-Hat close.ogg",70
+Sample,217460,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,217582,0,"Hi-Hat close.ogg",70
+Sample,217704,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,217948,0,"Hi-Hat close.ogg",70
+Sample,217948,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,218192,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,218436,0,"Hi-Hat open L.ogg",70
+Sample,218436,0,"x x x 6 4 Db P.M. 160.ogg",76
+Sample,218680,0,"Hi-Hat close.ogg",70
+Sample,218680,0,"35_D#2_123_1199.ogg",100
+Sample,218680,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,218924,0,"Hi-Hat close.ogg",70
+Sample,218924,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,219167,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,219411,0,"Hi-Hat close.ogg",70
+Sample,219411,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,219533,0,"Hi-Hat close.ogg",70
+Sample,219655,0,"x x x 8 6 Eb P.M. 160.ogg",76
+Sample,219899,0,"Hi-Hat close.ogg",70
+Sample,219899,0,"35_D#2_123_239.ogg",100
+Sample,219899,0,"x x x 8 6 Eb 160.ogg",76
+Sample,220143,0,"Hi-Hat open L.ogg",70
+Sample,220143,0,"35_A#1_123_239.ogg",100
+Sample,220143,0,"x x 8 8 6 Eb 160.ogg",76
+Sample,220387,0,"35_C#2_123_239.ogg",100
+Sample,220387,0,"x x 6 6 4 Db 160.ogg",76
+Sample,220631,0,"Tom4.ogg",70
+Sample,220631,0,"35_C2_123_239.ogg",100
+Sample,220631,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,220631,0,"Arp. x x x x 3 160.ogg",100
+Sample,220875,0,"Tom4.ogg",70
+Sample,220875,0,"35_C2_123_239.ogg",100
+Sample,220875,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,220875,0,"Arp. x x x 1 160.ogg",100
+Sample,221119,0,"Arp. x x 3 160.ogg",100
+Sample,221363,0,"35_E1_123_479.ogg",100
+Sample,221363,0,"6 8 6 8 7 Edim7 320.ogg",76
+Sample,221363,0,"Arp. x x x 2 160.ogg",100
+Sample,221606,0,"Kick.ogg",70
+Sample,221606,0,"Arp. x x 3 160.ogg",100
+Sample,221850,0,"Hi-Hat open L.ogg",70
+Sample,221850,0,"35_E1_123_239.ogg",100
+Sample,221850,0,"6 8 6 8 7 Edim7 160.ogg",76
+Sample,221850,0,"Arp. x 2 160.ogg",100
+Sample,222094,0,"Kick.ogg",70
+Sample,222094,0,"Hi-Hat close.ogg",70
+Sample,222338,0,"35_F1_123_479.ogg",100
+Sample,222338,0,"8 9 8 10 8 Fm7 320.ogg",76
+Sample,222338,0,"x 1 1 3 320.ogg",100
+Sample,222582,0,"Kick.ogg",70
+Sample,222826,0,"Tom4.ogg",70
+Sample,222826,0,"35_F1_123_239.ogg",100
+Sample,222826,0,"8 9 8 10 8 Fm7 160.ogg",76
+Sample,222826,0,"x x x 6 160.ogg",100
+Sample,223070,0,"Snare.ogg",70
+Sample,223070,0,"Tom4.ogg",70
+Sample,223070,0,"35_A#1_123_239.ogg",100
+Sample,223070,0,"x x 6 160.ogg",100
+Sample,223314,0,"35_G#1_123_479.ogg",100
+Sample,223314,0,"4 4 5 6 6 4 Ab 320.ogg",76
+Sample,223314,0,"x x 5 160.ogg",100
+Sample,223558,0,"Kick.ogg",70
+Sample,223558,0,"x 11 x 8 Mute 80.ogg",100
+Sample,223680,0,"x 11 x 8 Mute 80.ogg",100
+Sample,223802,0,"35_G#0_123_239.ogg",100
+Sample,223802,0,"4 4 5 6 6 4 Ab 160.ogg",76
+Sample,223802,0,"x 11 x 8 80.ogg",100
+Sample,223923,0,"Snare.ogg",70
+Sample,223923,0,"x 13 x 10 80.ogg",100
+Sample,224045,0,"Snare.ogg",70
+Sample,224045,0,"35_A#0_123_239.ogg",100
+Sample,224045,0,"4 4 5 6 6 4 Ab 160.ogg",76
+Sample,224045,0,"x 11 x 8 320.ogg",100
+Sample,224167,0,"Snare.ogg",70
+Sample,224289,0,"35_C1_123_239.ogg",100
+Sample,224289,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,224411,0,"Snare.ogg",70
+Sample,224411,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,224533,0,"35_C#1_123_239.ogg",100
+Sample,224533,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,224533,0,"x x 5 x 3 160.ogg",100
+Sample,224777,0,"Hi-Hat open L.ogg",70
+Sample,224777,0,"35_C#1_123_239.ogg",100
+Sample,224777,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,224777,0,"x x 5 x 3 160.ogg",100
+Sample,225021,0,"Snare.ogg",70
+Sample,225021,0,"Hi-Hat close.ogg",70
+Sample,225021,0,"35_C#1_123_239.ogg",100
+Sample,225021,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,225021,0,"x x 5 x 3 160.ogg",100
+Sample,225265,0,"Hi-Hat open L.ogg",70
+Sample,225265,0,"35_C#1_123_119.ogg",100
+Sample,225265,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,225265,0,"x x 5 x 3 160.ogg",100
+Sample,225387,0,"35_C#1_123_359.ogg",100
+Sample,225387,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,225509,0,"Hi-Hat close.ogg",70
+Sample,225509,0,"x x 5 x 3 160.ogg",100
+Sample,225631,0,"Snare.ogg",70
+Sample,225631,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,225753,0,"35_F1_123_239.ogg",100
+Sample,225753,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,225753,0,"x x 5 x 3 160.ogg",100
+Sample,225997,0,"Snare.ogg",70
+Sample,225997,0,"Hi-Hat close.ogg",70
+Sample,225997,0,"35_G#1_123_239.ogg",100
+Sample,225997,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,225997,0,"x x 5 x 3 160.ogg",100
+Sample,226241,0,"Hi-Hat open L.ogg",70
+Sample,226241,0,"35_F1_123_239.ogg",100
+Sample,226241,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,226241,0,"x x 5 x 3 160.ogg",100
+Sample,226363,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,226484,0,"Hi-Hat close.ogg",70
+Sample,226484,0,"35_D#1_123_239.ogg",100
+Sample,226484,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,226484,0,"x x 8 x 6 160.ogg",100
+Sample,226606,0,"Snare.ogg",70
+Sample,226728,0,"Hi-Hat open L.ogg",70
+Sample,226728,0,"35_C2_123_239.ogg",100
+Sample,226728,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,226728,0,"x x 8 x 6 160.ogg",100
+Sample,226972,0,"Snare.ogg",70
+Sample,226972,0,"Hi-Hat close.ogg",70
+Sample,226972,0,"35_A#1_123_239.ogg",100
+Sample,226972,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,226972,0,"x x 8 x 6 160.ogg",100
+Sample,227216,0,"Hi-Hat open L.ogg",70
+Sample,227216,0,"35_F2_123_239.ogg",100
+Sample,227216,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,227216,0,"x x 3 x 1 160.ogg",100
+Sample,227338,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,227460,0,"Hi-Hat close.ogg",70
+Sample,227460,0,"35_D#2_123_239.ogg",100
+Sample,227460,0,"x x 3 x 1 160.ogg",100
+Sample,227582,0,"Snare.ogg",70
+Sample,227582,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,227704,0,"35_A#1_123_239.ogg",100
+Sample,227704,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,227704,0,"x x 8 x 6 160.ogg",100
+Sample,227948,0,"Snare.ogg",70
+Sample,227948,0,"Hi-Hat close.ogg",70
+Sample,227948,0,"35_D#1_123_239.ogg",100
+Sample,227948,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,227948,0,"x x 8 x 6 160.ogg",100
+Sample,228192,0,"Hi-Hat open L.ogg",70
+Sample,228192,0,"35_C#1_123_239.ogg",100
+Sample,228192,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,228192,0,"x x 8 x 6 160.ogg",100
+Sample,228314,0,"6 6 6 6 6 Db6add9_Eb 80.ogg",76
+Sample,228436,0,"Hi-Hat close.ogg",70
+Sample,228436,0,"35_C1_123_239.ogg",100
+Sample,228436,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,228436,0,"x x 12 x 10 160.ogg",100
+Sample,228558,0,"Snare.ogg",70
+Sample,228680,0,"Hi-Hat open L.ogg",70
+Sample,228680,0,"35_C1_123_239.ogg",100
+Sample,228680,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,228680,0,"x x 12 x 10 160.ogg",100
+Sample,228923,0,"Snare.ogg",70
+Sample,228923,0,"Hi-Hat close.ogg",70
+Sample,228923,0,"35_C1_123_239.ogg",100
+Sample,228923,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,228923,0,"x x 12 x 10 160.ogg",100
+Sample,229167,0,"Hi-Hat open L.ogg",70
+Sample,229167,0,"35_C1_123_119.ogg",100
+Sample,229167,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,229167,0,"x x 8 x 6 160.ogg",100
+Sample,229289,0,"35_C1_123_359.ogg",100
+Sample,229289,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,229411,0,"Hi-Hat close.ogg",70
+Sample,229411,0,"x x 8 x 6 160.ogg",100
+Sample,229533,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,229655,0,"35_C1_123_239.ogg",100
+Sample,229655,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,229655,0,"x x 8 x 6 160.ogg",100
+Sample,229899,0,"Kick.ogg",70
+Sample,229899,0,"Tom1.ogg",70
+Sample,229899,0,"35_G1_123_239.ogg",100
+Sample,229899,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,229899,0,"x x 8 x 6 160.ogg",100
+Sample,230021,0,"Tom2.ogg",70
+Sample,230143,0,"35_F#1_123_239.ogg",100
+Sample,230143,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,230143,0,"x x 8 x 6 160.ogg",100
+Sample,230265,0,"Tom4.ogg",70
+Sample,230265,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,230387,0,"Finish.ogg",50
+Sample,230387,0,"35_F1_123_239.ogg",100
+Sample,230387,0,"8 9 8 10 8 Fm7 160.ogg",76
+Sample,230387,0,"x x 13 x 11 160.ogg",100
+Sample,230631,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,230631,0,"x x 13 x 11 Mute 80.ogg",100
+Sample,230753,0,"8 9 8 10 8 Fm7 Mute 80.ogg",76
+Sample,230753,0,"x x 13 x 11 Mute 80.ogg",100
+Sample,230875,0,"Snare.ogg",70
+Sample,230875,0,"Finish.ogg",50
+Sample,230875,0,"35_E1_123_239.ogg",100
+Sample,230875,0,"7 8 7 9 7 Em7160.ogg",76
+Sample,230875,0,"x x 12 x 10 160.ogg",100
+Sample,231119,0,"7 8 7 9 7 Em7 Mute 80.ogg",76
+Sample,231119,0,"x x 12 x 10 Mute 80.ogg",100
+Sample,231241,0,"Snare.ogg",70
+Sample,231241,0,"7 8 7 9 7 Em7 Mute 80.ogg",76
+Sample,231241,0,"x x 12 x 10 Mute 80.ogg",100
+Sample,231363,0,"Finish.ogg",50
+Sample,231363,0,"35_D#1_123_239.ogg",100
+Sample,231363,0,"6 7 6 8 6 Ebm7 160.ogg",76
+Sample,231363,0,"x x 11 x 9 160.ogg",100
+Sample,231484,0,"Snare.ogg",70
+Sample,231606,0,"6 7 6 8 6 Ebm7 Mute 80.ogg",76
+Sample,231606,0,"x x 11 x 9 Mute 80.ogg",100
+Sample,231728,0,"6 7 6 8 6 Ebm7 Mute 80.ogg",76
+Sample,231728,0,"x x 11 x 9 Mute 80.ogg",100
+Sample,231850,0,"Snare.ogg",70
+Sample,231850,0,"Finish.ogg",50
+Sample,231850,0,"35_G#0_123_239.ogg",100
+Sample,231850,0,"4 4 5 6 6 4 Ab 160.ogg",76
+Sample,231850,0,"x x 8 x 6 160.ogg",100
+Sample,232094,0,"Snare.ogg",70
+Sample,232094,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,232094,0,"x x 8 x 6 Mute 80.ogg",100
+Sample,232216,0,"Snare.ogg",70
+Sample,232216,0,"4 4 5 6 6 4 Ab 80.ogg",76
+Sample,232216,0,"x x 8 x 6 Mute 80.ogg",100
+Sample,232338,0,"35_A#0_123_239.ogg",100
+Sample,232338,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,232338,0,"x x 6 6 4 160.ogg",100
+Sample,232582,0,"Hi-Hat open L.ogg",70
+Sample,232582,0,"35_A#0_123_239.ogg",100
+Sample,232582,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,232582,0,"x x 6 6 4 160.ogg",100
+Sample,232826,0,"Snare.ogg",70
+Sample,232826,0,"Hi-Hat close.ogg",70
+Sample,232826,0,"35_A#0_123_239.ogg",100
+Sample,232826,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,232826,0,"x x 6 6 4 160.ogg",100
+Sample,233070,0,"Hi-Hat open L.ogg",70
+Sample,233070,0,"35_A#0_123_239.ogg",100
+Sample,233070,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,233070,0,"x x 6 6 4 160.ogg",100
+Sample,233192,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,233314,0,"Hi-Hat close.ogg",70
+Sample,233314,0,"35_A#0_123_239.ogg",100
+Sample,233314,0,"x x 6 6 4 160.ogg",100
+Sample,233436,0,"Snare.ogg",70
+Sample,233436,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,233558,0,"35_A#1_123_239.ogg",100
+Sample,233558,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,233558,0,"x x 6 6 4 160.ogg",100
+Sample,233802,0,"Snare.ogg",70
+Sample,233802,0,"Hi-Hat close.ogg",70
+Sample,233802,0,"35_G#1_123_239.ogg",100
+Sample,233802,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,233802,0,"x x 6 6 4 160.ogg",100
+Sample,234045,0,"Hi-Hat open L.ogg",70
+Sample,234045,0,"35_F1_123_239.ogg",100
+Sample,234045,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,234045,0,"x x 6 6 4 160.ogg",100
+Sample,234167,0,"x 6 6 6 x 6 Bbm7 80.ogg",76
+Sample,234289,0,"Hi-Hat close.ogg",70
+Sample,234289,0,"35_C1_123_239.ogg",100
+Sample,234289,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,234289,0,"x 9 8 10 160.ogg",100
+Sample,234411,0,"Snare.ogg",70
+Sample,234533,0,"Hi-Hat open L.ogg",70
+Sample,234533,0,"35_C1_123_239.ogg",100
+Sample,234533,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,234533,0,"x 9 8 10 160.ogg",100
+Sample,234777,0,"Snare.ogg",70
+Sample,234777,0,"Hi-Hat close.ogg",70
+Sample,234777,0,"35_C1_123_239.ogg",100
+Sample,234777,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,234777,0,"x 9 8 10 160.ogg",100
+Sample,235021,0,"Hi-Hat open L.ogg",70
+Sample,235021,0,"35_C1_123_239.ogg",100
+Sample,235021,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,235021,0,"x 9 8 10 160.ogg",100
+Sample,235143,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,235265,0,"Hi-Hat close.ogg",70
+Sample,235265,0,"35_C1_123_239.ogg",100
+Sample,235265,0,"x 9 8 10 160.ogg",100
+Sample,235387,0,"Snare.ogg",70
+Sample,235387,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,235509,0,"35_G#1_123_239.ogg",100
+Sample,235509,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,235509,0,"x 9 8 10 160.ogg",100
+Sample,235753,0,"Snare.ogg",70
+Sample,235753,0,"Hi-Hat close.ogg",70
+Sample,235753,0,"35_G1_123_239.ogg",100
+Sample,235753,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,235753,0,"x 9 8 10 160.ogg",100
+Sample,235997,0,"35_D#1_123_239.ogg",100
+Sample,235997,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,235997,0,"x 9 8 10 160.ogg",100
+Sample,236119,0,"x 8 8 8 x 8 Cm7 80.ogg",76
+Sample,236241,0,"35_C#1_123_239.ogg",100
+Sample,236241,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,236241,0,"x x 5 3 3 160.ogg",100
+Sample,236484,0,"Hi-Hat open L.ogg",70
+Sample,236484,0,"35_C#1_123_239.ogg",100
+Sample,236484,0,"4 6 5 6 4 Dbmaj7 160.ogg",76
+Sample,236484,0,"x x 5 3 3 160.ogg",100
+Sample,236728,0,"Hi-Hat close.ogg",70
+Sample,236972,0,"35_D1_123_479.ogg",100
+Sample,236972,0,"x 3 3 3 5 Bb_D 320.ogg",76
+Sample,236972,0,"x x 7 x 5 320.ogg",100
+Sample,237216,0,"Kick.ogg",70
+Sample,237460,0,"Tom4.ogg",70
+Sample,237460,0,"35_D1_123_239.ogg",100
+Sample,237460,0,"x 3 3 3 5 Bb_D 160.ogg",76
+Sample,237460,0,"x x 7 x 5 160.ogg",100
+Sample,237704,0,"Snare.ogg",70
+Sample,237704,0,"Tom4.ogg",70
+Sample,237948,0,"35_D#1_123_479.ogg",100
+Sample,237948,0,"6 6 6 6 6 Db6add9_Eb 320.ogg",76
+Sample,237948,0,"6 6 6 6 6 320.ogg",100
+Sample,238192,0,"Kick.ogg",70
+Sample,238436,0,"35_A#1_123_239.ogg",100
+Sample,238436,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,238436,0,"6 6 6 6 6 160.ogg",100
+Sample,238558,0,"Snare.ogg",70
+Sample,238680,0,"Tom2.ogg",70
+Sample,238680,0,"35_D#2_123_239.ogg",100
+Sample,238680,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,238680,0,"6 6 6 6 6 160.ogg",100
+Sample,238802,0,"Tom2.ogg",70
+Sample,238923,0,"35_F2_123_239.ogg",100
+Sample,238923,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,238923,0,"6 6 6 6 6 160.ogg",100
+Sample,239167,0,"Tom1.ogg",70
+Sample,239167,0,"35_D#2_123_239.ogg",100
+Sample,239167,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,239167,0,"6 6 6 6 6 160.ogg",100
+Sample,239289,0,"Tom1.ogg",70
+Sample,239411,0,"Tom2.ogg",70
+Sample,239411,0,"35_A#1_123_239.ogg",100
+Sample,239411,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,239411,0,"6 6 6 6 6 Mute 80.ogg",100
+Sample,239533,0,"Tom4.ogg",70
+Sample,239533,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,239533,0,"6 6 6 6 6 Mute 80.ogg",100
+Sample,239655,0,"Snare.ogg",70
+Sample,239655,0,"Finish.ogg",50
+Sample,239655,0,"35_G#1_123_479.ogg",100
+Sample,239655,0,"4 4 5 6 6 4 Ab 320.ogg",76
+Sample,239655,0,"x x x 6 6 320.ogg",100
+Sample,240143,0,"35_C#1_123_239.ogg",100
+Sample,240143,0,"4 6 5 6 4 Dbmaj7 240.ogg",76
+Sample,240143,0,"x x 13 160.ogg",100
+Sample,240387,0,"Hi-Hat close.ogg",70
+Sample,240387,0,"35_C2_123_119.ogg",100
+Sample,240509,0,"Hi-Hat close.ogg",70
+Sample,240509,0,"35_C#2_123_119.ogg",100
+Sample,240509,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,240631,0,"Snare.ogg",70
+Sample,240631,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,240631,0,"x x 13 80.ogg",100
+Sample,240753,0,"Hi-Hat close.ogg",70
+Sample,240753,0,"35_G#1_123_119.ogg",100
+Sample,240753,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,240753,0,"x x 15 80.ogg",100
+Sample,240875,0,"Hi-Hat close.ogg",70
+Sample,240875,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,240875,0,"x 13 80.ogg",100
+Sample,240997,0,"Hi-Hat open.ogg",70
+Sample,240997,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,240997,0,"x 14 80.ogg",100
+Sample,241119,0,"Hi-Hat close.ogg",70
+Sample,241119,0,"35_C1_123_119.ogg",100
+Sample,241119,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,241119,0,"x 13 160.ogg",100
+Sample,241241,0,"Snare.ogg",70
+Sample,241363,0,"Hi-Hat close.ogg",70
+Sample,241363,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,241363,0,"x x 13 Mute 80.ogg",100
+Sample,241484,0,"35_B0_123_119.ogg",100
+Sample,241484,0,"x 7 7 7 x 7 Bm7 80.ogg",76
+Sample,241484,0,"x x 13 80.ogg",100
+Sample,241606,0,"Kick.ogg",70
+Sample,241606,0,"Snare.ogg",70
+Sample,241606,0,"x 7 7 7 x 7 Bm7 Mute 80.ogg",76
+Sample,241606,0,"x x 13 Mute 80.ogg",100
+Sample,241728,0,"Hi-Hat close.ogg",70
+Sample,241728,0,"x 7 7 7 x 7 Bm7 Mute 80.ogg",76
+Sample,241728,0,"x x 13 Mute 80.ogg",100
+Sample,241850,0,"35_A#0_123_119.ogg",100
+Sample,241850,0,"x 6 6 6 x 6 Bbm7 320.ogg",76
+Sample,241850,0,"x x 15 160.ogg",100
+Sample,241972,0,"Hi-Hat open.ogg",70
+Sample,242094,0,"Kick.ogg",70
+Sample,242094,0,"Hi-Hat close.ogg",70
+Sample,242094,0,"x x 15 160.ogg",100
+Sample,242216,0,"Hi-Hat close.ogg",70
+Sample,242338,0,"35_G#1_123_119.ogg",100
+Sample,242338,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,242338,0,"x x 15 80.ogg",100
+Sample,242460,0,"Hi-Hat close.ogg",70
+Sample,242460,0,"35_A#1_123_239.ogg",100
+Sample,242460,0,"x x 17 80.ogg",100
+Sample,242582,0,"Kick.ogg",70
+Sample,242582,0,"Snare.ogg",70
+Sample,242582,0,"x 6 6 6 x 6 Bbm7 320.ogg",76
+Sample,242582,0,"x x x 13 Mute 80.ogg",100
+Sample,242704,0,"Hi-Hat close.ogg",70
+Sample,242704,0,"35_F1_123_119.ogg",100
+Sample,242704,0,"x x x 13 Mute 80.ogg",100
+Sample,242826,0,"x x x 13 80.ogg",100
+Sample,242948,0,"Hi-Hat close.ogg",70
+Sample,242948,0,"x x x 15 80.ogg",100
+Sample,243070,0,"Kick.ogg",70
+Sample,243070,0,"Hi-Hat close.ogg",70
+Sample,243070,0,"35_D#1_123_239.ogg",100
+Sample,243070,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,243070,0,"x x 13 Mute 80.ogg",100
+Sample,243192,0,"x x 13 80.ogg",100
+Sample,243314,0,"Hi-Hat close.ogg",70
+Sample,243314,0,"35_A#0_123_239.ogg",100
+Sample,243314,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,243314,0,"x x x 15 Mute 80.ogg",100
+Sample,243436,0,"Hi-Hat close.ogg",70
+Sample,243436,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,243436,0,"x x x 15 80.ogg",100
+Sample,243558,0,"Snare.ogg",70
+Sample,243558,0,"35_D#0_123_479.ogg",100
+Sample,243558,0,"6 6 6 6 6 Db6add9_Eb 160.ogg",76
+Sample,243558,0,"x x 13 160.ogg",100
+Sample,243680,0,"Hi-Hat close.ogg",70
+Sample,243802,0,"Hi-Hat close.ogg",70
+Sample,243802,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,243802,0,"x x x 15 80.ogg",100
+Sample,243923,0,"Hi-Hat open.ogg",70
+Sample,243923,0,"6 6 6 6 6 Db6add9_Eb Mute 80.ogg",76
+Sample,243923,0,"x x x 13 80.ogg",100
+Sample,244045,0,"Hi-Hat close.ogg",70
+Sample,244045,0,"35_C#1_123_239.ogg",100
+Sample,244045,0,"4 6 5 6 4 Dbmaj7 240.ogg",76
+Sample,244045,0,"x x 13 160.ogg",100
+Sample,244167,0,"Hi-Hat close.ogg",70
+Sample,244289,0,"Hi-Hat close.ogg",70
+Sample,244289,0,"35_C2_123_119.ogg",100
+Sample,244411,0,"Hi-Hat close.ogg",70
+Sample,244411,0,"35_C#2_123_119.ogg",100
+Sample,244411,0,"4 6 5 6 4 Dbmaj7 80.ogg",76
+Sample,244533,0,"Snare.ogg",70
+Sample,244533,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,244533,0,"x x 13 80.ogg",100
+Sample,244655,0,"Hi-Hat close.ogg",70
+Sample,244655,0,"35_G#1_123_119.ogg",100
+Sample,244655,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,244655,0,"x x 15 80.ogg",100
+Sample,244777,0,"Hi-Hat close.ogg",70
+Sample,244777,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,244777,0,"x 13 80.ogg",100
+Sample,244899,0,"Hi-Hat open.ogg",70
+Sample,244899,0,"4 6 5 6 4 Dbmaj7 Mute 80.ogg",76
+Sample,244899,0,"x 14 80.ogg",100
+Sample,245021,0,"Hi-Hat close.ogg",70
+Sample,245021,0,"35_C1_123_119.ogg",100
+Sample,245021,0,"x 8 8 8 x 8 Cm7 160.ogg",76
+Sample,245021,0,"x 13 160.ogg",100
+Sample,245143,0,"Snare.ogg",70
+Sample,245265,0,"Hi-Hat close.ogg",70
+Sample,245265,0,"x 8 8 8 x 8 Cm7 Mute 80.ogg",76
+Sample,245265,0,"x x 13 Mute 80.ogg",100
+Sample,245387,0,"35_B0_123_119.ogg",100
+Sample,245387,0,"x 7 7 7 x 7 Bm7 80.ogg",76
+Sample,245387,0,"x x 13 80.ogg",100
+Sample,245509,0,"Kick.ogg",70
+Sample,245509,0,"Snare.ogg",70
+Sample,245509,0,"x 7 7 7 x 7 Bm7 Mute 80.ogg",76
+Sample,245509,0,"x x 13 Mute 80.ogg",100
+Sample,245631,0,"Hi-Hat close.ogg",70
+Sample,245631,0,"x 7 7 7 x 7 Bm7 Mute 80.ogg",76
+Sample,245631,0,"x x 13 Mute 80.ogg",100
+Sample,245753,0,"35_A#0_123_119.ogg",100
+Sample,245753,0,"x 6 6 6 x 6 Bbm7 320.ogg",76
+Sample,245753,0,"x x x 13 80.ogg",100
+Sample,245875,0,"Hi-Hat open.ogg",70
+Sample,245875,0,"x x x 15 240.ogg",100
+Sample,245997,0,"Kick.ogg",70
+Sample,245997,0,"Hi-Hat close.ogg",70
+Sample,246119,0,"Hi-Hat close.ogg",70
+Sample,246241,0,"35_F2_123_119.ogg",100
+Sample,246241,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,246241,0,"x x x 13 160.ogg",100
+Sample,246363,0,"Hi-Hat close.ogg",70
+Sample,246363,0,"35_D#2_123_239.ogg",100
+Sample,246484,0,"Snare.ogg",70
+Sample,246484,0,"x 6 6 6 x 6 Bbm7 160.ogg",76
+Sample,246606,0,"Hi-Hat close.ogg",70
+Sample,246606,0,"35_C2_123_119.ogg",100
+Sample,246728,0,"x 6 6 6 x 6 Bbm7 Mute 80.ogg",76
+Sample,246728,0,"x 16 bend half 320.ogg",100
+Sample,246850,0,"Hi-Hat open.ogg",70
+Sample,246850,0,"x 6 6 6 x 6 Bbm7 Mute 80.ogg",76
+Sample,246972,0,"Kick.ogg",70
+Sample,246972,0,"Hi-Hat open.ogg",70
+Sample,246972,0,"35_A1_123_239.ogg",100
+Sample,246972,0,"x 5 6 6 x 5 Amaj7 160.ogg",76
+Sample,247216,0,"Hi-Hat open.ogg",70
+Sample,247216,0,"35_E1_123_239.ogg",100
+Sample,247216,0,"x 5 6 6 x 5 Amaj7 Mute 80.ogg",76
+Sample,247216,0,"x 16 160.ogg",100
+Sample,247338,0,"x 5 6 6 x 5 Amaj7 Mute 80.ogg",76
+Sample,247460,0,"Snare.ogg",70
+Sample,247460,0,"35_A1_123_479.ogg",100
+Sample,247460,0,"x 5 6 6 x 5 Amaj7 320.ogg",76
+Sample,247460,0,"x 14 160.ogg",100
+Sample,247582,0,"Snare.ogg",70
+Sample,247704,0,"Tom2.ogg",70
+Sample,247704,0,"x 14 160.ogg",100
+Sample,247948,0,"35_G#1_123_239.ogg",100
+Sample,247948,0,"x 4 5 5 x 4 Abmaj7 Arpeggio down 1280.ogg",76
+Sample,247948,0,"trill x 13 (14)  480.ogg",100
+Sample,248192,0,"Hi-Hat close.ogg",70
+Sample,248192,0,"35_D#1_123_119.ogg",100
+Sample,248314,0,"Hi-Hat close.ogg",70
+Sample,248314,0,"35_F1_123_119.ogg",100
+Sample,248436,0,"Snare.ogg",70
+Sample,248436,0,"35_G#1_123_239.ogg",100
+Sample,248558,0,"Hi-Hat close.ogg",70
+Sample,248680,0,"Hi-Hat open.ogg",70
+Sample,248680,0,"35_F1_123_239.ogg",100
+Sample,248680,0,"trill x 11 (13)  480.ogg",100
+Sample,248802,0,"Hi-Hat close.ogg",70
+Sample,248923,0,"Hi-Hat close.ogg",70
+Sample,248923,0,"35_A#1_123_239.ogg",100
+Sample,249045,0,"Snare.ogg",70
+Sample,249167,0,"35_G#1_123_239.ogg",100
+Sample,249167,0,"Arp. x x x 5 160.ogg",76
+Sample,249289,0,"Hi-Hat close.ogg",70
+Sample,249411,0,"Snare.ogg",70
+Sample,249411,0,"35_G1_123_239.ogg",100
+Sample,249411,0,"Arp. x x 5 160.ogg",76
+Sample,249411,0,"trill x 9 (11)  480.ogg",100
+Sample,249533,0,"Hi-Hat close.ogg",70
+Sample,249655,0,"Hi-Hat close.ogg",70
+Sample,249655,0,"35_G#1_123_239.ogg",100
+Sample,249655,0,"Arp. x x x 5 160.ogg",76
+Sample,249777,0,"Hi-Hat open.ogg",70
+Sample,249899,0,"Hi-Hat close.ogg",70
+Sample,249899,0,"35_G#0_123_239.ogg",100
+Sample,249899,0,"Arp. x 4 240.ogg",76
+Sample,250021,0,"Hi-Hat close.ogg",70
+Sample,250143,0,"Hi-Hat close.ogg",70
+Sample,250143,0,"35_D#1_123_119.ogg",100
+Sample,250143,0,"trill x 8 (9)  480.ogg",100
+Sample,250265,0,"Hi-Hat close.ogg",70
+Sample,250265,0,"35_F1_123_119.ogg",100
+Sample,250265,0,"Arp. x x 5 240.ogg",76
+Sample,250387,0,"Snare.ogg",70
+Sample,250387,0,"35_G#1_123_239.ogg",100
+Sample,250509,0,"Hi-Hat close.ogg",70
+Sample,250631,0,"Hi-Hat close.ogg",70
+Sample,250631,0,"35_F1_123_239.ogg",100
+Sample,250631,0,"Arp. x x x 5 1440.ogg",76
+Sample,250753,0,"Hi-Hat close.ogg",70
+Sample,250875,0,"Snare.ogg",78
+Sample,250875,0,"Tom4.ogg",78
+Sample,250875,0,"35_A#1_123_239.ogg",100
+Sample,250875,0,"x 4 160.ogg",100
+Sample,251119,0,"Snare.ogg",85
+Sample,251119,0,"Tom4.ogg",85
+Sample,251119,0,"35_G#0_123_239.ogg",100
+Sample,251119,0,"x 9 160.ogg",100
+Sample,251363,0,"Snare.ogg",93
+Sample,251363,0,"Tom2.ogg",93
+Sample,251363,0,"35_G#0_123_239.ogg",100
+Sample,251363,0,"x 11 160.ogg",100
+Sample,251606,0,"Snare.ogg",100
+Sample,251606,0,"Tom2.ogg",100
+Sample,251606,0,"35_G#0_123_1199.ogg",100
+Sample,251606,0,"x 13 640.ogg",100
+Sample,252338,0,"35_E0_123_479.ogg",47
+
+[TimingPoints]
+1120,487.80487804878,4,2,1,40,1,0
+69412,-100.0,4,2,1,40,0,1
+83802,-100.0,4,2,1,40,0,0
+85022,-100.0,4,2,1,40,0,1
+100632,-100.0,4,2,1,40,0,0
+141607,-100.0,4,2,1,40,0,1
+155998,-100.0,4,2,1,40,0,0
+157217,-100.0,4,2,1,40,0,1
+172583,-100.0,4,2,1,40,0,0
+172827,-100.0,4,2,1,40,0,1
+188437,-100.0,4,2,1,40,0,0
+208924,487.80487804878,4,2,1,40,1,0
+224533,-100.0,4,2,1,40,0,1
+240143,-100.0,4,2,1,40,0,0
+
+[HitObjects]
+192,192,388,1,0,0:0:0:70:Hi-Hat close.ogg
+448,192,632,128,0,1120:0:0:0:70:Hi-Hat open L.ogg
+64,192,1120,1,0,0:0:0:100:x x 13 Staccato 160.ogg
+320,192,1607,1,0,0:0:0:100:x x 13 80.ogg
+448,192,1851,1,0,0:0:0:100:x 13 80.ogg
+192,192,2095,1,0,0:0:0:100:x 13 Staccato 160.ogg
+320,192,2461,1,0,0:0:0:100:x x 13 80.ogg
+64,192,2827,1,0,0:0:0:100:x x 15 Staccato 160.ogg
+448,192,3315,1,0,0:0:0:100:35_G#1_123_119.ogg
+320,192,3680,1,0,0:0:0:100:35_F1_123_119.ogg
+64,192,4046,128,0,4534:0:0:0:70:Tom1.ogg
+192,192,4534,128,0,5022:0:0:0:70:Hi-Hat open L.ogg
+448,192,5022,1,0,0:0:0:70:Hi-Hat close.ogg
+192,192,5510,1,0,0:0:0:70:Hi-Hat close.ogg
+64,192,5754,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,5998,1,0,0:0:0:70:Kick.ogg
+192,192,6363,1,0,0:0:0:70:Kick.ogg
+448,192,6729,1,0,0:0:0:70:Kick.ogg
+64,192,7217,1,0,0:0:0:70:Kick.ogg
+192,192,7583,1,0,0:0:0:70:Kick.ogg
+448,192,7949,128,0,8437:0:0:0:70:Kick.ogg
+64,192,8437,128,0,8924:0:0:0:70:Kick.ogg
+320,192,8924,1,0,0:0:0:70:Kick.ogg
+448,192,8924,1,0,0:0:0:50:Finish.ogg
+192,192,9412,1,0,0:0:0:70:Kick.ogg
+320,192,9656,1,0,0:0:0:70:Hi-Hat close.ogg
+64,192,9900,1,0,0:0:0:70:Kick.ogg
+448,192,10266,1,0,0:0:0:70:Hi-Hat close.ogg
+192,192,10632,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,11119,1,0,0:0:0:70:Hi-Hat close.ogg
+448,192,11607,1,0,0:0:0:70:Hi-Hat close.ogg
+64,192,11973,1,0,0:0:0:70:Snare.ogg
+320,192,12339,1,0,0:0:0:70:Kick.ogg
+192,192,12827,1,0,0:0:0:70:Kick.ogg
+448,192,13315,1,0,0:0:0:70:Kick.ogg
+64,192,13559,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,13802,1,0,0:0:0:70:Kick.ogg
+192,192,14168,1,0,0:0:0:100:35_B0_123_119.ogg
+64,192,14534,1,0,0:0:0:70:Hi-Hat close.ogg
+448,192,15022,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,15266,1,0,0:0:0:70:Kick.ogg
+64,192,15510,128,0,15998:0:0:0:70:Hi-Hat close.ogg
+320,192,15998,1,0,0:0:0:70:Hi-Hat open.ogg
+448,192,16241,128,0,16729:0:0:0:70:Kick.ogg
+64,192,16729,1,0,0:0:0:70:Kick.ogg
+192,192,16729,1,0,0:0:0:50:Finish.ogg
+320,192,17217,1,0,0:0:0:70:Kick.ogg
+192,192,17705,1,0,0:0:0:70:Kick.ogg
+448,192,17949,1,0,0:0:0:70:Hi-Hat close.ogg
+64,192,18193,1,0,0:0:0:70:Kick.ogg
+192,192,18680,1,0,0:0:0:70:Kick.ogg
+320,192,19168,1,0,0:0:0:70:Kick.ogg
+64,192,19656,1,0,0:0:0:70:Kick.ogg
+448,192,19900,1,0,0:0:0:70:Snare.ogg
+192,192,20144,128,0,20632:0:0:0:70:Kick.ogg
+320,192,20632,128,0,21119:0:0:0:70:Kick.ogg
+448,192,20632,1,0,0:0:0:50:Finish.ogg
+64,192,21119,1,0,0:0:0:70:Snare.ogg
+192,192,21485,1,0,0:0:0:70:Kick.ogg
+448,192,21851,1,0,0:0:0:70:Kick.ogg
+64,192,22095,1,0,0:0:0:70:Snare.ogg
+320,192,22339,1,0,0:0:0:70:Hi-Hat close.ogg
+192,192,22583,128,0,23071:0:0:0:70:Kick.ogg
+448,192,23071,1,0,0:0:0:70:Snare.ogg
+64,192,23437,1,0,0:0:0:70:Kick.ogg
+320,192,23802,1,0,0:0:0:70:Kick.ogg
+192,192,24046,1,0,0:0:0:70:Snare.ogg
+320,192,24290,1,0,0:0:0:70:Hi-Hat open.ogg
+448,192,24534,128,0,25022:0:0:0:70:Kick.ogg
+64,192,25022,1,0,0:0:0:70:Snare.ogg
+192,192,25388,1,0,0:0:0:70:Kick.ogg
+448,192,25754,1,0,0:0:0:70:Kick.ogg
+64,192,25998,1,0,0:0:0:70:Snare.ogg
+192,192,26241,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,26485,128,0,26973:0:0:0:70:Kick.ogg
+192,192,26973,1,0,0:0:0:70:Snare.ogg
+64,192,27339,1,0,0:0:0:70:Kick.ogg
+448,192,27705,1,0,0:0:0:70:Kick.ogg
+192,192,27949,1,0,0:0:0:70:Snare.ogg
+320,192,28193,1,0,0:0:0:70:Hi-Hat open.ogg
+64,192,28437,128,0,28924:0:0:0:70:Kick.ogg
+448,192,28924,1,0,0:0:0:70:Snare.ogg
+192,192,29290,1,0,0:0:0:70:Kick.ogg
+320,192,29656,1,0,0:0:0:70:Kick.ogg
+64,192,29900,1,0,0:0:0:70:Snare.ogg
+320,192,30144,1,0,0:0:0:70:Hi-Hat close.ogg
+448,192,30388,128,0,30876:0:0:0:70:Kick.ogg
+192,192,30876,1,0,0:0:0:70:Snare.ogg
+320,192,31241,1,0,0:0:0:70:Kick.ogg
+64,192,31607,1,0,0:0:0:70:Kick.ogg
+448,192,31851,1,0,0:0:0:70:Snare.ogg
+320,192,32095,1,0,0:0:0:70:Hi-Hat open.ogg
+192,192,32339,128,0,32827:0:0:0:70:Kick.ogg
+320,192,32827,1,0,0:0:0:70:Snare.ogg
+448,192,33193,1,0,0:0:0:70:Kick.ogg
+64,192,33559,1,0,0:0:0:70:Kick.ogg
+448,192,33802,1,0,0:0:0:70:Snare.ogg
+192,192,34046,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,34290,128,0,34778:0:0:0:70:Kick.ogg
+192,192,34778,1,0,0:0:0:70:Snare.ogg
+64,192,35144,1,0,0:0:0:70:Kick.ogg
+448,192,35510,1,0,0:0:0:70:Kick.ogg
+192,192,35754,1,0,0:0:0:70:Snare.ogg
+64,192,36241,1,0,0:0:0:70:Kick.ogg
+448,192,36241,128,0,36729:0:0:0:50:Finish.ogg
+320,192,36729,1,0,0:0:0:70:Snare.ogg
+192,192,37095,1,0,0:0:0:70:Kick.ogg
+448,192,37461,1,0,0:0:0:70:Kick.ogg
+64,192,37705,1,0,0:0:0:70:Snare.ogg
+320,192,38193,128,0,38680:0:0:0:70:Kick.ogg
+192,192,38680,1,0,0:0:0:70:Snare.ogg
+448,192,39046,1,0,0:0:0:70:Kick.ogg
+64,192,39412,1,0,0:0:0:70:Kick.ogg
+320,192,39656,1,0,0:0:0:70:Snare.ogg
+448,192,39900,1,0,0:0:0:70:Hi-Hat open.ogg
+192,192,40144,128,0,40632:0:0:0:70:Kick.ogg
+448,192,40632,1,0,0:0:0:70:Snare.ogg
+64,192,40998,1,0,0:0:0:70:Kick.ogg
+320,192,41363,1,0,0:0:0:70:Kick.ogg
+192,192,41607,1,0,0:0:0:70:Snare.ogg
+64,192,42095,128,0,42583:0:0:0:70:Kick.ogg
+192,192,42583,1,0,0:0:0:70:Snare.ogg
+448,192,42949,1,0,0:0:0:70:Kick.ogg
+64,192,43315,1,0,0:0:0:70:Kick.ogg
+192,192,43559,1,0,0:0:0:70:Snare.ogg
+320,192,43802,1,0,0:0:0:70:Snare.ogg
+64,192,44046,1,0,0:0:0:70:Kick.ogg
+448,192,44046,128,0,44534:0:0:0:70:Hi-Hat open L.ogg
+320,192,44534,1,0,0:0:0:70:Snare.ogg
+192,192,44900,1,0,0:0:0:70:Kick.ogg
+448,192,45266,1,0,0:0:0:70:Kick.ogg
+64,192,45510,1,0,0:0:0:70:Snare.ogg
+192,192,45998,128,0,46485:0:0:0:70:Kick.ogg
+320,192,46485,1,0,0:0:0:70:Snare.ogg
+64,192,46851,1,0,0:0:0:70:Kick.ogg
+448,192,47217,1,0,0:0:0:70:Kick.ogg
+192,192,47461,1,0,0:0:0:70:Snare.ogg
+64,192,47705,1,0,0:0:0:70:Hi-Hat open L.ogg
+320,192,47949,128,0,48437:0:0:0:70:Kick.ogg
+192,192,48437,1,0,0:0:0:70:Snare.ogg
+448,192,48802,1,0,0:0:0:70:Kick.ogg
+64,192,49168,1,0,0:0:0:70:Kick.ogg
+320,192,49412,1,0,0:0:0:70:Snare.ogg
+192,192,49656,1,0,0:0:0:70:Hi-Hat close.ogg
+64,192,49900,128,0,50388:0:0:0:70:Kick.ogg
+192,192,50388,1,0,0:0:0:70:Snare.ogg
+448,192,50754,1,0,0:0:0:70:Kick.ogg
+64,192,51119,1,0,0:0:0:70:Kick.ogg
+320,192,51363,1,0,0:0:0:70:Snare.ogg
+192,192,51607,1,0,0:0:0:70:Hi-Hat open L.ogg
+448,192,51851,128,0,52339:0:0:0:70:Kick.ogg
+320,192,52339,1,0,0:0:0:70:Snare.ogg
+64,192,52705,1,0,0:0:0:70:Kick.ogg
+448,192,53071,1,0,0:0:0:70:Kick.ogg
+192,192,53315,128,0,53802:0:0:0:70:Snare.ogg
+320,192,53802,1,0,0:0:0:70:Kick.ogg
+448,192,53802,128,0,54290:0:0:0:50:Finish.ogg
+64,192,54290,1,0,0:0:0:70:Snare.ogg
+320,192,54656,1,0,0:0:0:70:Kick.ogg
+192,192,55022,1,0,0:0:0:70:Kick.ogg
+448,192,55266,1,0,0:0:0:70:Snare.ogg
+320,192,55510,1,0,0:0:0:70:Hi-Hat close.ogg
+192,192,55754,128,0,56241:0:0:0:70:Kick.ogg
+64,192,56241,1,0,0:0:0:70:Snare.ogg
+192,192,56607,1,0,0:0:0:70:Kick.ogg
+320,192,56973,1,0,0:0:0:70:Kick.ogg
+64,192,57217,1,0,0:0:0:70:Snare.ogg
+192,192,57461,1,0,0:0:0:70:Hi-Hat open L.ogg
+320,192,57705,128,0,58193:0:0:0:70:Kick.ogg
+448,192,58193,1,0,0:0:0:70:Snare.ogg
+192,192,58559,1,0,0:0:0:70:Kick.ogg
+320,192,58924,1,0,0:0:0:70:Kick.ogg
+64,192,59168,1,0,0:0:0:70:Snare.ogg
+448,192,59412,1,0,0:0:0:70:Hi-Hat close.ogg
+192,192,59656,128,0,60144:0:0:0:70:Kick.ogg
+320,192,60144,1,0,0:0:0:70:Snare.ogg
+64,192,60510,1,0,0:0:0:70:Kick.ogg
+192,192,60876,1,0,0:0:0:70:Kick.ogg
+448,192,61119,128,0,61607:0:0:0:70:Snare.ogg
+64,192,61607,128,0,62095:0:0:0:70:Kick.ogg
+192,192,61607,1,0,0:0:0:50:Finish.ogg
+320,192,62095,1,0,0:0:0:70:Snare.ogg
+192,192,62461,1,0,0:0:0:70:Kick.ogg
+448,192,62827,1,0,0:0:0:70:Kick.ogg
+64,192,63071,1,0,0:0:0:70:Snare.ogg
+192,192,63315,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,63559,128,0,64046:0:0:0:70:Kick.ogg
+64,192,64046,1,0,0:0:0:70:Snare.ogg
+448,192,64412,1,0,0:0:0:70:Kick.ogg
+192,192,64778,1,0,0:0:0:70:Kick.ogg
+320,192,65022,1,0,0:0:0:70:Snare.ogg
+64,192,65266,1,0,0:0:0:70:Snare.ogg
+448,192,65510,1,0,0:0:0:70:Kick.ogg
+192,192,65754,128,0,66241:0:0:0:70:Snare.ogg
+64,192,66241,128,0,66729:0:0:0:70:Snare.ogg
+320,192,66241,1,0,0:0:0:50:Finish.ogg
+448,192,66729,1,0,0:0:0:70:Snare.ogg
+320,192,66973,1,0,0:0:0:70:Kick.ogg
+192,192,67217,1,0,0:0:0:70:Snare.ogg
+448,192,67217,128,0,67705:0:0:0:50:Finish.ogg
+320,192,67705,128,0,68193:0:0:0:70:Snare.ogg
+64,192,68193,1,0,0:0:0:70:Snare.ogg
+192,192,68193,1,0,0:0:0:50:Finish.ogg
+448,192,68437,1,0,0:0:0:70:Kick.ogg
+320,192,68680,1,0,0:0:0:70:Tom4.ogg
+192,192,68924,128,0,69412:0:0:0:70:Snare.ogg
+320,192,69412,1,0,0:0:0:70:Kick.ogg
+448,192,69412,1,0,0:0:0:50:Finish.ogg
+64,192,69900,1,0,0:0:0:70:Kick.ogg
+320,192,70388,1,0,0:0:0:70:Kick.ogg
+192,192,70632,1,0,0:0:0:70:Hi-Hat open L.ogg
+448,192,70876,1,0,0:0:0:70:Kick.ogg
+64,192,71363,1,0,0:0:0:70:Kick.ogg
+320,192,71851,1,0,0:0:0:70:Kick.ogg
+192,192,72339,1,0,0:0:0:70:Kick.ogg
+448,192,72583,1,0,0:0:0:70:Hi-Hat open L.ogg
+64,192,72827,1,0,0:0:0:70:Kick.ogg
+320,192,73315,1,0,0:0:0:70:Kick.ogg
+192,192,73802,1,0,0:0:0:70:Kick.ogg
+448,192,74290,1,0,0:0:0:70:Kick.ogg
+64,192,74534,1,0,0:0:0:70:Hi-Hat open L.ogg
+320,192,74778,1,0,0:0:0:70:Kick.ogg
+192,192,75022,1,0,0:0:0:70:Hi-Hat open L.ogg
+64,192,75266,128,0,75754:0:0:0:70:Kick.ogg
+320,192,75754,128,0,76241:0:0:0:70:Kick.ogg
+192,192,76241,128,0,76729:0:0:0:70:Kick.ogg
+448,192,76729,128,0,77217:0:0:0:70:Kick.ogg
+64,192,77217,1,0,0:0:0:70:Kick.ogg
+320,192,77217,1,0,0:0:0:50:Finish.ogg
+192,192,77705,1,0,0:0:0:70:Kick.ogg
+448,192,78193,1,0,0:0:0:70:Kick.ogg
+64,192,78437,1,0,0:0:0:70:Hi-Hat open L.ogg
+320,192,78680,1,0,0:0:0:70:Kick.ogg
+64,192,79168,1,0,0:0:0:70:Kick.ogg
+448,192,79656,1,0,0:0:0:70:Kick.ogg
+320,192,80144,1,0,0:0:0:70:Kick.ogg
+192,192,80388,1,0,0:0:0:70:Hi-Hat open L.ogg
+64,192,80632,1,0,0:0:0:70:Kick.ogg
+448,192,81119,128,0,81607:0:0:0:70:Kick.ogg
+64,192,81607,1,0,0:0:0:70:Kick.ogg
+192,192,81851,128,0,82339:0:0:0:70:Snare.ogg
+320,192,82339,1,0,0:0:0:70:Snare.ogg
+64,192,82827,1,0,0:0:0:70:Snare.ogg
+448,192,82827,128,0,83315:0:0:0:50:Finish.ogg
+192,192,83315,1,0,0:0:0:70:Snare.ogg
+320,192,83559,1,0,0:0:0:70:Kick.ogg
+64,192,83802,128,0,84290:0:0:0:70:Snare.ogg
+448,192,83802,1,0,0:0:0:50:Finish.ogg
+192,192,84290,1,0,0:0:0:70:Tom2.ogg
+320,192,84534,1,0,0:0:0:70:Tom1.ogg
+448,192,84778,1,0,0:0:0:70:Tom4.ogg
+64,192,85022,1,0,0:0:0:70:Kick.ogg
+192,192,85022,1,0,0:0:0:50:Finish.ogg
+448,192,85510,1,0,0:0:0:70:Kick.ogg
+192,192,85998,1,0,0:0:0:70:Kick.ogg
+448,192,86241,1,0,0:0:0:70:Hi-Hat open L.ogg
+320,192,86485,1,0,0:0:0:70:Kick.ogg
+64,192,86973,1,0,0:0:0:70:Kick.ogg
+320,192,87461,1,0,0:0:0:70:Kick.ogg
+64,192,87949,1,0,0:0:0:70:Kick.ogg
+448,192,88193,1,0,0:0:0:70:Hi-Hat open L.ogg
+192,192,88437,1,0,0:0:0:70:Kick.ogg
+320,192,88924,1,0,0:0:0:70:Kick.ogg
+64,192,89412,1,0,0:0:0:70:Kick.ogg
+192,192,89900,1,0,0:0:0:70:Kick.ogg
+320,192,90144,1,0,0:0:0:70:Hi-Hat open L.ogg
+448,192,90388,1,0,0:0:0:70:Kick.ogg
+64,192,90632,1,0,0:0:0:70:Hi-Hat open L.ogg
+448,192,90876,128,0,91363:0:0:0:70:Kick.ogg
+192,192,91363,128,0,91851:0:0:0:70:Kick.ogg
+320,192,91851,128,0,92339:0:0:0:70:Kick.ogg
+64,192,92339,128,0,92827:0:0:0:70:Kick.ogg
+192,192,92827,1,0,0:0:0:70:Kick.ogg
+448,192,92827,1,0,0:0:0:50:Finish.ogg
+320,192,93315,1,0,0:0:0:70:Kick.ogg
+64,192,93802,1,0,0:0:0:70:Kick.ogg
+320,192,94046,1,0,0:0:0:70:Hi-Hat open L.ogg
+192,192,94290,1,0,0:0:0:70:Kick.ogg
+448,192,94778,1,0,0:0:0:70:Kick.ogg
+64,192,95266,1,0,0:0:0:70:Kick.ogg
+192,192,95754,1,0,0:0:0:70:Kick.ogg
+448,192,95998,1,0,0:0:0:70:Hi-Hat open L.ogg
+320,192,96241,1,0,0:0:0:70:Kick.ogg
+64,192,96729,1,0,0:0:0:70:Kick.ogg
+192,192,97217,1,0,0:0:0:70:Kick.ogg
+320,192,97461,1,0,0:0:0:70:Snare.ogg
+448,192,97461,1,0,0:0:0:50:Finish.ogg
+448,192,97949,1,0,0:0:0:70:Snare.ogg
+320,192,98193,1,0,0:0:0:70:Kick.ogg
+64,192,98437,1,0,0:0:0:70:Snare.ogg
+192,192,98437,1,0,0:0:0:50:Finish.ogg
+64,192,98924,1,0,0:0:0:70:Snare.ogg
+192,192,99168,1,0,0:0:0:70:Kick.ogg
+320,192,99412,1,0,0:0:0:70:Snare.ogg
+448,192,99656,128,0,100144:0:0:0:70:Kick.ogg
+64,192,100144,128,0,100632:0:0:0:70:Kick.ogg
+320,192,100632,1,0,0:0:0:70:Kick.ogg
+448,192,100632,1,0,0:0:0:50:Finish.ogg
+192,192,101119,1,0,0:0:0:70:Kick.ogg
+64,192,101607,1,0,0:0:0:70:Kick.ogg
+448,192,101973,1,0,0:0:0:70:Hi-Hat close.ogg
+192,192,102339,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,102827,1,0,0:0:0:70:Hi-Hat close.ogg
+64,192,103071,1,0,0:0:0:70:Kick.ogg
+448,192,103315,1,0,0:0:0:70:Hi-Hat close.ogg
+192,192,103680,1,0,0:0:0:70:Snare.ogg
+320,192,104046,1,0,0:0:0:70:Kick.ogg
+64,192,104534,1,0,0:0:0:70:Kick.ogg
+448,192,105022,1,0,0:0:0:70:Kick.ogg
+320,192,105510,1,0,0:0:0:70:Kick.ogg
+192,192,105876,1,0,0:0:0:70:Hi-Hat close.ogg
+64,192,106241,1,0,0:0:0:70:Hi-Hat close.ogg
+448,192,106729,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,106973,1,0,0:0:0:70:Kick.ogg
+64,192,107217,1,0,0:0:0:70:Hi-Hat close.ogg
+192,192,107461,1,0,0:0:0:70:Kick.ogg
+448,192,107949,128,0,108437:0:0:0:70:Kick.ogg
+64,192,108437,128,0,108924:0:0:0:70:Kick.ogg
+192,192,108437,1,0,0:0:0:50:Finish.ogg
+320,192,108924,1,0,0:0:0:70:Kick.ogg
+448,192,109412,128,0,109900:0:0:0:70:Kick.ogg
+192,192,109900,1,0,0:0:0:70:Snare.ogg
+64,192,110266,1,0,0:0:0:70:Kick.ogg
+320,192,110632,1,0,0:0:0:70:Hi-Hat close.ogg
+192,192,110876,1,0,0:0:0:70:Kick.ogg
+320,192,111119,1,0,0:0:0:70:Hi-Hat close.ogg
+448,192,111363,1,0,0:0:0:70:Kick.ogg
+64,192,111729,1,0,0:0:0:70:Snare.ogg
+192,192,112095,1,0,0:0:0:70:Hi-Hat open.ogg
+320,192,112339,128,0,112827:0:0:0:70:Kick.ogg
+64,192,112827,1,0,0:0:0:70:Kick.ogg
+192,192,113315,128,0,113802:0:0:0:70:Kick.ogg
+448,192,113802,1,0,0:0:0:70:Snare.ogg
+64,192,114168,1,0,0:0:0:70:Kick.ogg
+320,192,114534,1,0,0:0:0:70:Hi-Hat close.ogg
+448,192,114778,1,0,0:0:0:70:Kick.ogg
+192,192,115022,1,0,0:0:0:70:Hi-Hat close.ogg
+64,192,115266,128,0,115754:0:0:0:70:Kick.ogg
+448,192,115754,128,0,116241:0:0:0:70:Snare.ogg
+64,192,116241,1,0,0:0:0:70:Kick.ogg
+192,192,116241,128,0,116729:0:0:0:50:Finish.ogg
+320,192,116729,1,0,0:0:0:70:Kick.ogg
+448,192,117217,128,0,117705:0:0:0:70:Kick.ogg
+192,192,117705,1,0,0:0:0:70:Snare.ogg
+320,192,118071,1,0,0:0:0:70:Kick.ogg
+448,192,118437,1,0,0:0:0:70:Hi-Hat close.ogg
+64,192,118680,1,0,0:0:0:70:Kick.ogg
+192,192,118924,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,119168,128,0,119656:0:0:0:70:Kick.ogg
+64,192,119656,1,0,0:0:0:70:Snare.ogg
+448,192,119900,1,0,0:0:0:70:Hi-Hat open.ogg
+192,192,120144,128,0,120632:0:0:0:70:Kick.ogg
+448,192,120632,1,0,0:0:0:70:Kick.ogg
+64,192,121119,128,0,121607:0:0:0:70:Kick.ogg
+320,192,121607,1,0,0:0:0:70:Snare.ogg
+192,192,121973,1,0,0:0:0:70:Kick.ogg
+448,192,122339,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,122583,1,0,0:0:0:70:Kick.ogg
+192,192,122827,1,0,0:0:0:70:Hi-Hat close.ogg
+64,192,123071,128,0,123559:0:0:0:70:Kick.ogg
+448,192,123559,128,0,124046:0:0:0:70:Snare.ogg
+64,192,124046,1,0,0:0:0:70:Kick.ogg
+192,192,124046,1,0,0:0:0:50:Finish.ogg
+320,192,124534,1,0,0:0:0:70:Snare.ogg
+192,192,124900,1,0,0:0:0:70:Snare.ogg
+448,192,125266,1,0,0:0:0:70:Tom4.ogg
+64,192,125510,128,0,125998:0:0:0:70:Snare.ogg
+320,192,125998,1,0,0:0:0:70:Kick.ogg
+448,192,125998,1,0,0:0:0:50:Finish.ogg
+192,192,126485,1,0,0:0:0:70:Snare.ogg
+320,192,126973,1,0,0:0:0:70:Hi-Hat close.ogg
+192,192,127217,1,0,0:0:0:70:Kick.ogg
+64,192,127461,1,0,0:0:0:70:Snare.ogg
+448,192,127949,128,0,128437:0:0:0:70:Kick.ogg
+192,192,128437,1,0,0:0:0:70:Snare.ogg
+64,192,128924,1,0,0:0:0:70:Hi-Hat close.ogg
+192,192,129168,1,0,0:0:0:70:Kick.ogg
+320,192,129412,1,0,0:0:0:70:Snare.ogg
+192,192,129900,1,0,0:0:0:70:Kick.ogg
+448,192,130388,1,0,0:0:0:70:Snare.ogg
+320,192,130754,1,0,0:0:0:70:Kick.ogg
+64,192,131119,1,0,0:0:0:70:Kick.ogg
+448,192,131363,1,0,0:0:0:70:Snare.ogg
+192,192,131851,1,0,0:0:0:70:Kick.ogg
+448,192,132339,1,0,0:0:0:70:Snare.ogg
+64,192,132705,1,0,0:0:0:70:Kick.ogg
+448,192,133071,1,0,0:0:0:70:Kick.ogg
+192,192,133315,128,0,133802:0:0:0:70:Snare.ogg
+320,192,133802,1,0,0:0:0:70:Kick.ogg
+448,192,133802,1,0,0:0:0:50:Finish.ogg
+64,192,134290,1,0,0:0:0:70:Snare.ogg
+320,192,134656,1,0,0:0:0:70:Kick.ogg
+192,192,135022,1,0,0:0:0:70:Kick.ogg
+448,192,135266,1,0,0:0:0:70:Snare.ogg
+64,192,135510,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,135754,1,0,0:0:0:70:Kick.ogg
+64,192,136241,1,0,0:0:0:70:Snare.ogg
+448,192,136607,1,0,0:0:0:70:Kick.ogg
+192,192,136973,1,0,0:0:0:70:Kick.ogg
+320,192,137217,1,0,0:0:0:70:Snare.ogg
+448,192,137461,1,0,0:0:0:70:Snare.ogg
+64,192,137705,1,0,0:0:0:70:Kick.ogg
+192,192,137949,128,0,138437:0:0:0:70:Tom2.ogg
+320,192,138437,128,0,138924:0:0:0:70:Snare.ogg
+448,192,138437,1,0,0:0:0:50:Finish.ogg
+64,192,138924,1,0,0:0:0:70:Tom1.ogg
+448,192,139168,1,0,0:0:0:70:Kick.ogg
+64,192,139412,128,0,139900:0:0:0:50:Finish.ogg
+192,192,139412,1,0,0:0:0:70:Tom4.ogg
+192,192,139900,128,0,140388:0:0:0:70:Tom1.ogg
+448,192,140388,128,0,140876:0:0:0:50:Finish.ogg
+192,192,140876,1,0,0:0:0:70:Snare.ogg
+320,192,141119,1,0,0:0:0:70:Snare.ogg
+448,192,141363,1,0,0:0:0:70:Snare.ogg
+64,192,141607,1,0,0:0:0:70:Kick.ogg
+192,192,141607,1,0,0:0:0:50:Finish.ogg
+448,192,142095,1,0,0:0:0:70:Kick.ogg
+192,192,142583,1,0,0:0:0:70:Kick.ogg
+448,192,142827,1,0,0:0:0:70:Hi-Hat open L.ogg
+320,192,143071,1,0,0:0:0:70:Kick.ogg
+64,192,143559,1,0,0:0:0:70:Kick.ogg
+192,192,144046,1,0,0:0:0:70:Kick.ogg
+320,192,144534,1,0,0:0:0:70:Kick.ogg
+64,192,144778,1,0,0:0:0:70:Hi-Hat open L.ogg
+448,192,145022,1,0,0:0:0:70:Kick.ogg
+192,192,145510,1,0,0:0:0:70:Kick.ogg
+320,192,145998,1,0,0:0:0:70:Kick.ogg
+64,192,146485,1,0,0:0:0:70:Kick.ogg
+448,192,146729,1,0,0:0:0:70:Hi-Hat open L.ogg
+192,192,146973,1,0,0:0:0:70:Kick.ogg
+320,192,147217,1,0,0:0:0:70:Hi-Hat open L.ogg
+448,192,147461,128,0,147949:0:0:0:70:Kick.ogg
+192,192,147949,128,0,148437:0:0:0:70:Kick.ogg
+320,192,148437,128,0,148924:0:0:0:70:Kick.ogg
+64,192,148924,128,0,149412:0:0:0:70:Kick.ogg
+192,192,149412,1,0,0:0:0:70:Kick.ogg
+448,192,149412,1,0,0:0:0:50:Finish.ogg
+320,192,149900,1,0,0:0:0:70:Kick.ogg
+64,192,150388,1,0,0:0:0:70:Kick.ogg
+448,192,150632,1,0,0:0:0:70:Hi-Hat open L.ogg
+192,192,150876,1,0,0:0:0:70:Kick.ogg
+448,192,151363,1,0,0:0:0:70:Kick.ogg
+64,192,151851,1,0,0:0:0:70:Kick.ogg
+448,192,152339,1,0,0:0:0:70:Kick.ogg
+192,192,152583,1,0,0:0:0:70:Hi-Hat open L.ogg
+320,192,152827,1,0,0:0:0:70:Kick.ogg
+448,192,153071,1,0,0:0:0:70:Hi-Hat open L.ogg
+64,192,153315,128,0,153802:0:0:0:70:Kick.ogg
+448,192,153802,1,0,0:0:0:70:Kick.ogg
+320,192,154046,128,0,154534:0:0:0:70:Snare.ogg
+192,192,154534,1,0,0:0:0:70:Tom2.ogg
+64,192,155022,128,0,155510:0:0:0:70:Snare.ogg
+448,192,155022,1,0,0:0:0:50:Finish.ogg
+320,192,155510,1,0,0:0:0:70:Tom2.ogg
+192,192,155754,1,0,0:0:0:70:Kick.ogg
+64,192,155998,1,0,0:0:0:70:Snare.ogg
+448,192,155998,128,0,156485:0:0:0:100:35_G#0_123_479.ogg
+192,192,156485,1,0,0:0:0:70:Tom2.ogg
+320,192,156729,1,0,0:0:0:70:Tom1.ogg
+448,192,156973,1,0,0:0:0:70:Tom4.ogg
+64,192,157217,1,0,0:0:0:70:Kick.ogg
+192,192,157217,1,0,0:0:0:50:Finish.ogg
+448,192,157705,1,0,0:0:0:70:Kick.ogg
+320,192,158193,1,0,0:0:0:70:Kick.ogg
+64,192,158437,1,0,0:0:0:70:Hi-Hat open L.ogg
+192,192,158680,1,0,0:0:0:70:Kick.ogg
+448,192,159168,1,0,0:0:0:70:Kick.ogg
+320,192,159656,1,0,0:0:0:70:Kick.ogg
+192,192,160144,1,0,0:0:0:70:Kick.ogg
+448,192,160388,1,0,0:0:0:70:Hi-Hat open L.ogg
+64,192,160632,1,0,0:0:0:70:Kick.ogg
+320,192,161119,1,0,0:0:0:70:Kick.ogg
+192,192,161607,1,0,0:0:0:70:Kick.ogg
+448,192,162095,1,0,0:0:0:70:Kick.ogg
+64,192,162339,1,0,0:0:0:70:Hi-Hat open L.ogg
+320,192,162583,1,0,0:0:0:70:Kick.ogg
+192,192,162827,1,0,0:0:0:70:Hi-Hat open L.ogg
+64,192,163071,128,0,163559:0:0:0:70:Kick.ogg
+320,192,163559,128,0,164046:0:0:0:70:Kick.ogg
+192,192,164046,128,0,164534:0:0:0:70:Kick.ogg
+448,192,164534,128,0,165022:0:0:0:70:Kick.ogg
+64,192,165022,1,0,0:0:0:70:Kick.ogg
+320,192,165022,1,0,0:0:0:50:Finish.ogg
+192,192,165510,1,0,0:0:0:70:Kick.ogg
+448,192,165998,1,0,0:0:0:70:Kick.ogg
+64,192,166241,1,0,0:0:0:70:Hi-Hat open L.ogg
+320,192,166485,1,0,0:0:0:70:Kick.ogg
+64,192,166973,1,0,0:0:0:70:Kick.ogg
+448,192,167461,1,0,0:0:0:70:Kick.ogg
+192,192,167949,1,0,0:0:0:70:Kick.ogg
+320,192,168193,1,0,0:0:0:70:Hi-Hat open L.ogg
+64,192,168437,1,0,0:0:0:70:Kick.ogg
+192,192,168680,1,0,0:0:0:70:Hi-Hat open L.ogg
+448,192,168924,128,0,169412:0:0:0:70:Kick.ogg
+320,192,169412,1,0,0:0:0:70:Kick.ogg
+64,192,169656,1,0,0:0:0:70:Snare.ogg
+192,192,169656,1,0,0:0:0:50:Finish.ogg
+448,192,170144,1,0,0:0:0:70:Snare.ogg
+320,192,170388,1,0,0:0:0:70:Kick.ogg
+64,192,170632,1,0,0:0:0:70:Snare.ogg
+192,192,170632,1,0,0:0:0:50:Finish.ogg
+448,192,171119,1,0,0:0:0:70:Snare.ogg
+320,192,171363,1,0,0:0:0:70:Kick.ogg
+192,192,171607,1,0,0:0:0:70:Snare.ogg
+64,192,171851,128,0,172339:0:0:0:70:Kick.ogg
+448,192,172339,128,0,172827:0:0:0:70:Kick.ogg
+64,192,172827,128,0,173315:0:0:0:70:Kick.ogg
+192,192,172827,1,0,0:0:0:50:Finish.ogg
+320,192,173315,1,0,0:0:0:70:Kick.ogg
+192,192,173680,1,0,0:0:0:70:Snare.ogg
+448,192,174046,1,0,0:0:0:70:Hi-Hat open L.ogg
+64,192,174290,1,0,0:0:0:70:Kick.ogg
+192,192,174778,1,0,0:0:0:70:Kick.ogg
+448,192,175266,1,0,0:0:0:70:Kick.ogg
+64,192,175632,1,0,0:0:0:70:Snare.ogg
+320,192,175998,1,0,0:0:0:70:Hi-Hat open L.ogg
+192,192,176241,1,0,0:0:0:70:Kick.ogg
+448,192,176729,1,0,0:0:0:70:Kick.ogg
+192,192,177217,1,0,0:0:0:70:Kick.ogg
+320,192,177583,1,0,0:0:0:70:Snare.ogg
+64,192,177949,1,0,0:0:0:70:Hi-Hat open L.ogg
+448,192,178193,1,0,0:0:0:70:Kick.ogg
+64,192,178680,1,0,0:0:0:70:Kick.ogg
+320,192,179168,1,0,0:0:0:70:Kick.ogg
+192,192,179534,1,0,0:0:0:70:Snare.ogg
+448,192,179900,1,0,0:0:0:70:Hi-Hat open L.ogg
+64,192,180144,1,0,0:0:0:70:Kick.ogg
+320,192,180632,1,0,0:0:0:70:Kick.ogg
+448,192,180632,1,0,0:0:0:50:Finish.ogg
+64,192,181119,1,0,0:0:0:70:Kick.ogg
+320,192,181485,1,0,0:0:0:70:Snare.ogg
+192,192,181851,1,0,0:0:0:70:Hi-Hat open L.ogg
+448,192,182095,1,0,0:0:0:70:Kick.ogg
+64,192,182583,1,0,0:0:0:70:Kick.ogg
+448,192,183071,1,0,0:0:0:70:Kick.ogg
+192,192,183437,1,0,0:0:0:70:Snare.ogg
+320,192,183802,1,0,0:0:0:70:Hi-Hat open L.ogg
+64,192,184046,1,0,0:0:0:70:Kick.ogg
+192,192,184290,1,0,0:0:0:70:Snare.ogg
+448,192,184290,128,0,184778:0:0:0:50:Finish.ogg
+64,192,184778,1,0,0:0:0:70:Hi-Hat open L.ogg
+192,192,185022,1,0,0:0:0:70:Kick.ogg
+320,192,185266,1,0,0:0:0:70:Hi-Hat open L.ogg
+192,192,185754,1,0,0:0:0:70:Hi-Hat open L.ogg
+64,192,185998,1,0,0:0:0:70:Kick.ogg
+320,192,186241,1,0,0:0:0:70:Snare.ogg
+448,192,186241,128,0,186729:0:0:0:50:Finish.ogg
+64,192,186729,1,0,0:0:0:70:Snare.ogg
+192,192,186973,1,0,0:0:0:70:Kick.ogg
+320,192,187217,1,0,0:0:0:70:Snare.ogg
+448,192,187461,128,0,187949:0:0:0:70:Kick.ogg
+64,192,187949,128,0,188437:0:0:0:70:Kick.ogg
+320,192,188437,128,0,188924:0:0:0:70:Kick.ogg
+448,192,188437,1,0,0:0:0:50:Finish.ogg
+192,192,188924,1,0,0:0:0:70:Snare.ogg
+448,192,189290,1,0,0:0:0:70:Kick.ogg
+64,192,189656,1,0,0:0:0:70:Kick.ogg
+320,192,189900,1,0,0:0:0:70:Snare.ogg
+64,192,190388,128,0,190876:0:0:0:70:Kick.ogg
+320,192,190876,1,0,0:0:0:70:Snare.ogg
+192,192,191241,1,0,0:0:0:70:Kick.ogg
+448,192,191607,1,0,0:0:0:70:Kick.ogg
+64,192,191851,1,0,0:0:0:70:Snare.ogg
+192,192,192095,1,0,0:0:0:70:Ride.ogg
+448,192,192339,128,0,192827:0:0:0:70:Kick.ogg
+192,192,192827,1,0,0:0:0:70:Snare.ogg
+64,192,193071,128,0,193559:0:0:0:70:Ride.ogg
+320,192,193559,1,0,0:0:0:70:Kick.ogg
+448,192,193802,1,0,0:0:0:70:Snare.ogg
+64,192,194046,1,0,0:0:0:70:Ride.ogg
+192,192,194290,1,0,0:0:0:70:Kick.ogg
+448,192,194778,1,0,0:0:0:70:Snare.ogg
+64,192,195144,1,0,0:0:0:70:Kick.ogg
+192,192,195510,1,0,0:0:0:70:Kick.ogg
+320,192,195754,1,0,0:0:0:70:Snare.ogg
+448,192,195998,1,0,0:0:0:70:Tom4.ogg
+64,192,196241,128,0,196729:0:0:0:70:Kick.ogg
+192,192,196241,1,0,0:0:0:50:Finish.ogg
+320,192,196729,1,0,0:0:0:70:Snare.ogg
+192,192,197095,1,0,0:0:0:70:Kick.ogg
+448,192,197461,1,0,0:0:0:70:Kick.ogg
+64,192,197705,1,0,0:0:0:70:Snare.ogg
+320,192,198193,128,0,198680:0:0:0:70:Kick.ogg
+64,192,198680,1,0,0:0:0:70:Snare.ogg
+192,192,199046,1,0,0:0:0:70:Kick.ogg
+448,192,199412,1,0,0:0:0:70:Kick.ogg
+64,192,199656,1,0,0:0:0:70:Snare.ogg
+192,192,199900,1,0,0:0:0:70:Ride.ogg
+320,192,200144,128,0,200632:0:0:0:70:Kick.ogg
+64,192,200632,1,0,0:0:0:70:Snare.ogg
+192,192,200876,128,0,201363:0:0:0:70:Ride.ogg
+448,192,201363,1,0,0:0:0:70:Kick.ogg
+64,192,201607,1,0,0:0:0:70:Snare.ogg
+320,192,202095,1,0,0:0:0:70:Kick.ogg
+192,192,202583,1,0,0:0:0:70:Snare.ogg
+320,192,202949,1,0,0:0:0:70:Kick.ogg
+64,192,203315,1,0,0:0:0:70:Kick.ogg
+192,192,203559,1,0,0:0:0:70:Snare.ogg
+320,192,203802,1,0,0:0:0:70:Tom4.ogg
+64,192,204046,1,0,0:0:0:70:Kick.ogg
+448,192,204046,128,0,204534:0:0:0:50:Finish.ogg
+320,192,204534,1,0,0:0:0:70:Tom2.ogg
+64,192,204778,128,0,205266:0:0:0:70:Kick.ogg
+192,192,204778,1,0,0:0:0:50:Finish.ogg
+448,192,205266,1,0,0:0:0:70:Snare.ogg
+320,192,205754,1,0,0:0:0:70:Snare.ogg
+192,192,206241,1,0,0:0:0:70:Snare.ogg
+64,192,206729,1,0,0:0:0:70:Snare.ogg
+192,192,206729,1,0,0:0:0:50:Finish.ogg
+320,192,207217,1,0,0:0:0:70:Snare.ogg
+64,192,207461,1,0,0:0:0:70:Snare.ogg
+448,192,207461,128,0,208924:0:0:0:50:Finish.ogg
+64,192,208924,1,0,0:0:0:70:Kick.ogg
+64,192,209411,1,0,0:0:0:70:Kick.ogg
+192,192,209899,1,0,0:0:0:70:Kick.ogg
+192,192,210387,1,0,0:0:0:70:Kick.ogg
+320,192,210875,1,0,0:0:0:70:Kick.ogg
+320,192,211363,1,0,0:0:0:70:Kick.ogg
+448,192,211850,1,0,0:0:0:70:Kick.ogg
+448,192,212338,1,0,0:0:0:70:Kick.ogg
+64,192,212826,1,0,0:0:0:70:Kick.ogg
+64,192,213314,1,0,0:0:0:70:Kick.ogg
+320,192,213802,1,0,0:0:0:70:Kick.ogg
+320,192,214289,1,0,0:0:0:70:Kick.ogg
+192,192,214777,128,0,215265:0:0:0:70:Kick.ogg
+448,192,215265,128,0,215753:0:0:0:70:Kick.ogg
+64,192,215753,128,0,216241:0:0:0:70:Kick.ogg
+320,192,216241,128,0,216728:0:0:0:70:Kick.ogg
+192,192,216728,1,0,0:0:0:70:Kick.ogg
+192,192,217216,1,0,0:0:0:70:Kick.ogg
+448,192,217704,1,0,0:0:0:70:Kick.ogg
+448,192,218192,1,0,0:0:0:70:Kick.ogg
+64,192,218680,1,0,0:0:0:70:Kick.ogg
+64,192,219167,1,0,0:0:0:70:Kick.ogg
+320,192,219655,1,0,0:0:0:70:Kick.ogg
+320,192,220143,1,0,0:0:0:70:Kick.ogg
+64,192,220631,1,0,0:0:0:70:Kick.ogg
+448,192,220875,1,0,0:0:0:70:Snare.ogg
+320,192,221119,1,0,0:0:0:70:Kick.ogg
+64,192,221363,128,0,221850:0:0:0:70:Snare.ogg
+192,192,221363,1,0,0:0:0:50:Finish.ogg
+320,192,221850,1,0,0:0:0:70:Snare.ogg
+192,192,222338,1,0,0:0:0:70:Snare.ogg
+448,192,222338,128,0,222826:0:0:0:50:Finish.ogg
+64,192,222826,1,0,0:0:0:70:Snare.ogg
+320,192,223070,1,0,0:0:0:70:Kick.ogg
+64,192,223314,128,0,223802:0:0:0:70:Snare.ogg
+448,192,223314,1,0,0:0:0:50:Finish.ogg
+192,192,223802,1,0,0:0:0:70:Snare.ogg
+320,192,224045,1,0,0:0:0:70:Kick.ogg
+448,192,224289,1,0,0:0:0:70:Snare.ogg
+64,192,224533,1,0,0:0:0:70:Kick.ogg
+192,192,224533,1,0,0:0:0:50:Finish.ogg
+448,192,225021,1,0,0:0:0:70:Kick.ogg
+192,192,225509,1,0,0:0:0:70:Kick.ogg
+448,192,225753,1,0,0:0:0:70:Hi-Hat open L.ogg
+320,192,225997,1,0,0:0:0:70:Kick.ogg
+64,192,226484,1,0,0:0:0:70:Kick.ogg
+192,192,226972,1,0,0:0:0:70:Kick.ogg
+320,192,227460,1,0,0:0:0:70:Kick.ogg
+64,192,227704,1,0,0:0:0:70:Hi-Hat open L.ogg
+448,192,227948,1,0,0:0:0:70:Kick.ogg
+192,192,228436,1,0,0:0:0:70:Kick.ogg
+320,192,228923,1,0,0:0:0:70:Kick.ogg
+64,192,229411,1,0,0:0:0:70:Kick.ogg
+320,192,229655,1,0,0:0:0:70:Snare.ogg
+448,192,229655,1,0,0:0:0:50:Finish.ogg
+64,192,230143,1,0,0:0:0:70:Tom4.ogg
+448,192,230387,128,0,230875:0:0:0:70:Kick.ogg
+192,192,230875,128,0,231363:0:0:0:70:Kick.ogg
+320,192,231363,128,0,231850:0:0:0:70:Kick.ogg
+64,192,231850,128,0,232338:0:0:0:70:Kick.ogg
+192,192,232338,1,0,0:0:0:70:Kick.ogg
+448,192,232338,1,0,0:0:0:50:Finish.ogg
+320,192,232826,1,0,0:0:0:70:Kick.ogg
+64,192,233314,1,0,0:0:0:70:Kick.ogg
+448,192,233558,1,0,0:0:0:70:Hi-Hat open L.ogg
+192,192,233802,1,0,0:0:0:70:Kick.ogg
+448,192,234289,1,0,0:0:0:70:Kick.ogg
+64,192,234777,1,0,0:0:0:70:Kick.ogg
+320,192,235265,1,0,0:0:0:70:Kick.ogg
+192,192,235509,1,0,0:0:0:70:Hi-Hat open L.ogg
+448,192,235753,1,0,0:0:0:70:Kick.ogg
+320,192,235997,1,0,0:0:0:70:Hi-Hat open L.ogg
+64,192,236241,128,0,236728:0:0:0:70:Kick.ogg
+192,192,236241,1,0,0:0:0:50:Finish.ogg
+448,192,236728,1,0,0:0:0:70:Kick.ogg
+64,192,236972,1,0,0:0:0:70:Snare.ogg
+192,192,236972,1,0,0:0:0:50:Finish.ogg
+64,192,237460,1,0,0:0:0:70:Snare.ogg
+192,192,237704,1,0,0:0:0:70:Kick.ogg
+320,192,237948,1,0,0:0:0:70:Snare.ogg
+448,192,237948,1,0,0:0:0:50:Finish.ogg
+64,192,238436,1,0,0:0:0:70:Snare.ogg
+192,192,238680,1,0,0:0:0:70:Kick.ogg
+320,192,238923,1,0,0:0:0:70:Tom1.ogg
+448,192,239167,128,0,239655:0:0:0:70:Kick.ogg
+64,192,239655,128,0,240143:0:0:0:70:Kick.ogg
+320,192,240143,1,0,0:0:0:70:Kick.ogg
+448,192,240143,1,0,0:0:0:50:Finish.ogg
+192,192,240631,1,0,0:0:0:70:Kick.ogg
+64,192,241119,1,0,0:0:0:70:Kick.ogg
+448,192,241484,1,0,0:0:0:70:Hi-Hat close.ogg
+192,192,241850,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,242338,1,0,0:0:0:70:Hi-Hat close.ogg
+448,192,242826,1,0,0:0:0:70:Hi-Hat close.ogg
+64,192,243192,1,0,0:0:0:70:Snare.ogg
+320,192,243558,1,0,0:0:0:70:Kick.ogg
+192,192,244045,1,0,0:0:0:70:Kick.ogg
+448,192,244533,1,0,0:0:0:70:Kick.ogg
+320,192,245021,1,0,0:0:0:70:Kick.ogg
+192,192,245387,1,0,0:0:0:70:Hi-Hat close.ogg
+64,192,245753,1,0,0:0:0:70:Hi-Hat close.ogg
+448,192,246241,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,246484,1,0,0:0:0:70:Kick.ogg
+64,192,246728,128,0,247216:0:0:0:70:Hi-Hat close.ogg
+320,192,247216,1,0,0:0:0:70:Snare.ogg
+448,192,247460,128,0,247948:0:0:0:70:Kick.ogg
+64,192,247948,1,0,0:0:0:70:Kick.ogg
+192,192,247948,1,0,0:0:0:50:Finish.ogg
+320,192,248436,1,0,0:0:0:70:Kick.ogg
+64,192,248923,1,0,0:0:0:70:Kick.ogg
+192,192,249167,1,0,0:0:0:70:Hi-Hat close.ogg
+320,192,249411,1,0,0:0:0:70:Kick.ogg
+64,192,249899,1,0,0:0:0:70:Kick.ogg
+320,192,250387,1,0,0:0:0:70:Kick.ogg
+448,192,250875,1,0,0:0:0:78:Kick.ogg
+320,192,251119,1,0,0:0:0:85:Kick.ogg
+192,192,251363,1,0,0:0:0:93:Kick.ogg
+64,192,251606,128,0,252826:0:0:0:100:Kick.ogg

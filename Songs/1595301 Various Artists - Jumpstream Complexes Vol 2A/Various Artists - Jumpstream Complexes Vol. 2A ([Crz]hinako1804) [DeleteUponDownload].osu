@@ -1,0 +1,57 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 12
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Jumpstream Complexes Vol. 2A
+TitleUnicode:Jumpstream Complexes Vol. 2A
+Artist:Various Artists
+ArtistUnicode:Various Artists
+Creator:[Crz]hinako1804
+Version:DeleteUponDownload
+Source:
+Tags:js malody hinako hinako1804 Karuta -Deepdive- Deepdive Rudown Blue_Potion PORTTAYER Hylotl HarKIn -ATP- FDShijing IsxI [Crz]IsxI Glorionoly EDTA233 ARForest The Last Page Lia 時を刻む唄 (Shouya Namai vs. LU-I Remix) Toki o Kizamu Uta 小倉唯 Baby Sweet Berry Love (Tsukiko chan Maji kawa-E Remix) Ogura Yui you 星野ひなた (CV: 長江里加) やっぱりみゃー姉なんばーわん Hoshino Hinata (CV: Nagae Rika) Yappari Mya-nee Number One こふ Rainbow Light kohu DM DOKURO Universal Collapse M.Iz 駆け抜けるアニソンメドレーⅦ Kakenukeru Anime Song Medley VII 7 Anison かたぎり Nyan-Nyan Naughty Night katagiri リモ Prototype (CV: 花守ゆみり) センダンライフ (かたぎり Bootleg) Remo Prototype (CV: Hanamori Yumiri) Sendan Life (katagiri Bootleg) Cosmic Disgust 歌組雪月花 回レ！雪月花 Utagumi Setsugetsuka Maware! Setsugetsuka 森カリオペ 失礼しますが、RIP♡ (t+pazolite Remix) Mori Calliope Excuse My Rudeness, but Could You Please RIP? RIP?<3 volume 2
+BeatmapID:3258309
+BeatmapSetID:1595301
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:1
+OverallDifficulty:10
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"A.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,500,4,1,0,0,1,0
+
+
+[HitObjects]
+256,192,612000,5,0,0:0:0:0:

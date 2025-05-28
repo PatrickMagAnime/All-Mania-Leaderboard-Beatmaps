@@ -1,0 +1,58 @@
+osu file format v14
+
+[General]
+AudioFilename: .mp3
+AudioLeadIn: 0
+PreviewTime: 47134
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.9
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 2.2
+
+[Metadata]
+Title:SSjoy Dan
+TitleUnicode:SSjoy Dan
+Artist:Various Artists
+ArtistUnicode:Various Artists
+Creator:qodtjr
+Version:(Marathon)
+Source:
+Tags:chordstream 뱅석 翡翠茶漬け Hino Isuka + Umeboshi Chazuke Bomb Bang Bound​!​!​! BlackY vs. Yooh MEGATON BLAST (tpz Overcute Remix) t+pazolite xi Aparajita Glorious Crown Camellia ANOMALY かめりあ ∀NØMALY Fastest Crash Longinus ああああ ☆をかけるアドベンチャー ～ we are forever friends! ～ [Long ver​.​] AAAA Hoshi o Kakeru Adventure ~ we are forever friends! ~
+BeatmapID:3420363
+BeatmapSetID:621216
+
+[Difficulty]
+HPDrainRate:8
+CircleSize:7
+OverallDifficulty:8
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+2,1610,911200
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1410,285.714285714286,4,2,0,10,1,0
+
+
+[HitObjects]
+256,192,1410,5,0,0:0:0:0:
+256,192,912400,5,0,0:0:0:0:

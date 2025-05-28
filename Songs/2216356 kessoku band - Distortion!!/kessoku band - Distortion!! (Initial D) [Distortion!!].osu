@@ -1,0 +1,4685 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.ogg
+AudioLeadIn: 0
+PreviewTime: 154476
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+EpilepsyWarning: 1
+SpecialStyle: 0
+WidescreenStoryboard: 1
+SamplesMatchPlaybackRate: 1
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1.999998
+
+[Metadata]
+Title:Distortion!!
+TitleUnicode:Distortion!!
+Artist:kessoku band
+ArtistUnicode:結束バンド
+Creator:Initial D
+Version:Distortion!!
+Source:ぼっち・ざ・ろっく！
+Tags:a04 a04360436 -[_peachy_]- -[ peachy ]- peachy bocchi the rock btr anime ending ed japanese jrock j-rock j-pop jpop gotoh hitori 後藤ひとり yamada ryo 山田リョウ kita ikuyo 喜多郁代 ijichi nijika 伊地知虹夏 female vocal vocalist 青山吉能 aoyama yoshino 鈴代紗弓 suzushiro sayumi 水野朔 mizuno saku 長谷川育美 hasegawa ikumi 谷口鮪 maguro taniguchi 三井律郎 ritsuo matsui kana-boon
+BeatmapID:4696801
+BeatmapSetID:2216356
+
+[Difficulty]
+HPDrainRate:8
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"KitaBG.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,1749,0,"x x x 7 7 5 A 160.wav",55
+Sample,1749,0,"bass 4-5 320.wav",40
+Sample,1920,0,"Hi-Hat open.wav",50
+Sample,1920,0,"x x x 7 7 5 A 160.wav",55
+Sample,2090,0,"bass 4-5 160.wav",40
+Sample,2261,0,"x x x 7 7 5 A 160.wav",55
+Sample,2261,0,"Hi-Hat open.wav",50
+Sample,2261,0,"bass 4-5 160.wav",40
+Sample,2431,0,"bass 4-5 160.wav",40
+Sample,2431,0,"Hi-Hat close.wav",50
+Sample,2431,0,"x x x 7 7 5 A 160.wav",55
+Sample,2601,0,"bass 4-5 160.wav",40
+Sample,2601,0,"x x x 7 7 5 A 160.wav",55
+Sample,2772,0,"bass 4-5 160.wav",40
+Sample,2772,0,"x x x 7 7 5 A 160.wav",55
+Sample,2942,0,"x x x 7 5 5 D-A 320.wav",55
+Sample,2942,0,"Hi-Hat open.wav",50
+Sample,2942,0,"bass 3-5 320.wav",40
+Sample,3283,0,"bass 3-5 160.wav",40
+Sample,3283,0,"Hi-Hat open.wav",50
+Sample,3283,0,"x x x 7 5 5 D-A 160.wav",55
+Sample,3454,0,"bass 3-5 160.wav",40
+Sample,3454,0,"x x x 7 5 5 D-A 160.wav",55
+Sample,3624,0,"bass 3-5 160.wav",40
+Sample,3624,0,"x x x 7 5 5 D-A 160.wav",55
+Sample,3795,0,"x x 6 7 4 A-C# 160.wav",55
+Sample,3795,0,"Hi-Hat close.wav",50
+Sample,3795,0,"bass 3-4 160.wav",40
+Sample,3965,0,"bass 3-4 160.wav",40
+Sample,3965,0,"Hi-Hat open.wav",50
+Sample,3965,0,"x x 6 7 4 A-C# 160.wav",55
+Sample,4136,0,"bass 3-4 160.wav",40
+Sample,4136,0,"x x 6 7 4 A-C# 160.wav",55
+Sample,4306,0,"x x 6 7 4 A-C# 160.wav",55
+Sample,4306,0,"Hi-Hat open.wav",50
+Sample,4306,0,"bass 3-4 160.wav",40
+Sample,4476,0,"x x x 4 2 2 Bm-F# 160.wav",55
+Sample,4476,0,"bass 3-2 320.wav",40
+Sample,4647,0,"Hi-Hat open.wav",50
+Sample,4647,0,"x x x 4 2 2 Bm-F# 160.wav",55
+Sample,4817,0,"bass 3-2 160.wav",40
+Sample,4988,0,"x x x 4 2 2 Bm-F# 160.wav",55
+Sample,4988,0,"Hi-Hat open.wav",50
+Sample,4988,0,"bass 3-2 160.wav",40
+Sample,5158,0,"bass 3-2 160.wav",40
+Sample,5158,0,"Hi-Hat close.wav",50
+Sample,5158,0,"x x x 4 2 2 Bm-F# 160.wav",55
+Sample,5329,0,"bass 3-2 160.wav",40
+Sample,5329,0,"x x x 4 2 2 Bm-F# 160.wav",55
+Sample,5499,0,"bass 3-2 160.wav",40
+Sample,5499,0,"x x x 4 2 2 Bm-F# 160.wav",55
+Sample,5670,0,"x x 4 2 2 E-B 320.wav",55
+Sample,5670,0,"Hi-Hat open.wav",50
+Sample,5670,0,"bass 3-7 320.wav",40
+Sample,6011,0,"bass 3-7 160.wav",40
+Sample,6011,0,"Hi-Hat open.wav",50
+Sample,6011,0,"x x 4 2 2 E-B 160.wav",55
+Sample,6181,0,"bass 3-7 160.wav",40
+Sample,6181,0,"x x 4 2 2 E-B 160.wav",55
+Sample,6351,0,"x x 4 2 2 E-B 160.wav",55
+Sample,6351,0,"Hi-Hat open.wav",50
+Sample,6351,0,"bass 3-7 160.wav",40
+Sample,6522,0,"bass 3-5 160.wav",40
+Sample,6522,0,"Hi-Hat close.wav",50
+Sample,6522,0,"x x 7 7 5 D 160.wav",55
+Sample,6692,0,"x x 7 7 5 D 160.wav",55
+Sample,6692,0,"Hi-Hat open.wav",50
+Sample,6692,0,"bass 3-5 160.wav",40
+Sample,6863,0,"x x 7 7 5 D 160.wav",55
+Sample,6863,0,"bass 2-7 320.wav",40
+Sample,7033,0,"Hi-Hat open.wav",50
+Sample,7033,0,"x x 7 7 5 D 160.wav",55
+Sample,7204,0,"x x 6 7 4 A-C# 160.wav",55
+Sample,7204,0,"bass 3-4 160.wav",40
+Sample,7374,0,"bass 3-4 160.wav",40
+Sample,7374,0,"Hi-Hat open.wav",50
+Sample,7374,0,"x x 6 7 4 A-C# 160.wav",55
+Sample,7545,0,"bass 3-4 160.wav",40
+Sample,7715,0,"bass 3-4 160.wav",40
+Sample,7715,0,"Hi-Hat open.wav",50
+Sample,7715,0,"x x 6 7 4 A-C# 160.wav",55
+Sample,7886,0,"x x 6 7 4 A-C# 160.wav",55
+Sample,7886,0,"Hi-Hat close.wav",50
+Sample,7886,0,"bass 3-4 160.wav",40
+Sample,8056,0,"x x 6 7 4 A-C# 160.wav",55
+Sample,8056,0,"bass 3-4 160.wav",40
+Sample,8226,0,"x x 6 7 4 A-C# 160.wav",55
+Sample,8226,0,"bass 3-4 160.wav",40
+Sample,8397,0,"bass 3-5 320.wav",40
+Sample,8397,0,"Hi-Hat open.wav",50
+Sample,8397,0,"x x 7 7 5 D 320.wav",55
+Sample,8738,0,"bass 3-5 160.wav",40
+Sample,8738,0,"x x 7 7 5 D 160.wav",55
+Sample,8908,0,"x x 7 7 5 D 160.wav",55
+Sample,8908,0,"Tom1.wav",75
+Sample,8908,0,"bass 3-5 320.wav",40
+Sample,9079,0,"x x 7 7 5 D 160.wav",55
+Sample,9249,0,"bass 4-1 160.wav",40
+Sample,9249,0,"x x 7 7 5 D 160.wav",55
+Sample,9420,0,"bass 4-1 160.wav",40
+Sample,9420,0,"x x 7 7 5 D 160.wav",55
+Sample,9931,0,"bass 3-7 160.wav",40
+Sample,9931,0,"x x x 9 7 E 320.wav",55
+Sample,10272,0,"bass 3-7 160.wav",40
+Sample,10442,0,"bass 3-7 160.wav",40
+Sample,10613,0,"bass 3-7 160.wav",40
+Sample,10783,0,"bass 3-7 160.wav",40
+Sample,10954,0,"bass 3-7 160.wav",40
+Sample,11124,0,"bass 3-7 160.wav",40
+Sample,11295,0,"bass 3-7 160.wav",40
+Sample,11465,0,"bass 3-7 160.wav",40
+Sample,11636,0,"bass 3-7 160.wav",40
+Sample,11806,0,"bass 3-7 160.wav",40
+Sample,11976,0,"bass 3-7 160.wav",40
+Sample,12147,0,"bass 3-7 160.wav",40
+Sample,12317,0,"bass 3-7 160.wav",40
+Sample,12488,0,"bass 3-7 160.wav",40
+Sample,12658,0,"bass 4-7 160.wav",40
+Sample,12829,0,"bass 4-7 160.wav",40
+Sample,12999,0,"bass 4-7 160.wav",40
+Sample,13170,0,"bass 4-7 160.wav",40
+Sample,13340,0,"bass 4-7 160.wav",40
+Sample,13511,0,"bass 4-7 160.wav",40
+Sample,13681,0,"bass 4-7 160.wav",40
+Sample,13851,0,"bass 4-7 160.wav",40
+Sample,14022,0,"bass 4-7 160.wav",40
+Sample,14192,0,"bass 4-7 160.wav",40
+Sample,14363,0,"bass 4-7 160.wav",40
+Sample,14533,0,"bass 4-7 160.wav",40
+Sample,14704,0,"bass 4-7 160.wav",40
+Sample,14704,0,"x x x x x 7 P.M. 160.wav",55
+Sample,14874,0,"bass 4-7 160.wav",40
+Sample,14874,0,"x x x x x 7 P.M. 160.wav",55
+Sample,15045,0,"x x x x x 7 P.M. 160.wav",55
+Sample,15045,0,"0 sl. 320.wav",70
+Sample,15045,0,"bass 4-7 160.wav",40
+Sample,15215,0,"bass 4-7 160.wav",40
+Sample,15386,0,"bass 3-0 160.wav",40
+Sample,15386,0,"x x x x x 5 P.M. 160.wav",55
+Sample,15556,0,"bass 3-0 160.wav",40
+Sample,15726,0,"x x x x x 5 P.M. 160.wav",55
+Sample,15726,0,"bass 3-0 160.wav",40
+Sample,15897,0,"bass 3-0 160.wav",40
+Sample,15897,0,"x 10 480.wav",70
+Sample,15897,0,"x x x x x 5 P.M. 160.wav",55
+Sample,16067,0,"x x x x x 5 P.M. 160.wav",55
+Sample,16067,0,"Hi-Hat close.wav",50
+Sample,16067,0,"bass 3-0 160.wav",40
+Sample,16238,0,"x x x x x 5 P.M. 160.wav",55
+Sample,16238,0,"bass 3-0 160.wav",40
+Sample,16408,0,"bass 3-0 160.wav",40
+Sample,16408,0,"12 1600.wav",70
+Sample,16408,0,"x x x x x 5 P.M. 160.wav",55
+Sample,16579,0,"bass 3-0 160.wav",40
+Sample,16579,0,"x x x x x 5 P.M. 160.wav",55
+Sample,16749,0,"bass 3-0 160.wav",40
+Sample,16749,0,"x x x x x 5 P.M. 160.wav",55
+Sample,16920,0,"bass 3-0 160.wav",40
+Sample,16920,0,"x x x x x 5 P.M. 160.wav",55
+Sample,17090,0,"bass 3-0 160.wav",40
+Sample,17090,0,"x x x x x 5 P.M. 160.wav",55
+Sample,17261,0,"bass 3-0 160.wav",40
+Sample,17261,0,"x x x x x 5 P.M. 160.wav",55
+Sample,17431,0,"x x x x x 5 P.M. 160.wav",55
+Sample,17431,0,"Hi-Hat close.wav",50
+Sample,17431,0,"bass 3-0 160.wav",40
+Sample,17601,0,"x x x x x 5 P.M. 160.wav",55
+Sample,17601,0,"bass 3-0 160.wav",40
+Sample,17772,0,"x x x x x 5 P.M. 160.wav",55
+Sample,17772,0,"bass 3-0 160.wav",40
+Sample,17942,0,"x x x x x 5 P.M. 160.wav",55
+Sample,17942,0,"bass 3-0 160.wav",40
+Sample,18113,0,"bass 3-2 160.wav",40
+Sample,18113,0,"x x 4 4 2 960.wav",70
+Sample,18113,0,"x x x x x 7 P.M. 160.wav",55
+Sample,18283,0,"bass 3-2 160.wav",40
+Sample,18283,0,"x x x x x 7 P.M. 160.wav",55
+Sample,18454,0,"bass 3-2 160.wav",40
+Sample,18454,0,"x x x x x 7 P.M. 160.wav",55
+Sample,18624,0,"bass 3-2 160.wav",40
+Sample,18624,0,"x x x x x 7 P.M. 160.wav",55
+Sample,18795,0,"bass 3-2 160.wav",40
+Sample,18795,0,"x x x x x 7 P.M. 160.wav",55
+Sample,18965,0,"bass 3-2 160.wav",40
+Sample,18965,0,"x x x x x 7 P.M. 160.wav",55
+Sample,19136,0,"x x x x x 7 P.M. 160.wav",55
+Sample,19136,0,"x x x x 2 sl. 320.wav",70
+Sample,19136,0,"bass 3-2 160.wav",40
+Sample,19306,0,"x x x x x 7 P.M. 160.wav",55
+Sample,19306,0,"bass 3-2 160.wav",40
+Sample,19476,0,"bass 3-2 160.wav",40
+Sample,19476,0,"x x x x 14 Left-hand vibrato 960.wav",70
+Sample,19476,0,"x x x x x 7 P.M. 160.wav",55
+Sample,19647,0,"bass 3-2 160.wav",40
+Sample,19817,0,"x x x x x 7 P.M. 160.wav",55
+Sample,19817,0,"bass 3-2 160.wav",40
+Sample,19988,0,"bass 3-2 160.wav",40
+Sample,20158,0,"bass 3-2 160.wav",40
+Sample,20158,0,"x x x x x 7 P.M. 160.wav",55
+Sample,20329,0,"bass 3-2 160.wav",40
+Sample,20499,0,"x x x x 7 5 Bm 320.wav",55
+Sample,20499,0,"bass 3-2 320.wav",40
+Sample,20840,0,"x x x x 7 P.M. 160.wav",55
+Sample,20840,0,"bass 4-0 160.wav",40
+Sample,21011,0,"x x x x 7 P.M. 160.wav",55
+Sample,21011,0,"bass 4-0 160.wav",40
+Sample,21181,0,"x x 9 9 7 E 160.wav",55
+Sample,21181,0,"bass 4-0 160.wav",40
+Sample,21351,0,"bass 4-0 160.wav",40
+Sample,21351,0,"x x 9 x 7 160.wav",70
+Sample,21351,0,"x x 9 9 7 E 160.wav",55
+Sample,21522,0,"x x x x 7 P.M. 160.wav",55
+Sample,21522,0,"x x 9 x 7 mute 160.wav",70
+Sample,21522,0,"bass 4-0 160.wav",40
+Sample,21692,0,"bass 4-0 160.wav",40
+Sample,21692,0,"x x 9 x 7 mute 160.wav",70
+Sample,21692,0,"x x x x 7 P.M. 160.wav",55
+Sample,21863,0,"bass 4-0 160.wav",40
+Sample,21863,0,"x x 9 9 7 E 160.wav",55
+Sample,22033,0,"x x 9 9 7 E 160.wav",55
+Sample,22033,0,"x x 9 x 7 160.wav",70
+Sample,22033,0,"bass 4-0 160.wav",40
+Sample,22204,0,"bass 4-0 160.wav",40
+Sample,22204,0,"x x 9 x 7 mute 160.wav",70
+Sample,22204,0,"x x x x 7 P.M. 160.wav",55
+Sample,22374,0,"x x x x 7 P.M. 160.wav",55
+Sample,22374,0,"x x 9 x 7 mute 160.wav",70
+Sample,22374,0,"bass 4-0 160.wav",40
+Sample,22545,0,"x x 9 9 7 E 160.wav",55
+Sample,22545,0,"bass 4-0 160.wav",40
+Sample,22715,0,"bass 4-0 160.wav",40
+Sample,22715,0,"x x 9 x 7 160.wav",70
+Sample,22715,0,"x x 9 9 7 E 160.wav",55
+Sample,22886,0,"x x x x 7 P.M. 160.wav",55
+Sample,22886,0,"x x 9 x 7 mute 160.wav",70
+Sample,22886,0,"bass 4-0 160.wav",40
+Sample,23056,0,"bass 4-0 160.wav",40
+Sample,23056,0,"x x 9 x 7 mute 160.wav",70
+Sample,23056,0,"x x x x 7 P.M. 160.wav",55
+Sample,23226,0,"bass 4-0 160.wav",40
+Sample,23226,0,"x x 9 9 7 E 160.wav",55
+Sample,23397,0,"x x 9 9 7 E 160.wav",55
+Sample,23397,0,"x x 9 x 7 160.wav",70
+Sample,23397,0,"bass 4-0 160.wav",40
+Sample,23567,0,"bass 3-2 160.wav",40
+Sample,23567,0,"x x 9 x 7 mute 160.wav",70
+Sample,23567,0,"x x x x 2 P.M. 160.wav",55
+Sample,23738,0,"x x x x 2 P.M. 160.wav",55
+Sample,23738,0,"x x 9 x 7 mute 160.wav",70
+Sample,23738,0,"bass 3-2 160.wav",40
+Sample,23908,0,"x x 4 4 2 Bm 160.wav",55
+Sample,23908,0,"bass 3-2 160.wav",40
+Sample,24079,0,"bass 3-2 160.wav",40
+Sample,24079,0,"x x 4 x 2 160.wav",70
+Sample,24079,0,"x x 4 4 2 Bm 160.wav",55
+Sample,24249,0,"x x x x 2 P.M. 160.wav",55
+Sample,24249,0,"x x 4 x 2 mute 160.wav",70
+Sample,24249,0,"bass 3-2 160.wav",40
+Sample,24420,0,"bass 3-2 160.wav",40
+Sample,24420,0,"x x 4 x 2 mute 160.wav",70
+Sample,24420,0,"x x x x 2 P.M. 160.wav",55
+Sample,24590,0,"bass 3-2 160.wav",40
+Sample,24590,0,"x x 4 4 2 Bm 160.wav",55
+Sample,24761,0,"x x 4 4 2 Bm 160.wav",55
+Sample,24761,0,"x x 4 x 2 160.wav",70
+Sample,24761,0,"bass 3-2 160.wav",40
+Sample,24931,0,"bass 3-3 160.wav",40
+Sample,24931,0,"x x 5 x 3 160.wav",70
+Sample,24931,0,"x x x x 3 P.M. 160.wav",55
+Sample,25101,0,"x x x x 3 P.M. 160.wav",55
+Sample,25101,0,"x x 5 x 3 160.wav",70
+Sample,25101,0,"bass 3-3 160.wav",40
+Sample,25272,0,"x x 5 4 3 Cdim 160.wav",55
+Sample,25272,0,"bass 3-3 160.wav",40
+Sample,25442,0,"bass 3-3 160.wav",40
+Sample,25442,0,"x x 8 x 6 160.wav",70
+Sample,25442,0,"x x 5 4 3 Cdim 160.wav",55
+Sample,25613,0,"bass 3-3 160.wav",40
+Sample,25613,0,"x x x x 3 P.M. 160.wav",55
+Sample,25783,0,"x x x x 3 P.M. 160.wav",55
+Sample,25783,0,"x x 11 x 9 160.wav",70
+Sample,25783,0,"bass 3-3 160.wav",40
+Sample,25954,0,"x x 5 4 3 Cdim 160.wav",55
+Sample,25954,0,"bass 2-4 160.wav",40
+Sample,26124,0,"bass 3-3 160.wav",40
+Sample,26124,0,"x x 8 x 6 160.wav",70
+Sample,26124,0,"x x 5 4 3 Cdim 160.wav",55
+Sample,26295,0,"x x x x 4 P.M. 160.wav",55
+Sample,26295,0,"x x 9 x 7 mute 160.wav",70
+Sample,26295,0,"bass 3-4 160.wav",40
+Sample,26465,0,"bass 3-4 160.wav",40
+Sample,26465,0,"x x 9 x 7 mute 160.wav",70
+Sample,26465,0,"x x x x 4 P.M. 160.wav",55
+Sample,26636,0,"bass 3-4 160.wav",40
+Sample,26636,0,"x x 6 6 4 C#m 160.wav",55
+Sample,26806,0,"x x 6 6 4 C#m 160.wav",55
+Sample,26806,0,"0 5 160.wav",70
+Sample,26806,0,"bass 3-4 160.wav",40
+Sample,26976,0,"bass 3-4 160.wav",40
+Sample,26976,0,"0 3 160.wav",70
+Sample,26976,0,"x x x x 4 P.M. 160.wav",55
+Sample,27147,0,"x x x x 4 P.M. 160.wav",55
+Sample,27147,0,"0 3 160.wav",70
+Sample,27147,0,"bass 3-4 160.wav",40
+Sample,27317,0,"x x 6 6 4 C#m 160.wav",55
+Sample,27317,0,"bass 3-4 160.wav",40
+Sample,27488,0,"bass 3-4 160.wav",40
+Sample,27488,0,"0 2 160.wav",70
+Sample,27488,0,"x x 6 6 4 C#m 160.wav",55
+Sample,27658,0,"x x x x 2 P.M. 160.wav",55
+Sample,27658,0,"0 0 160.wav",70
+Sample,27658,0,"bass 3-2 160.wav",40
+Sample,27829,0,"bass 3-2 160.wav",40
+Sample,27829,0,"0 0 160.wav",70
+Sample,27829,0,"x x x x 2 P.M. 160.wav",55
+Sample,27999,0,"bass 3-2 160.wav",40
+Sample,27999,0,"x x 4 4 2 Bm 160.wav",55
+Sample,28170,0,"x x 4 4 2 Bm 160.wav",55
+Sample,28170,0,"0 0 2 160.wav",70
+Sample,28170,0,"bass 3-2 160.wav",40
+Sample,28340,0,"bass 3-2 160.wav",40
+Sample,28340,0,"0 0 1 160.wav",70
+Sample,28340,0,"x x x x 2 P.M. 160.wav",55
+Sample,28511,0,"x x x x 2 P.M. 160.wav",55
+Sample,28511,0,"0 0 1 160.wav",70
+Sample,28511,0,"bass 3-2 160.wav",40
+Sample,28681,0,"x x 4 4 2 Bm 160.wav",55
+Sample,28681,0,"bass 3-2 160.wav",40
+Sample,28851,0,"bass 3-2 160.wav",40
+Sample,28851,0,"0 0 2 160.wav",70
+Sample,28851,0,"x x 4 4 2 Bm 160.wav",55
+Sample,29022,0,"x x x x 0 P.M. 160.wav",55
+Sample,29022,0,"x x x x 0 160.wav",70
+Sample,29022,0,"bass 3-0 160.wav",40
+Sample,29192,0,"bass 3-0 160.wav",40
+Sample,29192,0,"x x x x 2 160.wav",70
+Sample,29192,0,"x x x x 0 P.M. 160.wav",55
+Sample,29363,0,"bass 3-0 160.wav",40
+Sample,29363,0,"x x 2 2 0 A 160.wav",55
+Sample,29533,0,"x x 2 2 0 A 160.wav",55
+Sample,29533,0,"x x x 2 320.wav",70
+Sample,29533,0,"bass 3-0 160.wav",40
+Sample,29704,0,"x x x x 0 P.M. 160.wav",55
+Sample,29704,0,"bass 3-0 160.wav",40
+Sample,29874,0,"bass 3-0 160.wav",40
+Sample,29874,0,"x x 4 160.wav",70
+Sample,29874,0,"x x x x 0 P.M. 160.wav",55
+Sample,30045,0,"bass 3-0 160.wav",40
+Sample,30045,0,"x x 2 2 0 A 160.wav",55
+Sample,30215,0,"x x 2 2 0 A 160.wav",55
+Sample,30215,0,"x x 4 160.wav",70
+Sample,30215,0,"bass 3-0 160.wav",40
+Sample,30386,0,"x 10 9 9 Esus4-B 160.wav",55
+Sample,30386,0,"bass 3-2 160.wav",40
+Sample,30556,0,"bass 3-2 160.wav",40
+Sample,30556,0,"5 x 2 160.wav",70
+Sample,30556,0,"x 10 9 9 Esus4-B 160.wav",55
+Sample,30726,0,"bass 3-2 160.wav",40
+Sample,30726,0,"x 10 9 9 Esus4-B 160.wav",55
+Sample,30897,0,"x 10 9 9 Esus4-B 160.wav",55
+Sample,30897,0,"7 x 4 160.wav",70
+Sample,30897,0,"bass 3-2 160.wav",40
+Sample,31067,0,"x 9 9 9 E-B 160.wav",55
+Sample,31067,0,"bass 3-2 160.wav",40
+Sample,31238,0,"bass 3-2 160.wav",40
+Sample,31408,0,"x 9 9 9 E-B 160.wav",55
+Sample,31408,0,"10 x 7 160.wav",70
+Sample,31408,0,"bass 3-2 320.wav",40
+Sample,31579,0,"x 9 9 9 E-B 160.wav",55
+Sample,31749,0,"bass 4-0 640.wav",40
+Sample,31749,0,"x x 9 9 7 E 1120.wav",55
+Sample,32261,0,"arp. x 10 160.wav",45
+Sample,32431,0,"arp. x 9 160.wav",40
+Sample,32431,0,"bass 2-2 160.wav",40
+Sample,32601,0,"arp. x x 9 160.wav",35
+Sample,32601,0,"bass 2-2 160.wav",40
+Sample,32772,0,"Tom4.wav",75
+Sample,32772,0,"arp. x x x 9 160.wav",30
+Sample,32942,0,"x x 9 9 9 F#m7(11) 160.wav",55
+Sample,32942,0,"bass 4-2 160.wav",40
+Sample,33283,0,"x x 9 9 9 F#m7(11) 160.wav",55
+Sample,33283,0,"bass 4-2 160.wav",40
+Sample,33624,0,"x x 9 9 9 F#m7(11) 160.wav",55
+Sample,33624,0,"bass 4-2 160.wav",40
+Sample,33965,0,"x x 9 9 9 F#m7(11) 160.wav",55
+Sample,33965,0,"bass 4-2 160.wav",40
+Sample,34136,0,"bass 4-2 320.wav",40
+Sample,34136,0,"x x 14 x 12 320.wav",70
+Sample,34136,0,"x x 9 9 9 F#m7(11) 320.wav",55
+Sample,34476,0,"x x 4 4 2 Bm 1120.wav",55
+Sample,34476,0,"x x x x 2 640.wav",70
+Sample,34476,0,"bass 3-2 640.wav",40
+Sample,34817,0,"Tom4.wav",75
+Sample,35158,0,"bass 3-2 160.wav",40
+Sample,35158,0,"x x x x 14 Left-hand vibrato 480.wav",70
+Sample,35329,0,"bass 3-2 160.wav",40
+Sample,35670,0,"bass 3-0 320.wav",40
+Sample,36011,0,"x x 2 2 0 A 160.wav",55
+Sample,36011,0,"x 14 53.wav",70
+Sample,36011,0,"bass 2-4 160.wav",40
+Sample,36181,0,"x x 16 160.wav",70
+Sample,36351,0,"bass 2-2 160.wav",40
+Sample,36351,0,"x x 2 2 0 A 160.wav",55
+Sample,36522,0,"x x 2 2 0 A 160.wav",55
+Sample,36522,0,"x x x 16 160.wav",70
+Sample,36692,0,"bass 1-4 160.wav",40
+Sample,36692,0,"x x 2 2 0 A 160.wav",55
+Sample,36863,0,"x x 2 2 0 A 320.wav",55
+Sample,36863,0,"x x 14 14 320.wav",70
+Sample,36863,0,"bass 1-2 320.wav",40
+Sample,37204,0,"x x 9 9 7 E 1120.wav",55
+Sample,37204,0,"bass 4-0 640.wav",40
+Sample,37715,0,"arp. x 10 160.wav",45
+Sample,37886,0,"bass 4-0 160.wav",40
+Sample,37886,0,"arp. x 9 160.wav",40
+Sample,38056,0,"bass 4-0 160.wav",40
+Sample,38056,0,"arp. x x 9 160.wav",35
+Sample,38226,0,"arp. x x x 9 160.wav",30
+Sample,38226,0,"Tom4.wav",75
+Sample,38397,0,"bass 4-2 160.wav",40
+Sample,38397,0,"x x 9 9 9 F#m7(11) 160.wav",55
+Sample,38738,0,"bass 4-2 160.wav",40
+Sample,38738,0,"x x 9 9 9 F#m7(11) 160.wav",55
+Sample,39079,0,"bass 4-2 160.wav",40
+Sample,39079,0,"x x 9 9 9 F#m7(11) 160.wav",55
+Sample,39420,0,"bass 4-4 160.wav",40
+Sample,39590,0,"bass 3-0 320.wav",40
+Sample,39590,0,"x x 14 x 12 320.wav",70
+Sample,39590,0,"x x 9 9 9 F#m7(11) 320.wav",55
+Sample,39931,0,"bass 3-2 320.wav",40
+Sample,39931,0,"x x 4 4 2 Bm 320.wav",55
+Sample,40272,0,"bass 3-2 160.wav",40
+Sample,40442,0,"bass 3-2 160.wav",40
+Sample,40783,0,"bass 3-2 160.wav",40
+Sample,40954,0,"x x x x 2 P.M. 160.wav",55
+Sample,40954,0,"bass 3-2 320.wav",40
+Sample,41295,0,"x x 4 4 2 Bm 160.wav",55
+Sample,41295,0,"bass 2-7 160.wav",40
+Sample,41636,0,"bass 2-9 160.wav",40
+Sample,41806,0,"bass 2-9 160.wav",40
+Sample,41976,0,"bass 2-9 160.wav",40
+Sample,42147,0,"bass 2-9 160.wav",40
+Sample,42317,0,"bass 2-9 320.wav",40
+Sample,42658,0,"x 7 6 6 4 C#sus4 160.wav",55
+Sample,42658,0,"x x 11 11 160.wav",70
+Sample,42658,0,"bass 3-4 160.wav",40
+Sample,42829,0,"x 7 6 6 4 C#sus4 160.wav",55
+Sample,42829,0,"bass 3-4 160.wav",40
+Sample,43170,0,"x 7 6 6 4 C#sus4 160.wav",55
+Sample,43170,0,"bass 3-4 160.wav",40
+Sample,43340,0,"x 7 6 6 4 C#sus4 160.wav",55
+Sample,43340,0,"bass 3-4 160.wav",40
+Sample,43681,0,"x 7 6 6 4 C#sus4 160.wav",55
+Sample,43681,0,"bass 3-4 160.wav",40
+Sample,43851,0,"x 7 6 6 4 C#sus4 160.wav",55
+Sample,43851,0,"bass 3-4 160.wav",40
+Sample,44022,0,"bass 3-11 160.wav",40
+Sample,44192,0,"bass 2-11 160.wav",40
+Sample,44192,0,"x 6 6 6 4 C# 160.wav",55
+Sample,44363,0,"bass 2-11 160.wav",40
+Sample,44363,0,"x 6 6 6 4 C# 160.wav",55
+Sample,44533,0,"x x 11 160.wav",70
+Sample,44533,0,"bass 2-11 160.wav",40
+Sample,44533,0,"x x 13 bend full release 320.wav",70
+Sample,44533,0,"Hi-Hat open.wav",50
+Sample,44874,0,"x 11 160.wav",70
+Sample,45045,0,"x 12 160.wav",70
+Sample,45215,0,"x 16 160.wav",70
+Sample,45386,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,45386,0,"x 14 11 160.wav",70
+Sample,45386,0,"x 14 1280.wav",30
+Sample,45386,0,"bass 4-2 320.wav",40
+Sample,45556,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,45726,0,"bass 4-2 160.wav",40
+Sample,45726,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,45897,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,45897,0,"x 11 11 160.wav",70
+Sample,45897,0,"bass 4-2 160.wav",40
+Sample,46067,0,"bass 4-2 160.wav",40
+Sample,46067,0,"x x 13 11 160.wav",70
+Sample,46067,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,46238,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,46238,0,"x x 13 11 160.wav",70
+Sample,46238,0,"bass 4-2 160.wav",40
+Sample,46408,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,46408,0,"bass 4-2 160.wav",40
+Sample,46579,0,"bass 4-2 160.wav",40
+Sample,46579,0,"x x 11 11 160.wav",70
+Sample,46579,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,46749,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,46749,0,"x 14 11 160.wav",70
+Sample,46749,0,"bass 4-4 160.wav",40
+Sample,46920,0,"bass 4-4 160.wav",40
+Sample,46920,0,"x 14 11 160.wav",70
+Sample,46920,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,47090,0,"bass 4-4 160.wav",40
+Sample,47090,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,47261,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,47261,0,"x 11 11 160.wav",70
+Sample,47261,0,"bass 4-4 160.wav",40
+Sample,47431,0,"bass 4-4 160.wav",40
+Sample,47431,0,"x x 13 11 160.wav",70
+Sample,47431,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,47601,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,47601,0,"x x 13 11 160.wav",70
+Sample,47601,0,"bass 4-4 160.wav",40
+Sample,47772,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,47772,0,"bass 4-4 160.wav",40
+Sample,47942,0,"bass 4-4 160.wav",40
+Sample,47942,0,"x x 11 11 160.wav",70
+Sample,47942,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,48113,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,48113,0,"x 14 11 160.wav",70
+Sample,48113,0,"bass 4-6 160.wav",40
+Sample,48283,0,"bass 4-6 160.wav",40
+Sample,48283,0,"x 14 11 160.wav",70
+Sample,48283,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,48454,0,"bass 4-6 160.wav",40
+Sample,48454,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,48624,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,48624,0,"x 11 11 160.wav",70
+Sample,48624,0,"bass 4-6 160.wav",40
+Sample,48795,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,48795,0,"Hi-Hat open.wav",50
+Sample,48795,0,"x x 13 11 160.wav",70
+Sample,48795,0,"bass 4-6 160.wav",40
+Sample,48965,0,"bass 4-6 160.wav",40
+Sample,48965,0,"x x 13 11 160.wav",70
+Sample,48965,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,49136,0,"bass 4-6 160.wav",40
+Sample,49136,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,49306,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,49306,0,"x x 11 11 160.wav",70
+Sample,49306,0,"bass 4-6 160.wav",40
+Sample,49476,0,"bass 4-7 160.wav",40
+Sample,49476,0,"x 12 11 160.wav",70
+Sample,49476,0,"x 4 4 4 2 B 160.wav",55
+Sample,49647,0,"x 4 4 4 2 B 160.wav",55
+Sample,49647,0,"x 12 11 160.wav",70
+Sample,49647,0,"bass 4-7 160.wav",40
+Sample,49817,0,"x 4 4 4 2 B 160.wav",55
+Sample,49817,0,"bass 3-9 160.wav",40
+Sample,49988,0,"bass 4-7 160.wav",40
+Sample,49988,0,"x 11 11 160.wav",70
+Sample,49988,0,"x 4 4 4 2 B 160.wav",55
+Sample,50158,0,"x x 13 11 160.wav",70
+Sample,50158,0,"bass 4-7 160.wav",40
+Sample,50158,0,"x 4 4 4 2 B 160.wav",55
+Sample,50158,0,"Hi-Hat open.wav",50
+Sample,50329,0,"x 4 4 4 2 B 160.wav",55
+Sample,50329,0,"x x 13 11 160.wav",70
+Sample,50329,0,"bass 4-7 160.wav",40
+Sample,50499,0,"x 4 4 4 2 B 160.wav",55
+Sample,50499,0,"bass 4-7 160.wav",40
+Sample,50670,0,"bass 4-9 160.wav",40
+Sample,50670,0,"x 11 11 160.wav",70
+Sample,50670,0,"x 4 4 4 2 B 160.wav",55
+Sample,50840,0,"bass 4-2 160.wav",40
+Sample,50840,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,51011,0,"bass 4-2 160.wav",40
+Sample,51011,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,51181,0,"bass 4-2 160.wav",40
+Sample,51181,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,51351,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,51351,0,"x 11 11 160.wav",70
+Sample,51351,0,"bass 4-2 160.wav",40
+Sample,51522,0,"bass 4-2 160.wav",40
+Sample,51522,0,"x x 13 11 160.wav",70
+Sample,51522,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,51692,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,51692,0,"x x 13 11 160.wav",70
+Sample,51692,0,"bass 4-2 160.wav",40
+Sample,51863,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,51863,0,"bass 4-2 160.wav",40
+Sample,52033,0,"bass 4-2 160.wav",40
+Sample,52033,0,"x x 11 11 160.wav",70
+Sample,52033,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,52204,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,52204,0,"x 14 11 160.wav",70
+Sample,52204,0,"bass 4-4 160.wav",40
+Sample,52374,0,"bass 4-4 160.wav",40
+Sample,52374,0,"x 14 11 160.wav",70
+Sample,52374,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,52545,0,"bass 4-4 160.wav",40
+Sample,52545,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,52715,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,52715,0,"x 11 11 160.wav",70
+Sample,52715,0,"bass 4-4 160.wav",40
+Sample,52886,0,"bass 4-4 160.wav",40
+Sample,52886,0,"x x 13 11 160.wav",70
+Sample,52886,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,53056,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,53056,0,"x x 13 11 160.wav",70
+Sample,53056,0,"bass 4-4 160.wav",40
+Sample,53226,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,53226,0,"bass 4-4 160.wav",40
+Sample,53397,0,"bass 4-4 160.wav",40
+Sample,53397,0,"x x 11 11 160.wav",70
+Sample,53397,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,53567,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,53567,0,"x 12 11 160.wav",70
+Sample,53567,0,"bass 4-6 160.wav",40
+Sample,53738,0,"bass 4-6 160.wav",40
+Sample,53738,0,"x 12 11 160.wav",70
+Sample,53738,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,53908,0,"bass 3-9 160.wav",40
+Sample,53908,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,54079,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,54079,0,"x 11 11 160.wav",70
+Sample,54079,0,"bass 3-9 160.wav",40
+Sample,54249,0,"bass 3-8 160.wav",40
+Sample,54249,0,"x x 13 11 160.wav",70
+Sample,54249,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,54420,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,54420,0,"x x 13 11 160.wav",70
+Sample,54420,0,"bass 3-8 160.wav",40
+Sample,54590,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,54590,0,"bass 3-4 160.wav",40
+Sample,54761,0,"bass 3-4 160.wav",40
+Sample,54761,0,"x 11 11 160.wav",70
+Sample,54761,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,54931,0,"x 4 4 4 2 B 160.wav",55
+Sample,54931,0,"x x x 13 x 11 160.wav",70
+Sample,54931,0,"bass 3-2 160.wav",40
+Sample,55101,0,"bass 3-2 160.wav",40
+Sample,55101,0,"x x x 13 x 11 160.wav",70
+Sample,55101,0,"x 4 4 4 2 B 160.wav",55
+Sample,55272,0,"bass 3-2 160.wav",40
+Sample,55272,0,"x 4 4 4 2 B 160.wav",55
+Sample,55442,0,"bass 3-2 160.wav",40
+Sample,55442,0,"x 4 4 4 2 B 160.wav",55
+Sample,55613,0,"bass 3-9 160.wav",40
+Sample,55783,0,"bass 2-9 160.wav",40
+Sample,55783,0,"x x 11 bend full release 480.wav",70
+Sample,55783,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,55954,0,"bass 2-9 320.wav",40
+Sample,55954,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,56295,0,"bass 4-2 160.wav",40
+Sample,56295,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,56465,0,"bass 4-2 160.wav",40
+Sample,56465,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,56636,0,"bass 4-2 160.wav",40
+Sample,56636,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,56806,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,56806,0,"x 11 11 160.wav",70
+Sample,56806,0,"bass 4-2 160.wav",40
+Sample,56976,0,"bass 4-2 160.wav",40
+Sample,56976,0,"x x 13 11 160.wav",70
+Sample,56976,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,57147,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,57147,0,"x x 13 11 160.wav",70
+Sample,57147,0,"bass 4-2 160.wav",40
+Sample,57317,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,57317,0,"bass 4-2 160.wav",40
+Sample,57488,0,"bass 4-2 160.wav",40
+Sample,57488,0,"x x 11 11 160.wav",70
+Sample,57488,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,57658,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,57658,0,"x 14 11 160.wav",70
+Sample,57658,0,"bass 4-4 160.wav",40
+Sample,57829,0,"bass 4-4 160.wav",40
+Sample,57829,0,"x 14 11 160.wav",70
+Sample,57829,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,57999,0,"bass 4-4 160.wav",40
+Sample,57999,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,58170,0,"x 11 11 160.wav",70
+Sample,58170,0,"bass 4-4 160.wav",40
+Sample,58170,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,58170,0,"Hi-Hat open.wav",50
+Sample,58340,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,58340,0,"x x 13 11 160.wav",70
+Sample,58340,0,"bass 4-4 160.wav",40
+Sample,58511,0,"bass 4-4 160.wav",40
+Sample,58511,0,"x x 13 11 160.wav",70
+Sample,58511,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,58681,0,"bass 4-4 160.wav",40
+Sample,58681,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,58851,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,58851,0,"x x 11 11 160.wav",70
+Sample,58851,0,"bass 4-4 160.wav",40
+Sample,59022,0,"bass 4-6 160.wav",40
+Sample,59022,0,"x 14 11 160.wav",70
+Sample,59022,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,59192,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,59192,0,"x 14 11 160.wav",70
+Sample,59192,0,"bass 4-6 160.wav",40
+Sample,59363,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,59363,0,"bass 4-6 160.wav",40
+Sample,59533,0,"bass 4-6 160.wav",40
+Sample,59533,0,"x 11 11 160.wav",70
+Sample,59533,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,59704,0,"x x 13 11 160.wav",70
+Sample,59704,0,"bass 4-6 160.wav",40
+Sample,59704,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,59704,0,"Hi-Hat open.wav",50
+Sample,59874,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,59874,0,"x x 13 11 160.wav",70
+Sample,59874,0,"bass 4-6 160.wav",40
+Sample,60045,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,60045,0,"bass 4-6 160.wav",40
+Sample,60215,0,"bass 4-6 160.wav",40
+Sample,60215,0,"x x 11 11 160.wav",70
+Sample,60215,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,60386,0,"x 4 4 4 2 B 160.wav",55
+Sample,60386,0,"x 12 11 160.wav",70
+Sample,60386,0,"bass 4-7 160.wav",40
+Sample,60556,0,"x 4 4 4 2 B 160.wav",55
+Sample,60556,0,"Hi-Hat open.wav",50
+Sample,60556,0,"x 12 11 160.wav",70
+Sample,60556,0,"bass 4-7 160.wav",40
+Sample,60726,0,"x 4 4 4 2 B 160.wav",55
+Sample,60726,0,"bass 4-7 160.wav",40
+Sample,60897,0,"x 4 4 4 2 B 160.wav",55
+Sample,60897,0,"bass 4-7 160.wav",40
+Sample,61067,0,"x 4 4 4 2 B 160.wav",55
+Sample,61067,0,"bass 4-7 160.wav",40
+Sample,61238,0,"x 4 4 4 2 B 160.wav",55
+Sample,61238,0,"bass 4-9 160.wav",40
+Sample,61408,0,"x 4 4 4 2 B 160.wav",55
+Sample,61408,0,"bass 4-9 160.wav",40
+Sample,61579,0,"x 4 4 4 2 B 160.wav",55
+Sample,61579,0,"bass 4-9 160.wav",40
+Sample,61749,0,"x x x 4 4 2 F# 640.wav",55
+Sample,61749,0,"bass 4-2 160.wav",40
+Sample,62431,0,"x 2 3 4 F# 640.wav",55
+Sample,62431,0,"bass 3-9 480.wav",40
+Sample,62942,0,"bass 3-8 160.wav",40
+Sample,63113,0,"x x 4 4 2 Bm 320.wav",55
+Sample,63113,0,"x x x x x 6 bend half release 960.wav",70
+Sample,63113,0,"bass 4-7 160.wav",40
+Sample,63454,0,"x x 4 4 2 Bm 320.wav",55
+Sample,63454,0,"bass 4-7 160.wav",40
+Sample,63795,0,"bass 4-7 640.wav",40
+Sample,64476,0,"bass 3-9 160.wav",40
+Sample,64476,0,"x x 4 4 2 Bm 160.wav",55
+Sample,64647,0,"bass 3-9 160.wav",40
+Sample,64647,0,"x x 4 4 2 Bm 160.wav",55
+Sample,64988,0,"bass 3-9 320.wav",40
+Sample,64988,0,"x x 3 4 1 F#-A# 320.wav",55
+Sample,65329,0,"bass 3-9 160.wav",40
+Sample,65329,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,65670,0,"bass 1-10 320.wav",40
+Sample,65670,0,"x x 6 6 4 C#m 320.wav",55
+Sample,66011,0,"bass 1-11 160.wav",40
+Sample,66011,0,"x x 6 6 4 C#m 160.wav",55
+Sample,66351,0,"bass 3-9 160.wav",40
+Sample,66351,0,"x x x x x 2 160.wav",55
+Sample,66692,0,"x x x x x 1 Left-hand vibrato 480.wav",55
+Sample,66692,0,"x 6 8  bend full Left-hand vibrato 480.wav",70
+Sample,66692,0,"bass 3-8 480.wav",40
+Sample,67204,0,"x x x 2 2 0 E 2240.wav",55
+Sample,67204,0,"bass 3-7 160.wav",40
+Sample,67715,0,"bass 3-7 160.wav",40
+Sample,68056,0,"bass 3-7 160.wav",40
+Sample,68397,0,"bass 3-7 160.wav",40
+Sample,68738,0,"bass 3-7 160.wav",40
+Sample,69079,0,"bass 3-7 160.wav",40
+Sample,69590,0,"x x x 2 2 0 E staccato 320.wav",55
+Sample,69931,0,"x x 4 4 2 Bm 2240.wav",55
+Sample,69931,0,"bass 4-7 160.wav",40
+Sample,70101,0,"bass 4-7 160.wav",40
+Sample,70442,0,"bass 4-7 160.wav",40
+Sample,70783,0,"bass 4-7 160.wav",40
+Sample,71124,0,"bass 4-7 160.wav",40
+Sample,71465,0,"bass 4-7 160.wav",40
+Sample,71806,0,"bass 4-7 160.wav",40
+Sample,72317,0,"0 sl. 320.wav",70
+Sample,72317,0,"x x 4 4 2 Bm staccato 320.wav",55
+Sample,72658,0,"arp. x x 2 2 0 A 1280.wav",55
+Sample,72658,0,"bass 4-5 160.wav",40
+Sample,73170,0,"bass 4-5 160.wav",40
+Sample,73170,0,"x 10 480.wav",70
+Sample,73170,0,"arp. x 0 640.wav",55
+Sample,73511,0,"bass 4-5 160.wav",40
+Sample,73681,0,"arp. 0 1600.wav",55
+Sample,73851,0,"bass 4-5 160.wav",40
+Sample,74192,0,"bass 4-5 160.wav",40
+Sample,74533,0,"bass 4-5 160.wav",40
+Sample,75386,0,"bass 4-7 160.wav",40
+Sample,75386,0,"x x 4 4 2 960.wav",70
+Sample,75386,0,"x x 4 4 2 Bm 960.wav",55
+Sample,75556,0,"bass 4-7 160.wav",40
+Sample,76067,0,"bass 4-7 160.wav",40
+Sample,76408,0,"bass 4-7 160.wav",40
+Sample,76579,0,"bass 4-7 160.wav",40
+Sample,76579,0,"x 0 560.wav",70
+Sample,76579,0,"x x 4 4 2 Bm 160.wav",55
+Sample,77431,0,"x x 4 4 2 Bm mute 160.wav",55
+Sample,77601,0,"x x 4 4 2 Bm mute 160.wav",55
+Sample,77772,0,"x x 0 0 0 0 320 (2).wav",55
+Sample,78113,0,"x x 9 9 7 E 160.wav",55
+Sample,78113,0,"bass 4-0 320.wav",40
+Sample,78454,0,"bass 4-0 160.wav",40
+Sample,78454,0,"x x x x 7 80.wav",70
+Sample,78454,0,"x x 9 9 7 E 160.wav",55
+Sample,78624,0,"x x 9 9 7 E 160.wav",55
+Sample,78624,0,"x x x x 7 80.wav",70
+Sample,78624,0,"bass 4-0 160.wav",40
+Sample,78795,0,"bass 4-0 160.wav",40
+Sample,78795,0,"x x x x 7 160.wav",70
+Sample,78795,0,"x x 9 9 7 E 160.wav",55
+Sample,78965,0,"x x 9 9 7 E 160.wav",55
+Sample,78965,0,"x x x x x 0 160.wav",70
+Sample,78965,0,"bass 4-0 160.wav",40
+Sample,79136,0,"bass 4-0 160.wav",40
+Sample,79306,0,"x x 9 9 7 E 160.wav",55
+Sample,79306,0,"x x x x x 0 160.wav",70
+Sample,79306,0,"bass 4-0 160.wav",40
+Sample,79476,0,"bass 4-0 160.wav",40
+Sample,79476,0,"x x x x 0 0 mute 160.wav",70
+Sample,79476,0,"x x 9 9 7 E 160.wav",55
+Sample,79647,0,"x x 9 9 7 E 160.wav",55
+Sample,79647,0,"x x x x x 0 160.wav",70
+Sample,79647,0,"bass 4-0 160.wav",40
+Sample,79817,0,"bass 4-0 160.wav",40
+Sample,79817,0,"x x x x 7 80.wav",70
+Sample,79817,0,"x x 9 9 7 E 160.wav",55
+Sample,79988,0,"x x 9 9 7 E 160.wav",55
+Sample,79988,0,"x x x x 7 80.wav",70
+Sample,79988,0,"bass 4-0 160.wav",40
+Sample,80073,0,"x x x x 7 80.wav",70
+Sample,80158,0,"x x 9 9 7 E 160.wav",55
+Sample,80158,0,"x x x x 7 160.wav",70
+Sample,80158,0,"bass 4-0 160.wav",40
+Sample,80329,0,"bass 4-0 160.wav",40
+Sample,80329,0,"x x x x x 0 160.wav",70
+Sample,80329,0,"x x 9 9 7 E 160.wav",55
+Sample,80499,0,"bass 4-0 160.wav",40
+Sample,80670,0,"bass 4-0 160.wav",40
+Sample,80670,0,"x x 4 4 2 mute 160.wav",70
+Sample,80670,0,"x x 9 9 7 E 160.wav",55
+Sample,80840,0,"x x 4 4 2 Bm 160.wav",55
+Sample,80840,0,"x x 4 x 2 160.wav",70
+Sample,80840,0,"bass 3-2 160.wav",40
+Sample,81011,0,"bass 3-2 160.wav",40
+Sample,81011,0,"x x 4 x 2 160.wav",70
+Sample,81011,0,"x x 4 4 2 Bm 160.wav",55
+Sample,81181,0,"bass 3-2 160.wav",40
+Sample,81181,0,"x x 4 4 2 Bm 160.wav",55
+Sample,81351,0,"x x 4 4 2 Bm 160.wav",55
+Sample,81351,0,"x x 4 x 2 160.wav",70
+Sample,81351,0,"bass 3-2 160.wav",40
+Sample,81522,0,"bass 3-2 160.wav",40
+Sample,81522,0,"x x 4 x 2 160.wav",70
+Sample,81522,0,"x x 4 4 2 Bm 160.wav",55
+Sample,81692,0,"x x 4 4 2 Bm 160.wav",55
+Sample,81692,0,"x x 4 x 2 160.wav",70
+Sample,81692,0,"bass 3-2 160.wav",40
+Sample,81863,0,"bass 3-2 160.wav",40
+Sample,82033,0,"x x 4 4 2 Bm 160.wav",55
+Sample,82033,0,"x x 4 4 2 mute 160.wav",70
+Sample,82033,0,"bass 3-2 160.wav",40
+Sample,82204,0,"bass 3-3 160.wav",40
+Sample,82204,0,"x x 5 x 3 160.wav",70
+Sample,82204,0,"x x 5 4 3 Cdim 160.wav",55
+Sample,82374,0,"x x 5 4 3 Cdim 160.wav",55
+Sample,82374,0,"x x 5 x 3 160.wav",70
+Sample,82374,0,"bass 3-3 160.wav",40
+Sample,82545,0,"x x 5 4 3 Cdim 160.wav",55
+Sample,82545,0,"bass 3-3 160.wav",40
+Sample,82715,0,"bass 3-3 160.wav",40
+Sample,82715,0,"x x 11 x 9 160.wav",70
+Sample,82715,0,"x x 5 4 3 Cdim 160.wav",55
+Sample,82886,0,"bass 3-3 160.wav",40
+Sample,82886,0,"x x 5 4 3 Cdim 160.wav",55
+Sample,83056,0,"x x 5 4 3 Cdim 160.wav",55
+Sample,83056,0,"x x 8 x 6 320.wav",70
+Sample,83056,0,"bass 3-3 160.wav",40
+Sample,83226,0,"bass 2-4 160.wav",40
+Sample,83397,0,"bass 3-3 160.wav",40
+Sample,83397,0,"x x 5 4 3 Cdim 160.wav",55
+Sample,83567,0,"bass 3-4 160.wav",40
+Sample,83567,0,"x x 6 6 4 C#m 160.wav",55
+Sample,83653,0,"x 2 2 80.wav",70
+Sample,83738,0,"bass 3-4 160.wav",40
+Sample,83738,0,"x 2 2 80.wav",70
+Sample,83738,0,"x x 6 6 4 C#m 160.wav",55
+Sample,83823,0,"x 2 2 80.wav",70
+Sample,83908,0,"x x 6 6 4 C#m 160.wav",55
+Sample,83908,0,"bass 3-4 160.wav",40
+Sample,83993,0,"x 2 2 80.wav",70
+Sample,84079,0,"x x 6 6 4 C#m 160.wav",55
+Sample,84079,0,"x 2 2 80.wav",70
+Sample,84079,0,"bass 3-4 160.wav",40
+Sample,84164,0,"x 2 2 80.wav",70
+Sample,84249,0,"x x 6 6 4 C#m 160.wav",55
+Sample,84249,0,"x 5 6 80.wav",70
+Sample,84249,0,"bass 3-4 160.wav",40
+Sample,84334,0,"x 5 6 80.wav",70
+Sample,84420,0,"x x 6 6 4 C#m 160.wav",55
+Sample,84420,0,"x 5 6 80.wav",70
+Sample,84420,0,"bass 3-4 160.wav",40
+Sample,84505,0,"x 5 6 80.wav",70
+Sample,84590,0,"bass 3-4 160.wav",40
+Sample,84590,0,"x x 6 6 4 C#m 160.wav",55
+Sample,84675,0,"x 5 6 80.wav",70
+Sample,84761,0,"bass 2-4 160.wav",40
+Sample,84761,0,"x 5 6 80.wav",70
+Sample,84761,0,"x x 6 6 4 C#m 160.wav",55
+Sample,84846,0,"x 5 6 80.wav",70
+Sample,84931,0,"bass 2-9 160.wav",40
+Sample,84931,0,"x 10 9 160.wav",70
+Sample,84931,0,"x x 4 4 2 Bm 160.wav",55
+Sample,85101,0,"bass 2-9 160.wav",40
+Sample,85272,0,"2 2 tremolo mute 960.wav",70
+Sample,85272,0,"bass 2-9 160.wav",40
+Sample,85613,0,"bass 2-9 160.wav",40
+Sample,85954,0,"bass 2-9 320.wav",40
+Sample,87658,0,"bass 2-11 160.wav",40
+Sample,87658,0,"x x 11 11 160.wav",70
+Sample,87658,0,"x 7 6 6 4 C#sus4 160.wav",55
+Sample,87829,0,"x 7 6 6 4 C#sus4 160.wav",55
+Sample,87829,0,"x x 11 11 160.wav",70
+Sample,87829,0,"bass 3-9 160.wav",40
+Sample,87999,0,"bass 3-11 160.wav",40
+Sample,88170,0,"x 6 6 6 4 C# 160.wav",55
+Sample,88170,0,"x 7 9  bend full release 160.wav",70
+Sample,88170,0,"bass 2-11 160.wav",40
+Sample,88511,0,"bass 3-11 480.wav",40
+Sample,88511,0,"x 6 8  bend full 480 .wav",70
+Sample,88511,0,"x 6 6 6 4 C# 480.wav",55
+Sample,89022,0,"bass 4-2 320.wav",40
+Sample,89022,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,89192,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,89363,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,89363,0,"bass 4-2 160.wav",40
+Sample,89533,0,"bass 4-2 160.wav",40
+Sample,89533,0,"x 11 11 160.wav",70
+Sample,89533,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,89704,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,89704,0,"x x 13 11 160.wav",70
+Sample,89704,0,"bass 4-2 160.wav",40
+Sample,89874,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,89874,0,"Hi-Hat open.wav",50
+Sample,89874,0,"x x 13 11 160.wav",70
+Sample,89874,0,"bass 4-2 160.wav",40
+Sample,90045,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,90045,0,"bass 4-2 160.wav",40
+Sample,90215,0,"bass 4-2 160.wav",40
+Sample,90215,0,"x x 11 11 160.wav",70
+Sample,90215,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,90386,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,90386,0,"x 14 11 160.wav",70
+Sample,90386,0,"bass 4-4 160.wav",40
+Sample,90556,0,"bass 4-4 160.wav",40
+Sample,90556,0,"x 14 11 160.wav",70
+Sample,90556,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,90726,0,"bass 4-4 160.wav",40
+Sample,90726,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,90897,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,90897,0,"x 11 11 160.wav",70
+Sample,90897,0,"bass 4-4 160.wav",40
+Sample,91067,0,"bass 4-4 160.wav",40
+Sample,91067,0,"x x 13 11 160.wav",70
+Sample,91067,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,91238,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,91238,0,"x x 13 11 160.wav",70
+Sample,91238,0,"bass 4-4 160.wav",40
+Sample,91408,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,91408,0,"bass 4-4 160.wav",40
+Sample,91579,0,"bass 4-4 160.wav",40
+Sample,91579,0,"x x 11 11 160.wav",70
+Sample,91579,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,91664,0,"Snare.wav",75
+Sample,91749,0,"bass 4-6 160.wav",40
+Sample,91749,0,"x 14 11 160.wav",70
+Sample,91749,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,91920,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,91920,0,"x 14 11 160.wav",70
+Sample,91920,0,"bass 4-6 160.wav",40
+Sample,92090,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,92090,0,"bass 4-6 160.wav",40
+Sample,92261,0,"bass 4-6 160.wav",40
+Sample,92261,0,"x 11 11 160.wav",70
+Sample,92261,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,92431,0,"x x 13 11 160.wav",70
+Sample,92431,0,"bass 4-6 160.wav",40
+Sample,92431,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,92431,0,"Hi-Hat open.wav",50
+Sample,92601,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,92601,0,"x x 13 11 160.wav",70
+Sample,92601,0,"bass 4-6 160.wav",40
+Sample,92772,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,92772,0,"bass 4-6 160.wav",40
+Sample,92942,0,"bass 4-6 160.wav",40
+Sample,92942,0,"x x 11 11 160.wav",70
+Sample,92942,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,93028,0,"Snare.wav",75
+Sample,93113,0,"bass 4-7 160.wav",40
+Sample,93113,0,"x 12 11 160.wav",70
+Sample,93113,0,"x 4 4 4 2 B 160.wav",55
+Sample,93283,0,"x 4 4 4 2 B 160.wav",55
+Sample,93283,0,"x 12 11 160.wav",70
+Sample,93283,0,"bass 4-7 160.wav",40
+Sample,93454,0,"x 4 4 4 2 B 160.wav",55
+Sample,93454,0,"bass 3-9 160.wav",40
+Sample,93624,0,"bass 4-7 160.wav",40
+Sample,93624,0,"x 11 11 160.wav",70
+Sample,93624,0,"x 4 4 4 2 B 160.wav",55
+Sample,93795,0,"x x 13 11 160.wav",70
+Sample,93795,0,"bass 4-7 160.wav",40
+Sample,93795,0,"x 4 4 4 2 B 160.wav",55
+Sample,93795,0,"Hi-Hat open.wav",50
+Sample,93965,0,"x 4 4 4 2 B 160.wav",55
+Sample,93965,0,"x x 13 11 160.wav",70
+Sample,93965,0,"bass 3-9 160.wav",40
+Sample,94136,0,"x 4 4 4 2 B 160.wav",55
+Sample,94136,0,"bass 4-7 160.wav",40
+Sample,94306,0,"bass 4-9 160.wav",40
+Sample,94306,0,"x 11 11 160.wav",70
+Sample,94306,0,"x 4 4 4 2 B 160.wav",55
+Sample,94476,0,"bass 4-2 320.wav",40
+Sample,94476,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,94647,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,94817,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,94817,0,"bass 4-2 160.wav",40
+Sample,94988,0,"bass 4-2 160.wav",40
+Sample,94988,0,"x 11 11 160.wav",70
+Sample,94988,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,95158,0,"x x 13 11 160.wav",70
+Sample,95158,0,"bass 4-2 160.wav",40
+Sample,95158,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,95158,0,"Hi-Hat open.wav",50
+Sample,95243,0,"Snare.wav",75
+Sample,95329,0,"bass 4-2 160.wav",40
+Sample,95329,0,"x x 13 11 160.wav",70
+Sample,95329,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,95499,0,"bass 4-2 160.wav",40
+Sample,95499,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,95670,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,95670,0,"x x 11 11 160.wav",70
+Sample,95670,0,"bass 4-2 160.wav",40
+Sample,95840,0,"bass 4-4 160.wav",40
+Sample,95840,0,"x 14 11 160.wav",70
+Sample,95840,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,96011,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,96011,0,"x 14 11 160.wav",70
+Sample,96011,0,"bass 4-4 160.wav",40
+Sample,96181,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,96181,0,"bass 4-4 160.wav",40
+Sample,96351,0,"bass 4-4 160.wav",40
+Sample,96351,0,"x 11 11 160.wav",70
+Sample,96351,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,96522,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,96522,0,"x x 13 11 160.wav",70
+Sample,96522,0,"bass 4-4 160.wav",40
+Sample,96692,0,"bass 4-4 160.wav",40
+Sample,96692,0,"x x 13 11 160.wav",70
+Sample,96692,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,96863,0,"bass 4-4 160.wav",40
+Sample,96863,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,97033,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,97033,0,"x x 11 11 160.wav",70
+Sample,97033,0,"bass 4-4 160.wav",40
+Sample,97204,0,"bass 4-6 160.wav",40
+Sample,97204,0,"x 12 11 160.wav",70
+Sample,97204,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,97374,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,97374,0,"x 12 11 160.wav",70
+Sample,97374,0,"bass 4-6 160.wav",40
+Sample,97545,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,97545,0,"bass 3-9 160.wav",40
+Sample,97715,0,"bass 3-9 160.wav",40
+Sample,97715,0,"x 11 11 160.wav",70
+Sample,97715,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,97886,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,97886,0,"x x 13 11 160.wav",70
+Sample,97886,0,"bass 3-8 160.wav",40
+Sample,98056,0,"bass 3-8 160.wav",40
+Sample,98056,0,"x x 13 11 160.wav",70
+Sample,98056,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,98226,0,"bass 3-4 160.wav",40
+Sample,98226,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,98397,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,98397,0,"x 11 11 160.wav",70
+Sample,98397,0,"bass 3-4 160.wav",40
+Sample,98567,0,"bass 3-2 160.wav",40
+Sample,98567,0,"x x x 13 x 11 160.wav",70
+Sample,98567,0,"x 4 4 4 2 B 160.wav",55
+Sample,98738,0,"x 4 4 4 2 B 160.wav",55
+Sample,98738,0,"x x x 13 x 11 160.wav",70
+Sample,98738,0,"bass 3-2 160.wav",40
+Sample,98908,0,"x 4 4 4 2 B 160.wav",55
+Sample,98908,0,"bass 3-9 160.wav",40
+Sample,99079,0,"bass 3-9 160.wav",40
+Sample,99079,0,"x x x 11 x 9 160.wav",70
+Sample,99079,0,"x 4 4 4 2 B 160.wav",55
+Sample,99249,0,"bass 3-11 160.wav",40
+Sample,99249,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,99420,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,99420,0,"x x 11 bend full release 480.wav",70
+Sample,99420,0,"bass 2-9 160.wav",40
+Sample,99590,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,99590,0,"bass 2-11 320.wav",40
+Sample,99931,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,99931,0,"bass 4-2 160.wav",40
+Sample,100101,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,100101,0,"bass 4-2 160.wav",40
+Sample,100272,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,100272,0,"bass 4-2 160.wav",40
+Sample,100442,0,"bass 4-2 160.wav",40
+Sample,100442,0,"x 11 11 160.wav",70
+Sample,100442,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,100613,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,100613,0,"x x 13 11 160.wav",70
+Sample,100613,0,"bass 4-2 160.wav",40
+Sample,100783,0,"bass 4-2 160.wav",40
+Sample,100783,0,"x x 13 11 160.wav",70
+Sample,100783,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,100954,0,"bass 4-2 160.wav",40
+Sample,100954,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,101124,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,101124,0,"x x 11 11 160.wav",70
+Sample,101124,0,"bass 4-2 160.wav",40
+Sample,101295,0,"bass 4-4 160.wav",40
+Sample,101295,0,"x 14 11 160.wav",70
+Sample,101295,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,101465,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,101465,0,"x 14 11 160.wav",70
+Sample,101465,0,"bass 4-4 160.wav",40
+Sample,101636,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,101636,0,"bass 4-4 160.wav",40
+Sample,101806,0,"bass 4-4 160.wav",40
+Sample,101806,0,"x 11 11 160.wav",70
+Sample,101806,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,101976,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,101976,0,"x x 13 11 160.wav",70
+Sample,101976,0,"bass 4-4 160.wav",40
+Sample,102147,0,"bass 4-4 160.wav",40
+Sample,102147,0,"x x 13 11 160.wav",70
+Sample,102147,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,102317,0,"bass 4-4 160.wav",40
+Sample,102317,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,102488,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,102488,0,"x x 11 11 160.wav",70
+Sample,102488,0,"bass 4-4 160.wav",40
+Sample,102658,0,"bass 4-6 160.wav",40
+Sample,102658,0,"x 14 11 160.wav",70
+Sample,102658,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,102829,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,102829,0,"x 14 11 160.wav",70
+Sample,102829,0,"bass 4-6 160.wav",40
+Sample,102999,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,102999,0,"bass 4-6 160.wav",40
+Sample,103170,0,"bass 4-6 160.wav",40
+Sample,103170,0,"x 11 11 160.wav",70
+Sample,103170,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,103340,0,"x x 13 11 160.wav",70
+Sample,103340,0,"bass 4-6 160.wav",40
+Sample,103340,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,103340,0,"Hi-Hat open.wav",50
+Sample,103511,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,103511,0,"x x 13 11 160.wav",70
+Sample,103511,0,"bass 4-6 160.wav",40
+Sample,103681,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,103681,0,"bass 4-6 160.wav",40
+Sample,103851,0,"bass 4-6 160.wav",40
+Sample,103851,0,"x x 11 11 160.wav",70
+Sample,103851,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,104022,0,"x 4 4 4 2 B 160.wav",55
+Sample,104022,0,"x 12 11 160.wav",70
+Sample,104022,0,"bass 4-7 160.wav",40
+Sample,104192,0,"x 4 4 4 2 B 160.wav",55
+Sample,104192,0,"Hi-Hat open.wav",50
+Sample,104192,0,"x 12 11 160.wav",70
+Sample,104192,0,"bass 4-7 160.wav",40
+Sample,104363,0,"x 4 4 4 2 B 160.wav",55
+Sample,104363,0,"bass 4-7 160.wav",40
+Sample,104533,0,"bass 4-7 160.wav",40
+Sample,104704,0,"x 4 4 4 2 B 160.wav",55
+Sample,104704,0,"x x 13 11 160.wav",70
+Sample,104704,0,"bass 4-7 160.wav",40
+Sample,104874,0,"x 4 4 4 2 B 160.wav",55
+Sample,104874,0,"bass 4-7 160.wav",40
+Sample,105045,0,"bass 4-6 160.wav",40
+Sample,105045,0,"x 11 11 160.wav",70
+Sample,105045,0,"x 4 4 4 2 B 160.wav",55
+Sample,105215,0,"bass 4-4 160.wav",40
+Sample,105215,0,"x 4 4 4 2 B 160.wav",55
+Sample,105386,0,"bass 4-2 160.wav",40
+Sample,105386,0,"x x x 4 4 2 F# 640.wav",55
+Sample,106067,0,"bass 3-9 480.wav",40
+Sample,106067,0,"x 2 3 4 F# 640.wav",55
+Sample,106749,0,"bass 3-11 160.wav",40
+Sample,106749,0,"x x 7 7 5 D 640.wav",55
+Sample,106920,0,"bass 3-11 160.wav",40
+Sample,107431,0,"x x 6 6 4 C#m 640.wav",55
+Sample,107431,0,"bass 2-11 160.wav",40
+Sample,107601,0,"bass 3-11 160.wav",40
+Sample,107772,0,"bass 4-9 320.wav",40
+Sample,108113,0,"x x x 4 4 2 F# 160.wav",55
+Sample,108113,0,"bass 4-2 160.wav",40
+Sample,108283,0,"x x x 4 4 2 F# 160.wav",55
+Sample,108283,0,"bass 2-4 160.wav",40
+Sample,108454,0,"x x 9 160.wav",70
+Sample,108454,0,"bass 4-2 160.wav",40
+Sample,108624,0,"x x x 7 7 5 A 320.wav",55
+Sample,108624,0,"bass 4-5 160.wav",40
+Sample,108965,0,"x x x 9 9 7 Bm 160.wav",55
+Sample,108965,0,"bass 4-5 160.wav",40
+Sample,109136,0,"bass 4-7 160.wav",40
+Sample,109136,0,"x x 8 160.wav",70
+Sample,109136,0,"x x x 9 9 7 Bm 160.wav",55
+Sample,109306,0,"bass 2-9 320.wav",40
+Sample,109647,0,"x x x 2 2 0 E 160.wav",55
+Sample,109647,0,"bass 4-0 160.wav",40
+Sample,109817,0,"bass 4-0 160.wav",40
+Sample,109817,0,"x x 7 160.wav",70
+Sample,109817,0,"x x x 2 2 0 E 160.wav",55
+Sample,109988,0,"bass 4-0 160.wav",40
+Sample,109988,0,"x x x 2 2 0 E 160.wav",55
+Sample,110329,0,"bass 4-1 480.wav",40
+Sample,110329,0,"x x x 3 3 1 F 480.wav",55
+Sample,110840,0,"bass 4-2 160.wav",40
+Sample,110840,0,"x x x 4 4 2 F# 160.wav",55
+Sample,111011,0,"bass 2-4 160.wav",40
+Sample,111011,0,"x x x 4 4 2 F# 160.wav",55
+Sample,111181,0,"bass 4-2 160.wav",40
+Sample,111181,0,"x 17 160.wav",70
+Sample,111351,0,"bass 4-5 160.wav",40
+Sample,111351,0,"x x x 7 7 5 A 320.wav",55
+Sample,111692,0,"bass 4-5 160.wav",40
+Sample,111692,0,"x x x 9 9 7 Bm 160.wav",55
+Sample,111863,0,"x x x 9 9 7 Bm 160.wav",55
+Sample,111863,0,"x 16 160.wav",70
+Sample,111863,0,"bass 4-7 160.wav",40
+Sample,112033,0,"bass 2-9 320.wav",40
+Sample,112374,0,"bass 4-0 160.wav",40
+Sample,112374,0,"x x 9 9 7 E 160.wav",55
+Sample,112545,0,"x x 9 9 7 E 160.wav",55
+Sample,112545,0,"x 15 160.wav",70
+Sample,112545,0,"bass 4-0 160.wav",40
+Sample,112715,0,"x x 9 9 7 E 160.wav",55
+Sample,112715,0,"bass 4-0 160.wav",40
+Sample,112886,0,"bass 4-1 160.wav",40
+Sample,113056,0,"x x 10 10 8 F 480.wav",55
+Sample,113567,0,"x x x 4 4 2 F# 160.wav",55
+Sample,113567,0,"bass 4-2 160.wav",40
+Sample,113738,0,"bass 2-4 160.wav",40
+Sample,113908,0,"bass 4-2 160.wav",40
+Sample,114079,0,"x x x 7 7 5 A 320.wav",55
+Sample,114079,0,"bass 4-5 160.wav",40
+Sample,114420,0,"x x x 9 9 7 Bm 160.wav",55
+Sample,114420,0,"bass 4-5 160.wav",40
+Sample,114590,0,"bass 4-7 160.wav",40
+Sample,114590,0,"x x x 7 80.wav",70
+Sample,114590,0,"x x x 9 9 7 Bm 160.wav",55
+Sample,114761,0,"bass 2-9 320.wav",40
+Sample,114761,0,"x x x 9 9 7 Bm 160.wav",55
+Sample,114931,0,"x x x x 7 320.wav",70
+Sample,115101,0,"bass 4-0 160.wav",40
+Sample,115272,0,"x x x 2 2 0 E 160.wav",55
+Sample,115272,0,"x x x x 9 160.wav",70
+Sample,115272,0,"bass 4-0 160.wav",40
+Sample,115442,0,"x x x 2 2 0 E 160.wav",55
+Sample,115442,0,"bass 4-0 160.wav",40
+Sample,115783,0,"bass 3-2 480.wav",40
+Sample,116295,0,"bass 3-4 320.wav",40
+Sample,116295,0,"x 6 6 6 4 C# 160.wav",55
+Sample,116636,0,"bass 3-4 160.wav",40
+Sample,116636,0,"x 6 6 6 4 C# 160.wav",55
+Sample,116806,0,"bass 3-4 160.wav",40
+Sample,116806,0,"x 6 6 6 4 C# 160.wav",55
+Sample,116976,0,"x 6 6 6 4 C# 160.wav",55
+Sample,116976,0,"x 14 53.wav",70
+Sample,116976,0,"bass 3-4 160.wav",40
+Sample,117147,0,"x 6 6 6 4 C# 160.wav",55
+Sample,117147,0,"bass 3-4 160.wav",40
+Sample,117317,0,"x 6 6 6 4 C# 160.wav",55
+Sample,117317,0,"bass 3-4 160.wav",40
+Sample,117488,0,"bass 3-4 160.wav",40
+Sample,117658,0,"x 4 6 6 4 C#add9 160.wav",55
+Sample,117658,0,"13 53.wav",70
+Sample,117658,0,"bass 2-11 160.wav",40
+Sample,117829,0,"x 4 6 6 4 C#add9 160.wav",55
+Sample,117829,0,"bass 2-11 160.wav",40
+Sample,117999,0,"x 4 6 6 4 C#add9 160.wav",55
+Sample,117999,0,"bass 2-11 160.wav",40
+Sample,118170,0,"x 4 6 6 4 C#add9 160.wav",55
+Sample,118170,0,"bass 2-11 320.wav",40
+Sample,118340,0,"x 4 6 6 4 C#add9 160.wav",55
+Sample,118511,0,"bass 2-11 160.wav",40
+Sample,118681,0,"x 4 6 6 4 C#add9 160.wav",55
+Sample,118681,0,"bass 2-11 320.wav",40
+Sample,119022,0,"x 6 6 6 4 C# 160.wav",55
+Sample,119022,0,"bass 2-9 160.wav",40
+Sample,119192,0,"bass 2-11 160.wav",40
+Sample,119363,0,"bass 1-11 160.wav",40
+Sample,119363,0,"x 6 6 6 4 C# 160.wav",55
+Sample,119533,0,"bass 1-10 320.wav",40
+Sample,119704,0,"13 x 13 212.wav",70
+Sample,119704,0,"x 6 6 6 4 C# 160.wav",55
+Sample,119874,0,"bass 1-11 160.wav",40
+Sample,120045,0,"bass 1-11 160.wav",40
+Sample,120045,0,"x 6 6 6 4 C# 160.wav",55
+Sample,120215,0,"bass 1-11 160.wav",40
+Sample,120386,0,"bass 1-13 480.wav",40
+Sample,120556,0,"x 6 6 6 4 C# 160.wav",55
+Sample,120897,0,"x 6 6 6 4 C# 160.wav",55
+Sample,120897,0,"bass 2-11 800.wav",40
+Sample,121067,0,"x 6 6 6 4 C# 160.wav",55
+Sample,121749,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,122090,0,"arp. x x 6.wav",70
+Sample,122090,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,122261,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,122431,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,122431,0,"arp. x 7.wav",70
+Sample,122601,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,122772,0,"arp. x x 6.wav",70
+Sample,122772,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,122942,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,123113,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,123113,0,"arp. x 9.wav",70
+Sample,123283,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,123454,0,"arp. x x 6.wav",70
+Sample,123454,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,123624,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,123795,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,123795,0,"arp. x 7.wav",70
+Sample,123965,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,124136,0,"arp. x x 6.wav",70
+Sample,124136,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,124306,0,"x x x x 4 2 F# P.M. 160.wav",55
+Sample,124476,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,124476,0,"arp. x 7.wav",70
+Sample,124647,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,124817,0,"arp. x x 7.wav",70
+Sample,124817,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,124988,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,125158,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,125158,0,"arp. x 7.wav",70
+Sample,125329,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,125499,0,"arp. x x 7.wav",70
+Sample,125499,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,125670,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,125840,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,125840,0,"arp. x 9.wav",70
+Sample,126011,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,126181,0,"arp. x x 7.wav",70
+Sample,126181,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,126351,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,126522,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,126522,0,"arp. x 11.wav",70
+Sample,126692,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,126863,0,"arp. x 9.wav",70
+Sample,126863,0,"x x x x 8 6 A#m P.M. 160.wav",55
+Sample,127204,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,127204,0,"Ride.wav",50
+Sample,127204,0,"arp. x 7.wav",70
+Sample,127374,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,127545,0,"arp. x x 6.wav",70
+Sample,127545,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,127715,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,127886,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,127886,0,"arp. x 7.wav",70
+Sample,128056,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,128226,0,"arp. x x 6.wav",70
+Sample,128226,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,128397,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,128567,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,128567,0,"arp. x 9.wav",70
+Sample,128738,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,128908,0,"arp. x x 6.wav",70
+Sample,128908,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,129079,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,129249,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,129249,0,"arp. x 7.wav",70
+Sample,129420,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,129590,0,"arp. x x 6.wav",70
+Sample,129590,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,129761,0,"x x x x 9 7 B P.M. 160.wav",55
+Sample,129931,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,129931,0,"arp. 9.wav",70
+Sample,130101,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,130272,0,"arp. x x 6.wav",70
+Sample,130272,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,130442,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,130613,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,130613,0,"arp. x 7.wav",70
+Sample,130783,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,130954,0,"arp. x x 6.wav",70
+Sample,130954,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,131124,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,131295,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,131295,0,"arp. x 6.wav",70
+Sample,131465,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,131636,0,"arp. x x 6.wav",70
+Sample,131636,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,131976,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,131976,0,"bass 4-9 640.wav",40
+Sample,132147,0,"x 6 6 6 mute 160.wav",70
+Sample,132147,0,"x x x x 11 9 C# P.M. 160.wav",55
+Sample,132317,0,"x x x x 11 9 C# 320.wav",55
+Sample,132658,0,"2 2 3 4 4 2 F# staccato 320.wav",55
+Sample,132658,0,"x x 6 x 4 staccato 320.wav",70
+Sample,132658,0,"bass 4-2 staccato 320.wav",40
+Sample,132999,0,"bass 4-2 staccato 320.wav",40
+Sample,132999,0,"x x 6 x 4 staccato 320.wav",70
+Sample,132999,0,"2 2 3 4 4 2 F# staccato 320.wav",55
+Sample,133340,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,133340,0,"x x 6 x 4 160.wav",70
+Sample,133340,0,"bass 4-2 160.wav",40
+Sample,133511,0,"bass 4-2 160.wav",40
+Sample,133511,0,"x x 6 x 4 160.wav",70
+Sample,133511,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,133681,0,"2 2 3 4 4 2 F# staccato 320.wav",55
+Sample,133681,0,"x x 6 x 4 320.wav",70
+Sample,133681,0,"bass 4-2 320.wav",40
+Sample,134022,0,"bass 3-9 staccato 320.wav",40
+Sample,134022,0,"x x 11 x 9 staccato 320.wav",70
+Sample,134022,0,"2 2 3 4 4 2 F# staccato 320.wav",55
+Sample,134363,0,"2 2 3 4 4 2 F# staccato 320.wav",55
+Sample,134363,0,"x x 11 x 9 staccato 320.wav",70
+Sample,134363,0,"bass 3-9 staccato 320.wav",40
+Sample,134704,0,"bass 3-9 160.wav",40
+Sample,134704,0,"x x 11 x 9 160.wav",70
+Sample,134704,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,134874,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,134874,0,"x x 11 x 9 160.wav",70
+Sample,134874,0,"bass 3-9 160.wav",40
+Sample,135045,0,"bass 3-9 320.wav",40
+Sample,135045,0,"x x 11 x 9 320.wav",70
+Sample,135045,0,"2 2 3 4 4 2 F# staccato 320.wav",55
+Sample,135386,0,"1 3 1 3 1 A#7 staccato 320.wav",55
+Sample,135386,0,"x x 7 x 5 staccato 320.wav",70
+Sample,135386,0,"bass 3-1 staccato 320.wav",40
+Sample,135726,0,"bass 3-1 staccato 320.wav",40
+Sample,135726,0,"x x 7 x 5 staccato 320.wav",70
+Sample,135726,0,"1 3 1 3 1 A#7 staccato 320.wav",55
+Sample,136067,0,"1 3 1 3 1 A#7 160.wav",55
+Sample,136067,0,"x x 7 x 5 160.wav",70
+Sample,136067,0,"bass 3-1 160.wav",40
+Sample,136238,0,"bass 3-1 160.wav",40
+Sample,136238,0,"x x 7 x 5 160.wav",70
+Sample,136238,0,"1 3 1 3 1 A#7 160.wav",55
+Sample,136408,0,"1 3 1 3 1 A#7 staccato 320.wav",55
+Sample,136408,0,"x x 7 x 5 320.wav",70
+Sample,136408,0,"bass 3-1 320.wav",40
+Sample,136749,0,"bass 2-8 staccato 320.wav",40
+Sample,136749,0,"x x 11 x 9 staccato 320.wav",70
+Sample,136749,0,"1 3 1 3 1 A#7 staccato 320.wav",55
+Sample,137090,0,"1 3 1 3 1 A#7 staccato 320.wav",55
+Sample,137090,0,"x x 11 x 9 staccato 320.wav",70
+Sample,137090,0,"bass 2-8 staccato 320.wav",40
+Sample,137431,0,"bass 2-8 160.wav",40
+Sample,137431,0,"x x 13 x 11 160.wav",70
+Sample,137431,0,"1 3 1 3 1 A#7 160.wav",55
+Sample,137601,0,"1 3 1 3 1 A#7 160.wav",55
+Sample,137601,0,"x x 13 x 11 160.wav",70
+Sample,137601,0,"bass 2-8 160.wav",40
+Sample,137772,0,"bass 2-8 320.wav",40
+Sample,137772,0,"x x 13 x 11 320.wav",70
+Sample,137772,0,"1 3 1 3 1 A#7 staccato 320.wav",55
+Sample,138113,0,"2 4 4 4 2 B staccato 320.wav",55
+Sample,138113,0,"x x 8 x 6 staccato 320.wav",70
+Sample,138113,0,"bass 3-2 staccato 320.wav",40
+Sample,138454,0,"bass 3-2 staccato 320.wav",40
+Sample,138454,0,"x x 8 x 6 staccato 320.wav",70
+Sample,138454,0,"2 4 4 4 2 B staccato 320.wav",55
+Sample,138795,0,"2 4 4 4 2 B 160.wav",55
+Sample,138795,0,"x x 8 x 6 160.wav",70
+Sample,138795,0,"bass 3-2 160.wav",40
+Sample,138965,0,"bass 3-2 160.wav",40
+Sample,138965,0,"x x 8 x 6 160.wav",70
+Sample,138965,0,"2 4 4 4 2 B 160.wav",55
+Sample,139136,0,"2 4 4 4 2 B staccato 320.wav",55
+Sample,139136,0,"x x 8 x 6 320.wav",70
+Sample,139136,0,"bass 3-2 320.wav",40
+Sample,139476,0,"bass 2-9 160.wav",40
+Sample,139476,0,"x x 11 x 9 staccato 320.wav",70
+Sample,139476,0,"2 4 4 4 2 B staccato 320.wav",55
+Sample,139817,0,"2 4 4 4 2 B staccato 320.wav",55
+Sample,139817,0,"x x 11 x 9 staccato 320.wav",70
+Sample,139817,0,"bass 2-9 160.wav",40
+Sample,140158,0,"bass 2-9 160.wav",40
+Sample,140158,0,"x x 11 x 9 160.wav",70
+Sample,140158,0,"2 4 4 4 2 B 160.wav",55
+Sample,140329,0,"bass 2-9 160.wav",40
+Sample,140329,0,"2 4 4 4 2 B 160.wav",55
+Sample,140499,0,"2 4 4 4 2 B staccato 320.wav",55
+Sample,140499,0,"x x 11 x 9 320.wav",70
+Sample,140499,0,"bass 2-9 320.wav",40
+Sample,140840,0,"x x 6 6 4 C#m 640.wav",55
+Sample,140840,0,"bass 2-11 640.wav",40
+Sample,141522,0,"x x 6 6 4 C#m 640.wav",55
+Sample,141522,0,"bass 3-11 640.wav",40
+Sample,142204,0,"x x x 3 Left-hand vibrato 640.wav",55
+Sample,142204,0,"bass 4-9 640.wav",40
+Sample,142886,0,"x x x x 4 Left-hand vibrato 640.wav",55
+Sample,142886,0,"bass 4-4 640.wav",40
+Sample,143567,0,"x x 13 160.wav",70
+Sample,144931,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,144931,0,"x x x x 4 2 80.wav",70
+Sample,144931,0,"bass 3-9 160.wav",40
+Sample,145016,0,"x x x x 4 2 80.wav",70
+Sample,145101,0,"bass 3-9 160.wav",40
+Sample,145101,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,145187,0,"x x x x 4 2 80.wav",70
+Sample,145272,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,145272,0,"bass 3-9 160.wav",40
+Sample,145357,0,"x x x x 4 2 80.wav",70
+Sample,145442,0,"bass 3-9 160.wav",40
+Sample,145442,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,145528,0,"x x x x 4 2 80.wav",70
+Sample,145613,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,145613,0,"bass 3-9 160.wav",40
+Sample,145698,0,"x x x x 4 2 80.wav",70
+Sample,145783,0,"bass 3-9 160.wav",40
+Sample,145783,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,145868,0,"x x x x 4 2 80.wav",70
+Sample,145954,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,145954,0,"bass 3-9 160.wav",40
+Sample,146039,0,"x x x x 4 2 80.wav",70
+Sample,146124,0,"bass 3-9 160.wav",40
+Sample,146124,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,146209,0,"x x x x 4 2 80.wav",70
+Sample,146295,0,"bass 3-11 160.wav",40
+Sample,146295,0,"x x x x 6 4 80.wav",70
+Sample,146295,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,146465,0,"bass 3-11 160.wav",40
+Sample,146465,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,146550,0,"x x x x 6 4 80.wav",70
+Sample,146636,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,146636,0,"bass 3-11 160.wav",40
+Sample,146721,0,"x x x x 6 4 80.wav",70
+Sample,146806,0,"bass 3-11 160.wav",40
+Sample,146806,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,146891,0,"x x x x 6 4 80.wav",70
+Sample,146976,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,146976,0,"bass 3-11 160.wav",40
+Sample,147062,0,"x x x x 6 4 80.wav",70
+Sample,147147,0,"bass 3-11 160.wav",40
+Sample,147147,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,147232,0,"x x x x 6 4 80.wav",70
+Sample,147317,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,147317,0,"bass 3-11 160.wav",40
+Sample,147403,0,"x x x x 6 4 80.wav",70
+Sample,147488,0,"bass 3-11 160.wav",40
+Sample,147488,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,147573,0,"x x x x 6 4 80.wav",70
+Sample,147658,0,"bass 2-8 160.wav",40
+Sample,147658,0,"x x x x 8 6 80.wav",70
+Sample,147658,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,147829,0,"bass 2-8 160.wav",40
+Sample,147829,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,147914,0,"x x x x 8 6 80.wav",70
+Sample,147999,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,147999,0,"bass 3-9 160.wav",40
+Sample,148084,0,"x x x x 8 6 80.wav",70
+Sample,148170,0,"bass 3-9 160.wav",40
+Sample,148170,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,148255,0,"x x x x 8 6 80.wav",70
+Sample,148340,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,148340,0,"bass 2-8 160.wav",40
+Sample,148425,0,"x x x x 8 6 80.wav",70
+Sample,148511,0,"bass 2-8 160.wav",40
+Sample,148511,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,148596,0,"x x x x 8 6 80.wav",70
+Sample,148681,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,148681,0,"bass 2-11 160.wav",40
+Sample,148766,0,"x x x x 8 6 80.wav",70
+Sample,148851,0,"bass 2-11 160.wav",40
+Sample,148851,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,148937,0,"x x x x 8 6 80.wav",70
+Sample,149022,0,"x 4 4 4 2 B 160.wav",55
+Sample,149022,0,"bass 2-9 160.wav",40
+Sample,149107,0,"x x 4 x 2 80.wav",70
+Sample,149192,0,"bass 2-9 160.wav",40
+Sample,149192,0,"x 4 4 4 2 B 160.wav",55
+Sample,149278,0,"x x 4 x 2 80.wav",70
+Sample,149363,0,"x 4 4 4 2 B 160.wav",55
+Sample,149363,0,"bass 2-9 160.wav",40
+Sample,149448,0,"x x 6 x 4 80.wav",70
+Sample,149533,0,"bass 2-9 160.wav",40
+Sample,149533,0,"x 4 4 4 2 B 160.wav",55
+Sample,149618,0,"x x 6 x 4 80.wav",70
+Sample,149704,0,"x 4 4 4 2 B mute 160.wav",55
+Sample,149704,0,"bass 2-11 160.wav",40
+Sample,149789,0,"x x 8 x 6 80.wav",70
+Sample,149874,0,"x 4 4 4 2 B mute 160.wav",55
+Sample,149874,0,"x x 8 x 6 80.wav",70
+Sample,149874,0,"bass 2-11 160.wav",40
+Sample,149959,0,"x x 8 x 6 80.wav",70
+Sample,150045,0,"bass 2-11 320.wav",40
+Sample,150045,0,"x 0 0 0 0 320.wav",55
+Sample,150386,0,"bass 3-9 160.wav",40
+Sample,150386,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,150471,0,"x 7 9 prebend 80.wav",70
+Sample,150556,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,150556,0,"bass 3-9 160.wav",40
+Sample,150641,0,"x 7 9 prebend 80.wav",70
+Sample,150726,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,150726,0,"x 7 9 prebend 80.wav",70
+Sample,150726,0,"bass 2-11 160.wav",40
+Sample,150897,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,150897,0,"bass 3-9 160.wav",40
+Sample,150982,0,"x 7 9 prebend 80.wav",70
+Sample,151067,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,151067,0,"x 7 9 prebend 80.wav",70
+Sample,151067,0,"bass 3-9 160.wav",40
+Sample,151153,0,"x 7 9 prebend 80.wav",70
+Sample,151238,0,"bass 2-11 160.wav",40
+Sample,151238,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,151323,0,"x 7 9 prebend 80.wav",70
+Sample,151408,0,"bass 3-9 160.wav",40
+Sample,151408,0,"x 7 9 prebend 320.wav",70
+Sample,151408,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,151579,0,"bass 3-9 160.wav",40
+Sample,151749,0,"bass 3-11 160.wav",40
+Sample,151749,0,"x 9 11 bend full 80.wav",70
+Sample,151749,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,151834,0,"x 9 11 prebend 80.wav",70
+Sample,151920,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,151920,0,"bass 3-11 160.wav",40
+Sample,152005,0,"x 9 11 prebend 80.wav",70
+Sample,152090,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,152090,0,"x 9 11 prebend 80.wav",70
+Sample,152090,0,"bass 2-13 160.wav",40
+Sample,152175,0,"x 9 11 prebend 80.wav",70
+Sample,152261,0,"bass 3-11 160.wav",40
+Sample,152261,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,152346,0,"x 9 11 prebend 80.wav",70
+Sample,152431,0,"bass 3-11 160.wav",40
+Sample,152431,0,"x 11 13 bend full 80.wav",70
+Sample,152431,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,152516,0,"x 11 13 prebend 80.wav",70
+Sample,152601,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,152601,0,"bass 2-13 160.wav",40
+Sample,152687,0,"x 11 13 prebend 80.wav",70
+Sample,152772,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,152772,0,"x 11 13 prebend 80.wav",70
+Sample,152772,0,"bass 3-11 160.wav",40
+Sample,152857,0,"x 11 13 prebend 80.wav",70
+Sample,152942,0,"bass 3-11 160.wav",40
+Sample,152942,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,153028,0,"x 11 13 prebend 80.wav",70
+Sample,153113,0,"bass 2-13 160.wav",40
+Sample,153113,0,"x 14 16 bend full 80.wav",70
+Sample,153113,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,153198,0,"x 14 16 prebend 80.wav",70
+Sample,153283,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,153283,0,"bass 2-13 160.wav",40
+Sample,153368,0,"x 14 16 prebend 80.wav",70
+Sample,153454,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,153454,0,"x 14 16 prebend 80.wav",70
+Sample,153454,0,"bass 2-16 160.wav",40
+Sample,153539,0,"x 14 16 prebend 80.wav",70
+Sample,153624,0,"bass 2-16 160.wav",40
+Sample,153624,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,153709,0,"x 14 16 prebend 80.wav",70
+Sample,153795,0,"bass 2-15 160.wav",40
+Sample,153795,0,"x 14 16 prebend 80.wav",70
+Sample,153795,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,153880,0,"x 14 16 prebend 80.wav",70
+Sample,153965,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,153965,0,"bass 1-18 160.wav",40
+Sample,154050,0,"x 14 16 prebend 80.wav",70
+Sample,154136,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,154136,0,"x 14 16 prebend 80.wav",70
+Sample,154136,0,"bass 1-16 160.wav",40
+Sample,154306,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,154306,0,"bass 2-15 160.wav",40
+Sample,154391,0,"x 14 16 prebend 80.wav",70
+Sample,155840,0,"bass 4-2 320.wav",40
+Sample,155840,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,156011,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,156181,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,156181,0,"bass 4-2 160.wav",40
+Sample,156351,0,"bass 4-2 160.wav",40
+Sample,156351,0,"x 11 11 160.wav",70
+Sample,156351,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,156522,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,156522,0,"x x 13 11 160.wav",70
+Sample,156522,0,"bass 4-2 160.wav",40
+Sample,156692,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,156692,0,"Hi-Hat open.wav",50
+Sample,156692,0,"x x 13 11 160.wav",70
+Sample,156692,0,"bass 4-2 160.wav",40
+Sample,156863,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,156863,0,"bass 4-2 160.wav",40
+Sample,157033,0,"bass 4-2 160.wav",40
+Sample,157033,0,"x x 11 11 160.wav",70
+Sample,157033,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,157204,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,157204,0,"x 14 11 160.wav",70
+Sample,157204,0,"bass 4-4 160.wav",40
+Sample,157374,0,"bass 4-4 160.wav",40
+Sample,157374,0,"x 14 11 160.wav",70
+Sample,157374,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,157545,0,"bass 4-4 160.wav",40
+Sample,157545,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,157715,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,157715,0,"x 11 11 160.wav",70
+Sample,157715,0,"bass 4-4 160.wav",40
+Sample,157886,0,"bass 4-4 160.wav",40
+Sample,157886,0,"x x 13 11 160.wav",70
+Sample,157886,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,158056,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,158056,0,"x x 13 11 160.wav",70
+Sample,158056,0,"bass 4-4 160.wav",40
+Sample,158226,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,158226,0,"bass 4-4 160.wav",40
+Sample,158397,0,"bass 4-4 160.wav",40
+Sample,158397,0,"x x 11 11 160.wav",70
+Sample,158397,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,158567,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,158567,0,"x 14 11 160.wav",70
+Sample,158567,0,"bass 4-6 160.wav",40
+Sample,158738,0,"bass 4-6 160.wav",40
+Sample,158738,0,"x 14 11 160.wav",70
+Sample,158738,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,158908,0,"bass 4-6 160.wav",40
+Sample,158908,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,159079,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,159079,0,"x 11 11 160.wav",70
+Sample,159079,0,"bass 4-6 160.wav",40
+Sample,159249,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,159249,0,"Hi-Hat open.wav",50
+Sample,159249,0,"x x 13 11 160.wav",70
+Sample,159249,0,"bass 4-6 160.wav",40
+Sample,159420,0,"bass 4-6 160.wav",40
+Sample,159420,0,"x x 13 11 160.wav",70
+Sample,159420,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,159590,0,"bass 4-6 160.wav",40
+Sample,159590,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,159761,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,159761,0,"x x 11 11 160.wav",70
+Sample,159761,0,"bass 4-6 160.wav",40
+Sample,159931,0,"bass 4-7 160.wav",40
+Sample,159931,0,"x 12 11 160.wav",70
+Sample,159931,0,"x 4 4 4 2 B 160.wav",55
+Sample,160101,0,"x 4 4 4 2 B 160.wav",55
+Sample,160101,0,"x 12 11 160.wav",70
+Sample,160101,0,"bass 4-7 160.wav",40
+Sample,160272,0,"x 4 4 4 2 B 160.wav",55
+Sample,160272,0,"bass 4-7 160.wav",40
+Sample,160442,0,"bass 4-7 160.wav",40
+Sample,160442,0,"x 11 11 160.wav",70
+Sample,160442,0,"x 4 4 4 2 B 160.wav",55
+Sample,160613,0,"x x 13 11 160.wav",70
+Sample,160613,0,"bass 3-6 160.wav",40
+Sample,160613,0,"x 4 4 4 2 B 160.wav",55
+Sample,160613,0,"Hi-Hat open.wav",50
+Sample,160783,0,"x 4 4 4 2 B 160.wav",55
+Sample,160783,0,"x x 13 11 160.wav",70
+Sample,160783,0,"bass 3-9 160.wav",40
+Sample,160954,0,"x 4 4 4 2 B 160.wav",55
+Sample,160954,0,"bass 2-6 320.wav",40
+Sample,161124,0,"x 11 11 160.wav",70
+Sample,161124,0,"x 4 4 4 2 B 160.wav",55
+Sample,161295,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,161295,0,"bass 4-2 160.wav",40
+Sample,161465,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,161465,0,"bass 4-2 160.wav",40
+Sample,161636,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,161636,0,"bass 4-2 160.wav",40
+Sample,161806,0,"bass 4-2 160.wav",40
+Sample,161806,0,"x 11 11 160.wav",70
+Sample,161806,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,161976,0,"x x 13 11 160.wav",70
+Sample,161976,0,"bass 4-2 160.wav",40
+Sample,161976,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,161976,0,"Hi-Hat open.wav",50
+Sample,162147,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,162147,0,"x x 13 11 160.wav",70
+Sample,162147,0,"bass 4-2 160.wav",40
+Sample,162317,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,162317,0,"bass 4-2 160.wav",40
+Sample,162488,0,"bass 4-2 160.wav",40
+Sample,162488,0,"x x 11 11 160.wav",70
+Sample,162488,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,162658,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,162658,0,"x 14 11 160.wav",70
+Sample,162658,0,"bass 4-4 160.wav",40
+Sample,162829,0,"bass 4-4 160.wav",40
+Sample,162829,0,"x 14 11 160.wav",70
+Sample,162829,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,162999,0,"bass 4-4 160.wav",40
+Sample,162999,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,163170,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,163170,0,"x 11 11 160.wav",70
+Sample,163170,0,"bass 4-4 160.wav",40
+Sample,163340,0,"bass 4-4 160.wav",40
+Sample,163340,0,"x x 13 11 160.wav",70
+Sample,163340,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,163511,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,163511,0,"x x 13 11 160.wav",70
+Sample,163511,0,"bass 4-4 160.wav",40
+Sample,163681,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,163681,0,"bass 4-4 160.wav",40
+Sample,163851,0,"bass 4-4 160.wav",40
+Sample,163851,0,"x x 11 11 160.wav",70
+Sample,163851,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,164022,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,164022,0,"x 12 11 160.wav",70
+Sample,164022,0,"bass 2-8 160.wav",40
+Sample,164192,0,"bass 2-6 320.wav",40
+Sample,164192,0,"x 12 11 160.wav",70
+Sample,164192,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,164363,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,164533,0,"bass 3-9 320.wav",40
+Sample,164533,0,"x 11 11 160.wav",70
+Sample,164533,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,164704,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,164704,0,"x x 13 11 160.wav",70
+Sample,164874,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,164874,0,"x x 13 11 160.wav",70
+Sample,164874,0,"bass 3-9 160.wav",40
+Sample,165045,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,165045,0,"bass 4-9 160.wav",40
+Sample,165215,0,"bass 4-9 160.wav",40
+Sample,165215,0,"x 11 11 160.wav",70
+Sample,165215,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,165386,0,"x 4 4 4 2 B 160.wav",55
+Sample,165386,0,"x x x 13 x 11 160.wav",70
+Sample,165386,0,"bass 4-7 160.wav",40
+Sample,165556,0,"bass 4-7 160.wav",40
+Sample,165556,0,"x x x 13 x 11 160.wav",70
+Sample,165556,0,"x 4 4 4 2 B 160.wav",55
+Sample,165726,0,"bass 3-9 160.wav",40
+Sample,165726,0,"x 4 4 4 2 B 160.wav",55
+Sample,165897,0,"bass 3-9 160.wav",40
+Sample,165897,0,"x 4 4 4 2 B 160.wav",55
+Sample,166067,0,"bass 3-11 160.wav",40
+Sample,166238,0,"bass 2-9 160.wav",40
+Sample,166238,0,"x x 11 bend full release 480.wav",70
+Sample,166238,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,166408,0,"bass 3-9 320.wav",40
+Sample,166408,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,166749,0,"bass 4-2 160.wav",40
+Sample,166749,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,166920,0,"bass 4-2 160.wav",40
+Sample,166920,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,167090,0,"bass 4-2 160.wav",40
+Sample,167090,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,167261,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,167261,0,"x 11 11 160.wav",70
+Sample,167261,0,"bass 3-9 320.wav",40
+Sample,167431,0,"x x 13 11 160.wav",70
+Sample,167431,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,167601,0,"bass 3-9 160.wav",40
+Sample,167601,0,"x x 13 11 160.wav",70
+Sample,167601,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,167772,0,"bass 3-9 320.wav",40
+Sample,167772,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,167942,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,167942,0,"x x 11 11 160.wav",70
+Sample,168113,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,168113,0,"x 14 11 160.wav",70
+Sample,168113,0,"bass 4-4 160.wav",40
+Sample,168283,0,"bass 4-4 160.wav",40
+Sample,168283,0,"x 14 11 160.wav",70
+Sample,168283,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,168454,0,"bass 4-4 160.wav",40
+Sample,168454,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,168624,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,168624,0,"x 11 11 160.wav",70
+Sample,168624,0,"bass 3-11 320.wav",40
+Sample,168795,0,"x x 13 11 160.wav",70
+Sample,168795,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,168965,0,"bass 3-11 160.wav",40
+Sample,168965,0,"x x 13 11 160.wav",70
+Sample,168965,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,169136,0,"bass 3-11 320.wav",40
+Sample,169136,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,169306,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,169306,0,"x x 11 11 160.wav",70
+Sample,169476,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,169476,0,"x 14 11 160.wav",70
+Sample,169476,0,"bass 4-6 160.wav",40
+Sample,169647,0,"bass 4-6 160.wav",40
+Sample,169647,0,"x 14 11 160.wav",70
+Sample,169647,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,169817,0,"bass 4-6 160.wav",40
+Sample,169817,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,169988,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,169988,0,"x 11 11 160.wav",70
+Sample,169988,0,"bass 3-13 320.wav",40
+Sample,170158,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,170158,0,"Hi-Hat open.wav",50
+Sample,170158,0,"x x 13 11 160.wav",70
+Sample,170329,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,170329,0,"x x 13 11 160.wav",70
+Sample,170329,0,"bass 3-13 160.wav",40
+Sample,170499,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,170499,0,"bass 3-13 320.wav",40
+Sample,170670,0,"x x 11 11 160.wav",70
+Sample,170670,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,170840,0,"bass 4-7 160.wav",40
+Sample,170840,0,"x 12 11 160.wav",70
+Sample,170840,0,"x 4 4 4 2 B 160.wav",55
+Sample,171011,0,"x 4 4 4 2 B 160.wav",55
+Sample,171011,0,"x 12 11 160.wav",70
+Sample,171011,0,"bass 4-7 160.wav",40
+Sample,171181,0,"x 4 4 4 2 B 160.wav",55
+Sample,171181,0,"bass 4-9 160.wav",40
+Sample,171351,0,"x 4 4 4 2 B 160.wav",55
+Sample,171351,0,"bass 4-9 160.wav",40
+Sample,171522,0,"bass 3-6 160.wav",40
+Sample,171522,0,"x x 13 11 160.wav",70
+Sample,171522,0,"x 4 4 4 2 B 160.wav",55
+Sample,171692,0,"bass 3-9 160.wav",40
+Sample,171692,0,"x 4 4 4 2 B 160.wav",55
+Sample,171863,0,"x 4 4 4 2 B 160.wav",55
+Sample,171863,0,"x 11 11 160.wav",70
+Sample,171863,0,"bass 2-6 320.wav",40
+Sample,172033,0,"x 4 4 4 2 B 160.wav",55
+Sample,172204,0,"bass 4-2 160.wav",40
+Sample,172204,0,"x x x 4 4 2 F# 640.wav",55
+Sample,172545,0,"bass 4-2 160.wav",40
+Sample,172800,0,"bass 4-9 80.wav",40
+Sample,172886,0,"bass 3-9 320.wav",40
+Sample,172886,0,"x 2 3 4 F# 640.wav",55
+Sample,173226,0,"bass 3-9 160.wav",40
+Sample,173397,0,"bass 3-9 160.wav",40
+Sample,173567,0,"x x x 6 6 4 G#m 320.wav",55
+Sample,173567,0,"x x 13 x 11 640.wav",70
+Sample,173567,0,"bass 3-11 640.wav",40
+Sample,173908,0,"x x x 6 6 4 G#m 320.wav",55
+Sample,174249,0,"bass 3-9 640.wav",40
+Sample,174249,0,"x x x 6 6 4 G#m 320.wav",55
+Sample,174590,0,"x x x 6 6 4 G#m 320.wav",55
+Sample,174931,0,"x x 4 4 2 Bm 160.wav",55
+Sample,174931,0,"bass 4-7 staccato 320.wav",40
+Sample,175016,0,"16 80.wav",70
+Sample,175101,0,"14 80.wav",70
+Sample,175101,0,"Hi-Hat open.wav",50
+Sample,175101,0,"x x 4 4 2 Bm 160.wav",55
+Sample,175187,0,"x 14 80.wav",70
+Sample,175272,0,"18 80.wav",70
+Sample,175272,0,"bass 4-7 staccato 320.wav",40
+Sample,175272,0,"x x 4 4 2 Bm 160.wav",55
+Sample,175272,0,"Hi-Hat open.wav",50
+Sample,175442,0,"x x 4 4 2 Bm 160.wav",55
+Sample,175613,0,"x x 4 4 2 Bm 160.wav",55
+Sample,175613,0,"Hi-Hat open.wav",50
+Sample,175613,0,"18 80.wav",70
+Sample,175613,0,"bass 4-7 160.wav",40
+Sample,175783,0,"x x 4 4 2 Bm 160.wav",55
+Sample,175783,0,"bass 4-14 160.wav",40
+Sample,175868,0,"Hi-Hat open.wav",50
+Sample,175868,0,"x 14 80.wav",70
+Sample,175954,0,"x x 4 4 2 Bm 160.wav",55
+Sample,175954,0,"bass 3-14 320.wav",40
+Sample,176124,0,"x x 4 4 2 Bm 160.wav",55
+Sample,176124,0,"Hi-Hat open.wav",50
+Sample,176124,0,"14 80.wav",70
+Sample,176295,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,176295,0,"18 80.wav",70
+Sample,176295,0,"bass 4-6 staccato 320.wav",40
+Sample,176465,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,176465,0,"Hi-Hat open.wav",50
+Sample,176465,0,"14 80.wav",70
+Sample,176636,0,"18 80.wav",70
+Sample,176636,0,"bass 4-6 staccato 320.wav",40
+Sample,176636,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,176636,0,"Hi-Hat open.wav",50
+Sample,176806,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,176806,0,"14 80.wav",70
+Sample,176976,0,"18 80.wav",70
+Sample,176976,0,"bass 4-6 160.wav",40
+Sample,176976,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,176976,0,"Hi-Hat open.wav",50
+Sample,177147,0,"bass 4-13 160.wav",40
+Sample,177147,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,177317,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,177317,0,"18 80.wav",70
+Sample,177317,0,"bass 3-13 320.wav",40
+Sample,177403,0,"16 80.wav",70
+Sample,177488,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,177573,0,"x 14 80.wav",70
+Sample,177658,0,"bass 4-4 staccato 320.wav",40
+Sample,177658,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,177743,0,"16 80.wav",70
+Sample,177829,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,177829,0,"Hi-Hat open.wav",50
+Sample,177829,0,"14 80.wav",70
+Sample,177914,0,"x 14 80.wav",70
+Sample,177999,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,177999,0,"Hi-Hat open.wav",50
+Sample,177999,0,"18 80.wav",70
+Sample,177999,0,"bass 4-4 staccato 320.wav",40
+Sample,178170,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,178340,0,"18 80.wav",70
+Sample,178340,0,"bass 4-4 160.wav",40
+Sample,178340,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,178340,0,"Hi-Hat open.wav",50
+Sample,178511,0,"bass 4-11 160.wav",40
+Sample,178511,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,178596,0,"x 14 80.wav",70
+Sample,178596,0,"Hi-Hat open.wav",50
+Sample,178681,0,"bass 3-11 320.wav",40
+Sample,178681,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,178851,0,"14 80.wav",70
+Sample,178851,0,"Hi-Hat open.wav",50
+Sample,178851,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,179022,0,"bass 3-9 320.wav",40
+Sample,179022,0,"18 80.wav",70
+Sample,179022,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,179192,0,"14 80.wav",70
+Sample,179192,0,"Hi-Hat open.wav",50
+Sample,179192,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,179363,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,179363,0,"Hi-Hat open.wav",50
+Sample,179363,0,"18 80.wav",70
+Sample,179363,0,"bass 4-2 staccato 320.wav",40
+Sample,179533,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,179704,0,"18 80.wav",70
+Sample,179704,0,"bass 4-2 160.wav",40
+Sample,179704,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,179704,0,"Hi-Hat open.wav",50
+Sample,179874,0,"bass 4-4 160.wav",40
+Sample,179874,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,180045,0,"18 80.wav",70
+Sample,180045,0,"bass 4-6 320.wav",40
+Sample,180045,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,180045,0,"Clap.wav",75
+Sample,180215,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,180215,0,"14 80.wav",70
+Sample,180300,0,"x 14 80.wav",70
+Sample,180386,0,"x x 4 4 2 Bm 160.wav",55
+Sample,180386,0,"bass 4-7 staccato 320.wav",40
+Sample,180471,0,"16 80.wav",70
+Sample,180556,0,"x x 4 4 2 Bm 160.wav",55
+Sample,180556,0,"14 80.wav",70
+Sample,180641,0,"x 14 80.wav",70
+Sample,180726,0,"Clap.wav",75
+Sample,180726,0,"bass 4-7 staccato 320.wav",40
+Sample,180726,0,"18 80.wav",70
+Sample,180726,0,"Hi-Hat open.wav",50
+Sample,180726,0,"x x 4 4 2 Bm 160.wav",55
+Sample,181067,0,"Hi-Hat open.wav",50
+Sample,181067,0,"x x 4 4 2 Bm 160.wav",55
+Sample,181067,0,"18 80.wav",70
+Sample,181067,0,"Clap.wav",75
+Sample,181067,0,"bass 4-7 160.wav",40
+Sample,181238,0,"x x 4 4 2 Bm 160.wav",55
+Sample,181238,0,"bass 4-14 160.wav",40
+Sample,181323,0,"x 14 80.wav",70
+Sample,181408,0,"x x 4 4 2 Bm 160.wav",55
+Sample,181408,0,"18 80.wav",70
+Sample,181408,0,"bass 3-14 320.wav",40
+Sample,181579,0,"14 80.wav",70
+Sample,181579,0,"x x 4 4 2 Bm 160.wav",55
+Sample,181749,0,"bass 4-6 staccato 320.wav",40
+Sample,181749,0,"18 80.wav",70
+Sample,181749,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,181920,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,181920,0,"14 80.wav",70
+Sample,182090,0,"Hi-Hat open.wav",50
+Sample,182090,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,182090,0,"18 80.wav",70
+Sample,182090,0,"Clap.wav",75
+Sample,182090,0,"bass 4-6 staccato 320.wav",40
+Sample,182261,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,182431,0,"Hi-Hat open.wav",50
+Sample,182431,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,182431,0,"18 80.wav",70
+Sample,182431,0,"Clap.wav",75
+Sample,182431,0,"bass 4-6 160.wav",40
+Sample,182601,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,182601,0,"bass 4-13 160.wav",40
+Sample,182772,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,182772,0,"Clap.wav",75
+Sample,182772,0,"18 80.wav",70
+Sample,182772,0,"bass 3-13 320.wav",40
+Sample,182942,0,"x x 3 4 1 F#-A# 160.wav",55
+Sample,183028,0,"x 14 80.wav",70
+Sample,183113,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,183113,0,"bass 4-4 staccato 320.wav",40
+Sample,183198,0,"16 80.wav",70
+Sample,183283,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,183283,0,"14 80.wav",70
+Sample,183368,0,"x 14 80.wav",70
+Sample,183454,0,"Clap.wav",75
+Sample,183454,0,"bass 4-4 staccato 320.wav",40
+Sample,183454,0,"18 80.wav",70
+Sample,183454,0,"Hi-Hat open.wav",50
+Sample,183454,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,183624,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,183795,0,"Clap.wav",75
+Sample,183795,0,"bass 4-4 160.wav",40
+Sample,183795,0,"18 80.wav",70
+Sample,183795,0,"Hi-Hat open.wav",50
+Sample,183795,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,183965,0,"bass 4-11 160.wav",40
+Sample,183965,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,184050,0,"x 14 80.wav",70
+Sample,184136,0,"bass 3-11 320.wav",40
+Sample,184136,0,"18 80.wav",70
+Sample,184136,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,184306,0,"x x x 6 6 4 G#m 160.wav",55
+Sample,184306,0,"14 80.wav",70
+Sample,184476,0,"18 80.wav",70
+Sample,184476,0,"bass 3-9 320.wav",40
+Sample,184476,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,184476,0,"Hi-Hat open.wav",50
+Sample,184647,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,184732,0,"x 14 80.wav",70
+Sample,184817,0,"18 80.wav",70
+Sample,184817,0,"bass 4-2 160.wav",40
+Sample,184817,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,184817,0,"Hi-Hat open.wav",50
+Sample,184988,0,"bass 2-4 160.wav",40
+Sample,184988,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,185158,0,"18 80.wav",70
+Sample,185158,0,"bass 4-2 160.wav",40
+Sample,185158,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,185158,0,"Hi-Hat open.wav",50
+Sample,185329,0,"bass 4-4 160.wav",40
+Sample,185329,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,185414,0,"x 14 80.wav",70
+Sample,185499,0,"2 2 3 4 4 2 F# 160.wav",55
+Sample,185499,0,"Clap.wav",75
+Sample,185499,0,"18 320.wav",70
+Sample,185499,0,"bass 4-6 320.wav",40
+Sample,185840,0,"bass 4-7 160.wav",40
+Sample,185840,0,"14 160.wav",70
+Sample,185840,0,"x x 4 4 2 Bm staccato 320.wav",55
+Sample,186011,0,"bass 4-7 160.wav",40
+Sample,186181,0,"bass 4-7 160.wav",40
+Sample,186181,0,"x 14 160.wav",70
+Sample,186181,0,"x x 4 4 2 Bm staccato 320.wav",55
+Sample,186351,0,"bass 4-7 160.wav",40
+Sample,186522,0,"x x 4 4 2 Bm staccato 320.wav",55
+Sample,186522,0,"bass 4-7 160.wav",40
+Sample,186692,0,"bass 4-7 160.wav",40
+Sample,186863,0,"x x 4 4 2 Bm 320.wav",55
+Sample,186863,0,"x 11 160.wav",70
+Sample,186863,0,"bass 4-7 320.wav",40
+Sample,187204,0,"x x 3 4 1 F#-A# staccato 320.wav",55
+Sample,187204,0,"bass 4-6 160.wav",40
+Sample,187374,0,"bass 4-6 160.wav",40
+Sample,187545,0,"x x 3 4 1 F#-A# staccato 320.wav",55
+Sample,187545,0,"x x 13 160.wav",70
+Sample,187545,0,"bass 4-6 160.wav",40
+Sample,187715,0,"bass 4-6 160.wav",40
+Sample,187886,0,"x x 13 160.wav",70
+Sample,187886,0,"bass 4-6 160.wav",40
+Sample,187886,0,"x x 3 4 1 F#-A# staccato 320.wav",55
+Sample,187886,0,"Hi-Hat open.wav",50
+Sample,188056,0,"bass 4-6 160.wav",40
+Sample,188226,0,"bass 4-6 320.wav",40
+Sample,188226,0,"x x x 13 P.M. 160.wav",70
+Sample,188226,0,"x x 3 4 1 F#-A# 320.wav",55
+Sample,188567,0,"x x x 6 6 4 G#m staccato 320.wav",55
+Sample,188567,0,"14 160.wav",70
+Sample,188567,0,"bass 4-4 160.wav",40
+Sample,188738,0,"bass 4-4 160.wav",40
+Sample,188908,0,"x x x 6 6 4 G#m staccato 320.wav",55
+Sample,188908,0,"x 14 160.wav",70
+Sample,188908,0,"bass 4-4 160.wav",40
+Sample,189079,0,"bass 4-4 160.wav",40
+Sample,189249,0,"bass 4-4 160.wav",40
+Sample,189249,0,"x x x 6 6 4 G#m staccato 320.wav",55
+Sample,189420,0,"bass 4-11 160.wav",40
+Sample,189590,0,"bass 3-11 320.wav",40
+Sample,189590,0,"x 11 160.wav",70
+Sample,189590,0,"x x x 6 6 4 G#m 320.wav",55
+Sample,189931,0,"2 2 3 4 4 2 F# staccato 320.wav",55
+Sample,189931,0,"x x 15 160.wav",70
+Sample,189931,0,"bass 3-9 160.wav",40
+Sample,190101,0,"bass 3-11 160.wav",40
+Sample,190272,0,"2 2 3 4 4 2 F# staccato 320.wav",55
+Sample,190272,0,"x x 13 160.wav",70
+Sample,190272,0,"bass 2-13 320.wav",40
+Sample,190613,0,"2 2 3 4 4 2 F# staccato 320.wav",55
+Sample,190613,0,"bass 2-11 160.wav",40
+Sample,190783,0,"x x 11 160.wav",70
+Sample,190783,0,"bass 3-13 160.wav",40
+Sample,190954,0,"2 2 3 4 4 2 F# 320.wav",55
+Sample,190954,0,"Hi-Hat open.wav",50
+Sample,190954,0,"x x x 13 P.M. 160.wav",70
+Sample,190954,0,"bass 3-11 320.wav",40
+Sample,191295,0,"x x 4 4 2 Bm staccato 320.wav",55
+Sample,191295,0,"Hi-Hat open.wav",50
+Sample,191295,0,"14 160.wav",70
+Sample,191295,0,"bass 4-7 320.wav",40
+Sample,191636,0,"bass 4-7 320.wav",40
+Sample,191636,0,"x 14 160.wav",70
+Sample,191636,0,"x x 4 4 2 Bm staccato 320.wav",55
+Sample,191976,0,"bass 4-7 320.wav",40
+Sample,191976,0,"x x 4 4 2 Bm staccato 320.wav",55
+Sample,192317,0,"x x 4 4 2 Bm 320.wav",55
+Sample,192317,0,"x 11 160.wav",70
+Sample,192317,0,"bass 4-7 320.wav",40
+Sample,192658,0,"x x 3 4 1 F#-A# staccato 320.wav",55
+Sample,192658,0,"bass 4-6 320.wav",40
+Sample,192999,0,"bass 4-6 320.wav",40
+Sample,192999,0,"x x 13 160.wav",70
+Sample,192999,0,"x x 3 4 1 F#-A# staccato 320.wav",55
+Sample,193340,0,"x x 3 4 1 F#-A# staccato 320.wav",55
+Sample,193340,0,"x x 13 160.wav",70
+Sample,193340,0,"bass 4-6 160.wav",40
+Sample,193511,0,"bass 4-6 160.wav",40
+Sample,193596,0,"Kick.wav",75
+Sample,193681,0,"bass 4-2 320.wav",40
+Sample,193681,0,"x x x 13 P.M. 160.wav",70
+Sample,193681,0,"x x 3 4 1 F#-A# 320.wav",55
+Sample,194022,0,"x x x 6 6 4 G#m 640.wav",55
+Sample,194022,0,"x x x 11 P.M. 160.wav",70
+Sample,194022,0,"bass 4-4 320.wav",40
+Sample,194363,0,"x x 11 160.wav",70
+Sample,194363,0,"bass 4-4 320.wav",40
+Sample,194533,0,"x x 13 160.wav",70
+Sample,194704,0,"bass 3-4 160.wav",40
+Sample,194704,0,"x x 6 6 4 C#m 640.wav",55
+Sample,195386,0,"bass 4-2 1280.wav",40
+Sample,195386,0,"2 2 3 4 4 2 F# 640.wav",55
+Sample,196067,0,"2 2 3 4 4 2 F# 640.wav",55
+Sample,196749,0,"bass 4-4 720.wav",40
+Sample,197516,0,"bass 4-2 3120.wav",40
+Sample,197516,0,"2 2 3 4 4 2 F# 3120.wav",55
+
+[TimingPoints]
+386,340.909090909091,4,2,1,100,1,0
+45386,-100,4,2,1,100,0,1
+64476,-100,4,2,1,100,0,0
+89022,-100,4,2,1,100,0,1
+108113,-100,4,2,1,100,0,0
+155840,-100,4,2,1,100,0,1
+172204,-100,4,2,1,100,0,0
+174931,-100,4,2,1,100,0,1
+195386,-100,4,2,1,100,0,0
+
+
+[HitObjects]
+192,192,386,5,0,0:0:0:50:HHOpen.wav
+448,192,386,1,0,0:0:0:0:
+192,192,726,1,0,0:0:0:50:HHOpen.wav
+448,192,726,1,0,0:0:0:0:
+64,192,1067,1,0,0:0:0:50:HHOpen.wav
+320,192,1067,1,0,0:0:0:0:
+64,192,1408,1,0,0:0:0:50:Hi-Hat open L.wav
+320,192,1408,1,0,0:0:0:0:
+64,192,1749,1,0,0:0:0:70:x 10 160.wav
+192,192,1749,1,2,0:0:0:75:Kick.wav
+448,192,1749,1,0,0:0:0:50:LR_CymbalG.wav
+192,192,1920,1,0,0:0:0:70:x x 9 320.wav
+64,192,2090,1,8,0:0:0:75:Snare.wav
+320,192,2090,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,2090,1,0,0:0:0:55:x x x 7 7 5 A 160.wav
+192,192,2261,1,0,0:0:0:70:x 12 160.wav
+64,192,2431,1,0,0:0:0:70:x 10 320.wav
+192,192,2431,1,2,0:0:0:75:Kick.wav
+320,192,2601,1,2,0:0:0:75:Kick.wav
+448,192,2601,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,2772,1,0,0:0:0:70:12 160.wav
+192,192,2772,1,8,0:0:0:75:Snare.wav
+448,192,2772,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,2942,1,0,0:0:0:70:10 320.wav
+320,192,3113,1,2,0:0:0:75:Kick.wav
+448,192,3113,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,3283,1,0,0:0:0:70:9 160.wav
+64,192,3454,1,0,0:0:0:70:x 12 320.wav
+192,192,3454,1,8,0:0:0:75:Snare.wav
+448,192,3454,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,3624,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,3795,1,0,0:0:0:70:x 10 160.wav
+192,192,3795,1,2,0:0:0:75:Kick.wav
+320,192,3880,1,8,0:0:0:75:Snare.wav
+192,192,3965,1,0,0:0:0:70:x 10 160.wav
+448,192,3965,1,2,0:0:0:75:Kick.wav
+64,192,4136,1,0,0:0:0:70:x 9 160.wav
+320,192,4136,1,8,0:0:0:75:Snare.wav
+448,192,4136,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,4306,1,0,0:0:0:70:x 9 160.wav
+64,192,4476,1,0,0:0:0:70:x 10 160.wav
+320,192,4476,1,2,0:0:0:75:Kick.wav
+448,192,4476,1,4,0:0:0:75:Crash high.wav
+320,192,4647,1,0,0:0:0:70:x x 9 320.wav
+64,192,4817,1,8,0:0:0:75:Snare.wav
+192,192,4817,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,4817,1,0,0:0:0:55:x x x 4 2 2 Bm-F# 160.wav
+320,192,4988,1,0,0:0:0:70:x 12 160.wav
+320,192,5158,1,0,0:0:0:70:x 10 320.wav
+448,192,5158,1,2,0:0:0:75:Kick.wav
+64,192,5329,1,2,0:0:0:75:Kick.wav
+192,192,5329,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,5499,1,0,0:0:0:70:14 160.wav
+320,192,5499,1,8,0:0:0:75:Snare.wav
+448,192,5499,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,5670,1,0,0:0:0:70:12 320.wav
+64,192,5840,1,2,0:0:0:75:Kick.wav
+320,192,5840,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,6011,1,0,0:0:0:70:9 160.wav
+64,192,6181,1,0,0:0:0:70:x 12 160.wav
+192,192,6181,1,8,0:0:0:75:Snare.wav
+448,192,6181,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,6351,1,0,0:0:0:70:x 10 160.wav
+64,192,6522,1,0,0:0:0:70:x 9 160.wav
+192,192,6522,1,2,0:0:0:75:Kick.wav
+192,192,6692,1,0,0:0:0:70:x 10 160.wav
+320,192,6692,1,2,0:0:0:75:Kick.wav
+64,192,6863,1,0,0:0:0:70:x 12 160.wav
+320,192,6863,1,8,0:0:0:75:Snare.wav
+448,192,6863,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,7033,1,0,0:0:0:70:9 160.wav
+192,192,7118,1,8,0:0:0:75:Snare.wav
+64,192,7204,1,0,0:0:0:70:x 10 160.wav
+320,192,7204,1,2,0:0:0:75:Kick.wav
+448,192,7204,1,0,0:0:0:50:LR_CymbalG.wav
+320,192,7374,1,0,0:0:0:70:x x 9 320.wav
+64,192,7545,1,8,0:0:0:75:Snare.wav
+192,192,7545,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,7545,1,0,0:0:0:55:x x 6 7 4 A-C# 160.wav
+320,192,7715,1,0,0:0:0:70:x 12 160.wav
+320,192,7886,1,0,0:0:0:70:x 10 320.wav
+448,192,7886,1,2,0:0:0:75:Kick.wav
+64,192,8056,1,2,0:0:0:75:Kick.wav
+192,192,8056,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,8226,1,0,0:0:0:70:12 160.wav
+320,192,8226,1,8,0:0:0:75:Snare.wav
+448,192,8226,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,8397,1,0,0:0:0:70:10 320.wav
+64,192,8567,1,2,0:0:0:75:Kick.wav
+192,192,8567,1,8,0:0:0:75:Snare.wav
+320,192,8653,1,8,0:0:0:75:Snare.wav
+448,192,8653,1,0,0:0:0:0:
+192,192,8738,1,0,0:0:0:70:9 160.wav
+64,192,8908,1,0,0:0:0:70:x 12 320.wav
+320,192,8908,1,2,0:0:0:75:Kick.wav
+448,192,8908,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,8993,1,0,0:0:0:75:Tom2.wav
+448,192,9079,1,0,0:0:0:75:Tom4.wav
+320,192,9164,1,0,0:0:0:75:Tom4.wav
+64,192,9249,1,0,0:0:0:70:x 10 10 160.wav
+192,192,9249,1,8,0:0:0:75:Snare.wav
+448,192,9249,1,0,0:0:0:75:Tom4.wav
+64,192,9420,1,0,0:0:0:70:x 10 10 160.wav
+192,192,9420,1,8,0:0:0:75:Snare.wav
+320,192,9420,1,0,0:0:0:75:Tom4.wav
+64,192,9931,1,2,0:0:0:75:Kick.wav
+320,192,9931,1,4,0:0:0:75:Crash high.wav
+448,192,9931,128,0,10272:0:0:0:50:LR_CymbalG.wav
+192,192,10101,1,0,0:0:0:40:bass 3-7 160.wav
+64,192,10272,128,2,10613:0:0:0:75:Kick.wav
+320,192,10272,1,0,0:0:0:55:x x x x 7 P.M. 160.wav
+448,192,10442,1,0,0:0:0:55:x x x x 7 P.M. 160.wav
+192,192,10613,128,2,10954:0:0:0:75:Kick.wav
+320,192,10613,1,0,0:0:0:55:x x x x 7 P.M. 160.wav
+64,192,10783,1,0,0:0:0:55:x x x x 7 P.M. 160.wav
+320,192,10954,128,2,11295:0:0:0:75:Kick.wav
+448,192,10954,1,0,0:0:0:55:x x x x 7 P.M. 160.wav
+192,192,11124,1,0,0:0:0:55:x x x x 7 P.M. 160.wav
+64,192,11295,1,2,0:0:0:75:Kick.wav
+448,192,11295,128,0,11636:0:0:0:55:x x x x 7 P.M. 160.wav
+192,192,11465,1,0,0:0:0:55:x x x x 7 P.M. 160.wav
+64,192,11636,1,2,0:0:0:75:Kick.wav
+320,192,11636,128,0,11976:0:0:0:55:x x x x 7 P.M. 160.wav
+448,192,11806,1,0,0:0:0:55:x x x x 7 P.M. 160.wav
+64,192,11976,128,2,12317:0:0:0:75:Kick.wav
+192,192,11976,1,0,0:0:0:55:x x x x 7 P.M. 160.wav
+320,192,12147,1,0,0:0:0:55:x x x x 7 P.M. 160.wav
+192,192,12317,128,2,12658:0:0:0:75:Kick.wav
+448,192,12317,1,0,0:0:0:55:x x x x 7 P.M. 160.wav
+64,192,12488,1,0,0:0:0:55:x x x x 7 P.M. 160.wav
+320,192,12658,1,2,0:0:0:75:Kick.wav
+448,192,12658,128,0,12999:0:0:0:55:x x x x x 7 P.M. 160.wav
+192,192,12829,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+64,192,12999,128,2,13340:0:0:0:75:Kick.wav
+320,192,12999,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+448,192,13170,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+192,192,13340,1,2,0:0:0:75:Kick.wav
+320,192,13340,128,0,13681:0:0:0:55:x x x x x 7 P.M. 160.wav
+64,192,13511,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+192,192,13681,128,2,14022:0:0:0:75:Kick.wav
+448,192,13681,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+320,192,13851,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+64,192,14022,128,2,14363:0:0:0:75:Kick.wav
+448,192,14022,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+320,192,14192,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+192,192,14363,1,2,0:0:0:75:Kick.wav
+448,192,14363,128,0,14704:0:0:0:55:x x x x x 7 P.M. 160.wav
+320,192,14533,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+64,192,14704,1,2,0:0:0:75:Kick.wav
+192,192,14704,128,0,15045:0:0:0:50:Hi-Hat close.wav
+320,192,14874,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,14959,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,15045,1,2,0:0:0:75:Kick.wav
+320,192,15045,128,0,15386:0:0:0:50:Hi-Hat open.wav
+192,192,15215,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+64,192,15386,128,2,15897:0:0:0:75:Kick.wav
+192,192,15386,1,4,0:0:0:75:Crash high.wav
+448,192,15386,1,0,0:0:0:70:9 480.wav
+320,192,15556,1,0,0:0:0:55:x x x x x 5 P.M. 160.wav
+192,192,15726,1,2,0:0:0:75:Kick.wav
+320,192,15726,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,15897,128,0,16408:0:0:0:50:Hi-Hat close.wav
+64,192,16067,1,2,0:0:0:75:Kick.wav
+320,192,16067,1,0,0:0:0:75:Rim.wav
+192,192,16238,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,16323,1,0,0:0:0:75:Rim.wav
+192,192,16408,128,2,18113:0:0:0:75:Kick.wav
+320,192,16408,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,16579,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,16749,1,2,0:0:0:75:Kick.wav
+448,192,16749,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,16920,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,17090,1,2,0:0:0:75:Kick.wav
+320,192,17090,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,17261,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,17431,1,2,0:0:0:75:Kick.wav
+448,192,17431,1,0,0:0:0:75:Rim.wav
+64,192,17601,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,17687,1,0,0:0:0:75:Rim.wav
+64,192,17772,1,2,0:0:0:75:Kick.wav
+448,192,17772,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,17942,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,18113,128,2,19136:0:0:0:75:Kick.wav
+448,192,18113,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,18283,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,18454,1,2,0:0:0:75:Kick.wav
+320,192,18454,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,18624,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,18795,1,2,0:0:0:75:Kick.wav
+448,192,18795,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,18965,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,19050,1,0,0:0:0:75:Rim.wav
+320,192,19136,128,2,19476:0:0:0:75:Kick.wav
+448,192,19136,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,19306,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,19476,1,2,0:0:0:75:Kick.wav
+448,192,19476,128,0,19817:0:0:0:50:Hi-Hat open.wav
+192,192,19647,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+192,192,19817,1,2,0:0:0:75:Kick.wav
+320,192,19817,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,19988,1,8,0:0:0:75:Snare.wav
+448,192,19988,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+192,192,20073,1,8,0:0:0:75:Snare.wav
+320,192,20158,1,2,0:0:0:75:Kick.wav
+448,192,20158,1,0,0:0:0:75:Tom2.wav
+192,192,20329,1,0,0:0:0:75:Tom4.wav
+320,192,20329,1,0,0:0:0:55:x x x x x 7 P.M. 160.wav
+64,192,20499,1,2,0:0:0:75:Kick.wav
+192,192,20499,1,8,0:0:0:75:Snare.wav
+448,192,20499,1,0,0:0:0:70:x x x 14 14 14 mute 320.wav
+320,192,20584,1,8,0:0:0:75:Snare.wav
+64,192,20670,1,8,0:0:0:75:Snare.wav
+192,192,20755,1,8,0:0:0:75:Snare.wav
+64,192,20840,1,2,0:0:0:75:Kick.wav
+320,192,20840,1,0,0:0:0:75:Crash high.wav
+448,192,20840,1,0,0:0:0:70:x x x x x 0 160.wav
+192,192,21011,1,0,0:0:0:70:x x x x x 0 160.wav
+64,192,21181,1,8,0:0:0:75:Snare.wav
+192,192,21181,128,0,21351:0:0:0:50:Hi-Hat close.wav
+448,192,21181,1,0,0:0:0:70:x x 9 x 7 160.wav
+320,192,21351,128,0,21522:0:0:0:50:Hi-Hat close.wav
+64,192,21522,1,2,0:0:0:75:Kick.wav
+192,192,21522,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,21692,1,2,0:0:0:75:Kick.wav
+320,192,21692,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,21863,1,8,0:0:0:75:Snare.wav
+320,192,21863,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,21863,128,0,22033:0:0:0:70:x x 11 x 9 160.wav
+64,192,22033,128,2,22204:0:0:0:75:Kick.wav
+192,192,22033,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,22204,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,22374,1,2,0:0:0:75:Kick.wav
+320,192,22374,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,22545,1,8,0:0:0:75:Snare.wav
+320,192,22545,128,0,22715:0:0:0:50:Hi-Hat close.wav
+448,192,22545,1,0,0:0:0:70:x x 9 x 7 160.wav
+192,192,22715,128,0,22886:0:0:0:50:Hi-Hat close.wav
+320,192,22886,1,2,0:0:0:75:Kick.wav
+448,192,22886,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,23056,1,2,0:0:0:75:Kick.wav
+448,192,23056,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,23226,128,8,23397:0:0:0:75:Snare.wav
+192,192,23226,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,23226,1,0,0:0:0:70:x x 11 x 9 160.wav
+320,192,23397,128,0,23567:0:0:0:50:Hi-Hat close.wav
+64,192,23567,1,2,0:0:0:75:Kick.wav
+448,192,23567,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,23738,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,23908,1,8,0:0:0:75:Snare.wav
+192,192,23908,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,23908,128,0,24079:0:0:0:70:x x 4 x 2 160.wav
+320,192,24079,128,0,24249:0:0:0:50:Hi-Hat close.wav
+64,192,24249,1,2,0:0:0:75:Kick.wav
+448,192,24249,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,24420,1,2,0:0:0:75:Kick.wav
+320,192,24420,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,24590,1,8,0:0:0:75:Snare.wav
+192,192,24590,128,0,24761:0:0:0:50:Hi-Hat close.wav
+448,192,24590,1,0,0:0:0:70:x x 4 x 2 160.wav
+64,192,24761,128,2,24931:0:0:0:75:Kick.wav
+320,192,24761,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,24931,128,0,25101:0:0:0:50:Hi-Hat close.wav
+192,192,25101,1,2,0:0:0:75:Kick.wav
+320,192,25101,128,0,25272:0:0:0:50:Hi-Hat close.wav
+64,192,25272,1,8,0:0:0:75:Snare.wav
+192,192,25272,128,0,25442:0:0:0:50:Hi-Hat close.wav
+448,192,25272,1,0,0:0:0:70:x x 5 x 3 160.wav
+448,192,25442,128,0,25613:0:0:0:50:Hi-Hat close.wav
+64,192,25613,128,2,25783:0:0:0:75:Kick.wav
+320,192,25613,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,25783,1,2,0:0:0:75:Kick.wav
+320,192,25783,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,25954,1,8,0:0:0:75:Snare.wav
+192,192,25954,128,0,26295:0:0:0:50:Hi-Hat open.wav
+448,192,25954,1,0,0:0:0:70:x x 11 x 9 160.wav
+320,192,26124,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,26295,1,2,0:0:0:75:Kick.wav
+448,192,26295,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,26465,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,26636,1,8,0:0:0:75:Snare.wav
+320,192,26636,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,26636,128,0,26806:0:0:0:70:0 5 160.wav
+64,192,26806,128,0,26976:0:0:0:50:Hi-Hat close.wav
+192,192,26976,128,2,27147:0:0:0:75:Kick.wav
+320,192,26976,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,27147,128,2,27317:0:0:0:75:Kick.wav
+448,192,27147,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,27317,1,8,0:0:0:75:Snare.wav
+192,192,27317,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,27317,128,0,27488:0:0:0:70:0 2 160.wav
+64,192,27488,128,2,27658:0:0:0:75:Kick.wav
+192,192,27488,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,27658,128,0,27829:0:0:0:50:Hi-Hat close.wav
+192,192,27829,1,2,0:0:0:75:Kick.wav
+320,192,27829,128,0,27999:0:0:0:50:Hi-Hat close.wav
+64,192,27999,1,8,0:0:0:75:Snare.wav
+192,192,27999,128,0,28170:0:0:0:50:Hi-Hat close.wav
+448,192,27999,1,0,0:0:0:70:0 0 2 160.wav
+64,192,28170,128,0,28340:0:0:0:50:Hi-Hat close.wav
+320,192,28340,128,2,28511:0:0:0:75:Kick.wav
+448,192,28340,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,28511,1,2,0:0:0:75:Kick.wav
+448,192,28511,128,0,28681:0:0:0:50:Hi-Hat close.wav
+64,192,28681,1,8,0:0:0:75:Snare.wav
+192,192,28681,128,0,28851:0:0:0:50:Hi-Hat close.wav
+320,192,28681,1,0,0:0:0:70:0 0 2 160.wav
+64,192,28851,128,0,29022:0:0:0:50:Hi-Hat close.wav
+192,192,29022,1,2,0:0:0:75:Kick.wav
+448,192,29022,128,0,29192:0:0:0:50:Hi-Hat close.wav
+320,192,29192,128,0,29363:0:0:0:50:Hi-Hat close.wav
+64,192,29363,1,8,0:0:0:75:Snare.wav
+192,192,29363,128,0,29533:0:0:0:50:Hi-Hat close.wav
+448,192,29363,1,0,0:0:0:70:x x x x 4 160.wav
+64,192,29533,128,0,29704:0:0:0:50:Hi-Hat close.wav
+320,192,29704,128,2,29874:0:0:0:75:Kick.wav
+448,192,29704,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,29874,1,2,0:0:0:75:Kick.wav
+448,192,29874,128,0,30045:0:0:0:50:Hi-Hat close.wav
+64,192,30045,1,8,0:0:0:75:Snare.wav
+192,192,30045,128,0,30215:0:0:0:50:Hi-Hat close.wav
+320,192,30045,1,0,0:0:0:70:x x 6 160.wav
+320,192,30215,128,2,30386:0:0:0:75:Kick.wav
+448,192,30215,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,30386,1,8,0:0:0:75:Snare.wav
+192,192,30386,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,30386,1,0,0:0:0:70:5 x 2 160.wav
+192,192,30556,1,2,0:0:0:75:Kick.wav
+320,192,30556,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,30726,1,8,0:0:0:75:Snare.wav
+320,192,30726,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,30726,1,0,0:0:0:70:7 x 4 160.wav
+192,192,30897,1,2,0:0:0:75:Kick.wav
+320,192,30897,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,31067,1,8,0:0:0:75:Snare.wav
+192,192,31067,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,31067,1,0,0:0:0:70:9 x 6 160.wav
+64,192,31238,1,0,0:0:0:70:9 x 6 160.wav
+320,192,31238,1,0,0:0:0:55:x 9 9 9 E-B 160.wav
+192,192,31323,1,8,0:0:0:75:Snare.wav
+320,192,31408,1,2,0:0:0:75:Kick.wav
+448,192,31408,1,8,0:0:0:75:Snare.wav
+64,192,31493,1,8,0:0:0:75:Snare.wav
+192,192,31579,1,8,0:0:0:75:Snare.wav
+448,192,31579,1,0,0:0:0:70:10 x 7 160.wav
+320,192,31664,1,8,0:0:0:75:Snare.wav
+64,192,31749,128,2,32090:0:0:0:75:Kick.wav
+192,192,31749,1,4,0:0:0:75:Crash high.wav
+448,192,31749,1,0,0:0:0:50:arp. x 9 9 9 480.wav
+320,192,31920,1,0,0:0:0:0:
+192,192,32090,1,2,0:0:0:75:Kick.wav
+448,192,32090,1,0,0:0:0:75:Tom4.wav
+64,192,32261,1,0,0:0:0:75:Tom4.wav
+320,192,32431,128,2,32772:0:0:0:75:Kick.wav
+448,192,32431,1,0,0:0:0:75:Tom4.wav
+64,192,32601,1,0,0:0:0:75:Tom4.wav
+192,192,32687,1,0,0:0:0:75:Tom4.wav
+448,192,32772,1,2,0:0:0:75:Kick.wav
+64,192,32942,1,8,0:0:0:75:Snare.wav
+192,192,32942,1,4,0:0:0:75:Crash high.wav
+448,192,32942,1,0,0:0:0:70:x x 11 x 9 160.wav
+192,192,33113,1,2,0:0:0:75:Kick.wav
+320,192,33113,1,0,0:0:0:0:
+64,192,33283,1,8,0:0:0:75:Snare.wav
+320,192,33283,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,33283,1,0,0:0:0:70:x x 11 x 9 160.wav
+64,192,33454,1,2,0:0:0:75:Kick.wav
+192,192,33454,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,33624,1,8,0:0:0:75:Snare.wav
+320,192,33624,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,33624,1,0,0:0:0:70:x x 11 x 9 160.wav
+320,192,33795,1,2,0:0:0:75:Kick.wav
+448,192,33795,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,33965,1,8,0:0:0:75:Snare.wav
+192,192,33965,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,33965,1,0,0:0:0:70:x x 13 x 11 160.wav
+192,192,34136,1,2,0:0:0:75:Kick.wav
+320,192,34136,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,34306,1,0,0:0:0:75:Tom1.wav
+192,192,34391,1,0,0:0:0:75:Tom1.wav
+320,192,34476,1,2,0:0:0:75:Kick.wav
+448,192,34476,128,0,34817:0:0:0:75:Tom4.wav
+64,192,34647,1,0,0:0:0:75:Tom4.wav
+192,192,34817,1,2,0:0:0:75:Kick.wav
+448,192,34988,1,0,0:0:0:75:Tom2.wav
+320,192,35073,1,0,0:0:0:75:Tom2.wav
+64,192,35158,1,2,0:0:0:75:Kick.wav
+192,192,35158,128,0,35499:0:0:0:75:Tom4.wav
+320,192,35329,1,0,0:0:0:75:Tom4.wav
+64,192,35499,1,2,0:0:0:75:Kick.wav
+448,192,35499,1,0,0:0:0:75:Tom4.wav
+64,192,35670,1,8,0:0:0:75:Snare.wav
+320,192,35670,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,35670,1,0,0:0:0:55:x x 2 2 0 A 160.wav
+192,192,35840,128,2,36011:0:0:0:75:Kick.wav
+320,192,35840,1,0,0:0:0:70:x 17 160.wav
+64,192,36011,1,8,0:0:0:75:Snare.wav
+448,192,36011,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,36067,1,0,0:0:0:70:x 17 53.wav
+192,192,36124,1,0,0:0:0:70:x 14 53.wav
+64,192,36181,1,2,0:0:0:75:Kick.wav
+448,192,36181,128,0,36351:0:0:0:50:Hi-Hat close.wav
+64,192,36351,128,8,36522:0:0:0:75:Snare.wav
+192,192,36351,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,36351,1,0,0:0:0:70:x x 14 160.wav
+192,192,36522,128,2,36692:0:0:0:75:Kick.wav
+448,192,36522,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,36692,1,8,0:0:0:75:Snare.wav
+320,192,36692,128,0,36863:0:0:0:50:Hi-Hat open.wav
+448,192,36692,1,0,0:0:0:70:x x x 14 160.wav
+64,192,36863,1,2,0:0:0:75:Kick.wav
+192,192,36863,1,8,0:0:0:75:Snare.wav
+448,192,36863,128,4,37204:0:0:0:75:Crash high.wav
+64,192,37204,1,2,0:0:0:75:Kick.wav
+192,192,37204,1,0,0:0:0:50:LR_CymbalG.wav
+320,192,37204,128,0,37545:0:0:0:50:arp. x 9 9 9 480.wav
+64,192,37374,1,0,0:0:0:0:
+192,192,37545,1,2,0:0:0:75:Kick.wav
+448,192,37545,1,0,0:0:0:75:Tom4.wav
+320,192,37715,1,0,0:0:0:75:Tom4.wav
+64,192,37886,1,2,0:0:0:75:Kick.wav
+192,192,37886,128,0,38226:0:0:0:75:Tom4.wav
+448,192,38056,1,0,0:0:0:75:Tom4.wav
+320,192,38141,1,0,0:0:0:75:Tom4.wav
+64,192,38226,1,2,0:0:0:75:Kick.wav
+64,192,38397,1,8,0:0:0:75:Snare.wav
+320,192,38397,1,0,0:0:0:50:Hi-Hat open L.wav
+448,192,38397,1,0,0:0:0:70:x x 11 x 9 160.wav
+192,192,38567,1,2,0:0:0:75:Kick.wav
+320,192,38567,1,0,0:0:0:0:
+64,192,38738,1,8,0:0:0:75:Snare.wav
+192,192,38738,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,38738,1,0,0:0:0:70:x x 11 x 9 160.wav
+320,192,38908,1,2,0:0:0:75:Kick.wav
+448,192,38908,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,39079,1,8,0:0:0:75:Snare.wav
+192,192,39079,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,39079,1,0,0:0:0:70:x x 11 x 9 160.wav
+192,192,39249,1,2,0:0:0:75:Kick.wav
+448,192,39249,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,39420,1,2,0:0:0:75:Kick.wav
+320,192,39420,1,0,0:0:0:70:x x 13 x 11 160.wav
+448,192,39420,1,0,0:0:0:55:x x 9 9 9 F#m7(11) 160.wav
+64,192,39590,1,2,0:0:0:75:Kick.wav
+192,192,39590,1,8,0:0:0:75:Snare.wav
+320,192,39590,1,0,0:0:0:50:LR_CymbalG.wav
+64,192,39931,1,2,0:0:0:75:Kick.wav
+192,192,39931,1,4,0:0:0:75:Crash high.wav
+448,192,39931,1,0,0:0:0:70:x x 4 4 2 960.wav
+320,192,40101,1,0,0:0:0:0:
+64,192,40272,1,8,0:0:0:75:Snare.wav
+320,192,40272,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,40272,1,0,0:0:0:55:x x x x 2 P.M. 160.wav
+192,192,40442,1,0,0:0:0:55:x x x x 2 P.M. 160.wav
+64,192,40613,1,8,0:0:0:75:Snare.wav
+192,192,40613,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,40613,1,0,0:0:0:40:bass 3-2 160.wav
+320,192,40783,1,2,0:0:0:75:Kick.wav
+448,192,40783,1,0,0:0:0:55:x x x x 2 P.M. 160.wav
+64,192,40954,1,8,0:0:0:75:Snare.wav
+192,192,40954,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,40954,1,0,0:0:0:70:x x x x 2 sl. 320.wav
+64,192,41124,1,2,0:0:0:75:Kick.wav
+320,192,41124,1,0,0:0:0:55:x x x x 2 P.M. 160.wav
+192,192,41295,1,8,0:0:0:75:Snare.wav
+320,192,41295,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,41295,1,0,0:0:0:70:x x x x 14 Left-hand vibrato 1280.wav
+64,192,41465,1,0,0:0:0:55:x x 4 4 2 Bm 160.wav
+192,192,41465,1,0,0:0:0:40:bass 2-9 160.wav
+64,192,41636,1,8,0:0:0:75:Snare.wav
+320,192,41636,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,41636,1,0,0:0:0:55:x x 4 4 2 Bm 160.wav
+192,192,41806,1,0,0:0:0:55:x x 4 4 2 Bm 160.wav
+192,192,41976,1,8,0:0:0:75:Snare.wav
+320,192,41976,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,41976,1,0,0:0:0:55:x x 4 4 2 Bm 160.wav
+64,192,42147,1,2,0:0:0:75:Kick.wav
+320,192,42147,1,0,0:0:0:55:x x 4 4 2 Bm 160.wav
+64,192,42317,1,8,0:0:0:75:Snare.wav
+192,192,42317,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,42317,1,0,0:0:0:55:x x 4 4 2 Bm 160.wav
+320,192,42488,1,0,0:0:0:55:x x 4 4 2 Bm 160.wav
+64,192,42658,1,8,0:0:0:75:Snare.wav
+192,192,42658,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,42658,1,0,0:0:0:75:Tom4.wav
+64,192,42829,1,8,0:0:0:75:Snare.wav
+192,192,42829,1,0,0:0:0:75:Tom4.wav
+448,192,42829,1,0,0:0:0:70:x x 11 11 160.wav
+192,192,42999,1,2,0:0:0:75:Kick.wav
+320,192,42999,1,0,0:0:0:0:
+64,192,43170,1,8,0:0:0:75:Snare.wav
+320,192,43170,1,0,0:0:0:75:Tom4.wav
+448,192,43170,1,0,0:0:0:70:x x 11 11 160.wav
+64,192,43340,1,8,0:0:0:75:Snare.wav
+320,192,43340,1,0,0:0:0:75:Tom4.wav
+448,192,43340,1,0,0:0:0:70:x x 11 11 160.wav
+64,192,43511,1,2,0:0:0:75:Kick.wav
+192,192,43511,1,0,0:0:0:0:
+192,192,43681,1,8,0:0:0:75:Snare.wav
+320,192,43681,1,0,0:0:0:75:Tom4.wav
+448,192,43681,1,0,0:0:0:70:x x 11 11 160.wav
+64,192,43851,1,0,0:0:0:75:Tom2.wav
+448,192,43851,1,0,0:0:0:70:x x 11 11 160.wav
+320,192,43937,1,0,0:0:0:75:Tom2.wav
+192,192,44022,1,0,0:0:0:75:Tom4.wav
+64,192,44192,1,8,0:0:0:75:Snare.wav
+448,192,44192,1,0,0:0:0:70:x x 10 11 160.wav
+192,192,44278,1,8,0:0:0:75:Snare.wav
+320,192,44363,1,8,0:0:0:75:Snare.wav
+448,192,44363,1,0,0:0:0:70:x x 10 11 160.wav
+64,192,44448,1,8,0:0:0:75:Snare.wav
+192,192,44448,1,0,0:0:0:0:
+320,192,44533,1,2,0:0:0:75:Kick.wav
+448,192,44533,128,0,44704:0:0:0:30:R.wav
+64,192,44704,128,0,44874:0:0:0:70:x x 10 160.wav
+192,192,44874,128,0,45045:0:0:0:70:x x 11 160.wav
+320,192,45045,128,0,45215:0:0:0:70:x 9 160.wav
+448,192,45215,128,0,45386:0:0:0:70:x 12 160.wav
+64,192,45386,128,2,45726:0:0:0:75:Kick.wav
+192,192,45386,1,4,0:0:0:75:Crash high.wav
+320,192,45386,1,0,0:0:0:70:x 11 1280.wav
+448,192,45556,1,0,0:0:0:70:x 14 11 160.wav
+192,192,45726,1,8,0:0:0:75:Snare.wav
+320,192,45726,128,0,46067:0:0:0:50:Hi-Hat open.wav
+448,192,45726,1,0,0:0:0:70:x 11 11 160.wav
+64,192,45897,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,45982,1,8,0:0:0:75:Snare.wav
+64,192,46067,1,2,0:0:0:75:Kick.wav
+448,192,46067,128,0,46408:0:0:0:50:Hi-Hat open.wav
+192,192,46238,1,2,0:0:0:75:Kick.wav
+320,192,46238,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,46408,1,8,0:0:0:75:Snare.wav
+192,192,46408,128,0,46749:0:0:0:50:Hi-Hat open.wav
+320,192,46408,1,0,0:0:0:70:x x 11 11 160.wav
+448,192,46579,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,46749,1,2,0:0:0:75:Kick.wav
+320,192,46749,128,0,47090:0:0:0:50:Hi-Hat open.wav
+448,192,46920,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,47090,1,8,0:0:0:75:Snare.wav
+192,192,47090,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,47090,128,0,47431:0:0:0:70:x 11 11 160.wav
+320,192,47261,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,47346,1,8,0:0:0:75:Snare.wav
+64,192,47431,1,2,0:0:0:75:Kick.wav
+320,192,47431,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,47516,1,8,0:0:0:75:Snare.wav
+64,192,47601,1,2,0:0:0:75:Kick.wav
+448,192,47601,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,47772,1,8,0:0:0:75:Snare.wav
+320,192,47772,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,47772,1,0,0:0:0:70:x x 11 11 160.wav
+64,192,47942,128,0,48454:0:0:0:50:Hi-Hat open.wav
+192,192,48113,1,2,0:0:0:75:Kick.wav
+448,192,48113,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,48283,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,48454,128,8,48624:0:0:0:75:Snare.wav
+320,192,48454,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,48454,1,0,0:0:0:70:x 11 11 160.wav
+448,192,48624,128,0,48965:0:0:0:50:Hi-Hat open.wav
+64,192,48709,1,8,0:0:0:75:Snare.wav
+192,192,48795,1,2,0:0:0:75:Kick.wav
+320,192,48880,1,8,0:0:0:75:Snare.wav
+64,192,48965,1,2,0:0:0:75:Kick.wav
+192,192,48965,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,49136,1,8,0:0:0:75:Snare.wav
+320,192,49136,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,49136,1,0,0:0:0:70:x x 11 11 160.wav
+192,192,49306,128,0,49476:0:0:0:50:Hi-Hat open.wav
+64,192,49476,1,2,0:0:0:75:Kick.wav
+448,192,49476,128,0,49817:0:0:0:50:Hi-Hat open.wav
+192,192,49647,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,49817,1,8,0:0:0:75:Snare.wav
+192,192,49817,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,49817,128,0,50158:0:0:0:70:x 11 11 160.wav
+448,192,49988,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,50073,1,8,0:0:0:75:Snare.wav
+192,192,50158,128,2,50499:0:0:0:75:Kick.wav
+448,192,50243,1,8,0:0:0:75:Snare.wav
+64,192,50329,1,2,0:0:0:75:Kick.wav
+320,192,50329,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,50499,128,8,50840:0:0:0:75:Snare.wav
+320,192,50499,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,50499,1,0,0:0:0:70:x 11 11 160.wav
+192,192,50670,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,50840,1,2,0:0:0:75:Kick.wav
+320,192,50840,1,4,0:0:0:75:Crash high.wav
+448,192,50840,128,0,51181:0:0:0:70:x 14 11 160.wav
+64,192,51011,1,0,0:0:0:70:x 14 11 160.wav
+64,192,51181,1,8,0:0:0:75:Snare.wav
+192,192,51181,128,0,51522:0:0:0:50:Hi-Hat open.wav
+320,192,51181,1,0,0:0:0:70:x 11 11 160.wav
+448,192,51351,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,51437,1,8,0:0:0:75:Snare.wav
+320,192,51522,128,2,51863:0:0:0:75:Kick.wav
+448,192,51522,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,51692,1,2,0:0:0:75:Kick.wav
+192,192,51692,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,51863,128,8,52204:0:0:0:75:Snare.wav
+192,192,51863,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,51863,1,0,0:0:0:70:x x 11 11 160.wav
+320,192,52033,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,52204,1,2,0:0:0:75:Kick.wav
+448,192,52204,128,0,52545:0:0:0:50:Hi-Hat open.wav
+320,192,52374,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,52545,1,8,0:0:0:75:Snare.wav
+192,192,52545,128,0,52886:0:0:0:50:Hi-Hat open.wav
+320,192,52545,1,0,0:0:0:70:x 11 11 160.wav
+448,192,52715,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,52800,1,8,0:0:0:75:Snare.wav
+320,192,52886,1,2,0:0:0:75:Kick.wav
+448,192,52886,128,0,53056:0:0:0:50:Hi-Hat open.wav
+64,192,52971,1,8,0:0:0:75:Snare.wav
+192,192,53056,1,2,0:0:0:75:Kick.wav
+320,192,53056,128,0,53226:0:0:0:50:Hi-Hat open.wav
+64,192,53226,1,8,0:0:0:75:Snare.wav
+192,192,53226,128,0,53397:0:0:0:50:Hi-Hat open.wav
+448,192,53226,1,0,0:0:0:70:x x 11 11 160.wav
+64,192,53397,128,0,53567:0:0:0:50:Hi-Hat open.wav
+320,192,53567,128,2,53908:0:0:0:75:Kick.wav
+448,192,53567,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,53738,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,53908,128,8,54249:0:0:0:75:Snare.wav
+192,192,53908,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,53908,1,0,0:0:0:70:x 11 11 160.wav
+320,192,54079,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,54164,1,8,0:0:0:75:Snare.wav
+320,192,54249,1,2,0:0:0:75:Kick.wav
+448,192,54249,128,0,54590:0:0:0:50:Hi-Hat open.wav
+64,192,54420,1,2,0:0:0:75:Kick.wav
+192,192,54420,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,54590,1,8,0:0:0:75:Snare.wav
+192,192,54590,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,54590,128,0,54931:0:0:0:70:x 11 11 160.wav
+448,192,54761,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,54931,128,2,55272:0:0:0:75:Kick.wav
+192,192,54931,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,55101,1,2,0:0:0:75:Kick.wav
+448,192,55101,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,55272,1,8,0:0:0:75:Snare.wav
+320,192,55272,1,4,0:0:0:75:Crash high.wav
+448,192,55272,1,0,0:0:0:70:x x x 13 x 11 160.wav
+320,192,55442,128,0,55613:0:0:0:70:x x x 11 x 9 160.wav
+64,192,55613,1,2,0:0:0:75:Kick.wav
+192,192,55613,128,0,55783:0:0:0:55:x x 3 4 1 F#-A# 160.wav
+64,192,55783,1,8,0:0:0:75:Snare.wav
+320,192,55783,1,0,0:0:0:75:Clap.wav
+448,192,55783,1,0,0:0:0:50:LR_CymbalG.wav
+64,192,55954,1,8,0:0:0:75:Snare.wav
+320,192,55954,1,0,0:0:0:75:Clap.wav
+448,192,55954,1,0,0:0:0:50:LR_CymbalG.wav
+192,192,56124,1,0,0:0:0:55:x x 3 4 1 F#-A# 160.wav
+64,192,56295,1,2,0:0:0:75:Kick.wav
+320,192,56295,128,4,56636:0:0:0:75:Crash high.wav
+448,192,56295,1,0,0:0:0:70:x 14 11 160.wav
+192,192,56465,1,0,0:0:0:70:x 14 11 160.wav
+64,192,56636,128,8,56976:0:0:0:75:Snare.wav
+192,192,56636,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,56636,1,0,0:0:0:70:x 11 11 160.wav
+320,192,56806,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,56891,1,8,0:0:0:75:Snare.wav
+320,192,56976,1,2,0:0:0:75:Kick.wav
+448,192,56976,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,57062,1,8,0:0:0:75:Snare.wav
+64,192,57147,1,2,0:0:0:75:Kick.wav
+448,192,57147,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,57317,1,8,0:0:0:75:Snare.wav
+192,192,57317,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,57317,128,0,57658:0:0:0:70:x x 11 11 160.wav
+448,192,57488,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,57658,128,2,57999:0:0:0:75:Kick.wav
+448,192,57658,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,57829,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,57999,1,8,0:0:0:75:Snare.wav
+320,192,57999,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,57999,128,0,58340:0:0:0:70:x 11 11 160.wav
+192,192,58170,1,2,0:0:0:75:Kick.wav
+320,192,58255,1,8,0:0:0:75:Snare.wav
+64,192,58340,1,2,0:0:0:75:Kick.wav
+192,192,58340,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,58425,1,8,0:0:0:75:Snare.wav
+64,192,58511,1,2,0:0:0:75:Kick.wav
+448,192,58511,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,58681,1,8,0:0:0:75:Snare.wav
+320,192,58681,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,58681,1,0,0:0:0:70:x x 11 11 160.wav
+64,192,58851,128,0,59363:0:0:0:50:Hi-Hat open.wav
+192,192,59022,1,2,0:0:0:75:Kick.wav
+448,192,59022,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,59192,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,59363,128,8,59533:0:0:0:75:Snare.wav
+320,192,59363,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,59363,1,0,0:0:0:70:x 11 11 160.wav
+448,192,59533,128,0,59874:0:0:0:50:Hi-Hat open.wav
+64,192,59618,1,8,0:0:0:75:Snare.wav
+192,192,59704,1,2,0:0:0:75:Kick.wav
+320,192,59789,1,0,0:0:0:0:
+64,192,59874,1,2,0:0:0:75:Kick.wav
+192,192,59874,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,60045,1,8,0:0:0:75:Snare.wav
+320,192,60045,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,60045,1,0,0:0:0:70:x x 11 11 160.wav
+192,192,60215,128,0,60386:0:0:0:50:Hi-Hat open.wav
+64,192,60386,1,2,0:0:0:75:Kick.wav
+320,192,60386,128,0,60726:0:0:0:50:Hi-Hat open.wav
+448,192,60556,1,2,0:0:0:75:Kick.wav
+64,192,60726,1,8,0:0:0:75:Snare.wav
+192,192,60726,1,4,0:0:0:75:Crash high.wav
+448,192,60726,1,0,0:0:0:70:x 11 11 160.wav
+192,192,60897,1,2,0:0:0:75:Kick.wav
+320,192,60897,1,0,0:0:0:70:x 11 11 160.wav
+64,192,61067,1,8,0:0:0:75:Snare.wav
+320,192,61067,1,0,0:0:0:75:Tom4.wav
+448,192,61067,1,0,0:0:0:70:x x 13 11 160.wav
+64,192,61238,1,8,0:0:0:75:Snare.wav
+192,192,61238,1,0,0:0:0:75:Tom4.wav
+448,192,61238,1,0,0:0:0:70:x x 13 11 160.wav
+192,192,61408,1,8,0:0:0:75:Snare.wav
+320,192,61408,1,0,0:0:0:75:Tom4.wav
+448,192,61408,1,0,0:0:0:70:x 11 11 160.wav
+64,192,61579,1,8,0:0:0:75:Snare.wav
+192,192,61579,1,0,0:0:0:75:Tom4.wav
+320,192,61579,1,0,0:0:0:70:x 11 11 160.wav
+64,192,61749,1,2,0:0:0:75:Kick.wav
+320,192,61749,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,61749,128,0,62261:0:0:0:70:x x 11 11 640.wav
+192,192,61920,1,0,0:0:0:40:bass 4-2 320.wav
+64,192,62090,1,0,0:0:0:50:Ride.wav
+192,192,62261,1,2,0:0:0:75:Kick.wav
+320,192,62261,1,0,0:0:0:40:bass 4-9 160.wav
+64,192,62431,128,8,62772:0:0:0:75:Snare.wav
+192,192,62431,1,0,0:0:0:50:Ride.wav
+448,192,62431,1,0,0:0:0:70:x x x x x 2 640.wav
+448,192,62772,1,0,0:0:0:50:Ride.wav
+320,192,62942,1,8,0:0:0:75:Snare.wav
+192,192,63028,1,8,0:0:0:75:Snare.wav
+64,192,63113,1,2,0:0:0:75:Kick.wav
+448,192,63113,128,0,63454:0:0:0:50:Ride.wav
+64,192,63283,1,8,0:0:0:75:Snare.wav
+192,192,63283,1,0,0:0:0:40:bass 2-9 160.wav
+320,192,63283,1,0,0:0:0:0:
+320,192,63454,128,0,63795:0:0:0:50:Ride.wav
+64,192,63624,1,2,0:0:0:75:Kick.wav
+192,192,63624,1,0,0:0:0:40:bass 4-7 160.wav
+64,192,63795,1,8,0:0:0:75:Snare.wav
+192,192,63795,128,0,64136:0:0:0:50:Ride.wav
+448,192,63795,1,0,0:0:0:55:x x 3 4 1 F#-A# 640.wav
+320,192,63965,1,0,0:0:0:0:
+64,192,64136,128,0,64476:0:0:0:50:Ride.wav
+192,192,64476,1,8,0:0:0:75:Snare.wav
+320,192,64476,1,0,0:0:0:75:Tom4.wav
+448,192,64476,1,0,0:0:0:70:x 12 11 160.wav
+64,192,64647,1,8,0:0:0:75:Snare.wav
+192,192,64647,1,0,0:0:0:75:Tom4.wav
+448,192,64647,1,0,0:0:0:70:x 12 11 160.wav
+64,192,64817,1,2,0:0:0:75:Kick.wav
+320,192,64817,1,0,0:0:0:0:
+192,192,64988,1,8,0:0:0:75:Snare.wav
+320,192,64988,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,64988,1,0,0:0:0:70:x 11 11 320.wav
+64,192,65158,1,2,0:0:0:75:Kick.wav
+192,192,65158,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,65329,1,8,0:0:0:75:Snare.wav
+320,192,65329,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,65329,1,0,0:0:0:70:x 11 11 160.wav
+192,192,65499,1,2,0:0:0:75:Kick.wav
+448,192,65499,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,65670,1,8,0:0:0:75:Snare.wav
+192,192,65670,1,4,0:0:0:75:Crash high.wav
+320,192,65670,1,0,0:0:0:70:9 9 320.wav
+192,192,66011,1,2,0:0:0:75:Kick.wav
+320,192,66011,1,0,0:0:0:70:9 9 160.wav
+64,192,66181,1,8,0:0:0:75:Snare.wav
+320,192,66181,1,0,0:0:0:75:Tom4.wav
+448,192,66181,1,0,0:0:0:40:bass 3-11 160.wav
+192,192,66351,1,0,0:0:0:70:x 7 9  bend full release 160.wav
+320,192,66437,1,8,0:0:0:75:Snare.wav
+448,192,66437,1,0,0:0:0:0:
+64,192,66522,1,8,0:0:0:75:Snare.wav
+192,192,66522,1,0,0:0:0:0:
+64,192,66692,1,2,0:0:0:75:Kick.wav
+448,192,66692,128,0,66863:0:0:0:50:Hi-Hat open.wav
+320,192,66863,128,0,67033:0:0:0:50:Hi-Hat close.wav
+192,192,67033,128,0,67204:0:0:0:0:
+64,192,67204,1,2,0:0:0:75:Kick.wav
+320,192,67204,1,4,0:0:0:75:Crash high.wav
+448,192,67204,128,0,67545:0:0:0:50:LR_CymbalG.wav
+192,192,67374,1,0,0:0:0:40:bass 3-7 160.wav
+64,192,67545,1,2,0:0:0:75:Kick.wav
+320,192,67545,128,0,67886:0:0:0:0:
+448,192,67715,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,67886,128,2,68226:0:0:0:75:Kick.wav
+192,192,67886,1,0,0:0:0:40:bass 3-7 160.wav
+320,192,68056,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,68226,1,2,0:0:0:75:Kick.wav
+448,192,68226,128,0,68567:0:0:0:0:
+64,192,68397,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,68567,128,2,68908:0:0:0:75:Kick.wav
+320,192,68567,1,0,0:0:0:40:bass 3-7 160.wav
+448,192,68738,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,68908,1,2,0:0:0:75:Kick.wav
+320,192,68908,128,0,69249:0:0:0:0:
+448,192,69079,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,69249,1,2,0:0:0:75:Kick.wav
+192,192,69249,1,0,0:0:0:40:bass 3-7 160.wav
+64,192,69420,1,8,0:0:0:75:Snare.wav
+320,192,69420,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,69420,1,0,0:0:0:40:bass 3-7 160.wav
+192,192,69590,1,2,0:0:0:75:Kick.wav
+320,192,69590,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,69761,1,8,0:0:0:75:Snare.wav
+192,192,69761,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,69761,1,0,0:0:0:40:bass 3-7 160.wav
+320,192,69931,1,2,0:0:0:75:Kick.wav
+448,192,69931,128,0,70272:0:0:0:50:Hi-Hat close.wav
+64,192,70101,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,70272,128,2,70613:0:0:0:75:Kick.wav
+320,192,70272,1,0,0:0:0:0:
+448,192,70442,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,70613,128,2,70954:0:0:0:75:Kick.wav
+320,192,70613,1,0,0:0:0:40:bass 4-7 160.wav
+192,192,70783,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,70954,1,2,0:0:0:75:Kick.wav
+448,192,70954,128,0,71295:0:0:0:0:
+64,192,71124,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,71295,128,2,71636:0:0:0:75:Kick.wav
+320,192,71295,1,0,0:0:0:40:bass 4-7 160.wav
+448,192,71465,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,71636,128,2,71976:0:0:0:75:Kick.wav
+320,192,71636,1,0,0:0:0:0:
+192,192,71806,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,71976,1,2,0:0:0:75:Kick.wav
+448,192,71976,1,0,0:0:0:40:bass 4-7 160.wav
+64,192,72147,1,8,0:0:0:75:Snare.wav
+192,192,72147,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,72147,1,0,0:0:0:40:bass 4-7 160.wav
+192,192,72317,1,2,0:0:0:75:Kick.wav
+320,192,72317,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,72488,1,8,0:0:0:75:Snare.wav
+448,192,72488,1,0,0:0:0:40:bass 4-7 160.wav
+320,192,72573,1,8,0:0:0:75:Snare.wav
+64,192,72658,128,2,73170:0:0:0:75:Kick.wav
+192,192,72658,1,4,0:0:0:75:Crash high.wav
+448,192,72658,1,0,0:0:0:70:9 480.wav
+320,192,72829,1,0,0:0:0:40:bass 4-5 160.wav
+192,192,72999,1,2,0:0:0:75:Kick.wav
+448,192,72999,1,0,0:0:0:0:
+320,192,73170,128,0,73681:0:0:0:50:Hi-Hat close.wav
+64,192,73340,1,2,0:0:0:75:Kick.wav
+448,192,73340,1,0,0:0:0:40:bass 4-5 160.wav
+192,192,73511,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,73681,128,2,74704:0:0:0:75:Kick.wav
+448,192,73681,1,0,0:0:0:70:12 1600.wav
+320,192,73851,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,74022,1,2,0:0:0:75:Kick.wav
+320,192,74022,1,0,0:0:0:40:bass 4-5 160.wav
+448,192,74192,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,74363,1,2,0:0:0:75:Kick.wav
+448,192,74363,1,0,0:0:0:0:
+320,192,74533,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,74704,1,2,0:0:0:75:Kick.wav
+448,192,74704,1,0,0:0:0:40:bass 4-5 160.wav
+64,192,74874,1,8,0:0:0:75:Snare.wav
+192,192,74874,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,74874,1,0,0:0:0:40:bass 4-5 160.wav
+192,192,75045,1,2,0:0:0:75:Kick.wav
+320,192,75045,1,0,0:0:0:50:Hi-Hat close.wav
+64,192,75215,1,8,0:0:0:75:Snare.wav
+320,192,75215,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,75215,1,0,0:0:0:40:bass 4-5 160.wav
+64,192,75386,1,2,0:0:0:75:Kick.wav
+192,192,75386,128,0,76067:0:0:0:50:Hi-Hat close.wav
+320,192,75556,1,0,0:0:0:50:Hi-Hat close.wav
+320,192,75726,1,2,0:0:0:75:Kick.wav
+448,192,75726,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,75897,1,0,0:0:0:40:bass 4-7 160.wav
+320,192,76067,1,2,0:0:0:75:Kick.wav
+448,192,76067,1,0,0:0:0:75:Tom1.wav
+64,192,76153,1,8,0:0:0:75:Snare.wav
+192,192,76153,1,0,0:0:0:0:
+320,192,76238,1,8,0:0:0:75:Snare.wav
+448,192,76238,1,0,0:0:0:40:bass 4-7 160.wav
+192,192,76323,1,8,0:0:0:75:Snare.wav
+64,192,76408,1,8,0:0:0:75:Snare.wav
+320,192,76408,1,0,0:0:0:70:x x 4 4 2 mute 160.wav
+448,192,76408,1,0,0:0:0:55:x x 4 4 2 Bm mute 160.wav
+64,192,76579,1,2,0:0:0:75:Kick.wav
+192,192,76579,128,0,76920:0:0:0:50:Hi-Hat open.wav
+320,192,76749,128,0,77090:0:0:0:50:Hi-Hat close.wav
+448,192,76920,1,0,0:0:0:0:
+64,192,77090,1,0,0:0:0:0:
+192,192,77175,128,0,77218:0:0:0:70:x 0 staccato 80.wav
+320,192,77261,128,0,77303:0:0:0:70:x 0 staccato 80.wav
+192,192,77346,128,0,77388:0:0:0:70:x 0 staccato 80.wav
+64,192,77431,1,8,0:0:0:75:Snare.wav
+320,192,77431,1,0,0:0:0:75:Tom4.wav
+448,192,77431,1,0,0:0:0:70:x 0 160.wav
+192,192,77601,1,2,0:0:0:75:Kick.wav
+320,192,77601,1,0,0:0:0:70:x x x 0 0 0 mute 160.wav
+64,192,77772,1,8,0:0:0:75:Snare.wav
+192,192,77772,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,77772,1,0,0:0:0:70:x x 0 0 0 0 320.wav
+64,192,78113,1,2,0:0:0:75:Kick.wav
+320,192,78113,1,4,0:0:0:75:Crash high.wav
+448,192,78113,128,0,78454:0:0:0:70:x x x x x 0 320.wav
+192,192,78283,1,0,0:0:0:55:x x 9 9 7 E 160.wav
+64,192,78454,1,8,0:0:0:75:Snare.wav
+320,192,78454,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,78539,1,0,0:0:0:70:x x x x 7 80.wav
+320,192,78624,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,78709,1,0,0:0:0:70:x x x x 7 80.wav
+64,192,78795,128,0,79136:0:0:0:50:Hi-Hat open.wav
+448,192,78880,1,8,0:0:0:75:Snare.wav
+192,192,78965,1,2,0:0:0:75:Kick.wav
+320,192,78965,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,79136,1,8,0:0:0:75:Snare.wav
+320,192,79136,128,0,79476:0:0:0:50:Hi-Hat open.wav
+448,192,79136,1,0,0:0:0:55:x x 9 9 7 E 160.wav
+448,192,79306,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,79476,1,2,0:0:0:75:Kick.wav
+192,192,79476,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,79647,1,2,0:0:0:75:Kick.wav
+448,192,79647,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,79817,1,8,0:0:0:75:Snare.wav
+192,192,79817,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,79903,1,0,0:0:0:70:x x x x 7 80.wav
+192,192,79988,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,80073,1,8,0:0:0:75:Snare.wav
+448,192,80158,128,0,80499:0:0:0:50:Hi-Hat open.wav
+64,192,80329,1,2,0:0:0:75:Kick.wav
+192,192,80329,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,80499,128,8,80840:0:0:0:75:Snare.wav
+192,192,80499,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,80499,1,0,0:0:0:55:x x 9 9 7 E 160.wav
+320,192,80670,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,80840,1,2,0:0:0:75:Kick.wav
+448,192,80840,128,0,81181:0:0:0:50:Hi-Hat open.wav
+320,192,81011,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,81181,1,8,0:0:0:75:Snare.wav
+192,192,81181,128,0,81522:0:0:0:50:Hi-Hat open.wav
+320,192,81181,1,0,0:0:0:70:x x 4 x 2 160.wav
+448,192,81351,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,81437,1,8,0:0:0:75:Snare.wav
+320,192,81522,128,0,81863:0:0:0:50:Hi-Hat open.wav
+192,192,81607,1,8,0:0:0:75:Snare.wav
+64,192,81692,1,2,0:0:0:75:Kick.wav
+448,192,81692,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,81863,1,8,0:0:0:75:Snare.wav
+192,192,81863,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,81863,128,0,82204:0:0:0:55:x x 4 4 2 Bm 160.wav
+320,192,82033,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,82204,1,2,0:0:0:75:Kick.wav
+192,192,82204,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,82374,1,2,0:0:0:75:Kick.wav
+320,192,82374,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,82545,128,8,82886:0:0:0:75:Snare.wav
+320,192,82545,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,82545,1,0,0:0:0:70:x x 5 x 3 160.wav
+192,192,82715,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,82800,1,8,0:0:0:75:Snare.wav
+320,192,82886,128,0,83226:0:0:0:50:Hi-Hat open.wav
+64,192,83056,1,2,0:0:0:75:Kick.wav
+192,192,83056,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,83226,1,8,0:0:0:75:Snare.wav
+192,192,83226,128,0,83397:0:0:0:50:Hi-Hat open.wav
+448,192,83226,1,0,0:0:0:55:x x 5 4 3 Cdim 160.wav
+448,192,83397,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,83482,1,8,0:0:0:75:Snare.wav
+64,192,83567,1,2,0:0:0:75:Kick.wav
+192,192,83567,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,83567,128,0,83908:0:0:0:70:x 2 2 80.wav
+320,192,83738,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,83908,1,8,0:0:0:75:Snare.wav
+192,192,83908,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,83908,1,0,0:0:0:70:x 2 2 80.wav
+64,192,84079,128,0,84249:0:0:0:50:Hi-Hat open.wav
+192,192,84249,128,0,84590:0:0:0:50:Hi-Hat open.wav
+320,192,84420,1,2,0:0:0:75:Kick.wav
+448,192,84420,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,84590,1,8,0:0:0:75:Snare.wav
+320,192,84590,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,84590,1,0,0:0:0:70:x 5 6 80.wav
+64,192,84761,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,84846,1,8,0:0:0:75:Snare.wav
+320,192,84931,1,2,0:0:0:75:Kick.wav
+448,192,84931,1,8,0:0:0:75:Snare.wav
+64,192,85016,1,8,0:0:0:75:Snare.wav
+192,192,85016,1,0,0:0:0:0:
+320,192,85101,1,8,0:0:0:75:Snare.wav
+448,192,85101,1,0,0:0:0:55:x x 4 4 2 Bm 160.wav
+64,192,85187,1,8,0:0:0:75:Snare.wav
+192,192,85187,1,0,0:0:0:0:
+320,192,85272,1,2,0:0:0:75:Kick.wav
+448,192,85272,1,8,0:0:0:75:Snare.wav
+64,192,85357,1,8,0:0:0:75:Snare.wav
+192,192,85357,1,0,0:0:0:0:
+320,192,85442,1,8,0:0:0:75:Snare.wav
+448,192,85442,1,0,0:0:0:40:bass 2-9 160.wav
+64,192,85528,1,8,0:0:0:75:Snare.wav
+192,192,85528,1,0,0:0:0:0:
+320,192,85613,1,2,0:0:0:75:Kick.wav
+448,192,85613,1,8,0:0:0:75:Snare.wav
+64,192,85698,1,8,0:0:0:75:Snare.wav
+192,192,85698,1,0,0:0:0:0:
+320,192,85783,1,8,0:0:0:75:Snare.wav
+448,192,85783,1,0,0:0:0:40:bass 2-9 160.wav
+64,192,85868,1,8,0:0:0:75:Snare.wav
+192,192,85868,1,0,0:0:0:0:
+320,192,85954,1,2,0:0:0:75:Kick.wav
+448,192,85954,1,8,0:0:0:75:Snare.wav
+192,192,86039,1,8,0:0:0:75:Snare.wav
+64,192,86124,1,8,0:0:0:75:Snare.wav
+448,192,86124,1,0,0:0:0:0:
+320,192,86209,1,8,0:0:0:75:Snare.wav
+64,192,86295,1,2,0:0:0:75:Kick.wav
+192,192,86295,1,4,0:0:0:75:Crash high.wav
+448,192,86295,1,0,0:0:0:0:
+64,192,86636,1,8,0:0:0:75:Snare.wav
+320,192,86636,1,0,0:0:0:75:Clap.wav
+448,192,86636,1,0,0:0:0:0:
+64,192,86806,1,8,0:0:0:75:Snare.wav
+320,192,86806,1,0,0:0:0:75:Clap.wav
+448,192,86806,1,0,0:0:0:0:
+64,192,86976,1,0,0:0:0:75:Tom1.wav
+192,192,86976,1,0,0:0:0:0:
+192,192,87147,1,0,0:0:0:75:Tom2.wav
+320,192,87147,1,0,0:0:0:0:
+64,192,87317,1,8,0:0:0:75:Snare.wav
+192,192,87317,1,0,0:0:0:75:Clap.wav
+448,192,87317,1,0,0:0:0:0:
+320,192,87488,1,8,0:0:0:75:Snare.wav
+448,192,87488,1,0,0:0:0:0:
+64,192,87573,1,8,0:0:0:75:Snare.wav
+192,192,87573,1,0,0:0:0:0:
+320,192,87658,1,2,0:0:0:75:Kick.wav
+448,192,87658,1,0,0:0:0:75:Tom2.wav
+192,192,87743,1,0,0:0:0:75:Tom2.wav
+64,192,87829,1,0,0:0:0:75:Tom4.wav
+448,192,87914,1,0,0:0:0:75:Tom4.wav
+192,192,87999,1,2,0:0:0:75:Kick.wav
+320,192,87999,1,0,0:0:0:75:Tom4.wav
+64,192,88170,1,8,0:0:0:75:Snare.wav
+320,192,88170,1,0,0:0:0:75:Clap.wav
+448,192,88170,1,0,0:0:0:50:LR_CymbalG.wav
+64,192,88340,1,2,0:0:0:75:Kick.wav
+192,192,88340,1,0,0:0:0:0:
+320,192,88511,1,8,0:0:0:75:Snare.wav
+448,192,88511,1,0,0:0:0:75:Clap.wav
+64,192,88596,1,8,0:0:0:75:Snare.wav
+192,192,88596,1,0,0:0:0:0:
+320,192,88681,1,2,0:0:0:75:Kick.wav
+448,192,88681,1,8,0:0:0:75:Snare.wav
+64,192,88766,1,8,0:0:0:75:Snare.wav
+192,192,88766,1,0,0:0:0:0:
+320,192,88851,1,8,0:0:0:75:Snare.wav
+448,192,88851,1,0,0:0:0:0:
+192,192,88937,1,8,0:0:0:75:Snare.wav
+64,192,89022,1,2,0:0:0:75:Kick.wav
+320,192,89022,1,4,0:0:0:75:Crash high.wav
+448,192,89022,128,0,89363:0:0:0:70:x 14 11 160.wav
+192,192,89192,1,0,0:0:0:70:x 14 11 160.wav
+64,192,89363,1,8,0:0:0:75:Snare.wav
+192,192,89363,128,0,89704:0:0:0:50:Hi-Hat open.wav
+320,192,89363,1,0,0:0:0:70:x 11 11 160.wav
+448,192,89533,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,89618,1,8,0:0:0:75:Snare.wav
+64,192,89704,128,2,90045:0:0:0:75:Kick.wav
+448,192,89704,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,89789,1,8,0:0:0:75:Snare.wav
+192,192,89874,1,2,0:0:0:75:Kick.wav
+192,192,90045,1,8,0:0:0:75:Snare.wav
+320,192,90045,128,0,90386:0:0:0:50:Hi-Hat open.wav
+448,192,90045,1,0,0:0:0:70:x x 11 11 160.wav
+64,192,90215,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,90386,1,2,0:0:0:75:Kick.wav
+192,192,90386,128,0,90726:0:0:0:50:Hi-Hat open.wav
+448,192,90556,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,90726,128,8,91067:0:0:0:75:Snare.wav
+320,192,90726,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,90726,1,0,0:0:0:70:x 11 11 160.wav
+192,192,90897,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,90982,1,8,0:0:0:75:Snare.wav
+192,192,91067,1,2,0:0:0:75:Kick.wav
+448,192,91067,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,91153,1,8,0:0:0:75:Snare.wav
+64,192,91238,1,2,0:0:0:75:Kick.wav
+448,192,91238,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,91408,1,8,0:0:0:75:Snare.wav
+320,192,91408,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,91408,1,0,0:0:0:70:x x 11 11 160.wav
+64,192,91579,128,0,92090:0:0:0:50:Hi-Hat open.wav
+192,192,91749,1,2,0:0:0:75:Kick.wav
+448,192,91749,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,91920,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,92090,128,8,92261:0:0:0:75:Snare.wav
+320,192,92090,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,92090,1,0,0:0:0:70:x 11 11 160.wav
+448,192,92261,128,0,92601:0:0:0:50:Hi-Hat open.wav
+64,192,92346,1,8,0:0:0:75:Snare.wav
+192,192,92431,1,2,0:0:0:75:Kick.wav
+320,192,92516,1,8,0:0:0:75:Snare.wav
+64,192,92601,1,2,0:0:0:75:Kick.wav
+192,192,92601,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,92772,1,8,0:0:0:75:Snare.wav
+320,192,92772,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,92772,1,0,0:0:0:70:x x 11 11 160.wav
+192,192,92942,128,0,93113:0:0:0:50:Hi-Hat open.wav
+64,192,93113,128,2,93454:0:0:0:75:Kick.wav
+448,192,93113,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,93283,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,93454,128,8,93795:0:0:0:75:Snare.wav
+320,192,93454,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,93454,1,0,0:0:0:70:x 11 11 160.wav
+64,192,93624,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,93709,1,8,0:0:0:75:Snare.wav
+320,192,93795,128,2,94136:0:0:0:75:Kick.wav
+64,192,93880,1,8,0:0:0:75:Snare.wav
+192,192,93965,1,2,0:0:0:75:Kick.wav
+448,192,93965,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,94136,1,8,0:0:0:75:Snare.wav
+192,192,94136,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,94136,128,0,94476:0:0:0:70:x 11 11 160.wav
+320,192,94306,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,94476,128,2,94817:0:0:0:75:Kick.wav
+192,192,94476,1,4,0:0:0:75:Crash high.wav
+320,192,94476,1,0,0:0:0:70:x 14 11 160.wav
+448,192,94647,1,0,0:0:0:70:x 14 11 160.wav
+192,192,94817,1,8,0:0:0:75:Snare.wav
+320,192,94817,128,0,95158:0:0:0:50:Hi-Hat open.wav
+448,192,94817,1,0,0:0:0:70:x 11 11 160.wav
+64,192,94988,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,95073,1,8,0:0:0:75:Snare.wav
+192,192,95158,128,2,95499:0:0:0:75:Kick.wav
+320,192,95329,1,2,0:0:0:75:Kick.wav
+448,192,95329,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,95499,1,8,0:0:0:75:Snare.wav
+320,192,95499,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,95499,128,0,95840:0:0:0:70:x x 11 11 160.wav
+192,192,95670,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,95840,128,2,96181:0:0:0:75:Kick.wav
+320,192,95840,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,96011,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,96181,1,8,0:0:0:75:Snare.wav
+320,192,96181,128,0,96522:0:0:0:50:Hi-Hat open.wav
+448,192,96181,1,0,0:0:0:70:x 11 11 160.wav
+64,192,96351,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,96437,1,8,0:0:0:75:Snare.wav
+64,192,96522,128,2,96692:0:0:0:75:Kick.wav
+192,192,96522,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,96607,1,8,0:0:0:75:Snare.wav
+192,192,96692,128,2,96863:0:0:0:75:Kick.wav
+320,192,96692,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,96863,1,8,0:0:0:75:Snare.wav
+320,192,96863,128,0,97033:0:0:0:50:Hi-Hat open.wav
+448,192,96863,1,0,0:0:0:70:x x 11 11 160.wav
+448,192,97033,128,0,97204:0:0:0:50:Hi-Hat open.wav
+64,192,97204,1,2,0:0:0:75:Kick.wav
+192,192,97204,128,0,97545:0:0:0:50:Hi-Hat open.wav
+320,192,97374,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,97545,1,8,0:0:0:75:Snare.wav
+320,192,97545,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,97545,128,0,97886:0:0:0:70:x 11 11 160.wav
+192,192,97715,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,97800,1,8,0:0:0:75:Snare.wav
+64,192,97886,128,2,98226:0:0:0:75:Kick.wav
+192,192,97886,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,98056,1,2,0:0:0:75:Kick.wav
+448,192,98056,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,98226,128,8,98567:0:0:0:75:Snare.wav
+320,192,98226,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,98226,1,0,0:0:0:70:x 11 11 160.wav
+64,192,98397,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,98567,1,2,0:0:0:75:Kick.wav
+448,192,98567,128,0,98908:0:0:0:50:Hi-Hat open.wav
+64,192,98738,1,2,0:0:0:75:Kick.wav
+192,192,98738,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,98908,1,8,0:0:0:75:Snare.wav
+192,192,98908,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,98908,1,0,0:0:0:70:x x x 13 x 11 160.wav
+64,192,99079,128,0,99249:0:0:0:50:Hi-Hat open.wav
+192,192,99164,1,8,0:0:0:75:Snare.wav
+320,192,99249,128,2,99420:0:0:0:75:Kick.wav
+448,192,99249,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,99420,1,8,0:0:0:75:Snare.wav
+192,192,99420,1,0,0:0:0:75:Clap.wav
+448,192,99420,1,0,0:0:0:50:LR_CymbalG.wav
+64,192,99590,1,8,0:0:0:75:Snare.wav
+192,192,99590,1,0,0:0:0:75:Clap.wav
+448,192,99590,1,0,0:0:0:50:LR_CymbalG.wav
+320,192,99761,1,0,0:0:0:55:x x 3 4 1 F#-A# 160.wav
+64,192,99931,1,2,0:0:0:75:Kick.wav
+192,192,99931,128,4,100272:0:0:0:75:Crash high.wav
+448,192,99931,1,0,0:0:0:70:x 14 11 160.wav
+320,192,100101,1,0,0:0:0:70:x 14 11 160.wav
+64,192,100272,1,8,0:0:0:75:Snare.wav
+320,192,100272,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,100272,128,0,100613:0:0:0:70:x 11 11 160.wav
+192,192,100442,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,100528,1,8,0:0:0:75:Snare.wav
+64,192,100613,1,2,0:0:0:75:Kick.wav
+192,192,100613,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,100698,1,8,0:0:0:75:Snare.wav
+64,192,100783,1,2,0:0:0:75:Kick.wav
+448,192,100783,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,100954,128,8,101295:0:0:0:75:Snare.wav
+320,192,100954,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,100954,1,0,0:0:0:70:x x 11 11 160.wav
+64,192,101124,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,101295,1,2,0:0:0:75:Kick.wav
+320,192,101295,128,0,101636:0:0:0:50:Hi-Hat open.wav
+448,192,101465,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,101636,128,8,101976:0:0:0:75:Snare.wav
+192,192,101636,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,101636,1,0,0:0:0:70:x 11 11 160.wav
+320,192,101806,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,101891,1,8,0:0:0:75:Snare.wav
+320,192,101976,1,2,0:0:0:75:Kick.wav
+448,192,101976,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,102062,1,8,0:0:0:75:Snare.wav
+64,192,102147,1,2,0:0:0:75:Kick.wav
+448,192,102147,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,102317,1,8,0:0:0:75:Snare.wav
+192,192,102317,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,102317,1,0,0:0:0:70:x x 11 11 160.wav
+448,192,102488,128,0,102999:0:0:0:50:Hi-Hat open.wav
+64,192,102658,1,2,0:0:0:75:Kick.wav
+320,192,102658,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,102829,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,102999,1,8,0:0:0:75:Snare.wav
+192,192,102999,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,102999,128,0,103170:0:0:0:70:x 11 11 160.wav
+64,192,103170,128,0,103511:0:0:0:50:Hi-Hat open.wav
+448,192,103255,1,8,0:0:0:75:Snare.wav
+320,192,103340,1,2,0:0:0:75:Kick.wav
+192,192,103425,1,0,0:0:0:0:
+320,192,103511,1,2,0:0:0:75:Kick.wav
+448,192,103511,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,103681,1,8,0:0:0:75:Snare.wav
+192,192,103681,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,103681,1,0,0:0:0:70:x x 11 11 160.wav
+320,192,103851,128,0,104022:0:0:0:50:Hi-Hat open.wav
+192,192,104022,128,2,104363:0:0:0:75:Kick.wav
+448,192,104022,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,104192,1,2,0:0:0:75:Kick.wav
+64,192,104363,1,8,0:0:0:75:Snare.wav
+320,192,104363,1,4,0:0:0:75:Crash high.wav
+448,192,104363,1,0,0:0:0:70:x 11 11 160.wav
+192,192,104533,1,0,0:0:0:70:x 11 11 160.wav
+320,192,104533,1,0,0:0:0:55:x 4 4 4 2 B 160.wav
+64,192,104704,1,2,0:0:0:75:Kick.wav
+192,192,104704,1,8,0:0:0:75:Snare.wav
+448,192,104704,1,0,0:0:0:75:Tom4.wav
+64,192,104874,1,8,0:0:0:75:Snare.wav
+320,192,104874,1,0,0:0:0:75:Tom4.wav
+448,192,104874,1,0,0:0:0:70:x x 13 11 160.wav
+64,192,105045,1,2,0:0:0:75:Kick.wav
+192,192,105045,1,8,0:0:0:75:Snare.wav
+320,192,105045,1,0,0:0:0:75:Tom4.wav
+192,192,105215,1,8,0:0:0:75:Snare.wav
+320,192,105215,1,0,0:0:0:75:Tom4.wav
+448,192,105215,1,0,0:0:0:70:x 11 11 160.wav
+64,192,105386,128,2,105897:0:0:0:75:Kick.wav
+192,192,105386,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,105386,1,0,0:0:0:70:x x 6 x 4 640.wav
+320,192,105556,1,0,0:0:0:40:bass 4-2 320.wav
+448,192,105726,1,0,0:0:0:50:Ride.wav
+192,192,105897,1,2,0:0:0:75:Kick.wav
+320,192,105897,1,0,0:0:0:40:bass 4-9 160.wav
+64,192,106067,1,8,0:0:0:75:Snare.wav
+320,192,106067,1,0,0:0:0:50:Ride.wav
+448,192,106067,128,0,106408:0:0:0:70:x x 11 x 9 640.wav
+192,192,106408,1,0,0:0:0:50:Ride.wav
+64,192,106579,1,8,0:0:0:75:Snare.wav
+320,192,106579,1,0,0:0:0:40:bass 3-9 160.wav
+448,192,106579,1,0,0:0:0:0:
+192,192,106749,1,2,0:0:0:75:Kick.wav
+320,192,106749,1,4,0:0:0:75:Crash high.wav
+448,192,106749,1,0,0:0:0:70:x x 7 x 5 640.wav
+64,192,106863,1,8,0:0:0:75:Snare.wav
+192,192,106863,1,0,0:0:0:0:
+64,192,106976,1,8,0:0:0:75:Snare.wav
+320,192,106976,1,0,0:0:0:0:
+448,192,106976,1,0,0:0:0:0:
+192,192,107090,1,8,0:0:0:75:Snare.wav
+320,192,107090,1,0,0:0:0:40:bass 3-12 320.wav
+64,192,107204,1,8,0:0:0:75:Snare.wav
+192,192,107204,1,0,0:0:0:0:
+320,192,107317,1,8,0:0:0:75:Snare.wav
+448,192,107317,1,0,0:0:0:0:
+64,192,107431,1,2,0:0:0:75:Kick.wav
+192,192,107431,1,8,0:0:0:75:Snare.wav
+320,192,107431,1,0,0:0:0:70:x x 6 x 4 640.wav
+192,192,107545,1,8,0:0:0:75:Snare.wav
+448,192,107545,1,0,0:0:0:0:
+64,192,107658,1,0,0:0:0:75:Tom1.wav
+320,192,107658,1,0,0:0:0:0:
+448,192,107772,1,0,0:0:0:75:Tom2.wav
+192,192,107857,1,8,0:0:0:75:Tom4.wav
+320,192,107942,1,8,0:0:0:75:Tom4.wav
+64,192,108113,1,2,0:0:0:75:Kick.wav
+192,192,108113,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,108113,128,0,108283:0:0:0:70:x x x x 9 160.wav
+64,192,108283,128,0,108454:0:0:0:70:x x x 7 160.wav
+192,192,108454,128,0,108624:0:0:0:50:Hi-Hat open.wav
+320,192,108624,128,2,108965:0:0:0:75:Kick.wav
+448,192,108624,1,0,0:0:0:70:x x 8 Left-hand vibrato 320.wav
+64,192,108795,1,8,0:0:0:75:Snare.wav
+192,192,108795,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,108795,1,0,0:0:0:40:bass 2-7 160.wav
+64,192,108965,128,0,109136:0:0:0:70:x x x 9 160.wav
+192,192,109136,128,0,109306:0:0:0:50:Hi-Hat open.wav
+64,192,109306,1,8,0:0:0:75:Snare.wav
+320,192,109306,1,0,0:0:0:70:x x 7 Left-hand vibrato 320.wav
+448,192,109306,128,0,109647:0:0:0:55:x x x 9 9 7 Bm 160.wav
+192,192,109476,1,2,0:0:0:75:Kick.wav
+320,192,109476,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,109647,128,0,109817:0:0:0:70:x x x 9 160.wav
+64,192,109732,1,2,0:0:0:75:Kick.wav
+320,192,109817,128,0,109988:0:0:0:50:Hi-Hat open.wav
+64,192,109988,128,2,110329:0:0:0:75:Kick.wav
+448,192,109988,1,0,0:0:0:70:x x 6 320.wav
+192,192,110158,1,8,0:0:0:75:Snare.wav
+320,192,110158,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,110158,1,0,0:0:0:0:
+192,192,110329,128,2,110670:0:0:0:75:Kick.wav
+320,192,110329,1,0,0:0:0:70:x x x 7 480.wav
+448,192,110499,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,110670,1,8,0:0:0:75:Snare.wav
+320,192,110670,1,0,0:0:0:0:
+448,192,110670,1,0,0:0:0:0:
+64,192,110840,128,2,111011:0:0:0:75:Kick.wav
+192,192,110840,1,4,0:0:0:75:Crash high.wav
+320,192,110840,1,0,0:0:0:70:x x x 16 160.wav
+448,192,111011,128,0,111181:0:0:0:70:x x 14 160.wav
+320,192,111181,128,0,111351:0:0:0:50:Hi-Hat open.wav
+64,192,111351,1,2,0:0:0:75:Kick.wav
+192,192,111351,128,0,111692:0:0:0:70:x 16 Left-hand vibrato 320.wav
+64,192,111522,1,8,0:0:0:75:Snare.wav
+320,192,111522,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,111522,1,0,0:0:0:40:bass 2-7 160.wav
+448,192,111692,128,0,111863:0:0:0:70:17 160.wav
+320,192,111863,128,0,112033:0:0:0:50:Hi-Hat open.wav
+64,192,112033,128,8,112374:0:0:0:75:Snare.wav
+192,192,112033,1,0,0:0:0:70:x 15 Left-hand vibrato 320.wav
+448,192,112033,1,0,0:0:0:55:x x x 9 9 7 Bm 160.wav
+192,192,112204,1,2,0:0:0:75:Kick.wav
+320,192,112204,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,112374,128,0,112545:0:0:0:70:17 160.wav
+448,192,112459,1,2,0:0:0:75:Kick.wav
+192,192,112545,128,0,112715:0:0:0:50:Hi-Hat open.wav
+64,192,112715,1,2,0:0:0:75:Kick.wav
+448,192,112715,128,0,112886:0:0:0:70:x 14 160.wav
+64,192,112886,1,8,0:0:0:75:Snare.wav
+192,192,112886,1,4,0:0:0:75:Crash high.wav
+320,192,112886,1,0,0:0:0:70:x x 14 14 mute 160.wav
+192,192,113056,1,0,0:0:0:70:13 16 bend full 480.wav
+64,192,113141,1,8,0:0:0:75:Snare.wav
+320,192,113141,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,113141,1,0,0:0:0:40:bass 4-1 80.wav
+192,192,113397,1,8,0:0:0:75:Snare.wav
+320,192,113397,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,113397,1,0,0:0:0:40:bass 4-1 160.wav
+64,192,113567,128,2,113908:0:0:0:75:Kick.wav
+192,192,113567,1,4,0:0:0:75:Crash high.wav
+448,192,113567,1,0,0:0:0:70:14 17 bend full Left-hand vibrato 480.wav
+320,192,113738,1,0,0:0:0:55:x x x 4 4 2 F# 160.wav
+192,192,113908,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,114079,1,2,0:0:0:75:Kick.wav
+448,192,114079,128,0,114249:0:0:0:70:x x x 9 bend full 320.wav
+64,192,114249,1,8,0:0:0:75:Snare.wav
+192,192,114249,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,114249,1,0,0:0:0:40:bass 2-7 160.wav
+320,192,114420,128,0,114590:0:0:0:70:x x x 7 80.wav
+192,192,114505,128,0,114590:0:0:0:70:x x x 9 80.wav
+64,192,114590,128,0,114761:0:0:0:50:Hi-Hat open.wav
+448,192,114675,128,0,114761:0:0:0:70:x x x 9 80.wav
+192,192,114761,128,0,114931:0:0:0:70:x x x 7 160.wav
+320,192,114846,128,0,114931:0:0:0:0:
+64,192,114931,1,2,0:0:0:75:Kick.wav
+448,192,114931,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,115101,128,0,115272:0:0:0:55:x x x 2 2 0 E 160.wav
+192,192,115187,1,2,0:0:0:75:Kick.wav
+448,192,115272,128,0,115442:0:0:0:50:Hi-Hat open.wav
+64,192,115442,128,2,115954:0:0:0:75:Kick.wav
+192,192,115442,1,0,0:0:0:70:x x 11 Left-hand vibrato 480.wav
+192,192,115613,1,8,0:0:0:75:Snare.wav
+320,192,115613,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,115613,1,0,0:0:0:0:
+448,192,115783,1,0,0:0:0:55:x x 4 4 2 Bm 480.wav
+192,192,115954,1,2,0:0:0:75:Kick.wav
+320,192,115954,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,116124,1,8,0:0:0:75:Snare.wav
+448,192,116124,1,0,0:0:0:0:
+320,192,116209,1,8,0:0:0:75:Snare.wav
+64,192,116295,1,2,0:0:0:75:Kick.wav
+192,192,116295,1,4,0:0:0:75:Crash high.wav
+448,192,116295,128,0,116465:0:0:0:70:x x x 4 212.wav
+320,192,116465,1,0,0:0:0:55:x 6 6 6 4 C# 160.wav
+192,192,116522,1,0,0:0:0:70:x x x 11 106.wav
+320,192,116579,1,0,0:0:0:0:
+64,192,116636,1,8,0:0:0:75:Snare.wav
+192,192,116636,1,0,0:0:0:50:Ride.wav
+448,192,116636,1,0,0:0:0:70:x x 10 160.wav
+320,192,116806,1,0,0:0:0:70:x x 11 53.wav
+192,192,116863,1,0,0:0:0:70:x x 13 53.wav
+64,192,116920,1,0,0:0:0:70:x x 15 53.wav
+320,192,116976,1,2,0:0:0:75:Kick.wav
+448,192,116976,1,0,0:0:0:50:Ride.wav
+192,192,117033,1,0,0:0:0:70:x 16 53.wav
+320,192,117090,1,0,0:0:0:70:x 18 53.wav
+64,192,117147,1,2,0:0:0:75:Kick.wav
+448,192,117147,1,0,0:0:0:70:14 80.wav
+192,192,117232,1,0,0:0:0:70:16 80.wav
+64,192,117317,1,8,0:0:0:75:Snare.wav
+320,192,117317,128,0,117488:0:0:0:50:Ride.wav
+448,192,117317,1,0,0:0:0:70:18 320.wav
+192,192,117488,128,0,117658:0:0:0:55:x 6 6 6 4 C# 160.wav
+64,192,117658,1,2,0:0:0:75:Kick.wav
+448,192,117658,1,0,0:0:0:50:Ride.wav
+320,192,117715,1,0,0:0:0:70:14 53.wav
+192,192,117772,1,0,0:0:0:70:13 53.wav
+64,192,117829,1,0,0:0:0:70:x 14 80.wav
+320,192,117914,1,0,0:0:0:70:x x 13 80.wav
+64,192,117999,128,8,118170:0:0:0:75:Snare.wav
+192,192,117999,1,0,0:0:0:50:Ride.wav
+448,192,117999,1,0,0:0:0:70:x x x 15 160.wav
+448,192,118170,128,0,118681:0:0:0:70:x x x 13 Left-hand vibrato 480.wav
+192,192,118340,1,2,0:0:0:75:Kick.wav
+320,192,118340,1,0,0:0:0:50:Ride.wav
+64,192,118511,1,2,0:0:0:75:Kick.wav
+192,192,118511,1,0,0:0:0:55:x 4 6 6 4 C#add9 160.wav
+64,192,118681,1,8,0:0:0:75:Snare.wav
+192,192,118681,1,0,0:0:0:50:Ride.wav
+320,192,118681,1,0,0:0:0:70:2 2 mute 320.wav
+320,192,118851,1,0,0:0:0:55:x 4 6 6 4 C#add9 160.wav
+64,192,119022,128,2,119249:0:0:0:75:Kick.wav
+192,192,119022,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,119022,1,0,0:0:0:70:9 x 10 212.wav
+320,192,119192,1,0,0:0:0:55:x 6 6 6 4 C# 160.wav
+192,192,119249,128,0,119476:0:0:0:70:11 x 11 212.wav
+320,192,119363,1,8,0:0:0:75:Snare.wav
+448,192,119363,1,0,0:0:0:50:Ride.wav
+448,192,119476,128,0,119704:0:0:0:70:12 x 12 212.wav
+64,192,119533,1,0,0:0:0:55:x 6 6 6 4 C# 160.wav
+64,192,119704,128,2,119931:0:0:0:75:Kick.wav
+192,192,119704,1,0,0:0:0:50:Ride.wav
+320,192,119874,1,2,0:0:0:75:Kick.wav
+448,192,119874,1,0,0:0:0:55:x 6 6 6 4 C# 160.wav
+192,192,119931,128,0,120158:0:0:0:70:14 x 14 212.wav
+64,192,120045,1,8,0:0:0:75:Snare.wav
+320,192,120045,1,0,0:0:0:50:Ride.wav
+320,192,120158,128,0,120386:0:0:0:70:15 x 15 212.wav
+448,192,120215,1,0,0:0:0:55:x 6 6 6 4 C# 160.wav
+64,192,120386,1,8,0:0:0:75:Snare.wav
+192,192,120386,1,0,0:0:0:70:16 320.wav
+448,192,120386,1,0,0:0:0:55:x 6 6 6 4 C# 160.wav
+320,192,120471,1,0,0:0:0:75:Tom1.wav
+192,192,120556,1,0,0:0:0:75:Tom4.wav
+64,192,120641,1,0,0:0:0:75:Tom4.wav
+320,192,120726,1,2,0:0:0:75:Kick.wav
+448,192,120726,1,0,0:0:0:55:x 6 6 6 4 C# 160.wav
+64,192,120812,1,2,0:0:0:75:Kick.wav
+192,192,120812,1,0,0:0:0:0:
+320,192,120897,128,8,121067:0:0:0:75:Snare.wav
+448,192,120897,128,0,121153:0:0:0:70:21 800.wav
+64,192,120982,128,0,121153:0:0:0:75:Tom1.wav
+192,192,121067,128,0,121238:0:0:0:75:Tom4.wav
+320,192,121153,128,0,121323:0:0:0:75:Tom4.wav
+64,192,121238,128,2,121323:0:0:0:75:Kick.wav
+448,192,121238,128,0,121323:0:0:0:55:x 6 6 6 4 C# 160.wav
+192,192,121323,128,2,121408:0:0:0:75:Kick.wav
+64,192,121408,1,8,0:0:0:75:Snare.wav
+320,192,121408,128,0,121579:0:0:0:50:LR_CymbalG.wav
+448,192,121408,1,0,0:0:0:55:x 6 6 6 4 C# 160.wav
+192,192,121579,128,0,121749:0:0:0:55:x 6 6 6 4 C# 160.wav
+64,192,121749,128,2,122090:0:0:0:75:Kick.wav
+320,192,121749,1,4,0:0:0:75:Crash high.wav
+448,192,121749,1,0,0:0:0:70:arp. x 7.wav
+192,192,121920,1,0,0:0:0:55:x x x x 4 2 F# P.M. 160.wav
+448,192,122090,128,0,122431:0:0:0:50:Ride.wav
+320,192,122261,1,0,0:0:0:50:Ride.wav
+192,192,122431,128,0,122772:0:0:0:50:Ride.wav
+64,192,122601,1,0,0:0:0:50:Ride.wav
+320,192,122772,128,0,123113:0:0:0:50:Ride.wav
+192,192,122942,1,0,0:0:0:50:Ride.wav
+448,192,123113,128,0,123454:0:0:0:50:Ride.wav
+64,192,123283,1,0,0:0:0:50:Ride.wav
+192,192,123454,128,0,123795:0:0:0:50:Ride.wav
+448,192,123624,1,0,0:0:0:50:Ride.wav
+320,192,123795,128,0,124136:0:0:0:50:Ride.wav
+192,192,123965,1,0,0:0:0:50:Ride.wav
+64,192,124136,128,0,124476:0:0:0:50:Ride.wav
+192,192,124306,1,2,0:0:0:75:Kick.wav
+448,192,124306,1,0,0:0:0:50:Ride.wav
+320,192,124476,1,2,0:0:0:75:Kick.wav
+448,192,124476,128,0,124817:0:0:0:50:Ride.wav
+64,192,124647,1,0,0:0:0:50:Ride.wav
+192,192,124817,128,0,125158:0:0:0:50:Ride.wav
+320,192,124988,1,0,0:0:0:50:Ride.wav
+448,192,125158,128,0,125499:0:0:0:50:Ride.wav
+64,192,125329,1,0,0:0:0:50:Ride.wav
+320,192,125499,128,0,125840:0:0:0:50:Ride.wav
+448,192,125670,1,0,0:0:0:50:Ride.wav
+192,192,125840,128,0,126181:0:0:0:50:Ride.wav
+64,192,126011,1,0,0:0:0:50:Ride.wav
+448,192,126181,128,0,126522:0:0:0:50:Ride.wav
+320,192,126351,1,0,0:0:0:50:Ride.wav
+64,192,126522,128,0,126863:0:0:0:50:Ride.wav
+320,192,126692,1,0,0:0:0:50:Ride.wav
+192,192,126863,128,0,127204:0:0:0:50:Hi-Hat open.wav
+64,192,127033,1,0,0:0:0:55:x x x x 8 6 A#m P.M. 160.wav
+448,192,127204,128,2,127545:0:0:0:75:Kick.wav
+320,192,127374,1,0,0:0:0:50:Ride.wav
+64,192,127545,128,0,127886:0:0:0:50:Ride.wav
+192,192,127715,1,0,0:0:0:50:Ride.wav
+320,192,127886,128,0,128226:0:0:0:50:Ride.wav
+448,192,128056,1,0,0:0:0:50:Ride.wav
+192,192,128226,128,0,128567:0:0:0:50:Ride.wav
+320,192,128397,1,0,0:0:0:50:Ride.wav
+64,192,128567,128,0,128908:0:0:0:50:Ride.wav
+448,192,128738,1,0,0:0:0:50:Ride.wav
+320,192,128908,128,0,129249:0:0:0:50:Ride.wav
+64,192,129079,1,0,0:0:0:50:Ride.wav
+192,192,129249,128,0,129590:0:0:0:50:Ride.wav
+320,192,129420,1,0,0:0:0:50:Ride.wav
+448,192,129590,128,0,129931:0:0:0:50:Ride.wav
+64,192,129761,1,2,0:0:0:75:Kick.wav
+320,192,129761,1,0,0:0:0:50:Ride.wav
+64,192,129931,128,2,130272:0:0:0:75:Kick.wav
+192,192,129931,1,0,0:0:0:50:Ride.wav
+448,192,130101,1,0,0:0:0:50:Ride.wav
+320,192,130272,128,0,130613:0:0:0:50:Ride.wav
+192,192,130442,1,0,0:0:0:50:Ride.wav
+64,192,130613,128,0,130954:0:0:0:50:Ride.wav
+448,192,130783,1,0,0:0:0:50:Ride.wav
+192,192,130954,128,0,131295:0:0:0:50:Ride.wav
+64,192,131124,1,0,0:0:0:50:Ride.wav
+320,192,131295,128,0,131636:0:0:0:50:Ride.wav
+448,192,131465,1,0,0:0:0:50:Ride.wav
+64,192,131636,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,131806,1,0,0:0:0:55:x x x x 11 9 C# P.M. 160.wav
+64,192,131976,1,8,0:0:0:75:Snare.wav
+192,192,131976,1,0,0:0:0:75:Tom4.wav
+448,192,131976,1,0,0:0:0:70:x 7 160.wav
+320,192,132147,1,2,0:0:0:75:Kick.wav
+192,192,132232,1,2,0:0:0:75:Kick.wav
+64,192,132317,1,8,0:0:0:75:Snare.wav
+320,192,132317,1,4,0:0:0:75:Crash high.wav
+448,192,132317,1,0,0:0:0:70:x 0 0 0 320.wav
+64,192,132658,1,8,0:0:0:75:Snare.wav
+192,192,132658,1,0,0:0:0:75:Clap.wav
+448,192,132658,1,0,0:0:0:75:Tom4.wav
+64,192,132999,1,8,0:0:0:75:Snare.wav
+192,192,132999,1,0,0:0:0:75:Clap.wav
+448,192,132999,1,0,0:0:0:75:Tom4.wav
+192,192,133170,1,2,0:0:0:75:Kick.wav
+320,192,133170,1,0,0:0:0:0:
+64,192,133340,1,8,0:0:0:75:Snare.wav
+320,192,133340,1,0,0:0:0:75:Clap.wav
+448,192,133340,1,0,0:0:0:75:Tom4.wav
+64,192,133511,1,8,0:0:0:75:Snare.wav
+192,192,133511,1,0,0:0:0:75:Clap.wav
+448,192,133511,1,0,0:0:0:75:Tom4.wav
+192,192,133681,1,8,0:0:0:75:Snare.wav
+320,192,133681,1,0,0:0:0:75:Clap.wav
+448,192,133681,1,0,0:0:0:75:Tom4.wav
+64,192,134022,1,8,0:0:0:75:Snare.wav
+320,192,134022,1,0,0:0:0:75:Clap.wav
+448,192,134022,1,0,0:0:0:75:Tom4.wav
+64,192,134363,1,8,0:0:0:75:Snare.wav
+320,192,134363,1,0,0:0:0:75:Clap.wav
+448,192,134363,1,0,0:0:0:75:Tom4.wav
+192,192,134533,1,2,0:0:0:75:Kick.wav
+320,192,134533,1,0,0:0:0:0:
+64,192,134704,1,8,0:0:0:75:Snare.wav
+192,192,134704,1,0,0:0:0:75:Clap.wav
+448,192,134704,1,0,0:0:0:75:Tom4.wav
+64,192,134874,1,8,0:0:0:75:Snare.wav
+320,192,134874,1,0,0:0:0:75:Clap.wav
+448,192,134874,1,0,0:0:0:75:Tom4.wav
+64,192,135045,1,8,0:0:0:75:Snare.wav
+192,192,135045,1,0,0:0:0:75:Clap.wav
+320,192,135045,1,0,0:0:0:75:Tom4.wav
+64,192,135386,1,8,0:0:0:75:Snare.wav
+192,192,135386,1,0,0:0:0:75:Clap.wav
+448,192,135386,1,0,0:0:0:75:Tom4.wav
+64,192,135726,1,8,0:0:0:75:Snare.wav
+320,192,135726,1,0,0:0:0:75:Clap.wav
+448,192,135726,1,0,0:0:0:75:Tom4.wav
+192,192,135897,1,2,0:0:0:75:Kick.wav
+320,192,135897,1,0,0:0:0:0:
+64,192,136067,1,8,0:0:0:75:Snare.wav
+192,192,136067,1,0,0:0:0:75:Clap.wav
+448,192,136067,1,0,0:0:0:75:Tom4.wav
+64,192,136238,1,8,0:0:0:75:Snare.wav
+320,192,136238,1,0,0:0:0:75:Clap.wav
+448,192,136238,1,0,0:0:0:75:Tom4.wav
+64,192,136408,1,8,0:0:0:75:Snare.wav
+192,192,136408,1,0,0:0:0:75:Clap.wav
+320,192,136408,1,0,0:0:0:75:Tom4.wav
+64,192,136749,1,8,0:0:0:75:Snare.wav
+320,192,136749,1,0,0:0:0:75:Clap.wav
+448,192,136749,1,0,0:0:0:75:Tom4.wav
+64,192,137090,1,8,0:0:0:75:Snare.wav
+192,192,137090,1,0,0:0:0:75:Clap.wav
+448,192,137090,1,0,0:0:0:75:Tom4.wav
+192,192,137261,1,2,0:0:0:75:Kick.wav
+320,192,137261,1,0,0:0:0:0:
+64,192,137431,1,8,0:0:0:75:Snare.wav
+320,192,137431,1,0,0:0:0:75:Clap.wav
+448,192,137431,1,0,0:0:0:75:Tom4.wav
+64,192,137601,1,8,0:0:0:75:Snare.wav
+192,192,137601,1,0,0:0:0:75:Clap.wav
+448,192,137601,1,0,0:0:0:75:Tom4.wav
+192,192,137772,1,8,0:0:0:75:Snare.wav
+320,192,137772,1,0,0:0:0:75:Clap.wav
+448,192,137772,1,0,0:0:0:75:Tom4.wav
+64,192,138113,1,8,0:0:0:75:Snare.wav
+192,192,138113,1,0,0:0:0:75:Clap.wav
+320,192,138113,1,0,0:0:0:75:Tom4.wav
+64,192,138454,1,8,0:0:0:75:Snare.wav
+320,192,138454,1,0,0:0:0:75:Clap.wav
+448,192,138454,1,0,0:0:0:75:Tom4.wav
+192,192,138624,1,2,0:0:0:75:Kick.wav
+320,192,138624,1,0,0:0:0:0:
+64,192,138795,1,8,0:0:0:75:Snare.wav
+192,192,138795,1,0,0:0:0:75:Clap.wav
+448,192,138795,1,0,0:0:0:75:Tom4.wav
+64,192,138965,1,8,0:0:0:75:Snare.wav
+320,192,138965,1,0,0:0:0:75:Clap.wav
+448,192,138965,1,0,0:0:0:75:Tom4.wav
+192,192,139136,1,8,0:0:0:75:Snare.wav
+320,192,139136,1,0,0:0:0:75:Clap.wav
+448,192,139136,1,0,0:0:0:75:Tom4.wav
+64,192,139476,1,8,0:0:0:75:Snare.wav
+192,192,139476,1,0,0:0:0:75:Clap.wav
+448,192,139476,1,0,0:0:0:75:Tom4.wav
+192,192,139647,1,2,0:0:0:75:Kick.wav
+320,192,139647,1,0,0:0:0:40:bass 2-9 160.wav
+64,192,139817,1,8,0:0:0:75:Snare.wav
+320,192,139817,1,0,0:0:0:75:Clap.wav
+448,192,139817,1,0,0:0:0:75:Tom4.wav
+64,192,139988,1,2,0:0:0:75:Kick.wav
+192,192,139988,1,0,0:0:0:40:bass 2-8 160.wav
+192,192,140158,1,8,0:0:0:75:Snare.wav
+320,192,140158,1,0,0:0:0:75:Clap.wav
+448,192,140158,1,0,0:0:0:75:Tom4.wav
+64,192,140329,1,2,0:0:0:75:Kick.wav
+320,192,140329,1,0,0:0:0:75:Clap.wav
+448,192,140329,1,0,0:0:0:70:x x 11 x 9 160.wav
+64,192,140499,1,8,0:0:0:75:Snare.wav
+192,192,140499,1,0,0:0:0:75:Clap.wav
+320,192,140584,1,8,0:0:0:75:Snare.wav
+448,192,140584,1,0,0:0:0:0:
+64,192,140670,1,8,0:0:0:75:Snare.wav
+192,192,140670,1,0,0:0:0:0:
+320,192,140755,1,8,0:0:0:75:Snare.wav
+64,192,140840,1,2,0:0:0:75:Kick.wav
+192,192,140840,1,4,0:0:0:75:Crash high.wav
+448,192,140840,128,0,141522:0:0:0:70:x x 6 x 4 640.wav
+64,192,141522,1,2,0:0:0:75:Kick.wav
+192,192,141522,1,0,0:0:0:50:LR_CymbalG.wav
+320,192,141522,128,0,142204:0:0:0:70:x x 6 x 4 640.wav
+64,192,142204,1,2,0:0:0:75:Kick.wav
+192,192,142204,128,0,142886:0:0:0:50:Hi-Hat open.wav
+448,192,142204,1,0,0:0:0:70:x 9 11 bend full 640.wav
+64,192,142886,128,2,143567:0:0:0:75:Kick.wav
+320,192,142886,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,142886,1,0,0:0:0:70:x 11 13 bend full Left-hand vibrato 640.wav
+192,192,143567,1,0,0:0:0:50:Hi-Hat close.wav
+448,192,143738,1,0,0:0:0:70:x x 11 53.wav
+320,192,143795,1,0,0:0:0:70:x x 13 53.wav
+192,192,143851,1,0,0:0:0:70:x x 11 53.wav
+64,192,143908,128,0,144079:0:0:0:70:x x x 11 160.wav
+192,192,144079,128,0,144931:0:0:0:70:x 12 bend full 800.wav
+320,192,144590,128,0,144931:0:0:0:0:
+64,192,144931,1,2,0:0:0:75:Kick.wav
+448,192,144931,1,4,0:0:0:75:Crash high.wav
+64,192,145101,1,8,0:0:0:75:Snare.wav
+192,192,145101,1,0,0:0:0:70:x x x x 4 2 80.wav
+320,192,145187,1,8,0:0:0:75:Snare.wav
+64,192,145272,1,8,0:0:0:75:Snare.wav
+448,192,145272,1,0,0:0:0:70:x x x x 4 2 80.wav
+192,192,145357,1,8,0:0:0:75:Snare.wav
+320,192,145442,1,8,0:0:0:75:Snare.wav
+448,192,145442,1,0,0:0:0:70:x x x x 4 2 80.wav
+64,192,145528,1,8,0:0:0:75:Snare.wav
+192,192,145613,1,8,0:0:0:75:Snare.wav
+320,192,145613,1,0,0:0:0:70:x x x x 4 2 80.wav
+448,192,145698,1,8,0:0:0:75:Snare.wav
+64,192,145783,1,8,0:0:0:75:Snare.wav
+192,192,145783,1,0,0:0:0:70:x x x x 4 2 80.wav
+320,192,145868,1,8,0:0:0:75:Snare.wav
+64,192,145954,1,8,0:0:0:75:Snare.wav
+448,192,145954,1,0,0:0:0:70:x x x x 4 2 80.wav
+192,192,146039,1,8,0:0:0:75:Snare.wav
+320,192,146124,1,8,0:0:0:75:Snare.wav
+448,192,146124,1,0,0:0:0:70:x x x x 4 2 80.wav
+192,192,146209,1,8,0:0:0:75:Snare.wav
+64,192,146295,1,2,0:0:0:75:Kick.wav
+448,192,146295,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,146380,1,0,0:0:0:70:x x x x 6 4 80.wav
+64,192,146465,1,8,0:0:0:75:Snare.wav
+192,192,146465,1,0,0:0:0:70:x x x x 6 4 80.wav
+320,192,146550,1,8,0:0:0:75:Snare.wav
+192,192,146636,1,8,0:0:0:75:Snare.wav
+448,192,146636,1,0,0:0:0:70:x x x x 6 4 80.wav
+64,192,146721,1,8,0:0:0:75:Snare.wav
+320,192,146806,1,8,0:0:0:75:Snare.wav
+448,192,146806,1,0,0:0:0:70:x x x x 6 4 80.wav
+192,192,146891,1,8,0:0:0:75:Snare.wav
+64,192,146976,1,8,0:0:0:75:Snare.wav
+320,192,146976,1,0,0:0:0:70:x x x x 6 4 80.wav
+448,192,147062,1,8,0:0:0:75:Snare.wav
+64,192,147147,1,8,0:0:0:75:Snare.wav
+192,192,147147,1,0,0:0:0:70:x x x x 6 4 80.wav
+320,192,147232,1,8,0:0:0:75:Snare.wav
+192,192,147317,1,8,0:0:0:75:Snare.wav
+448,192,147317,1,0,0:0:0:70:x x x x 6 4 80.wav
+320,192,147403,1,8,0:0:0:75:Snare.wav
+64,192,147488,1,8,0:0:0:75:Snare.wav
+192,192,147488,1,0,0:0:0:70:x x x x 6 4 80.wav
+320,192,147573,1,8,0:0:0:75:Snare.wav
+64,192,147658,1,2,0:0:0:75:Kick.wav
+448,192,147658,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,147743,1,0,0:0:0:70:x x x x 8 6 80.wav
+320,192,147829,1,8,0:0:0:75:Snare.wav
+448,192,147829,1,0,0:0:0:70:x x x x 8 6 80.wav
+192,192,147914,1,8,0:0:0:75:Snare.wav
+64,192,147999,1,8,0:0:0:75:Snare.wav
+320,192,147999,1,0,0:0:0:70:x x x x 8 6 80.wav
+448,192,148084,1,8,0:0:0:75:Snare.wav
+64,192,148170,1,8,0:0:0:75:Snare.wav
+192,192,148170,1,0,0:0:0:70:x x x x 8 6 80.wav
+320,192,148255,1,8,0:0:0:75:Snare.wav
+192,192,148340,1,8,0:0:0:75:Snare.wav
+448,192,148340,1,0,0:0:0:70:x x x x 8 6 80.wav
+64,192,148425,1,8,0:0:0:75:Snare.wav
+320,192,148511,1,8,0:0:0:75:Snare.wav
+448,192,148511,1,0,0:0:0:70:x x x x 8 6 80.wav
+192,192,148596,1,8,0:0:0:75:Snare.wav
+64,192,148681,1,8,0:0:0:75:Snare.wav
+320,192,148681,1,0,0:0:0:70:x x x x 8 6 80.wav
+192,192,148766,1,8,0:0:0:75:Snare.wav
+320,192,148851,1,8,0:0:0:75:Snare.wav
+448,192,148851,1,0,0:0:0:70:x x x x 8 6 80.wav
+192,192,148937,1,8,0:0:0:75:Snare.wav
+64,192,149022,1,8,0:0:0:75:Snare.wav
+448,192,149022,1,0,0:0:0:70:x x 4 x 2 80.wav
+320,192,149107,1,8,0:0:0:75:Snare.wav
+64,192,149192,1,8,0:0:0:75:Snare.wav
+192,192,149192,1,0,0:0:0:70:x x 4 x 2 80.wav
+320,192,149278,1,8,0:0:0:75:Snare.wav
+192,192,149363,1,8,0:0:0:75:Snare.wav
+448,192,149363,1,0,0:0:0:70:x x 6 x 4 80.wav
+64,192,149448,1,8,0:0:0:75:Snare.wav
+320,192,149533,1,8,0:0:0:75:Snare.wav
+448,192,149533,1,0,0:0:0:70:x x 6 x 4 80.wav
+64,192,149618,1,8,0:0:0:75:Snare.wav
+192,192,149704,1,8,0:0:0:75:Snare.wav
+448,192,149704,1,0,0:0:0:70:x x 8 x 6 80.wav
+320,192,149789,1,8,0:0:0:75:Snare.wav
+64,192,149874,1,2,0:0:0:75:Kick.wav
+192,192,149959,1,2,0:0:0:75:Kick.wav
+64,192,150045,1,8,0:0:0:75:Snare.wav
+320,192,150045,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,150045,1,0,0:0:0:70:x x 10 x 8 320.wav
+64,192,150386,1,2,0:0:0:75:Kick.wav
+192,192,150386,1,4,0:0:0:75:Crash high.wav
+320,192,150386,1,0,0:0:0:70:x 7 9 bend full 80.wav
+64,192,150556,1,8,0:0:0:75:Snare.wav
+448,192,150556,1,0,0:0:0:70:x 7 9 prebend 80.wav
+320,192,150641,1,8,0:0:0:75:Snare.wav
+64,192,150726,1,2,0:0:0:75:Kick.wav
+192,192,150726,1,8,0:0:0:75:Snare.wav
+448,192,150812,1,0,0:0:0:70:x 7 9 prebend 80.wav
+192,192,150897,1,8,0:0:0:75:Snare.wav
+320,192,150897,1,0,0:0:0:70:x 7 9 prebend 80.wav
+64,192,151067,1,2,0:0:0:75:Kick.wav
+448,192,151067,1,8,0:0:0:75:Snare.wav
+192,192,151153,1,8,0:0:0:75:Snare.wav
+320,192,151238,1,8,0:0:0:75:Snare.wav
+448,192,151238,1,0,0:0:0:70:x 7 9 prebend 80.wav
+192,192,151323,1,8,0:0:0:75:Snare.wav
+64,192,151408,1,2,0:0:0:75:Kick.wav
+448,192,151408,1,8,0:0:0:75:Snare.wav
+320,192,151493,1,8,0:0:0:75:Snare.wav
+64,192,151579,1,8,0:0:0:75:Snare.wav
+192,192,151579,1,0,0:0:0:55:2 2 3 4 4 2 F# 160.wav
+320,192,151664,1,8,0:0:0:75:Snare.wav
+64,192,151749,1,2,0:0:0:75:Kick.wav
+448,192,151749,1,8,0:0:0:75:Snare.wav
+192,192,151920,1,8,0:0:0:75:Snare.wav
+320,192,151920,1,0,0:0:0:70:x 9 11 prebend 80.wav
+64,192,152005,1,8,0:0:0:75:Snare.wav
+320,192,152090,1,2,0:0:0:75:Kick.wav
+448,192,152090,1,8,0:0:0:75:Snare.wav
+192,192,152175,1,8,0:0:0:75:Snare.wav
+64,192,152261,1,8,0:0:0:75:Snare.wav
+448,192,152261,1,0,0:0:0:70:x 9 11 prebend 80.wav
+192,192,152431,1,2,0:0:0:75:Kick.wav
+320,192,152431,1,8,0:0:0:75:Snare.wav
+448,192,152516,1,8,0:0:0:75:Snare.wav
+64,192,152601,1,8,0:0:0:75:Snare.wav
+192,192,152601,1,0,0:0:0:70:x 11 13 prebend 80.wav
+320,192,152687,1,8,0:0:0:75:Snare.wav
+64,192,152772,1,2,0:0:0:75:Kick.wav
+448,192,152772,1,8,0:0:0:75:Snare.wav
+192,192,152857,1,8,0:0:0:75:Snare.wav
+320,192,152942,1,8,0:0:0:75:Snare.wav
+448,192,152942,1,0,0:0:0:70:x 11 13 prebend 80.wav
+64,192,153028,1,8,0:0:0:75:Snare.wav
+192,192,153113,1,2,0:0:0:75:Kick.wav
+320,192,153113,1,8,0:0:0:75:Snare.wav
+64,192,153283,1,8,0:0:0:75:Snare.wav
+448,192,153283,1,0,0:0:0:70:x 14 16 prebend 80.wav
+320,192,153368,1,8,0:0:0:75:Snare.wav
+64,192,153454,1,2,0:0:0:75:Kick.wav
+192,192,153454,1,8,0:0:0:75:Snare.wav
+448,192,153539,1,8,0:0:0:75:Snare.wav
+192,192,153624,1,8,0:0:0:75:Snare.wav
+320,192,153624,1,0,0:0:0:70:x 14 16 prebend 80.wav
+64,192,153709,1,8,0:0:0:75:Snare.wav
+320,192,153795,1,2,0:0:0:75:Kick.wav
+448,192,153795,1,8,0:0:0:75:Snare.wav
+192,192,153880,1,8,0:0:0:75:Snare.wav
+64,192,153965,1,8,0:0:0:75:Snare.wav
+448,192,153965,1,0,0:0:0:70:x 14 16 prebend 80.wav
+320,192,154050,1,8,0:0:0:75:Snare.wav
+64,192,154136,1,2,0:0:0:75:Kick.wav
+192,192,154136,1,8,0:0:0:75:Snare.wav
+320,192,154221,1,8,0:0:0:75:Snare.wav
+448,192,154221,1,0,0:0:0:70:x 14 16 prebend 80.wav
+64,192,154306,1,8,0:0:0:75:Snare.wav
+192,192,154306,1,0,0:0:0:70:x 14 16 prebend 80.wav
+320,192,154391,1,8,0:0:0:75:Snare.wav
+64,192,154476,128,0,155329:0:0:0:0:
+448,192,154476,128,0,154988:0:0:0:0:
+320,192,154988,128,0,155670:0:0:0:0:
+192,192,155158,128,0,155499:0:0:0:70:idk how to name this 640.wav
+448,192,155158,128,0,155840:0:0:0:0:
+64,192,155840,128,2,156181:0:0:0:75:Kick.wav
+192,192,155840,1,4,0:0:0:75:Crash high.wav
+320,192,155840,1,0,0:0:0:70:x 14 11 160.wav
+448,192,156011,1,0,0:0:0:70:x 14 11 160.wav
+192,192,156181,1,8,0:0:0:75:Snare.wav
+320,192,156181,128,0,156522:0:0:0:50:Hi-Hat open.wav
+448,192,156181,1,0,0:0:0:70:x 11 11 160.wav
+64,192,156351,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,156437,1,8,0:0:0:75:Snare.wav
+64,192,156522,1,2,0:0:0:75:Kick.wav
+448,192,156522,128,0,156863:0:0:0:50:Hi-Hat open.wav
+192,192,156607,1,8,0:0:0:75:Snare.wav
+320,192,156692,1,2,0:0:0:75:Kick.wav
+64,192,156863,1,8,0:0:0:75:Snare.wav
+192,192,156863,128,0,157204:0:0:0:50:Hi-Hat open.wav
+320,192,156863,1,0,0:0:0:70:x x 11 11 160.wav
+448,192,157033,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,157204,1,2,0:0:0:75:Kick.wav
+320,192,157204,128,0,157545:0:0:0:50:Hi-Hat open.wav
+448,192,157374,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,157545,1,8,0:0:0:75:Snare.wav
+192,192,157545,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,157545,128,0,157886:0:0:0:70:x 11 11 160.wav
+320,192,157715,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,157800,1,8,0:0:0:75:Snare.wav
+64,192,157886,1,2,0:0:0:75:Kick.wav
+320,192,157886,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,157971,1,8,0:0:0:75:Snare.wav
+64,192,158056,1,2,0:0:0:75:Kick.wav
+448,192,158056,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,158226,1,8,0:0:0:75:Snare.wav
+320,192,158226,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,158226,1,0,0:0:0:70:x x 11 11 160.wav
+64,192,158397,128,0,158908:0:0:0:50:Hi-Hat open.wav
+192,192,158567,1,2,0:0:0:75:Kick.wav
+448,192,158567,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,158738,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,158908,128,8,159079:0:0:0:75:Snare.wav
+320,192,158908,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,158908,1,0,0:0:0:70:x 11 11 160.wav
+448,192,159079,128,0,159420:0:0:0:50:Hi-Hat open.wav
+64,192,159164,1,8,0:0:0:75:Snare.wav
+192,192,159249,1,2,0:0:0:75:Kick.wav
+320,192,159334,1,8,0:0:0:75:Snare.wav
+64,192,159420,1,2,0:0:0:75:Kick.wav
+192,192,159420,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,159590,1,8,0:0:0:75:Snare.wav
+320,192,159590,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,159590,1,0,0:0:0:70:x x 11 11 160.wav
+192,192,159761,128,0,159931:0:0:0:50:Hi-Hat open.wav
+64,192,159931,128,2,160272:0:0:0:75:Kick.wav
+448,192,159931,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,160101,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,160272,128,8,160613:0:0:0:75:Snare.wav
+320,192,160272,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,160272,1,0,0:0:0:70:x 11 11 160.wav
+64,192,160442,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,160528,1,8,0:0:0:75:Snare.wav
+320,192,160613,128,2,160954:0:0:0:75:Kick.wav
+64,192,160698,1,0,0:0:0:0:
+192,192,160783,1,2,0:0:0:75:Kick.wav
+448,192,160783,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,160954,1,8,0:0:0:75:Snare.wav
+192,192,160954,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,160954,1,0,0:0:0:70:x 11 11 160.wav
+320,192,161124,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,161209,1,8,0:0:0:75:Snare.wav
+64,192,161295,128,2,161636:0:0:0:75:Kick.wav
+320,192,161295,1,4,0:0:0:75:Crash high.wav
+448,192,161295,1,0,0:0:0:70:x 14 11 160.wav
+192,192,161465,1,0,0:0:0:70:x 14 11 160.wav
+192,192,161636,1,8,0:0:0:75:Snare.wav
+320,192,161636,128,0,161976:0:0:0:50:Hi-Hat open.wav
+448,192,161636,1,0,0:0:0:70:x 11 11 160.wav
+64,192,161806,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,161891,1,0,0:0:0:0:
+192,192,161976,128,2,162317:0:0:0:75:Kick.wav
+320,192,162147,1,2,0:0:0:75:Kick.wav
+448,192,162147,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,162317,1,8,0:0:0:75:Snare.wav
+320,192,162317,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,162317,128,0,162658:0:0:0:70:x x 11 11 160.wav
+192,192,162488,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,162658,128,2,162999:0:0:0:75:Kick.wav
+320,192,162658,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,162829,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,162999,1,8,0:0:0:75:Snare.wav
+320,192,162999,128,0,163340:0:0:0:50:Hi-Hat open.wav
+448,192,162999,1,0,0:0:0:70:x 11 11 160.wav
+64,192,163170,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,163255,1,8,0:0:0:75:Snare.wav
+64,192,163340,128,2,163511:0:0:0:75:Kick.wav
+192,192,163340,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,163511,128,2,163681:0:0:0:75:Kick.wav
+320,192,163511,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,163681,1,8,0:0:0:75:Snare.wav
+320,192,163681,128,0,163851:0:0:0:50:Hi-Hat open.wav
+448,192,163681,1,0,0:0:0:70:x x 11 11 160.wav
+448,192,163851,128,0,164022:0:0:0:50:Hi-Hat open.wav
+64,192,164022,1,2,0:0:0:75:Kick.wav
+192,192,164022,128,0,164363:0:0:0:50:Hi-Hat open.wav
+320,192,164192,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,164363,1,8,0:0:0:75:Snare.wav
+320,192,164363,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,164363,128,0,164704:0:0:0:70:x 11 11 160.wav
+192,192,164533,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,164618,1,8,0:0:0:75:Snare.wav
+64,192,164704,128,2,165045:0:0:0:75:Kick.wav
+192,192,164704,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,164874,1,2,0:0:0:75:Kick.wav
+448,192,164874,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,165045,128,8,165386:0:0:0:75:Snare.wav
+320,192,165045,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,165045,1,0,0:0:0:70:x 11 11 160.wav
+64,192,165215,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,165386,1,2,0:0:0:75:Kick.wav
+448,192,165386,128,0,165726:0:0:0:50:Hi-Hat open.wav
+64,192,165556,1,2,0:0:0:75:Kick.wav
+192,192,165556,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,165726,1,8,0:0:0:75:Snare.wav
+192,192,165726,1,4,0:0:0:75:Crash high.wav
+320,192,165726,1,0,0:0:0:70:x x x 13 x 11 160.wav
+64,192,165897,128,0,166067:0:0:0:70:x x x 11 x 9 160.wav
+192,192,165982,1,8,0:0:0:75:Snare.wav
+320,192,166067,128,2,166238:0:0:0:75:Kick.wav
+448,192,166067,1,0,0:0:0:55:x x 3 4 1 F#-A# 160.wav
+64,192,166238,1,8,0:0:0:75:Snare.wav
+192,192,166238,1,0,0:0:0:75:Clap.wav
+448,192,166238,1,0,0:0:0:50:LR_CymbalG.wav
+64,192,166408,1,8,0:0:0:75:Snare.wav
+192,192,166408,1,0,0:0:0:75:Clap.wav
+448,192,166408,1,0,0:0:0:50:LR_CymbalG.wav
+320,192,166579,1,0,0:0:0:55:x x 3 4 1 F#-A# 160.wav
+64,192,166749,128,2,167090:0:0:0:75:Kick.wav
+192,192,166749,1,4,0:0:0:75:Crash high.wav
+448,192,166749,1,0,0:0:0:70:x 14 11 160.wav
+320,192,166920,1,0,0:0:0:70:x 14 11 160.wav
+192,192,167090,1,8,0:0:0:75:Snare.wav
+320,192,167090,128,0,167431:0:0:0:50:Hi-Hat open.wav
+448,192,167090,1,0,0:0:0:70:x 11 11 160.wav
+64,192,167261,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,167346,1,8,0:0:0:75:Snare.wav
+64,192,167431,1,2,0:0:0:75:Kick.wav
+448,192,167431,128,0,167772:0:0:0:50:Hi-Hat open.wav
+192,192,167601,1,2,0:0:0:75:Kick.wav
+320,192,167601,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,167772,1,8,0:0:0:75:Snare.wav
+192,192,167772,128,0,168113:0:0:0:50:Hi-Hat open.wav
+320,192,167772,1,0,0:0:0:70:x x 11 11 160.wav
+448,192,167942,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,168113,128,2,168454:0:0:0:75:Kick.wav
+448,192,168113,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,168283,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,168454,128,8,168795:0:0:0:75:Snare.wav
+192,192,168454,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,168454,1,0,0:0:0:70:x 11 11 160.wav
+320,192,168624,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,168709,1,8,0:0:0:75:Snare.wav
+320,192,168795,1,2,0:0:0:75:Kick.wav
+448,192,168795,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,168965,1,2,0:0:0:75:Kick.wav
+448,192,168965,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,169136,1,8,0:0:0:75:Snare.wav
+192,192,169136,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,169136,1,0,0:0:0:70:x x 11 11 160.wav
+448,192,169306,128,0,169817:0:0:0:50:Hi-Hat open.wav
+64,192,169476,1,2,0:0:0:75:Kick.wav
+320,192,169476,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,169647,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,169817,1,8,0:0:0:75:Snare.wav
+192,192,169817,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,169817,128,0,169988:0:0:0:70:x 11 11 160.wav
+64,192,169988,128,0,170329:0:0:0:50:Hi-Hat open.wav
+448,192,170073,1,8,0:0:0:75:Snare.wav
+320,192,170158,1,2,0:0:0:75:Kick.wav
+192,192,170243,1,0,0:0:0:0:
+320,192,170329,1,2,0:0:0:75:Kick.wav
+448,192,170329,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,170499,1,8,0:0:0:75:Snare.wav
+192,192,170499,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,170499,1,0,0:0:0:70:x x 11 11 160.wav
+320,192,170670,128,0,170840:0:0:0:50:Hi-Hat open.wav
+192,192,170840,1,2,0:0:0:75:Kick.wav
+448,192,170840,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,171011,1,2,0:0:0:75:Kick.wav
+192,192,171011,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,171181,1,8,0:0:0:75:Snare.wav
+320,192,171181,1,4,0:0:0:75:Crash high.wav
+448,192,171181,1,0,0:0:0:70:x 11 11 160.wav
+192,192,171351,1,0,0:0:0:70:x 11 11 160.wav
+64,192,171522,1,2,0:0:0:75:Kick.wav
+192,192,171522,1,8,0:0:0:75:Snare.wav
+448,192,171522,1,0,0:0:0:75:Tom4.wav
+64,192,171692,1,8,0:0:0:75:Snare.wav
+320,192,171692,1,0,0:0:0:75:Tom4.wav
+448,192,171692,1,0,0:0:0:70:x x 13 11 160.wav
+64,192,171863,1,2,0:0:0:75:Kick.wav
+192,192,171863,1,8,0:0:0:75:Snare.wav
+320,192,171863,1,0,0:0:0:75:Tom4.wav
+192,192,172033,1,8,0:0:0:75:Snare.wav
+320,192,172033,1,0,0:0:0:75:Tom4.wav
+448,192,172033,1,0,0:0:0:70:x 11 11 160.wav
+64,192,172204,128,2,172715:0:0:0:75:Kick.wav
+192,192,172204,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,172204,1,0,0:0:0:70:x x 6 x 4 640.wav
+320,192,172374,1,0,0:0:0:40:bass 4-2 160.wav
+448,192,172545,1,0,0:0:0:50:Ride.wav
+192,192,172715,1,2,0:0:0:75:Kick.wav
+320,192,172715,1,0,0:0:0:40:bass 4-2 80.wav
+64,192,172886,1,8,0:0:0:75:Snare.wav
+320,192,172886,1,0,0:0:0:50:Ride.wav
+448,192,172886,128,0,173226:0:0:0:70:x x 11 x 9 640.wav
+64,192,173226,1,2,0:0:0:75:Kick.wav
+320,192,173226,1,0,0:0:0:50:Ride.wav
+192,192,173397,1,8,0:0:0:75:Snare.wav
+320,192,173482,1,8,0:0:0:75:Snare.wav
+64,192,173567,128,2,173908:0:0:0:75:Kick.wav
+448,192,173567,1,0,0:0:0:50:Ride.wav
+192,192,173738,1,8,0:0:0:75:Snare.wav
+320,192,173738,1,0,0:0:0:0:
+448,192,173738,1,0,0:0:0:0:
+192,192,173908,128,0,174249:0:0:0:50:Ride.wav
+320,192,174079,1,2,0:0:0:75:Kick.wav
+448,192,174079,1,0,0:0:0:0:
+64,192,174249,1,8,0:0:0:75:Snare.wav
+320,192,174249,1,0,0:0:0:50:Ride.wav
+448,192,174249,128,0,174590:0:0:0:70:x x 11 x 9 640.wav
+192,192,174590,1,2,0:0:0:75:Kick.wav
+320,192,174590,1,0,0:0:0:50:Ride.wav
+64,192,174931,1,2,0:0:0:75:Kick.wav
+192,192,174931,1,4,0:0:0:75:Crash high.wav
+448,192,174931,1,0,0:0:0:70:18 80.wav
+192,192,175101,1,8,0:0:0:75:Snare.wav
+320,192,175101,1,0,0:0:0:75:Clap.wav
+320,192,175272,1,8,0:0:0:75:Snare.wav
+448,192,175272,1,0,0:0:0:75:Clap.wav
+64,192,175357,1,0,0:0:0:70:16 80.wav
+192,192,175442,1,2,0:0:0:75:Kick.wav
+320,192,175442,1,0,0:0:0:70:14 80.wav
+448,192,175528,1,0,0:0:0:70:x 14 80.wav
+64,192,175613,1,8,0:0:0:75:Snare.wav
+192,192,175613,1,0,0:0:0:75:Clap.wav
+448,192,175698,1,0,0:0:0:70:16 80.wav
+320,192,175783,1,0,0:0:0:70:14 80.wav
+64,192,175868,1,8,0:0:0:75:Snare.wav
+192,192,175868,1,0,0:0:0:75:Clap.wav
+320,192,175954,1,0,0:0:0:70:18 80.wav
+448,192,176039,1,0,0:0:0:70:16 80.wav
+64,192,176124,1,8,0:0:0:75:Snare.wav
+192,192,176124,1,0,0:0:0:75:Clap.wav
+320,192,176209,1,0,0:0:0:70:x 14 80.wav
+192,192,176295,1,2,0:0:0:75:Kick.wav
+448,192,176295,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,176380,1,0,0:0:0:70:16 80.wav
+320,192,176465,1,8,0:0:0:75:Snare.wav
+448,192,176465,1,0,0:0:0:75:Clap.wav
+192,192,176550,1,0,0:0:0:70:x 14 80.wav
+64,192,176636,1,8,0:0:0:75:Snare.wav
+320,192,176636,1,0,0:0:0:75:Clap.wav
+448,192,176721,1,0,0:0:0:70:16 80.wav
+192,192,176806,1,2,0:0:0:75:Kick.wav
+64,192,176891,1,0,0:0:0:70:x 14 80.wav
+192,192,176976,1,8,0:0:0:75:Snare.wav
+448,192,176976,1,0,0:0:0:75:Clap.wav
+320,192,177062,1,0,0:0:0:70:16 80.wav
+448,192,177147,1,0,0:0:0:70:14 80.wav
+64,192,177232,1,8,0:0:0:75:Snare.wav
+192,192,177232,1,0,0:0:0:70:x 14 80.wav
+320,192,177317,1,8,0:0:0:75:Snare.wav
+448,192,177317,1,0,0:0:0:75:Clap.wav
+192,192,177403,1,0,0:0:0:75:Tom1.wav
+64,192,177488,1,8,0:0:0:75:Snare.wav
+320,192,177488,1,0,0:0:0:70:14 80.wav
+448,192,177573,1,8,0:0:0:75:Snare.wav
+64,192,177658,1,2,0:0:0:75:Kick.wav
+192,192,177658,1,4,0:0:0:75:Crash high.wav
+320,192,177658,1,0,0:0:0:70:18 80.wav
+192,192,177829,1,8,0:0:0:75:Snare.wav
+448,192,177829,1,0,0:0:0:75:Clap.wav
+64,192,177999,1,8,0:0:0:75:Snare.wav
+320,192,177999,1,0,0:0:0:75:Clap.wav
+192,192,178084,1,0,0:0:0:70:16 80.wav
+320,192,178170,1,2,0:0:0:75:Kick.wav
+448,192,178170,1,0,0:0:0:70:14 80.wav
+192,192,178255,1,0,0:0:0:70:x 14 80.wav
+64,192,178340,1,8,0:0:0:75:Snare.wav
+320,192,178340,1,0,0:0:0:75:Clap.wav
+448,192,178425,1,0,0:0:0:70:16 80.wav
+64,192,178511,1,0,0:0:0:70:14 80.wav
+192,192,178596,1,8,0:0:0:75:Snare.wav
+320,192,178596,1,0,0:0:0:75:Clap.wav
+448,192,178681,1,0,0:0:0:70:18 80.wav
+192,192,178766,1,0,0:0:0:70:16 80.wav
+64,192,178851,1,8,0:0:0:75:Snare.wav
+320,192,178851,1,0,0:0:0:75:Clap.wav
+448,192,178937,1,0,0:0:0:70:x 14 80.wav
+192,192,179022,1,2,0:0:0:75:Kick.wav
+320,192,179022,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,179107,1,0,0:0:0:70:16 80.wav
+320,192,179192,1,8,0:0:0:75:Snare.wav
+448,192,179192,1,0,0:0:0:75:Clap.wav
+192,192,179278,1,0,0:0:0:70:x 14 80.wav
+64,192,179363,1,8,0:0:0:75:Snare.wav
+448,192,179363,1,0,0:0:0:75:Clap.wav
+192,192,179448,1,0,0:0:0:70:16 80.wav
+448,192,179533,1,0,0:0:0:70:14 80.wav
+320,192,179618,1,0,0:0:0:70:x 14 80.wav
+64,192,179704,1,8,0:0:0:75:Snare.wav
+192,192,179704,1,0,0:0:0:75:Clap.wav
+448,192,179789,1,0,0:0:0:70:16 80.wav
+320,192,179874,1,0,0:0:0:70:14 80.wav
+64,192,179959,1,8,0:0:0:75:Snare.wav
+192,192,179959,1,0,0:0:0:70:x 14 80.wav
+320,192,180045,1,2,0:0:0:75:Kick.wav
+448,192,180045,1,8,0:0:0:75:Snare.wav
+64,192,180130,1,0,0:0:0:70:16 80.wav
+192,192,180215,1,8,0:0:0:75:Snare.wav
+320,192,180300,1,8,0:0:0:75:Snare.wav
+64,192,180386,1,2,0:0:0:75:Kick.wav
+192,192,180386,1,4,0:0:0:75:Crash high.wav
+448,192,180386,1,0,0:0:0:70:18 80.wav
+192,192,180556,1,8,0:0:0:75:Snare.wav
+320,192,180556,1,0,0:0:0:75:Clap.wav
+320,192,180726,1,2,0:0:0:75:Kick.wav
+448,192,180726,1,8,0:0:0:75:Snare.wav
+192,192,180812,1,0,0:0:0:70:16 80.wav
+64,192,180897,1,0,0:0:0:70:14 80.wav
+320,192,180897,1,0,0:0:0:55:x x 4 4 2 Bm 160.wav
+448,192,180982,1,0,0:0:0:70:x 14 80.wav
+64,192,181067,1,2,0:0:0:75:Kick.wav
+192,192,181067,1,8,0:0:0:75:Snare.wav
+448,192,181153,1,0,0:0:0:70:16 80.wav
+320,192,181238,1,0,0:0:0:70:14 80.wav
+64,192,181323,1,8,0:0:0:75:Snare.wav
+192,192,181323,1,0,0:0:0:75:Clap.wav
+320,192,181408,1,2,0:0:0:75:Kick.wav
+448,192,181408,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,181493,1,0,0:0:0:70:16 80.wav
+192,192,181579,1,8,0:0:0:75:Snare.wav
+448,192,181579,1,0,0:0:0:75:Clap.wav
+320,192,181664,1,0,0:0:0:70:x 14 80.wav
+64,192,181749,1,2,0:0:0:75:Kick.wav
+192,192,181749,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,181834,1,0,0:0:0:70:16 80.wav
+64,192,181920,1,8,0:0:0:75:Snare.wav
+320,192,181920,1,0,0:0:0:75:Clap.wav
+192,192,182005,1,0,0:0:0:70:x 14 80.wav
+320,192,182090,1,2,0:0:0:75:Kick.wav
+448,192,182090,1,8,0:0:0:75:Snare.wav
+64,192,182175,1,0,0:0:0:70:16 80.wav
+192,192,182261,1,0,0:0:0:70:14 80.wav
+448,192,182346,1,0,0:0:0:70:x 14 80.wav
+64,192,182431,1,2,0:0:0:75:Kick.wav
+320,192,182431,1,8,0:0:0:75:Snare.wav
+192,192,182516,1,0,0:0:0:70:16 80.wav
+64,192,182601,1,0,0:0:0:70:14 80.wav
+320,192,182687,1,8,0:0:0:75:Snare.wav
+448,192,182687,1,0,0:0:0:70:x 14 80.wav
+64,192,182772,1,2,0:0:0:75:Kick.wav
+192,192,182772,1,8,0:0:0:75:Snare.wav
+448,192,182857,1,0,0:0:0:70:16 80.wav
+192,192,182942,1,8,0:0:0:75:Snare.wav
+320,192,182942,1,0,0:0:0:70:14 80.wav
+64,192,183028,1,8,0:0:0:75:Snare.wav
+192,192,183113,1,2,0:0:0:75:Kick.wav
+320,192,183113,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,183113,1,0,0:0:0:70:18 80.wav
+64,192,183283,1,8,0:0:0:75:Snare.wav
+448,192,183283,1,0,0:0:0:75:Clap.wav
+192,192,183454,1,2,0:0:0:75:Kick.wav
+320,192,183454,1,8,0:0:0:75:Snare.wav
+448,192,183539,1,0,0:0:0:70:16 80.wav
+64,192,183624,1,0,0:0:0:70:14 80.wav
+192,192,183709,1,0,0:0:0:70:x 14 80.wav
+320,192,183795,1,2,0:0:0:75:Kick.wav
+448,192,183795,1,8,0:0:0:75:Snare.wav
+192,192,183880,1,0,0:0:0:70:16 80.wav
+64,192,183965,1,0,0:0:0:70:14 80.wav
+320,192,184050,1,8,0:0:0:75:Snare.wav
+448,192,184050,1,0,0:0:0:75:Clap.wav
+64,192,184136,1,2,0:0:0:75:Kick.wav
+192,192,184136,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,184221,1,0,0:0:0:70:16 80.wav
+64,192,184306,1,8,0:0:0:75:Snare.wav
+448,192,184306,1,0,0:0:0:75:Clap.wav
+192,192,184391,1,0,0:0:0:70:x 14 80.wav
+320,192,184476,1,2,0:0:0:75:Kick.wav
+448,192,184476,1,8,0:0:0:75:Snare.wav
+64,192,184562,1,0,0:0:0:70:16 80.wav
+192,192,184647,1,0,0:0:0:75:Clap.wav
+320,192,184647,1,0,0:0:0:70:14 80.wav
+448,192,184732,1,8,0:0:0:75:Snare.wav
+64,192,184817,1,2,0:0:0:75:Kick.wav
+192,192,184817,1,0,0:0:0:75:Clap.wav
+320,192,184903,1,0,0:0:0:70:16 80.wav
+64,192,184988,1,8,0:0:0:75:Snare.wav
+448,192,184988,1,0,0:0:0:70:14 80.wav
+192,192,185073,1,0,0:0:0:70:x 14 80.wav
+320,192,185158,1,2,0:0:0:75:Kick.wav
+448,192,185158,1,0,0:0:0:75:Clap.wav
+192,192,185243,1,0,0:0:0:70:16 80.wav
+64,192,185329,1,8,0:0:0:75:Snare.wav
+448,192,185329,1,0,0:0:0:70:14 80.wav
+320,192,185414,1,8,0:0:0:75:Snare.wav
+64,192,185499,1,2,0:0:0:75:Kick.wav
+192,192,185499,1,8,0:0:0:75:Snare.wav
+320,192,185584,1,8,0:0:0:75:Snare.wav
+448,192,185584,1,0,0:0:0:0:
+64,192,185670,1,8,0:0:0:75:Snare.wav
+192,192,185670,1,0,0:0:0:55:2 2 3 4 4 2 F# 160.wav
+320,192,185755,1,8,0:0:0:75:Snare.wav
+64,192,185840,128,2,186011:0:0:0:75:Kick.wav
+192,192,185840,1,0,0:0:0:75:Clap.wav
+448,192,185840,1,4,0:0:0:75:Crash high.wav
+448,192,186011,1,0,0:0:0:70:11 53.wav
+320,192,186067,1,0,0:0:0:70:14 53.wav
+192,192,186124,1,0,0:0:0:70:11 53.wav
+64,192,186181,1,8,0:0:0:75:Snare.wav
+320,192,186181,1,0,0:0:0:75:Clap.wav
+448,192,186181,128,0,186351:0:0:0:50:Hi-Hat open.wav
+192,192,186351,128,0,186522:0:0:0:70:11 320.wav
+64,192,186522,128,8,186692:0:0:0:75:Snare.wav
+320,192,186522,1,0,0:0:0:75:Clap.wav
+448,192,186522,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,186692,1,2,0:0:0:75:Kick.wav
+320,192,186692,1,0,0:0:0:70:x 14 160.wav
+64,192,186863,1,8,0:0:0:75:Snare.wav
+192,192,186863,128,0,187033:0:0:0:75:Clap.wav
+448,192,186863,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,187033,1,2,0:0:0:75:Kick.wav
+448,192,187033,128,0,187204:0:0:0:70:x x 13 bend full release 320.wav
+64,192,187204,1,8,0:0:0:75:Snare.wav
+192,192,187204,1,0,0:0:0:75:Clap.wav
+320,192,187204,128,0,187374:0:0:0:50:Hi-Hat open.wav
+192,192,187374,128,0,187545:0:0:0:70:x x 11 160.wav
+64,192,187545,128,8,187715:0:0:0:75:Snare.wav
+320,192,187545,1,0,0:0:0:75:Clap.wav
+448,192,187545,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,187715,1,0,0:0:0:70:x x 15 160.wav
+320,192,187800,1,2,0:0:0:75:Kick.wav
+64,192,187886,1,8,0:0:0:75:Snare.wav
+192,192,187886,128,0,188056:0:0:0:75:Clap.wav
+320,192,188056,128,2,188226:0:0:0:75:Kick.wav
+448,192,188056,1,0,0:0:0:70:x x 11 160.wav
+64,192,188226,128,8,188397:0:0:0:75:Snare.wav
+192,192,188226,1,0,0:0:0:75:Clap.wav
+448,192,188226,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,188397,128,0,188567:0:0:0:70:x x x 11 P.M. 160.wav
+64,192,188567,1,8,0:0:0:75:Snare.wav
+320,192,188567,1,0,0:0:0:75:Clap.wav
+448,192,188567,128,0,188738:0:0:0:50:Hi-Hat open.wav
+64,192,188738,1,0,0:0:0:70:11 53.wav
+192,192,188795,1,0,0:0:0:70:14 53.wav
+320,192,188851,1,0,0:0:0:70:11 53.wav
+64,192,188908,128,8,189079:0:0:0:75:Snare.wav
+192,192,188908,1,0,0:0:0:75:Clap.wav
+448,192,188908,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,189079,128,0,189249:0:0:0:70:11 320.wav
+64,192,189249,1,8,0:0:0:75:Snare.wav
+192,192,189249,1,0,0:0:0:75:Clap.wav
+448,192,189249,128,0,189420:0:0:0:50:Hi-Hat open.wav
+192,192,189420,1,2,0:0:0:75:Kick.wav
+320,192,189420,1,0,0:0:0:70:x 14 160.wav
+64,192,189590,1,8,0:0:0:75:Snare.wav
+320,192,189590,128,0,189761:0:0:0:75:Clap.wav
+448,192,189590,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,189761,128,2,189931:0:0:0:75:Kick.wav
+192,192,189761,1,0,0:0:0:70:x x 13 160.wav
+192,192,189931,128,8,190101:0:0:0:75:Snare.wav
+320,192,189931,1,0,0:0:0:75:Clap.wav
+448,192,189931,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,190101,128,0,190272:0:0:0:70:x 14 160.wav
+64,192,190272,1,8,0:0:0:75:Snare.wav
+192,192,190272,1,0,0:0:0:75:Clap.wav
+320,192,190272,128,0,190442:0:0:0:50:Hi-Hat open.wav
+192,192,190442,128,0,190613:0:0:0:70:x x 11 160.wav
+64,192,190613,128,8,190783:0:0:0:75:Snare.wav
+320,192,190613,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,190613,1,0,0:0:0:70:x x 13 160.wav
+192,192,190783,1,0,0:0:0:75:Clap.wav
+320,192,190868,1,2,0:0:0:75:Kick.wav
+64,192,190954,1,8,0:0:0:75:Snare.wav
+192,192,190954,128,0,191124:0:0:0:75:Clap.wav
+320,192,191124,128,2,191295:0:0:0:75:Kick.wav
+448,192,191124,1,0,0:0:0:70:x x x 11 P.M. 160.wav
+64,192,191295,128,8,191465:0:0:0:75:Snare.wav
+192,192,191295,1,0,0:0:0:75:Clap.wav
+448,192,191465,1,0,0:0:0:70:11 53.wav
+320,192,191522,1,0,0:0:0:70:14 53.wav
+192,192,191579,1,0,0:0:0:70:11 53.wav
+64,192,191636,1,8,0:0:0:75:Snare.wav
+320,192,191636,128,0,191806:0:0:0:75:Clap.wav
+448,192,191636,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,191806,128,0,191976:0:0:0:70:11 320.wav
+64,192,191976,128,8,192147:0:0:0:75:Snare.wav
+320,192,191976,1,0,0:0:0:75:Clap.wav
+448,192,191976,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,192147,1,2,0:0:0:75:Kick.wav
+320,192,192147,1,0,0:0:0:70:x 14 160.wav
+64,192,192317,1,8,0:0:0:75:Snare.wav
+192,192,192317,1,0,0:0:0:75:Clap.wav
+448,192,192317,128,0,192488:0:0:0:50:Hi-Hat open.wav
+64,192,192488,128,2,192658:0:0:0:75:Kick.wav
+320,192,192488,1,0,0:0:0:70:x x 13 bend full release 320.wav
+192,192,192658,128,8,192829:0:0:0:75:Snare.wav
+320,192,192658,1,0,0:0:0:75:Clap.wav
+448,192,192658,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,192829,128,0,192999:0:0:0:70:x x 11 160.wav
+192,192,192999,1,8,0:0:0:75:Snare.wav
+320,192,192999,1,0,0:0:0:75:Clap.wav
+448,192,192999,128,0,193170:0:0:0:50:Hi-Hat open.wav
+320,192,193170,1,0,0:0:0:70:x x 15 160.wav
+64,192,193340,1,8,0:0:0:75:Snare.wav
+192,192,193340,1,0,0:0:0:75:Clap.wav
+320,192,193340,128,0,193511:0:0:0:50:Hi-Hat open.wav
+192,192,193511,1,0,0:0:0:70:x x 11 160.wav
+64,192,193681,1,8,0:0:0:75:Snare.wav
+192,192,193681,128,0,193851:0:0:0:75:Clap.wav
+448,192,193681,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,193851,1,2,0:0:0:75:Kick.wav
+448,192,193851,1,0,0:0:0:70:x x x 11 P.M. 160.wav
+64,192,194022,128,8,194192:0:0:0:75:Snare.wav
+320,192,194022,1,4,0:0:0:75:Crash high.wav
+192,192,194192,128,2,194363:0:0:0:75:Kick.wav
+448,192,194192,1,0,0:0:0:70:x x x 13 P.M. 160.wav
+320,192,194363,128,0,194533:0:0:0:75:Tom1.wav
+64,192,194448,1,0,0:0:0:75:Tom2.wav
+448,192,194533,128,0,194704:0:0:0:75:Tom4.wav
+192,192,194618,1,0,0:0:0:75:Tom4.wav
+64,192,194704,1,2,0:0:0:75:Kick.wav
+320,192,194704,1,0,0:0:0:70:x x 15 640.wav
+64,192,194874,1,8,0:0:0:75:Snare.wav
+192,192,194874,1,0,0:0:0:75:Tom4.wav
+448,192,194874,1,0,0:0:0:40:bass 4-6 160.wav
+64,192,195045,1,8,0:0:0:75:Snare.wav
+192,192,195045,1,0,0:0:0:75:Tom4.wav
+448,192,195045,1,0,0:0:0:40:bass 4-4 320.wav
+64,192,195215,1,8,0:0:0:75:Snare.wav
+192,192,195215,1,0,0:0:0:75:Tom4.wav
+448,192,195215,1,0,0:0:0:0:
+192,192,195386,128,2,195726:0:0:0:75:Kick.wav
+320,192,195386,1,0,0:0:0:50:LR_CymbalG.wav
+448,192,195386,1,0,0:0:0:70:x x x x x 2 640.wav
+320,192,195726,1,8,0:0:0:75:Snare.wav
+448,192,195726,1,0,0:0:0:0:
+64,192,195812,1,8,0:0:0:75:Snare.wav
+192,192,195812,1,0,0:0:0:0:
+320,192,195897,1,8,0:0:0:75:Snare.wav
+448,192,195897,1,0,0:0:0:0:
+192,192,195982,1,8,0:0:0:75:Snare.wav
+64,192,196067,1,2,0:0:0:75:Kick.wav
+320,192,196067,1,4,0:0:0:75:Crash high.wav
+448,192,196067,128,0,196408:0:0:0:70:x x x x x 2 640.wav
+192,192,196408,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,196408,1,0,0:0:0:0:
+64,192,196749,128,8,197005:0:0:0:75:Snare.wav
+320,192,196749,1,0,0:0:0:70:x 9 11 bend full 720.wav
+448,192,196749,1,0,0:0:0:55:x x x 6 6 4 G#m 720.wav
+192,192,197005,128,0,197261:0:0:0:75:Tom1.wav
+320,192,197005,1,0,0:0:0:0:
+448,192,197005,1,0,0:0:0:0:
+64,192,197261,1,0,0:0:0:75:Tom2.wav
+320,192,197261,128,0,197516:0:0:0:0:
+448,192,197261,1,0,0:0:0:0:
+64,192,197516,128,8,200840:0:0:0:75:Snare.wav
+192,192,197516,128,0,200840:0:0:0:50:LR_CymbalG.wav
+448,192,197516,128,0,200840:0:0:0:70:x 11 13 bend full Left-hand vibrato 3120.wav

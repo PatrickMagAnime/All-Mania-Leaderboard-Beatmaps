@@ -1,0 +1,100 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 34963
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 35100
+DistanceSpacing: 1
+BeatDivisor: 1
+GridSize: 32
+TimelineZoom: 6.099997
+
+[Metadata]
+Title:Symphony Of The Beginning
+TitleUnicode:Symphony Of The Beginning
+Artist:Akiri
+ArtistUnicode:あきり
+Creator:-Kori
+Version:10K8K Beginner
+Source:
+Tags:featured artist fa Mappers' Guild MG MPG instrumental ambient The Lost Symphonies sv slowjam 10+8k 8k10k 8+10k 4k10k4k 4+10+4k
+BeatmapID:4766591
+BeatmapSetID:2242527
+
+[Difficulty]
+HPDrainRate:6.6
+CircleSize:18
+OverallDifficulty:6.4
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+191,545.4545455,4,2,1,25,1,0
+
+
+[HitObjects]
+355,192,35100,1,0,0:0:0:0:
+213,192,39463,1,0,0:0:0:0:
+156,192,43827,1,0,0:0:0:0:
+184,192,48191,1,0,0:0:0:0:
+298,192,51463,1,0,0:0:0:0:
+71,192,52554,1,0,0:0:0:0:
+42,192,56918,1,0,0:0:0:0:
+412,192,61281,1,0,0:0:0:0:
+440,192,65645,1,0,0:0:0:0:
+469,192,68918,1,0,0:0:0:0:
+128,192,70009,1,0,0:0:0:0:
+156,192,71100,1,0,0:0:0:0:
+184,192,72191,1,0,0:0:0:0:
+213,192,73281,1,0,0:0:0:0:
+298,192,74372,1,0,0:0:0:0:
+327,192,75463,1,0,0:0:0:0:
+355,192,76554,1,0,0:0:0:0:
+384,192,77781,1,0,0:0:0:0:
+99,192,78736,1,0,0:0:0:0:
+71,192,79827,1,0,0:0:0:0:
+42,192,80918,1,0,0:0:0:0:
+14,192,82009,1,0,0:0:0:0:
+497,192,83100,1,0,0:0:0:0:
+469,192,84191,1,0,0:0:0:0:
+440,192,85281,1,0,0:0:0:0:
+412,192,86372,1,0,0:0:0:0:
+213,192,87463,1,0,0:0:0:0:
+241,192,88554,1,0,0:0:0:0:
+270,192,89645,1,0,0:0:0:0:
+298,192,90736,1,0,0:0:0:0:
+128,192,91827,1,0,0:0:0:0:
+156,192,92918,1,0,0:0:0:0:
+184,192,94009,1,0,0:0:0:0:
+213,192,95100,1,0,0:0:0:0:
+497,192,96191,1,0,0:0:0:0:
+469,192,97281,1,0,0:0:0:0:
+440,192,98372,1,0,0:0:0:0:
+412,192,99463,1,0,0:0:0:0:
+14,192,100554,1,0,0:0:0:0:
+42,192,101645,1,0,0:0:0:0:
+71,192,102736,128,0,103827:0:0:0:0:
+99,192,103827,128,0,104918:0:0:0:0:
+327,192,104918,1,0,0:0:0:0:

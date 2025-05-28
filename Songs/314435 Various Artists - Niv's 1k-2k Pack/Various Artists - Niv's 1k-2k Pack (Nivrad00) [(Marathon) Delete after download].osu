@@ -1,0 +1,58 @@
+osu file format v14
+
+[General]
+AudioFilename: .mp3
+AudioLeadIn: 0
+PreviewTime: 0
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 11636,34909,46545,69818,81454,93090,128000,142545,154181,190545
+DistanceSpacing: 1
+BeatDivisor: 1
+GridSize: 4
+TimelineZoom: 0.2999998
+
+[Metadata]
+Title:Niv's 1k-2k Pack
+TitleUnicode:Niv's 1k-2k Pack
+Artist:Various Artists
+ArtistUnicode:Various Artists
+Creator:Nivrad00
+Version:(Marathon) Delete after download
+Source:
+Tags:Inspector K Disconnected Hardkore (CanBlaster Remix) Swampyboy Glacial Floe 8bitcollective 8bc hello world! The Quick Brown Fox CRT renard halley labs lapfox trax Baby Alice Piña Colada Boy (Nightcore Mix) Pina DJ Fresh Louder (Doctor P & Flux Pavilion Remix) feat ft Sian Evans Renard The Club Intensive Care Unit EP midy m1dy Job Nothing Home Nothing Cash Nothing PERFECT MATHAFACKA 1key 2key
+BeatmapID:3398173
+BeatmapSetID:314435
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:1
+OverallDifficulty:8
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"pexels-roman-odintsov-4553373.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,400,4,2,0,25,1,0
+
+
+[HitObjects]
+64,192,0,5,0,0:0:0:0:
