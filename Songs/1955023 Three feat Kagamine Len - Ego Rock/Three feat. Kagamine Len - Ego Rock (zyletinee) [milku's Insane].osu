@@ -49,6 +49,7 @@ SliderTickRate:1
 //Storyboard Layer 3 (Foreground)
 //Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
+
 Sample,16696,0,"Hat Open.wav",30
 Sample,17163,0,"Hat Open.wav",30
 Sample,17230,0,"Hat Open.wav",30
@@ -56,9 +57,8 @@ Sample,22163,0,"Hat Open.wav",70
 
 [TimingPoints]
 30,266.666666666667,4,2,1,70,1,0
-35230,-100,4,2,1,70,0,1
-56563,-100,4,2,1,70,0,0
-
+35230,-100.0,4,2,1,70,0,1
+56563,-100.0,4,2,1,70,0,0
 
 [HitObjects]
 64,192,63,128,0,163:0:0:0:0:

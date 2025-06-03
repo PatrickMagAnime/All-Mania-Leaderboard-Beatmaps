@@ -16,7 +16,7 @@ WidescreenStoryboard: 0
 DistanceSpacing: 1.2
 BeatDivisor: 4
 GridSize: 4
-TimelineZoom: 2.099999
+TimelineZoom: 2.499999
 
 [Metadata]
 Title:Cranberry City feat. Luschel
@@ -26,7 +26,7 @@ ArtistUnicode:lapix
 Creator:8230
 Version:Black Another
 Source:beatmania IIDX 26 Rootage
-Tags:vocal dump chordjack chord jack cj garage pop ost original soundtrack selection mrx-060 megarex rizing destruction c97 comiket97 comic market 97 コミックマーケット97 コミケ97 doujin dojin english video game rhythm electronic funk
+Tags:vocal dump chordjack chord jack cj garage pop ost original soundtrack selection mrx-060 megarex rizing destruction c97 comiket97 comic market 97 コミックマーケット97 コミケ97 doujin dojin english vgm video game music rhythm electronic funk
 BeatmapID:4213920
 BeatmapSetID:2023123
 
@@ -48,23 +48,34 @@ SliderTickRate:1
 //Storyboard Layer 3 (Foreground)
 //Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
-
+Sample,3494,0,"normal-hitwhistle.wav",10
+Sample,3602,0,"normal-hitwhistle.wav",10
+Sample,3711,0,"normal-hitwhistle.wav",10
+Sample,3820,0,"normal-hitwhistle.wav",10
+Sample,25124,0,"normal-hitwhistle.wav",70
+Sample,27189,0,"normal-hitwhistle.wav",35
+Sample,29798,0,"normal-hitwhistle.wav",70
+Sample,32081,0,"normal-hitwhistle.wav",70
+Sample,46827,0,"normal-hitwhistle.wav",60
+Sample,46899,0,"normal-hitwhistle.wav",65
 Sample,53494,0,"normal-hitclap.wav",70
 Sample,56972,0,"normal-hitclap.wav",70
+Sample,58276,0,"normal-hitwhistle.wav",70
 Sample,70885,0,"normal-hitclap.wav",70
 Sample,98711,0,"normal-hitclap.wav",70
 
 [TimingPoints]
 1755,434.782608695652,4,1,1,50,1,0
-48711,-100.0,4,1,1,50,0,1
-62624,-100.0,4,1,1,50,0,0
-66537,-100.0,4,1,1,50,0,1
-76537,-100.0,4,1,1,50,0,0
-90450,-100.0,4,1,1,50,0,1
-104363,-100.0,4,1,1,50,0,0
+48711,-100,4,1,1,50,0,1
+62624,-100,4,1,1,50,0,0
+66537,-100,4,1,1,50,0,1
+76537,-100,4,1,1,50,0,0
+90450,-100,4,1,1,50,0,1
+104363,-100,4,1,1,50,0,0
+
 
 [HitObjects]
-64,192,1755,1,0,0:0:0:70:normal-hitwhistle.wav
+64,192,1755,5,0,0:0:0:70:normal-hitwhistle.wav
 192,192,1755,1,0,0:0:0:10:normal-hitfinish.wav
 448,192,1755,1,0,0:0:0:0:
 320,192,1863,1,0,0:0:0:0:
@@ -276,9 +287,9 @@ Sample,98711,0,"normal-hitclap.wav",70
 64,192,15233,1,0,0:0:0:70:normal-hitclap.wav
 320,192,15233,1,0,0:0:0:0:
 448,192,15233,1,0,0:0:0:0:
-448,192,15341,1,0,0:0:0:0:
+320,192,15341,1,0,0:0:0:0:
 64,192,15450,1,0,0:0:0:0:
-320,192,15450,1,0,0:0:0:0:
+448,192,15450,1,0,0:0:0:0:
 192,192,15559,1,0,0:0:0:0:
 320,192,15559,1,0,0:0:0:0:
 64,192,15668,1,0,0:0:0:70:normal-hitwhistle.wav
@@ -640,10 +651,10 @@ Sample,98711,0,"normal-hitclap.wav",70
 320,192,36247,1,0,0:0:0:0:
 64,192,36320,1,0,0:0:0:0:
 192,192,36392,1,0,0:0:0:0:
-448,192,36465,1,0,0:0:0:0:
+320,192,36465,1,0,0:0:0:0:
 64,192,36537,1,0,0:0:0:70:normal-hitwhistle.wav
 192,192,36537,1,0,0:0:0:0:
-320,192,36537,128,0,36863:0:0:0:0:
+448,192,36537,128,0,36863:0:0:0:0:
 64,192,36646,1,0,0:0:0:0:
 192,192,36646,1,0,0:0:0:0:
 192,192,36972,128,0,37298:0:0:0:70:normal-hitwhistle.wav

@@ -16,7 +16,7 @@ WidescreenStoryboard: 0
 DistanceSpacing: 1.2
 BeatDivisor: 4
 GridSize: 4
-TimelineZoom: 1.799999
+TimelineZoom: 1.299999
 
 [Metadata]
 Title:Cranberry City feat. Luschel
@@ -26,7 +26,7 @@ ArtistUnicode:lapix
 Creator:8230
 Version:Normal
 Source:beatmania IIDX 26 Rootage
-Tags:vocal dump chordjack chord jack cj garage pop ost original soundtrack selection mrx-060 megarex rizing destruction c97 comiket97 comic market 97 コミックマーケット97 コミケ97 doujin dojin english video game rhythm electronic funk
+Tags:vocal dump chordjack chord jack cj garage pop ost original soundtrack selection mrx-060 megarex rizing destruction c97 comiket97 comic market 97 コミックマーケット97 コミケ97 doujin dojin english vgm video game music rhythm electronic funk
 BeatmapID:4213925
 BeatmapSetID:2023123
 
@@ -48,21 +48,83 @@ SliderTickRate:1
 //Storyboard Layer 3 (Foreground)
 //Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
+Sample,3494,0,"normal-hitwhistle.wav",10
+Sample,3602,0,"normal-hitwhistle.wav",10
+Sample,3711,0,"normal-hitwhistle.wav",10
+Sample,3820,0,"normal-hitwhistle.wav",10
+Sample,4037,0,"normal-hitwhistle.wav",10
+Sample,4146,0,"normal-hitwhistle.wav",25
+Sample,4254,0,"normal-hitwhistle.wav",25
+Sample,4363,0,"normal-hitwhistle.wav",40
+Sample,4472,0,"normal-hitwhistle.wav",40
+Sample,4581,0,"normal-hitwhistle.wav",55
+Sample,4689,0,"normal-hitwhistle.wav",55
+Sample,4798,0,"normal-hitwhistle.wav",70
+Sample,4907,0,"normal-hitwhistle.wav",70
 Sample,5015,0,"normal-hitclap.wav",70
 Sample,5124,0,"normal-hitclap.wav",70
+Sample,9146,0,"normal-hitclap.wav",70
+Sample,16102,0,"normal-hitclap.wav",70
+Sample,23602,0,"normal-hitwhistle.wav",35
+Sample,23820,0,"normal-hitwhistle.wav",35
+Sample,25124,0,"normal-hitwhistle.wav",70
+Sample,27298,0,"normal-hitwhistle.wav",35
+Sample,29146,0,"normal-hitclap.wav",70
+Sample,29798,0,"normal-hitwhistle.wav",70
+Sample,32081,0,"normal-hitwhistle.wav",70
+Sample,33820,0,"normal-hitwhistle.wav",70
+Sample,41320,0,"normal-hitclap.wav",70
+Sample,46320,0,"normal-hitwhistle.wav",25
+Sample,46392,0,"normal-hitwhistle.wav",30
+Sample,46465,0,"normal-hitwhistle.wav",35
+Sample,46610,0,"normal-hitwhistle.wav",45
+Sample,46682,0,"normal-hitwhistle.wav",50
+Sample,46827,0,"normal-hitwhistle.wav",60
+Sample,46899,0,"normal-hitwhistle.wav",65
+Sample,49581,0,"normal-hitwhistle.wav",70
+Sample,51320,0,"normal-hitwhistle.wav",70
+Sample,53059,0,"normal-hitwhistle.wav",70
+Sample,53494,0,"normal-hitwhistle.wav",70
+Sample,53494,0,"normal-hitclap.wav",70
 Sample,54363,0,"normal-hitclap.wav",70
 Sample,55233,0,"normal-hitclap.wav",70
 Sample,55233,0,"normal-hitfinish.wav",35
+Sample,56537,0,"normal-hitwhistle.wav",70
+Sample,56972,0,"normal-hitwhistle.wav",70
+Sample,56972,0,"normal-hitclap.wav",70
+Sample,58276,0,"normal-hitwhistle.wav",70
+Sample,59146,0,"normal-hitwhistle.wav",70
 Sample,66537,0,"normal-hitfinish.wav",70
+Sample,66972,0,"normal-hitwhistle.wav",70
 Sample,68276,0,"normal-hitclap.wav",70
 Sample,69146,0,"normal-hitclap.wav",70
 Sample,69146,0,"normal-hitfinish.wav",35
+Sample,70450,0,"normal-hitwhistle.wav",70
+Sample,70885,0,"normal-hitwhistle.wav",70
+Sample,70885,0,"normal-hitclap.wav",70
+Sample,71972,0,"normal-hitwhistle.wav",70
+Sample,73059,0,"normal-hitwhistle.wav",70
+Sample,73059,0,"normal-hitfinish.wav",70
+Sample,83168,0,"normal-hitwhistle.wav",70
+Sample,83385,0,"normal-hitwhistle.wav",70
+Sample,91320,0,"normal-hitwhistle.wav",70
+Sample,93059,0,"normal-hitwhistle.wav",70
+Sample,95233,0,"normal-hitwhistle.wav",70
+Sample,95233,0,"normal-hitclap.wav",70
+Sample,96537,0,"normal-hitwhistle.wav",70
 Sample,96972,0,"normal-hitfinish.wav",35
+Sample,98711,0,"normal-hitwhistle.wav",70
+Sample,98711,0,"normal-hitclap.wav",70
 Sample,101320,0,"normal-hitclap.wav",70
+Sample,101754,0,"normal-hitwhistle.wav",70
 Sample,110885,0,"normal-hitfinish.wav",35
 Sample,112624,0,"normal-hitclap.wav",70
+Sample,113711,0,"normal-hitwhistle.wav",70
+Sample,114254,0,"normal-hitwhistle.wav",70
 Sample,114363,0,"normal-hitfinish.wav",35
 Sample,116102,0,"normal-hitclap.wav",70
+Sample,117407,0,"normal-hitwhistle.wav",70
+Sample,117407,0,"normal-hitclap.wav",70
 
 [TimingPoints]
 1755,434.782608695652,4,1,1,50,1,0
@@ -263,8 +325,7 @@ Sample,116102,0,"normal-hitclap.wav",70
 192,192,34146,128,0,34363:0:0:0:0:
 320,192,34363,128,0,34581:0:0:0:70:normal-hitwhistle.wav
 448,192,34363,1,0,0:0:0:70:normal-hitclap.wav
-64,192,34581,128,0,34798:0:0:0:0:
-192,192,34581,1,0,0:0:0:0:
+64,192,34581,1,0,0:0:0:0:
 320,192,34798,1,0,0:0:0:70:normal-hitwhistle.wav
 448,192,34798,128,0,35233:0:0:0:70:normal-hitfinish.wav
 64,192,35233,1,0,0:0:0:70:normal-hitclap.wav
