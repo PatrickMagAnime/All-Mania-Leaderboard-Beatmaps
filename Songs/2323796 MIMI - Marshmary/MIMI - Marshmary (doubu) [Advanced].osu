@@ -1,0 +1,2691 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 10709
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Marshmary
+TitleUnicode:マシュマリー
+Artist:MIMI
+ArtistUnicode:MIMI
+Creator:doubu
+Version:Advanced
+Source:
+Tags:featured artist fa 佐藤主税 vocaloid japanese pop jpop j-pop hatsune miku 初音ミク piano mpg mg mappers' guild chikara sato studioonett マルシェ marche
+BeatmapID:5111298
+BeatmapSetID:2323796
+
+[Difficulty]
+HPDrainRate:7.7
+CircleSize:6
+OverallDifficulty:7.7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Marshmary.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,10709,0,"LR_HiHat Click.wav",30
+Sample,10874,0,"LR_HiHat Click.wav",30
+Sample,11039,0,"LR_HiHat Click.wav",30
+Sample,11203,0,"LR_HiHat Click.wav",30
+Sample,11368,0,"LR_HiHat Click.wav",30
+Sample,11533,0,"LR_HiHat Click.wav",30
+Sample,11698,0,"LR_HiHat Click.wav",30
+Sample,11863,0,"LR_HiHat Click.wav",30
+Sample,12028,0,"LR_HiHat Click.wav",30
+Sample,12192,0,"LR_HiHat Click.wav",30
+Sample,12357,0,"LR_HiHat Click.wav",30
+Sample,12522,0,"LR_HiHat Click.wav",30
+Sample,12687,0,"LR_HiHat Click.wav",30
+Sample,12852,0,"LR_HiHat Click.wav",30
+Sample,13017,0,"LR_HiHat Click.wav",30
+Sample,13181,0,"LR_HiHat Click.wav",30
+Sample,13346,0,"LR_HiHat Click.wav",30
+Sample,13511,0,"LR_HiHat Click.wav",30
+Sample,13676,0,"LR_HiHat Click.wav",30
+Sample,13841,0,"LR_HiHat Click.wav",30
+Sample,14006,0,"LR_HiHat Click.wav",30
+Sample,14170,0,"LR_HiHat Click.wav",30
+Sample,14335,0,"LR_HiHat Click.wav",30
+Sample,14500,0,"LR_HiHat Click.wav",30
+Sample,14665,0,"LR_HiHat Click.wav",30
+Sample,14830,0,"LR_HiHat Click.wav",30
+Sample,14995,0,"LR_HiHat Click.wav",30
+Sample,15160,0,"LR_HiHat Click.wav",30
+Sample,15324,0,"LR_HiHat Click.wav",30
+Sample,15489,0,"LR_HiHat Click.wav",30
+Sample,15654,0,"LR_HiHat Click.wav",30
+Sample,15819,0,"LR_HiHat Click.wav",30
+Sample,15901,0,"LR_HiHat Click.wav",30
+Sample,15984,0,"LR_HiHat Click.wav",30
+Sample,16149,0,"LR_HiHat Click.wav",30
+Sample,16313,0,"LR_HiHat Click.wav",30
+Sample,16478,0,"LR_HiHat Click.wav",30
+Sample,16643,0,"LR_HiHat Click.wav",30
+Sample,16808,0,"LR_HiHat Click.wav",30
+Sample,16973,0,"LR_HiHat Click.wav",30
+Sample,17138,0,"LR_HiHat Click.wav",30
+Sample,17302,0,"LR_HiHat Click.wav",30
+Sample,17467,0,"LR_HiHat Click.wav",30
+Sample,17632,0,"LR_HiHat Click.wav",30
+Sample,17797,0,"LR_HiHat Click.wav",30
+Sample,17962,0,"LR_HiHat Click.wav",30
+Sample,18127,0,"LR_HiHat Click.wav",30
+Sample,18291,0,"LR_HiHat Click.wav",30
+Sample,18456,0,"LR_HiHat Click.wav",30
+Sample,18621,0,"LR_HiHat Click.wav",30
+Sample,18786,0,"LR_HiHat Click.wav",30
+Sample,18951,0,"LR_HiHat Click.wav",30
+Sample,19116,0,"LR_HiHat Click.wav",30
+Sample,19280,0,"LR_HiHat Click.wav",30
+Sample,19445,0,"LR_HiHat Click.wav",30
+Sample,19610,0,"LR_HiHat Click.wav",30
+Sample,19775,0,"LR_HiHat Click.wav",30
+Sample,19940,0,"LR_HiHat Click.wav",30
+Sample,20105,0,"LR_HiHat Click.wav",30
+Sample,20269,0,"LR_HiHat Click.wav",30
+Sample,20434,0,"LR_HiHat Click.wav",30
+Sample,20599,0,"LR_HiHat Click.wav",30
+Sample,20764,0,"LR_HiHat Click.wav",30
+Sample,20929,0,"LR_HiHat Click.wav",30
+Sample,21094,0,"LR_HiHat Click.wav",30
+Sample,21176,0,"LR_HiHat Click.wav",30
+Sample,21258,0,"LR_HiHat Click.wav",30
+Sample,21423,0,"LR_HiHat Click.wav",30
+Sample,21588,0,"LR_HiHat Click.wav",30
+Sample,21753,0,"LR_HiHat Click.wav",30
+Sample,21918,0,"LR_HiHat Click.wav",30
+Sample,22083,0,"LR_HiHat Click.wav",30
+Sample,22247,0,"LR_HiHat Click.wav",30
+Sample,22412,0,"LR_HiHat Click.wav",30
+Sample,22577,0,"LR_HiHat Click.wav",30
+Sample,22742,0,"LR_HiHat Click.wav",30
+Sample,22907,0,"LR_HiHat Click.wav",30
+Sample,23072,0,"LR_HiHat Click.wav",30
+Sample,23236,0,"LR_HiHat Click.wav",30
+Sample,23401,0,"LR_HiHat Click.wav",30
+Sample,23566,0,"LR_HiHat Click.wav",30
+Sample,23731,0,"LR_HiHat Click.wav",30
+Sample,23896,0,"LR_HiHat Click.wav",30
+Sample,24061,0,"LR_HiHat Click.wav",30
+Sample,24225,0,"LR_HiHat Click.wav",30
+Sample,24390,0,"LR_HiHat Click.wav",30
+Sample,24555,0,"LR_HiHat Click.wav",30
+Sample,24720,0,"LR_HiHat Click.wav",30
+Sample,24885,0,"LR_HiHat Click.wav",30
+Sample,25050,0,"LR_HiHat Click.wav",30
+Sample,25214,0,"LR_HiHat Click.wav",30
+Sample,25379,0,"LR_HiHat Click.wav",30
+Sample,25544,0,"LR_HiHat Click.wav",30
+Sample,25709,0,"LR_HiHat Click.wav",30
+Sample,25874,0,"LR_HiHat Click.wav",30
+Sample,26039,0,"LR_HiHat Click.wav",30
+Sample,26203,0,"LR_HiHat Click.wav",30
+Sample,26368,0,"LR_HiHat Click.wav",30
+Sample,26451,0,"LR_HiHat Click.wav",30
+Sample,26533,0,"LR_HiHat Click.wav",30
+Sample,26698,0,"LR_HiHat Click.wav",30
+Sample,26863,0,"LR_HiHat Click.wav",30
+Sample,27028,0,"LR_HiHat Click.wav",30
+Sample,27192,0,"LR_HiHat Click.wav",30
+Sample,27357,0,"LR_HiHat Click.wav",30
+Sample,27522,0,"LR_HiHat Click.wav",30
+Sample,27687,0,"LR_HiHat Click.wav",30
+Sample,27852,0,"LR_HiHat Click.wav",30
+Sample,28017,0,"LR_HiHat Click.wav",30
+Sample,28181,0,"LR_HiHat Click.wav",30
+Sample,28346,0,"LR_HiHat Click.wav",30
+Sample,28511,0,"LR_HiHat Click.wav",30
+Sample,28676,0,"LR_HiHat Click.wav",30
+Sample,28841,0,"LR_HiHat Click.wav",30
+Sample,29006,0,"LR_HiHat Click.wav",30
+Sample,29170,0,"LR_HiHat Click.wav",30
+Sample,29335,0,"LR_HiHat Click.wav",30
+Sample,29500,0,"LR_HiHat Click.wav",30
+Sample,29665,0,"LR_HiHat Click.wav",30
+Sample,29830,0,"LR_HiHat Click.wav",30
+Sample,29995,0,"LR_HiHat Click.wav",30
+Sample,30160,0,"LR_HiHat Click.wav",30
+Sample,30324,0,"LR_HiHat Click.wav",30
+Sample,30407,0,"LR_HiHat Click.wav",30
+Sample,30489,0,"LR_HiHat Click.wav",30
+Sample,30654,0,"LR_HiHat Click.wav",30
+Sample,30819,0,"LR_HiHat Click.wav",30
+Sample,30984,0,"LR_HiHat Click.wav",30
+Sample,31149,0,"LR_HiHat Click.wav",30
+Sample,31313,0,"LR_HiHat Click.wav",30
+Sample,31478,0,"LR_HiHat Click.wav",30
+Sample,31643,0,"LR_HiHat Click.wav",30
+Sample,31725,0,"LR_HiHat Click.wav",30
+Sample,42357,0,"LR_HiHat Click.wav",30
+Sample,42522,0,"LR_HiHat Click.wav",30
+Sample,42687,0,"LR_HiHat Click.wav",30
+Sample,42852,0,"LR_HiHat Click.wav",30
+Sample,43017,0,"LR_HiHat Click.wav",30
+Sample,43181,0,"LR_HiHat Click.wav",30
+Sample,43346,0,"LR_HiHat Click.wav",30
+Sample,43511,0,"LR_HiHat Click.wav",30
+Sample,43676,0,"LR_HiHat Click.wav",30
+Sample,43841,0,"LR_HiHat Click.wav",30
+Sample,44006,0,"LR_HiHat Click.wav",30
+Sample,44170,0,"LR_HiHat Click.wav",30
+Sample,44335,0,"LR_HiHat Click.wav",30
+Sample,44500,0,"LR_HiHat Click.wav",30
+Sample,44665,0,"LR_HiHat Click.wav",30
+Sample,44830,0,"LR_HiHat Click.wav",30
+Sample,44995,0,"LR_HiHat Click.wav",30
+Sample,45160,0,"LR_HiHat Click.wav",30
+Sample,45324,0,"LR_HiHat Click.wav",30
+Sample,45489,0,"LR_HiHat Click.wav",30
+Sample,45654,0,"LR_HiHat Click.wav",30
+Sample,45819,0,"LR_HiHat Click.wav",30
+Sample,45984,0,"LR_HiHat Click.wav",30
+Sample,46149,0,"LR_HiHat Click.wav",30
+Sample,46313,0,"LR_HiHat Click.wav",30
+Sample,46478,0,"LR_HiHat Click.wav",30
+Sample,46643,0,"LR_HiHat Click.wav",30
+Sample,46808,0,"LR_HiHat Click.wav",30
+Sample,46973,0,"LR_HiHat Click.wav",30
+Sample,47138,0,"LR_HiHat Click.wav",30
+Sample,47302,0,"LR_HiHat Click.wav",30
+Sample,47467,0,"LR_HiHat Click.wav",30
+Sample,47550,0,"LR_HiHat Click.wav",30
+Sample,47632,0,"LR_HiHat Click.wav",30
+Sample,47797,0,"LR_HiHat Click.wav",30
+Sample,47962,0,"LR_HiHat Click.wav",30
+Sample,48127,0,"LR_HiHat Click.wav",30
+Sample,48291,0,"LR_HiHat Click.wav",30
+Sample,48456,0,"LR_HiHat Click.wav",30
+Sample,48621,0,"LR_HiHat Click.wav",30
+Sample,48786,0,"LR_HiHat Click.wav",30
+Sample,48951,0,"LR_HiHat Click.wav",30
+Sample,49116,0,"LR_HiHat Click.wav",30
+Sample,49280,0,"LR_HiHat Click.wav",30
+Sample,49445,0,"LR_HiHat Click.wav",30
+Sample,49610,0,"LR_HiHat Click.wav",30
+Sample,49775,0,"LR_HiHat Click.wav",30
+Sample,49940,0,"LR_HiHat Click.wav",30
+Sample,50105,0,"LR_HiHat Click.wav",30
+Sample,50269,0,"LR_HiHat Click.wav",30
+Sample,50434,0,"LR_HiHat Click.wav",30
+Sample,50599,0,"LR_HiHat Click.wav",30
+Sample,50764,0,"LR_HiHat Click.wav",30
+Sample,50929,0,"LR_HiHat Click.wav",30
+Sample,51094,0,"LR_HiHat Click.wav",30
+Sample,51258,0,"LR_HiHat Click.wav",30
+Sample,51423,0,"LR_HiHat Click.wav",30
+Sample,51588,0,"LR_HiHat Click.wav",30
+Sample,51753,0,"LR_HiHat Click.wav",30
+Sample,51918,0,"LR_HiHat Click.wav",30
+Sample,52083,0,"LR_HiHat Click.wav",30
+Sample,52247,0,"LR_HiHat Click.wav",30
+Sample,52412,0,"LR_HiHat Click.wav",30
+Sample,52577,0,"LR_HiHat Click.wav",30
+Sample,52742,0,"LR_HiHat Click.wav",30
+Sample,52824,0,"LR_HiHat Click.wav",30
+Sample,52907,0,"LR_HiHat Click.wav",30
+Sample,53072,0,"LR_HiHat Click.wav",30
+Sample,53236,0,"LR_HiHat Click.wav",30
+Sample,53401,0,"LR_HiHat Click.wav",30
+Sample,53566,0,"LR_HiHat Click.wav",30
+Sample,53731,0,"LR_HiHat Click.wav",30
+Sample,53896,0,"LR_HiHat Click.wav",30
+Sample,54061,0,"LR_HiHat Click.wav",30
+Sample,54225,0,"LR_HiHat Click.wav",30
+Sample,54390,0,"LR_HiHat Click.wav",30
+Sample,54555,0,"LR_HiHat Click.wav",30
+Sample,54720,0,"LR_HiHat Click.wav",30
+Sample,54885,0,"LR_HiHat Click.wav",30
+Sample,55050,0,"LR_HiHat Click.wav",30
+Sample,55214,0,"LR_HiHat Click.wav",30
+Sample,55379,0,"LR_HiHat Click.wav",30
+Sample,55544,0,"LR_HiHat Click.wav",30
+Sample,55709,0,"LR_HiHat Click.wav",30
+Sample,55874,0,"LR_HiHat Click.wav",30
+Sample,56039,0,"LR_HiHat Click.wav",30
+Sample,56203,0,"LR_HiHat Click.wav",30
+Sample,56368,0,"LR_HiHat Click.wav",30
+Sample,56533,0,"LR_HiHat Click.wav",30
+Sample,56698,0,"LR_HiHat Click.wav",30
+Sample,56863,0,"LR_HiHat Click.wav",30
+Sample,57028,0,"LR_HiHat Click.wav",30
+Sample,57192,0,"LR_HiHat Click.wav",30
+Sample,57357,0,"LR_HiHat Click.wav",30
+Sample,57522,0,"LR_HiHat Click.wav",30
+Sample,57687,0,"LR_HiHat Click.wav",30
+Sample,57852,0,"LR_HiHat Click.wav",30
+Sample,58017,0,"LR_HiHat Click.wav",30
+Sample,58099,0,"LR_HiHat Click.wav",30
+Sample,58181,0,"LR_HiHat Click.wav",30
+Sample,58346,0,"LR_HiHat Click.wav",30
+Sample,58511,0,"LR_HiHat Click.wav",30
+Sample,58676,0,"LR_HiHat Click.wav",30
+Sample,58841,0,"LR_HiHat Click.wav",30
+Sample,59006,0,"LR_HiHat Click.wav",30
+Sample,59170,0,"LR_HiHat Click.wav",30
+Sample,59335,0,"LR_HiHat Click.wav",30
+Sample,59500,0,"LR_HiHat Click.wav",30
+Sample,59665,0,"LR_HiHat Click.wav",30
+Sample,59830,0,"LR_HiHat Click.wav",30
+Sample,59995,0,"LR_HiHat Click.wav",30
+Sample,60160,0,"LR_HiHat Click.wav",30
+Sample,60324,0,"LR_HiHat Click.wav",30
+Sample,60489,0,"LR_HiHat Click.wav",30
+Sample,60654,0,"LR_HiHat Click.wav",30
+Sample,60819,0,"LR_HiHat Click.wav",30
+Sample,60984,0,"LR_HiHat Click.wav",30
+Sample,61149,0,"LR_HiHat Click.wav",30
+Sample,61313,0,"LR_HiHat Click.wav",30
+Sample,61478,0,"LR_HiHat Click.wav",30
+Sample,61643,0,"LR_HiHat Click.wav",30
+Sample,61808,0,"LR_HiHat Click.wav",30
+Sample,61973,0,"LR_HiHat Click.wav",30
+Sample,62055,0,"LR_HiHat Click.wav",30
+Sample,62138,0,"LR_HiHat Click.wav",30
+Sample,62302,0,"LR_HiHat Click.wav",30
+Sample,62467,0,"LR_HiHat Click.wav",30
+Sample,62632,0,"LR_HiHat Click.wav",30
+Sample,62797,0,"LR_HiHat Click.wav",30
+Sample,63456,0,"LR_HiHat Click.wav",30
+Sample,63621,0,"LR_HiHat Click.wav",30
+Sample,63786,0,"LR_HiHat Click.wav",30
+Sample,63951,0,"LR_HiHat Click.wav",30
+Sample,64116,0,"LR_HiHat Click.wav",30
+Sample,64280,0,"LR_HiHat Click.wav",30
+Sample,64445,0,"LR_HiHat Click.wav",30
+Sample,64610,0,"LR_HiHat Click.wav",30
+Sample,64775,0,"LR_HiHat Click.wav",30
+Sample,64940,0,"LR_HiHat Click.wav",30
+Sample,65105,0,"LR_HiHat Click.wav",30
+Sample,65269,0,"LR_HiHat Click.wav",30
+Sample,65434,0,"LR_HiHat Click.wav",30
+Sample,65599,0,"LR_HiHat Click.wav",30
+Sample,65764,0,"LR_HiHat Click.wav",30
+Sample,65929,0,"LR_HiHat Click.wav",30
+Sample,66094,0,"LR_HiHat Click.wav",30
+Sample,66258,0,"LR_HiHat Click.wav",30
+Sample,66423,0,"LR_HiHat Click.wav",30
+Sample,66588,0,"LR_HiHat Click.wav",30
+Sample,66753,0,"LR_HiHat Click.wav",30
+Sample,66918,0,"LR_HiHat Click.wav",30
+Sample,67083,0,"LR_HiHat Click.wav",30
+Sample,67247,0,"LR_HiHat Click.wav",30
+Sample,67412,0,"LR_HiHat Click.wav",30
+Sample,67577,0,"LR_HiHat Click.wav",30
+Sample,67742,0,"LR_HiHat Click.wav",30
+Sample,67907,0,"LR_HiHat Click.wav",30
+Sample,68072,0,"LR_HiHat Click.wav",30
+Sample,68236,0,"LR_HiHat Click.wav",30
+Sample,68401,0,"LR_HiHat Click.wav",30
+Sample,68566,0,"LR_HiHat Click.wav",30
+Sample,68649,0,"LR_HiHat Click.wav",30
+Sample,68731,0,"LR_HiHat Click.wav",30
+Sample,68896,0,"LR_HiHat Click.wav",30
+Sample,69061,0,"LR_HiHat Click.wav",30
+Sample,69225,0,"LR_HiHat Click.wav",30
+Sample,69390,0,"LR_HiHat Click.wav",30
+Sample,69555,0,"LR_HiHat Click.wav",30
+Sample,69720,0,"LR_HiHat Click.wav",30
+Sample,69885,0,"LR_HiHat Click.wav",30
+Sample,70050,0,"LR_HiHat Click.wav",30
+Sample,70214,0,"LR_HiHat Click.wav",30
+Sample,70379,0,"LR_HiHat Click.wav",30
+Sample,70544,0,"LR_HiHat Click.wav",30
+Sample,70709,0,"LR_HiHat Click.wav",30
+Sample,70874,0,"LR_HiHat Click.wav",30
+Sample,71039,0,"LR_HiHat Click.wav",30
+Sample,71203,0,"LR_HiHat Click.wav",30
+Sample,71368,0,"LR_HiHat Click.wav",30
+Sample,71533,0,"LR_HiHat Click.wav",30
+Sample,71698,0,"LR_HiHat Click.wav",30
+Sample,71863,0,"LR_HiHat Click.wav",30
+Sample,72028,0,"LR_HiHat Click.wav",30
+Sample,72192,0,"LR_HiHat Click.wav",30
+Sample,72357,0,"LR_HiHat Click.wav",30
+Sample,72522,0,"LR_HiHat Click.wav",30
+Sample,72687,0,"LR_HiHat Click.wav",30
+Sample,72852,0,"LR_HiHat Click.wav",30
+Sample,73017,0,"LR_HiHat Click.wav",30
+Sample,73181,0,"LR_HiHat Click.wav",30
+Sample,73346,0,"LR_HiHat Click.wav",30
+Sample,73511,0,"LR_HiHat Click.wav",30
+Sample,73676,0,"LR_HiHat Click.wav",30
+Sample,73841,0,"LR_HiHat Click.wav",30
+Sample,73923,0,"LR_HiHat Click.wav",30
+Sample,74006,0,"LR_HiHat Click.wav",30
+Sample,74170,0,"LR_HiHat Click.wav",30
+Sample,74335,0,"LR_HiHat Click.wav",30
+Sample,74500,0,"LR_HiHat Click.wav",30
+Sample,74665,0,"LR_HiHat Click.wav",30
+Sample,74830,0,"LR_HiHat Click.wav",30
+Sample,74995,0,"LR_HiHat Click.wav",30
+Sample,75160,0,"LR_HiHat Click.wav",30
+Sample,75324,0,"LR_HiHat Click.wav",30
+Sample,75489,0,"LR_HiHat Click.wav",30
+Sample,75654,0,"LR_HiHat Click.wav",30
+Sample,75819,0,"LR_HiHat Click.wav",30
+Sample,75984,0,"LR_HiHat Click.wav",30
+Sample,76149,0,"LR_HiHat Click.wav",30
+Sample,76313,0,"LR_HiHat Click.wav",30
+Sample,76478,0,"LR_HiHat Click.wav",30
+Sample,76643,0,"LR_HiHat Click.wav",30
+Sample,76808,0,"LR_HiHat Click.wav",30
+Sample,76973,0,"LR_HiHat Click.wav",30
+Sample,77138,0,"LR_HiHat Click.wav",30
+Sample,77302,0,"LR_HiHat Click.wav",30
+Sample,77467,0,"LR_HiHat Click.wav",30
+Sample,77632,0,"LR_HiHat Click.wav",30
+Sample,77797,0,"LR_HiHat Click.wav",30
+Sample,77962,0,"LR_HiHat Click.wav",30
+Sample,78127,0,"LR_HiHat Click.wav",30
+Sample,78291,0,"LR_HiHat Click.wav",30
+Sample,78456,0,"LR_HiHat Click.wav",30
+Sample,78621,0,"LR_HiHat Click.wav",30
+Sample,78786,0,"LR_HiHat Click.wav",30
+Sample,78951,0,"LR_HiHat Click.wav",30
+Sample,79116,0,"LR_HiHat Click.wav",30
+Sample,79198,0,"LR_HiHat Click.wav",30
+Sample,79280,0,"LR_HiHat Click.wav",30
+Sample,79445,0,"LR_HiHat Click.wav",30
+Sample,79610,0,"LR_HiHat Click.wav",30
+Sample,79775,0,"LR_HiHat Click.wav",30
+Sample,79940,0,"LR_HiHat Click.wav",30
+Sample,80105,0,"LR_HiHat Click.wav",30
+Sample,80269,0,"LR_HiHat Click.wav",30
+Sample,80434,0,"LR_HiHat Click.wav",30
+Sample,80599,0,"LR_HiHat Click.wav",30
+Sample,81918,0,"LR_HiHat Click.wav",30
+Sample,82083,0,"LR_HiHat Click.wav",30
+Sample,82247,0,"LR_HiHat Click.wav",30
+Sample,82412,0,"LR_HiHat Click.wav",30
+Sample,82577,0,"LR_HiHat Click.wav",30
+Sample,82742,0,"LR_HiHat Click.wav",30
+Sample,82907,0,"LR_HiHat Click.wav",30
+Sample,83072,0,"LR_HiHat Click.wav",30
+Sample,83236,0,"LR_HiHat Click.wav",30
+Sample,83401,0,"LR_HiHat Click.wav",30
+Sample,83566,0,"LR_HiHat Click.wav",30
+Sample,83731,0,"LR_HiHat Click.wav",30
+Sample,83896,0,"LR_HiHat Click.wav",30
+Sample,84061,0,"LR_HiHat Click.wav",30
+Sample,84225,0,"LR_HiHat Click.wav",30
+Sample,84390,0,"LR_HiHat Click.wav",30
+Sample,84555,0,"LR_HiHat Click.wav",30
+Sample,84720,0,"LR_HiHat Click.wav",30
+Sample,84885,0,"LR_HiHat Click.wav",30
+Sample,85050,0,"LR_HiHat Click.wav",30
+Sample,85214,0,"LR_HiHat Click.wav",30
+Sample,85379,0,"LR_HiHat Click.wav",30
+Sample,85544,0,"LR_HiHat Click.wav",30
+Sample,85709,0,"LR_HiHat Click.wav",30
+Sample,85874,0,"LR_HiHat Click.wav",30
+Sample,86039,0,"LR_HiHat Click.wav",30
+Sample,86203,0,"LR_HiHat Click.wav",30
+Sample,86368,0,"LR_HiHat Click.wav",30
+Sample,86533,0,"LR_HiHat Click.wav",30
+Sample,86698,0,"LR_HiHat Click.wav",30
+Sample,86863,0,"LR_HiHat Click.wav",30
+Sample,87028,0,"LR_HiHat Click.wav",30
+Sample,87110,0,"LR_HiHat Click.wav",30
+Sample,87192,0,"LR_HiHat Click.wav",30
+Sample,87357,0,"LR_HiHat Click.wav",30
+Sample,87522,0,"LR_HiHat Click.wav",30
+Sample,87687,0,"LR_HiHat Click.wav",30
+Sample,87852,0,"LR_HiHat Click.wav",30
+Sample,88017,0,"LR_HiHat Click.wav",30
+Sample,88181,0,"LR_HiHat Click.wav",30
+Sample,88346,0,"LR_HiHat Click.wav",30
+Sample,88511,0,"LR_HiHat Click.wav",30
+Sample,88676,0,"LR_HiHat Click.wav",30
+Sample,88841,0,"LR_HiHat Click.wav",30
+Sample,89006,0,"LR_HiHat Click.wav",30
+Sample,89170,0,"LR_HiHat Click.wav",30
+Sample,89335,0,"LR_HiHat Click.wav",30
+Sample,89500,0,"LR_HiHat Click.wav",30
+Sample,89665,0,"LR_HiHat Click.wav",30
+Sample,89830,0,"LR_HiHat Click.wav",30
+Sample,89995,0,"LR_HiHat Click.wav",30
+Sample,90160,0,"LR_HiHat Click.wav",30
+Sample,90324,0,"LR_HiHat Click.wav",30
+Sample,90489,0,"LR_HiHat Click.wav",30
+Sample,90654,0,"LR_HiHat Click.wav",30
+Sample,90819,0,"LR_HiHat Click.wav",30
+Sample,90984,0,"LR_HiHat Click.wav",30
+Sample,91149,0,"LR_HiHat Click.wav",30
+Sample,91313,0,"LR_HiHat Click.wav",30
+Sample,91478,0,"LR_HiHat Click.wav",30
+Sample,91643,0,"LR_HiHat Click.wav",30
+Sample,91808,0,"LR_HiHat Click.wav",30
+Sample,91973,0,"LR_HiHat Click.wav",30
+Sample,92138,0,"LR_HiHat Click.wav",30
+Sample,92302,0,"LR_HiHat Click.wav",30
+Sample,92385,0,"LR_HiHat Click.wav",30
+Sample,92467,0,"LR_Drum Click.wav",15
+Sample,92962,0,"LR_Drum Click.wav",15
+Sample,93044,0,"LR_Drum Click.wav",15
+Sample,93127,0,"LR_Drum Click.wav",15
+Sample,93374,0,"LR_Drum Click.wav",15
+Sample,93621,0,"LR_Drum Click.wav",15
+Sample,94280,0,"LR_Drum Click.wav",15
+Sample,94363,0,"LR_Drum Click.wav",15
+Sample,94445,0,"LR_Drum Click.wav",15
+Sample,94692,0,"LR_Drum Click.wav",15
+Sample,94940,0,"LR_Drum Click.wav",15
+Sample,95105,0,"LR_Drum Click.wav",15
+Sample,95599,0,"LR_Drum Click.wav",15
+Sample,95681,0,"LR_Drum Click.wav",15
+Sample,95764,0,"LR_Drum Click.wav",15
+Sample,96011,0,"LR_Drum Click.wav",15
+Sample,96258,0,"LR_Drum Click.wav",15
+Sample,96918,0,"LR_Drum Click.wav",15
+Sample,97000,0,"LR_Drum Click.wav",15
+Sample,97083,0,"LR_Drum Click.wav",15
+Sample,97330,0,"LR_Drum Click.wav",15
+Sample,97577,0,"LR_Drum Click.wav",15
+Sample,97742,0,"LR_Drum Click.wav",15
+Sample,98236,0,"LR_Drum Click.wav",15
+Sample,98319,0,"LR_Drum Click.wav",15
+Sample,98401,0,"LR_Drum Click.wav",15
+Sample,98649,0,"LR_Drum Click.wav",15
+Sample,98896,0,"LR_Drum Click.wav",15
+Sample,99555,0,"LR_Drum Click.wav",15
+Sample,99638,0,"LR_Drum Click.wav",15
+Sample,99720,0,"LR_Drum Click.wav",15
+Sample,99967,0,"LR_Drum Click.wav",15
+Sample,100214,0,"LR_Drum Click.wav",15
+Sample,100379,0,"LR_Drum Click.wav",15
+Sample,100874,0,"LR_Drum Click.wav",15
+Sample,100956,0,"LR_Drum Click.wav",15
+Sample,101039,0,"LR_Drum Click.wav",15
+Sample,101286,0,"LR_Drum Click.wav",15
+Sample,101533,0,"LR_Drum Click.wav",15
+Sample,102192,0,"LR_Drum Click.wav",15
+Sample,102275,0,"LR_Drum Click.wav",15
+Sample,102357,0,"LR_Drum Click.wav",15
+Sample,102522,0,"LR_Drum Click.wav",15
+Sample,102605,0,"LR_Drum Click.wav",15
+Sample,102687,0,"LR_Drum Click.wav",15
+Sample,102852,0,"LR_Drum Click.wav",15
+Sample,103017,0,"LR_Drum Click.wav",15
+Sample,103181,0,"LR_Drum Click.wav",15
+Sample,103346,0,"LR_Drum Click.wav",15
+Sample,103511,0,"LR_Drum Click.wav",15
+Sample,103676,0,"LR_Drum Click.wav",15
+Sample,103841,0,"LR_Drum Click.wav",15
+Sample,104006,0,"LR_Drum Click.wav",15
+Sample,104170,0,"LR_Drum Click.wav",15
+Sample,104335,0,"LR_Drum Click.wav",15
+Sample,104500,0,"LR_Drum Click.wav",15
+Sample,104665,0,"LR_Drum Click.wav",15
+Sample,104830,0,"LR_Drum Click.wav",15
+Sample,104995,0,"LR_Drum Click.wav",15
+Sample,105160,0,"LR_Drum Click.wav",15
+Sample,105324,0,"LR_Drum Click.wav",15
+Sample,105489,0,"LR_Drum Click.wav",15
+Sample,105654,0,"LR_Drum Click.wav",15
+Sample,105819,0,"LR_Drum Click.wav",15
+Sample,105984,0,"LR_Drum Click.wav",15
+Sample,106149,0,"LR_Drum Click.wav",15
+Sample,106313,0,"LR_Drum Click.wav",15
+Sample,106478,0,"LR_Drum Click.wav",15
+Sample,106643,0,"LR_Drum Click.wav",15
+Sample,106808,0,"LR_Drum Click.wav",15
+Sample,106973,0,"LR_Drum Click.wav",15
+Sample,107138,0,"LR_Drum Click.wav",15
+Sample,107302,0,"LR_Drum Click.wav",15
+Sample,107467,0,"LR_Drum Click.wav",15
+Sample,107632,0,"LR_Drum Click.wav",15
+Sample,107797,0,"LR_Drum Click.wav",15
+Sample,107962,0,"LR_Drum Click.wav",15
+Sample,108127,0,"LR_Drum Click.wav",15
+Sample,108209,0,"LR_Drum Click.wav",15
+Sample,108291,0,"LR_Drum Click.wav",15
+Sample,108456,0,"LR_Drum Click.wav",15
+Sample,108621,0,"LR_Drum Click.wav",15
+Sample,108786,0,"LR_Drum Click.wav",15
+Sample,108951,0,"LR_Drum Click.wav",15
+Sample,109116,0,"LR_Drum Click.wav",15
+Sample,109280,0,"LR_Drum Click.wav",15
+Sample,109445,0,"LR_Drum Click.wav",15
+Sample,109610,0,"LR_Drum Click.wav",15
+Sample,109775,0,"LR_Drum Click.wav",15
+Sample,109940,0,"LR_Drum Click.wav",15
+Sample,110105,0,"LR_Drum Click.wav",15
+Sample,110269,0,"LR_Drum Click.wav",15
+Sample,110434,0,"LR_Drum Click.wav",15
+Sample,110599,0,"LR_Drum Click.wav",15
+Sample,110764,0,"LR_Drum Click.wav",15
+Sample,110929,0,"LR_Drum Click.wav",15
+Sample,111094,0,"LR_Drum Click.wav",15
+Sample,111258,0,"LR_Drum Click.wav",15
+Sample,111423,0,"LR_Drum Click.wav",15
+Sample,111588,0,"LR_Drum Click.wav",15
+Sample,111753,0,"LR_Drum Click.wav",15
+Sample,111918,0,"LR_Drum Click.wav",15
+Sample,112083,0,"LR_Drum Click.wav",15
+Sample,112247,0,"LR_Drum Click.wav",15
+Sample,112412,0,"LR_Drum Click.wav",15
+Sample,112577,0,"LR_Drum Click.wav",15
+Sample,112742,0,"LR_Drum Click.wav",15
+Sample,112907,0,"LR_Drum Click.wav",15
+Sample,113072,0,"LR_Drum Click.wav",15
+Sample,113236,0,"LR_Drum Click.wav",15
+Sample,113401,0,"LR_Drum Click.wav",15
+Sample,113484,0,"LR_Drum Click.wav",15
+Sample,113566,0,"LR_HiHat Click.wav",30
+Sample,113731,0,"LR_HiHat Click.wav",30
+Sample,113896,0,"LR_HiHat Click.wav",30
+Sample,114061,0,"LR_HiHat Click.wav",30
+Sample,114225,0,"LR_HiHat Click.wav",30
+Sample,114390,0,"LR_HiHat Click.wav",30
+Sample,114555,0,"LR_HiHat Click.wav",30
+Sample,114720,0,"LR_HiHat Click.wav",30
+Sample,114885,0,"LR_HiHat Click.wav",30
+Sample,115050,0,"LR_HiHat Click.wav",30
+Sample,115214,0,"LR_HiHat Click.wav",30
+Sample,115379,0,"LR_HiHat Click.wav",30
+Sample,115544,0,"LR_HiHat Click.wav",30
+Sample,115709,0,"LR_HiHat Click.wav",30
+Sample,115874,0,"LR_HiHat Click.wav",30
+Sample,116039,0,"LR_HiHat Click.wav",30
+Sample,116203,0,"LR_HiHat Click.wav",30
+Sample,116368,0,"LR_HiHat Click.wav",30
+Sample,116533,0,"LR_HiHat Click.wav",30
+Sample,116698,0,"LR_HiHat Click.wav",30
+Sample,116863,0,"LR_HiHat Click.wav",30
+Sample,117028,0,"LR_HiHat Click.wav",30
+Sample,117192,0,"LR_HiHat Click.wav",30
+Sample,117357,0,"LR_HiHat Click.wav",30
+Sample,117522,0,"LR_HiHat Click.wav",30
+Sample,117687,0,"LR_HiHat Click.wav",30
+Sample,117852,0,"LR_HiHat Click.wav",30
+Sample,118017,0,"LR_HiHat Click.wav",30
+Sample,118181,0,"LR_HiHat Click.wav",30
+Sample,118346,0,"LR_HiHat Click.wav",30
+Sample,118511,0,"LR_HiHat Click.wav",30
+Sample,118676,0,"LR_HiHat Click.wav",30
+Sample,118758,0,"LR_HiHat Click.wav",30
+Sample,118841,0,"LR_HiHat Click.wav",30
+Sample,119006,0,"LR_HiHat Click.wav",30
+Sample,119170,0,"LR_HiHat Click.wav",30
+Sample,119335,0,"LR_HiHat Click.wav",30
+Sample,119500,0,"LR_HiHat Click.wav",30
+Sample,119665,0,"LR_HiHat Click.wav",30
+Sample,119830,0,"LR_HiHat Click.wav",30
+Sample,119995,0,"LR_HiHat Click.wav",30
+Sample,120160,0,"LR_HiHat Click.wav",30
+Sample,120324,0,"LR_HiHat Click.wav",30
+Sample,120489,0,"LR_HiHat Click.wav",30
+Sample,120654,0,"LR_HiHat Click.wav",30
+Sample,120819,0,"LR_HiHat Click.wav",30
+Sample,120984,0,"LR_HiHat Click.wav",30
+Sample,121149,0,"LR_HiHat Click.wav",30
+Sample,121313,0,"LR_HiHat Click.wav",30
+Sample,121478,0,"LR_HiHat Click.wav",30
+Sample,121643,0,"LR_HiHat Click.wav",30
+Sample,121808,0,"LR_HiHat Click.wav",30
+Sample,121973,0,"LR_HiHat Click.wav",30
+Sample,122138,0,"LR_HiHat Click.wav",30
+Sample,122302,0,"LR_HiHat Click.wav",30
+Sample,122467,0,"LR_HiHat Click.wav",30
+Sample,122632,0,"LR_HiHat Click.wav",30
+Sample,122714,0,"LR_HiHat Click.wav",30
+Sample,122797,0,"LR_HiHat Click.wav",30
+Sample,122962,0,"LR_HiHat Click.wav",30
+Sample,123127,0,"LR_HiHat Click.wav",30
+Sample,123291,0,"LR_HiHat Click.wav",30
+Sample,123456,0,"LR_HiHat Click.wav",30
+Sample,124116,0,"LR_HiHat Click.wav",30
+Sample,124280,0,"LR_HiHat Click.wav",30
+Sample,124445,0,"LR_HiHat Click.wav",30
+Sample,124610,0,"LR_HiHat Click.wav",30
+Sample,124775,0,"LR_HiHat Click.wav",30
+Sample,124940,0,"LR_HiHat Click.wav",30
+Sample,125105,0,"LR_HiHat Click.wav",30
+Sample,125269,0,"LR_HiHat Click.wav",30
+Sample,125434,0,"LR_HiHat Click.wav",30
+Sample,125599,0,"LR_HiHat Click.wav",30
+Sample,125764,0,"LR_HiHat Click.wav",30
+Sample,125929,0,"LR_HiHat Click.wav",30
+Sample,126094,0,"LR_HiHat Click.wav",30
+Sample,126258,0,"LR_HiHat Click.wav",30
+Sample,126423,0,"LR_HiHat Click.wav",30
+Sample,126588,0,"LR_HiHat Click.wav",30
+Sample,126753,0,"LR_HiHat Click.wav",30
+Sample,126918,0,"LR_HiHat Click.wav",30
+Sample,127083,0,"LR_HiHat Click.wav",30
+Sample,127247,0,"LR_HiHat Click.wav",30
+Sample,127412,0,"LR_HiHat Click.wav",30
+Sample,127577,0,"LR_HiHat Click.wav",30
+Sample,127742,0,"LR_HiHat Click.wav",30
+Sample,127907,0,"LR_HiHat Click.wav",30
+Sample,128072,0,"LR_HiHat Click.wav",30
+Sample,128236,0,"LR_HiHat Click.wav",30
+Sample,128401,0,"LR_HiHat Click.wav",30
+Sample,128566,0,"LR_HiHat Click.wav",30
+Sample,128731,0,"LR_HiHat Click.wav",30
+Sample,128896,0,"LR_HiHat Click.wav",30
+Sample,129061,0,"LR_HiHat Click.wav",30
+Sample,129225,0,"LR_HiHat Click.wav",30
+Sample,129308,0,"LR_HiHat Click.wav",30
+Sample,129390,0,"LR_HiHat Click.wav",30
+Sample,129555,0,"LR_HiHat Click.wav",30
+Sample,129720,0,"LR_HiHat Click.wav",30
+Sample,129885,0,"LR_HiHat Click.wav",30
+Sample,130050,0,"LR_HiHat Click.wav",30
+Sample,130214,0,"LR_HiHat Click.wav",30
+Sample,130379,0,"LR_HiHat Click.wav",30
+Sample,130544,0,"LR_HiHat Click.wav",30
+Sample,130709,0,"LR_HiHat Click.wav",30
+Sample,130874,0,"LR_HiHat Click.wav",30
+Sample,131039,0,"LR_HiHat Click.wav",30
+Sample,131203,0,"LR_HiHat Click.wav",30
+Sample,131368,0,"LR_HiHat Click.wav",30
+Sample,131533,0,"LR_HiHat Click.wav",30
+Sample,131698,0,"LR_HiHat Click.wav",30
+Sample,131863,0,"LR_HiHat Click.wav",30
+Sample,132028,0,"LR_HiHat Click.wav",30
+Sample,132192,0,"LR_HiHat Click.wav",30
+Sample,132357,0,"LR_HiHat Click.wav",30
+Sample,132522,0,"LR_HiHat Click.wav",30
+Sample,132687,0,"LR_HiHat Click.wav",30
+Sample,132852,0,"LR_HiHat Click.wav",30
+Sample,133017,0,"LR_HiHat Click.wav",30
+Sample,133181,0,"LR_HiHat Click.wav",30
+Sample,133346,0,"LR_HiHat Click.wav",30
+Sample,133511,0,"LR_HiHat Click.wav",30
+Sample,133676,0,"LR_HiHat Click.wav",30
+Sample,133841,0,"LR_HiHat Click.wav",30
+Sample,134006,0,"LR_HiHat Click.wav",30
+Sample,134170,0,"LR_HiHat Click.wav",30
+Sample,134335,0,"LR_HiHat Click.wav",30
+Sample,134500,0,"LR_HiHat Click.wav",30
+Sample,134583,0,"LR_HiHat Click.wav",30
+Sample,134665,0,"LR_HiHat Click.wav",30
+Sample,134830,0,"LR_HiHat Click.wav",30
+Sample,134995,0,"LR_HiHat Click.wav",30
+Sample,135160,0,"LR_HiHat Click.wav",30
+Sample,135324,0,"LR_HiHat Click.wav",30
+Sample,135489,0,"LR_HiHat Click.wav",30
+Sample,135654,0,"LR_HiHat Click.wav",30
+Sample,135819,0,"LR_HiHat Click.wav",30
+Sample,135984,0,"LR_HiHat Click.wav",30
+Sample,136149,0,"LR_HiHat Click.wav",30
+Sample,136313,0,"LR_HiHat Click.wav",30
+Sample,136478,0,"LR_HiHat Click.wav",30
+Sample,136643,0,"LR_HiHat Click.wav",30
+Sample,136808,0,"LR_HiHat Click.wav",30
+Sample,136973,0,"LR_HiHat Click.wav",30
+Sample,137138,0,"LR_HiHat Click.wav",30
+Sample,137302,0,"LR_HiHat Click.wav",30
+Sample,137467,0,"LR_HiHat Click.wav",30
+Sample,137632,0,"LR_HiHat Click.wav",30
+Sample,137797,0,"LR_HiHat Click.wav",30
+Sample,137962,0,"LR_HiHat Click.wav",30
+Sample,138127,0,"LR_HiHat Click.wav",30
+Sample,138291,0,"LR_HiHat Click.wav",30
+Sample,138456,0,"LR_HiHat Click.wav",30
+Sample,138621,0,"LR_HiHat Click.wav",30
+Sample,138786,0,"LR_HiHat Click.wav",30
+Sample,138951,0,"LR_HiHat Click.wav",30
+Sample,139116,0,"LR_HiHat Click.wav",30
+Sample,139280,0,"LR_HiHat Click.wav",30
+Sample,139445,0,"LR_HiHat Click.wav",30
+Sample,139610,0,"LR_HiHat Click.wav",30
+Sample,139775,0,"LR_HiHat Click.wav",30
+Sample,139857,0,"LR_HiHat Click.wav",30
+Sample,139940,0,"LR_HiHat Click.wav",30
+Sample,140105,0,"LR_HiHat Click.wav",30
+Sample,140269,0,"LR_HiHat Click.wav",30
+Sample,140434,0,"LR_HiHat Click.wav",30
+Sample,140599,0,"LR_HiHat Click.wav",30
+Sample,140764,0,"LR_HiHat Click.wav",30
+Sample,140929,0,"LR_HiHat Click.wav",30
+Sample,141094,0,"LR_HiHat Click.wav",30
+Sample,141258,0,"LR_HiHat Click.wav",30
+Sample,174225,0,"LR_HiHat Click.wav",30
+Sample,174390,0,"LR_HiHat Click.wav",30
+Sample,174555,0,"LR_HiHat Click.wav",30
+Sample,174720,0,"LR_HiHat Click.wav",30
+Sample,174885,0,"LR_HiHat Click.wav",30
+Sample,175050,0,"LR_HiHat Click.wav",30
+Sample,175214,0,"LR_HiHat Click.wav",30
+Sample,175379,0,"LR_HiHat Click.wav",30
+Sample,175544,0,"LR_HiHat Click.wav",30
+Sample,175709,0,"LR_HiHat Click.wav",30
+Sample,175874,0,"LR_HiHat Click.wav",30
+Sample,176039,0,"LR_HiHat Click.wav",30
+Sample,176203,0,"LR_HiHat Click.wav",30
+Sample,176368,0,"LR_HiHat Click.wav",30
+Sample,176533,0,"LR_HiHat Click.wav",30
+Sample,176698,0,"LR_HiHat Click.wav",30
+Sample,176863,0,"LR_HiHat Click.wav",30
+Sample,177028,0,"LR_HiHat Click.wav",30
+Sample,177192,0,"LR_HiHat Click.wav",30
+Sample,177357,0,"LR_HiHat Click.wav",30
+Sample,177522,0,"LR_HiHat Click.wav",30
+Sample,177687,0,"LR_HiHat Click.wav",30
+Sample,177852,0,"LR_HiHat Click.wav",30
+Sample,178017,0,"LR_HiHat Click.wav",30
+Sample,178181,0,"LR_HiHat Click.wav",30
+Sample,178346,0,"LR_HiHat Click.wav",30
+Sample,178511,0,"LR_HiHat Click.wav",30
+Sample,178676,0,"LR_HiHat Click.wav",30
+Sample,178841,0,"LR_HiHat Click.wav",30
+Sample,179006,0,"LR_HiHat Click.wav",30
+Sample,179170,0,"LR_HiHat Click.wav",30
+Sample,179335,0,"LR_HiHat Click.wav",30
+Sample,179418,0,"LR_HiHat Click.wav",30
+Sample,179500,0,"LR_HiHat Click.wav",30
+Sample,179665,0,"LR_HiHat Click.wav",30
+Sample,179830,0,"LR_HiHat Click.wav",30
+Sample,179995,0,"LR_HiHat Click.wav",30
+Sample,180160,0,"LR_HiHat Click.wav",30
+Sample,180324,0,"LR_HiHat Click.wav",30
+Sample,180489,0,"LR_HiHat Click.wav",30
+Sample,180654,0,"LR_HiHat Click.wav",30
+Sample,180819,0,"LR_HiHat Click.wav",30
+Sample,180984,0,"LR_HiHat Click.wav",30
+Sample,181149,0,"LR_HiHat Click.wav",30
+Sample,181313,0,"LR_HiHat Click.wav",30
+Sample,181478,0,"LR_HiHat Click.wav",30
+Sample,181643,0,"LR_HiHat Click.wav",30
+Sample,181808,0,"LR_HiHat Click.wav",30
+Sample,181973,0,"LR_HiHat Click.wav",30
+Sample,182138,0,"LR_HiHat Click.wav",30
+Sample,182302,0,"LR_HiHat Click.wav",30
+Sample,182467,0,"LR_HiHat Click.wav",30
+Sample,182632,0,"LR_HiHat Click.wav",30
+Sample,182797,0,"LR_HiHat Click.wav",30
+Sample,182962,0,"LR_HiHat Click.wav",30
+Sample,183127,0,"LR_HiHat Click.wav",30
+Sample,183291,0,"LR_HiHat Click.wav",30
+Sample,183456,0,"LR_HiHat Click.wav",30
+Sample,184775,0,"LR_HiHat Click.wav",30
+Sample,184940,0,"LR_HiHat Click.wav",30
+Sample,185105,0,"LR_HiHat Click.wav",30
+Sample,185269,0,"LR_HiHat Click.wav",30
+Sample,185434,0,"LR_HiHat Click.wav",30
+Sample,185599,0,"LR_HiHat Click.wav",30
+Sample,185764,0,"LR_HiHat Click.wav",30
+Sample,185929,0,"LR_HiHat Click.wav",30
+Sample,186094,0,"LR_HiHat Click.wav",30
+Sample,186258,0,"LR_HiHat Click.wav",30
+Sample,186423,0,"LR_HiHat Click.wav",30
+Sample,186588,0,"LR_HiHat Click.wav",30
+Sample,186753,0,"LR_HiHat Click.wav",30
+Sample,186918,0,"LR_HiHat Click.wav",30
+Sample,187083,0,"LR_HiHat Click.wav",30
+Sample,187247,0,"LR_HiHat Click.wav",30
+Sample,187412,0,"LR_HiHat Click.wav",30
+Sample,187577,0,"LR_HiHat Click.wav",30
+Sample,187742,0,"LR_HiHat Click.wav",30
+Sample,187907,0,"LR_HiHat Click.wav",30
+Sample,188072,0,"LR_HiHat Click.wav",30
+Sample,188236,0,"LR_HiHat Click.wav",30
+Sample,188401,0,"LR_HiHat Click.wav",30
+Sample,188566,0,"LR_HiHat Click.wav",30
+Sample,188731,0,"LR_HiHat Click.wav",30
+Sample,188896,0,"LR_HiHat Click.wav",30
+Sample,189061,0,"LR_HiHat Click.wav",30
+Sample,189225,0,"LR_HiHat Click.wav",30
+Sample,189390,0,"LR_HiHat Click.wav",30
+Sample,189555,0,"LR_HiHat Click.wav",30
+Sample,189720,0,"LR_HiHat Click.wav",30
+Sample,189885,0,"LR_HiHat Click.wav",30
+Sample,189967,0,"LR_HiHat Click.wav",30
+Sample,190050,0,"LR_HiHat Click.wav",30
+Sample,190214,0,"LR_HiHat Click.wav",30
+Sample,190379,0,"LR_HiHat Click.wav",30
+Sample,190544,0,"LR_HiHat Click.wav",30
+Sample,190709,0,"LR_HiHat Click.wav",30
+Sample,190874,0,"LR_HiHat Click.wav",30
+Sample,191039,0,"LR_HiHat Click.wav",30
+Sample,191203,0,"LR_HiHat Click.wav",30
+Sample,191368,0,"LR_HiHat Click.wav",30
+Sample,191533,0,"LR_HiHat Click.wav",30
+Sample,191698,0,"LR_HiHat Click.wav",30
+Sample,191863,0,"LR_HiHat Click.wav",30
+Sample,192028,0,"LR_HiHat Click.wav",30
+Sample,192192,0,"LR_HiHat Click.wav",30
+Sample,192357,0,"LR_HiHat Click.wav",30
+Sample,192522,0,"LR_HiHat Click.wav",30
+Sample,192687,0,"LR_HiHat Click.wav",30
+Sample,192852,0,"LR_HiHat Click.wav",30
+Sample,193017,0,"LR_HiHat Click.wav",30
+Sample,193181,0,"LR_HiHat Click.wav",30
+Sample,193346,0,"LR_HiHat Click.wav",30
+Sample,193511,0,"LR_HiHat Click.wav",30
+Sample,193676,0,"LR_HiHat Click.wav",30
+Sample,193841,0,"LR_HiHat Click.wav",30
+Sample,194006,0,"LR_HiHat Click.wav",30
+Sample,194170,0,"LR_HiHat Click.wav",30
+Sample,194335,0,"LR_HiHat Click.wav",30
+Sample,194500,0,"LR_HiHat Click.wav",30
+Sample,194665,0,"LR_HiHat Click.wav",30
+Sample,194830,0,"LR_HiHat Click.wav",30
+Sample,194995,0,"LR_HiHat Click.wav",30
+Sample,195160,0,"LR_HiHat Click.wav",30
+Sample,195242,0,"LR_HiHat Click.wav",30
+Sample,195324,0,"LR_HiHat Click.wav",30
+Sample,195489,0,"LR_HiHat Click.wav",30
+Sample,195654,0,"LR_HiHat Click.wav",30
+Sample,195819,0,"LR_HiHat Click.wav",30
+Sample,195984,0,"LR_HiHat Click.wav",30
+Sample,196149,0,"LR_HiHat Click.wav",30
+Sample,196313,0,"LR_HiHat Click.wav",30
+Sample,196478,0,"LR_HiHat Click.wav",30
+Sample,196643,0,"LR_HiHat Click.wav",30
+Sample,196808,0,"LR_HiHat Click.wav",30
+Sample,196973,0,"LR_HiHat Click.wav",30
+Sample,197138,0,"LR_HiHat Click.wav",30
+Sample,197302,0,"LR_HiHat Click.wav",30
+Sample,197467,0,"LR_HiHat Click.wav",30
+Sample,197632,0,"LR_HiHat Click.wav",30
+Sample,197797,0,"LR_HiHat Click.wav",30
+Sample,197962,0,"LR_HiHat Click.wav",30
+Sample,198127,0,"LR_HiHat Click.wav",30
+Sample,198291,0,"LR_HiHat Click.wav",30
+Sample,198456,0,"LR_HiHat Click.wav",30
+Sample,198621,0,"LR_HiHat Click.wav",30
+Sample,198786,0,"LR_HiHat Click.wav",30
+Sample,198951,0,"LR_HiHat Click.wav",30
+Sample,199116,0,"LR_HiHat Click.wav",30
+Sample,199280,0,"LR_HiHat Click.wav",30
+Sample,199445,0,"LR_HiHat Click.wav",30
+Sample,199610,0,"LR_HiHat Click.wav",30
+Sample,199775,0,"LR_HiHat Click.wav",30
+Sample,199940,0,"LR_HiHat Click.wav",30
+Sample,200105,0,"LR_HiHat Click.wav",30
+Sample,200269,0,"LR_HiHat Click.wav",30
+Sample,200434,0,"LR_HiHat Click.wav",30
+Sample,200517,0,"LR_HiHat Click.wav",30
+Sample,200599,0,"LR_HiHat Click.wav",30
+Sample,200764,0,"LR_HiHat Click.wav",30
+Sample,200929,0,"LR_HiHat Click.wav",30
+Sample,201094,0,"LR_HiHat Click.wav",30
+Sample,201258,0,"LR_HiHat Click.wav",30
+Sample,201423,0,"LR_HiHat Click.wav",30
+Sample,201588,0,"LR_HiHat Click.wav",30
+Sample,201753,0,"LR_HiHat Click.wav",30
+Sample,201918,0,"LR_HiHat Click.wav",30
+Sample,202083,0,"LR_HiHat Click.wav",30
+Sample,202247,0,"LR_HiHat Click.wav",30
+Sample,202412,0,"LR_HiHat Click.wav",30
+Sample,202577,0,"LR_HiHat Click.wav",30
+Sample,202742,0,"LR_HiHat Click.wav",30
+Sample,202907,0,"LR_HiHat Click.wav",30
+Sample,203072,0,"LR_HiHat Click.wav",30
+Sample,203236,0,"LR_HiHat Click.wav",30
+Sample,203401,0,"LR_HiHat Click.wav",30
+Sample,203566,0,"LR_HiHat Click.wav",30
+Sample,203731,0,"LR_HiHat Click.wav",30
+Sample,203896,0,"LR_HiHat Click.wav",30
+Sample,204061,0,"LR_HiHat Click.wav",30
+Sample,204225,0,"LR_HiHat Click.wav",30
+Sample,204390,0,"LR_HiHat Click.wav",30
+Sample,204473,0,"LR_HiHat Click.wav",30
+Sample,204555,0,"LR_HiHat Click.wav",30
+Sample,204720,0,"LR_HiHat Click.wav",30
+Sample,204885,0,"LR_HiHat Click.wav",30
+Sample,205050,0,"LR_HiHat Click.wav",30
+Sample,205214,0,"LR_HiHat Click.wav",30
+Sample,205379,0,"LR_HiHat Click.wav",30
+Sample,205544,0,"LR_HiHat Click.wav",30
+Sample,205709,0,"LR_HiHat Click.wav",30
+
+[TimingPoints]
+160,329.67032967033,4,2,1,60,1,0
+10709,-100,4,2,1,50,0,0
+63456,-100,4,2,1,50,0,1
+80599,-100,4,2,1,50,0,0
+124116,-100,4,2,1,50,0,1
+141258,-100,4,2,1,60,0,0
+174225,-100,4,2,1,50,0,0
+174555,-100,4,2,1,50,0,1
+183456,-100,4,2,1,50,0,0
+205874,-100,4,2,1,60,0,0
+
+
+[HitObjects]
+213,192,160,5,0,0:0:0:0:
+42,192,160,1,0,0:0:0:0:
+298,192,324,1,0,0:0:0:0:
+384,192,489,1,0,0:0:0:0:
+213,192,654,1,0,0:0:0:0:
+298,192,819,1,0,0:0:0:0:
+384,192,984,1,0,0:0:0:0:
+469,192,1313,1,0,0:0:0:0:
+298,192,1313,1,0,0:0:0:0:
+128,192,1313,1,0,0:0:0:0:
+42,192,1643,1,0,0:0:0:0:
+469,192,1808,1,0,0:0:0:0:
+213,192,1973,1,0,0:0:0:0:
+384,192,2055,1,0,0:0:0:0:
+298,192,2138,1,0,0:0:0:0:
+213,192,2302,1,0,0:0:0:0:
+128,192,2467,1,0,0:0:0:0:
+298,192,2632,1,0,0:0:0:0:
+213,192,2797,1,0,0:0:0:0:
+42,192,2797,1,0,0:0:0:0:
+298,192,2962,1,0,0:0:0:0:
+384,192,3127,1,0,0:0:0:0:
+213,192,3291,1,0,0:0:0:0:
+298,192,3456,1,0,0:0:0:0:
+469,192,3621,1,0,0:0:0:0:
+384,192,3951,1,0,0:0:0:0:
+213,192,3951,1,0,0:0:0:0:
+42,192,3951,1,0,0:0:0:0:
+128,192,4280,1,0,0:0:0:0:
+213,192,4445,1,0,0:0:0:0:
+298,192,4610,1,0,0:0:0:0:
+213,192,4940,1,0,0:0:0:0:
+469,192,5105,1,0,0:0:0:0:
+384,192,5105,1,0,0:0:0:0:
+213,192,5434,1,0,0:0:0:0:
+42,192,5434,1,0,0:0:0:0:
+298,192,5599,1,0,0:0:0:0:
+384,192,5764,1,0,0:0:0:0:
+213,192,5929,1,0,0:0:0:0:
+298,192,6094,1,0,0:0:0:0:
+384,192,6258,1,0,0:0:0:0:
+469,192,6588,1,0,0:0:0:0:
+298,192,6588,1,0,0:0:0:0:
+128,192,6588,1,0,0:0:0:0:
+42,192,6918,1,0,0:0:0:0:
+469,192,7083,1,0,0:0:0:0:
+213,192,7247,1,0,0:0:0:0:
+384,192,7330,1,0,0:0:0:0:
+298,192,7412,1,0,0:0:0:0:
+213,192,7577,1,0,0:0:0:0:
+128,192,7742,1,0,0:0:0:0:
+298,192,7907,1,0,0:0:0:0:
+213,192,8072,1,0,0:0:0:0:
+42,192,8072,1,0,0:0:0:0:
+298,192,8236,1,0,0:0:0:0:
+384,192,8401,1,0,0:0:0:0:
+128,192,8731,1,0,0:0:0:0:
+213,192,8896,1,0,0:0:0:0:
+298,192,9061,1,0,0:0:0:0:
+469,192,9225,128,0,10379:0:0:0:0:
+213,192,9225,1,0,0:0:0:0:
+42,192,9225,128,0,10379:0:0:0:0:
+469,192,10709,5,4,0:0:0:0:
+42,192,10709,1,2,0:0:0:0:
+298,192,10709,1,0,0:0:0:0:
+213,192,10874,1,0,0:0:0:0:
+384,192,11039,1,8,0:0:0:0:
+128,192,11039,1,0,0:0:0:0:
+213,192,11203,1,0,0:0:0:0:
+469,192,11368,1,2,0:0:0:0:
+42,192,11368,1,0,0:0:0:0:
+384,192,11533,1,0,0:0:0:0:
+213,192,11533,1,2,0:0:0:0:
+298,192,11698,1,8,0:0:0:0:
+128,192,11698,1,0,0:0:0:0:
+384,192,11863,1,0,0:0:0:0:
+384,192,12028,1,2,0:0:0:0:
+213,192,12028,1,0,0:0:0:0:
+42,192,12192,1,0,0:0:0:0:
+298,192,12357,1,8,0:0:0:0:
+469,192,12357,1,0,0:0:0:0:
+384,192,12522,1,2,0:0:0:0:
+42,192,12522,1,0,0:0:0:0:
+213,192,12687,1,0,0:0:0:0:
+128,192,12852,1,2,0:0:0:0:
+298,192,12852,1,0,0:0:0:0:
+42,192,13017,1,8,0:0:0:0:
+384,192,13017,1,0,0:0:0:0:
+469,192,13181,1,0,0:0:0:0:
+213,192,13346,1,2,0:0:0:0:
+298,192,13346,1,0,0:0:0:0:
+42,192,13511,1,0,0:0:0:0:
+128,192,13676,1,8,0:0:0:0:
+384,192,13676,1,0,0:0:0:0:
+213,192,13841,1,0,0:0:0:0:
+298,192,14006,1,2,0:0:0:0:
+42,192,14006,1,0,0:0:0:0:
+213,192,14170,1,2,0:0:0:0:
+469,192,14170,1,0,0:0:0:0:
+298,192,14335,1,8,0:0:0:0:
+128,192,14335,1,0,0:0:0:0:
+384,192,14500,1,0,0:0:0:0:
+469,192,14665,1,2,0:0:0:0:
+213,192,14665,1,0,0:0:0:0:
+384,192,14830,1,2,0:0:0:0:
+128,192,14830,1,0,0:0:0:0:
+298,192,14995,1,8,0:0:0:0:
+42,192,14995,1,0,0:0:0:0:
+213,192,15160,1,2,0:0:0:0:
+469,192,15160,1,0,0:0:0:0:
+384,192,15324,1,0,0:0:0:0:
+298,192,15489,1,2,0:0:0:0:
+42,192,15489,1,0,0:0:0:0:
+213,192,15654,1,8,0:0:0:0:
+469,192,15654,1,0,0:0:0:0:
+128,192,15819,1,2,0:0:0:0:
+42,192,15819,1,0,0:0:0:0:
+298,192,15984,1,2,0:0:0:0:
+469,192,15984,1,0,0:0:0:0:
+213,192,16149,1,0,0:0:0:0:
+42,192,16313,1,8,0:0:0:0:
+384,192,16313,1,0,0:0:0:0:
+213,192,16478,1,2,0:0:0:0:
+298,192,16478,1,0,0:0:0:0:
+469,192,16643,1,0,0:0:0:0:
+213,192,16808,1,2,0:0:0:0:
+384,192,16808,1,0,0:0:0:0:
+298,192,16973,1,8,0:0:0:0:
+128,192,16973,1,0,0:0:0:0:
+384,192,17138,1,0,0:0:0:0:
+384,192,17302,1,2,0:0:0:0:
+213,192,17302,1,0,0:0:0:0:
+42,192,17467,1,0,0:0:0:0:
+469,192,17632,1,0,0:0:0:0:
+298,192,17632,1,8,0:0:0:0:
+384,192,17797,1,2,0:0:0:0:
+42,192,17797,1,0,0:0:0:0:
+213,192,17962,1,0,0:0:0:0:
+128,192,18127,1,2,0:0:0:0:
+298,192,18127,1,0,0:0:0:0:
+42,192,18291,1,8,0:0:0:0:
+384,192,18291,1,0,0:0:0:0:
+128,192,18456,1,2,0:0:0:0:
+469,192,18456,1,0,0:0:0:0:
+213,192,18621,1,2,0:0:0:0:
+384,192,18621,1,0,0:0:0:0:
+42,192,18786,1,0,0:0:0:0:
+384,192,18951,1,8,0:0:0:0:
+128,192,18951,1,0,0:0:0:0:
+469,192,19116,1,2,0:0:0:0:
+213,192,19116,1,0,0:0:0:0:
+298,192,19280,1,0,0:0:0:0:
+469,192,19445,1,2,0:0:0:0:
+213,192,19445,1,0,0:0:0:0:
+384,192,19610,1,8,0:0:0:0:
+128,192,19610,1,0,0:0:0:0:
+298,192,19775,1,0,0:0:0:0:
+42,192,19940,1,2,0:0:0:0:
+298,192,19940,1,0,0:0:0:0:
+384,192,20105,1,2,0:0:0:0:
+213,192,20105,1,0,0:0:0:0:
+128,192,20269,1,8,0:0:0:0:
+298,192,20269,1,0,0:0:0:0:
+469,192,20434,128,2,20764:0:0:0:0:
+42,192,20434,1,0,0:0:0:0:
+298,192,20764,1,2,0:0:0:0:
+213,192,20764,1,0,0:0:0:0:
+384,192,20929,1,8,0:0:0:0:
+213,192,20929,1,0,0:0:0:0:
+469,192,21094,1,2,0:0:0:0:
+128,192,21094,1,0,0:0:0:0:
+298,192,21258,1,2,0:0:0:0:
+42,192,21258,1,0,0:0:0:0:
+213,192,21423,1,0,0:0:0:0:
+384,192,21588,1,8,0:0:0:0:
+128,192,21588,1,0,0:0:0:0:
+213,192,21753,1,0,0:0:0:0:
+469,192,21918,1,2,0:0:0:0:
+42,192,21918,1,0,0:0:0:0:
+213,192,22083,1,2,0:0:0:0:
+384,192,22083,1,0,0:0:0:0:
+42,192,22247,1,8,0:0:0:0:
+298,192,22247,1,0,0:0:0:0:
+384,192,22412,1,0,0:0:0:0:
+384,192,22577,1,2,0:0:0:0:
+213,192,22577,1,0,0:0:0:0:
+42,192,22742,1,0,0:0:0:0:
+298,192,22907,1,8,0:0:0:0:
+469,192,22907,1,0,0:0:0:0:
+384,192,23072,1,2,0:0:0:0:
+42,192,23072,1,0,0:0:0:0:
+213,192,23236,1,0,0:0:0:0:
+128,192,23401,1,2,0:0:0:0:
+298,192,23401,1,0,0:0:0:0:
+42,192,23566,1,8,0:0:0:0:
+384,192,23566,1,0,0:0:0:0:
+469,192,23731,1,0,0:0:0:0:
+213,192,23896,1,2,0:0:0:0:
+298,192,23896,1,0,0:0:0:0:
+42,192,24061,1,0,0:0:0:0:
+128,192,24225,1,8,0:0:0:0:
+469,192,24225,1,0,0:0:0:0:
+213,192,24390,1,0,0:0:0:0:
+298,192,24555,1,2,0:0:0:0:
+128,192,24555,1,0,0:0:0:0:
+213,192,24720,1,2,0:0:0:0:
+384,192,24720,1,0,0:0:0:0:
+298,192,24885,1,8,0:0:0:0:
+42,192,24885,1,0,0:0:0:0:
+384,192,25050,1,0,0:0:0:0:
+469,192,25214,1,2,0:0:0:0:
+213,192,25214,1,0,0:0:0:0:
+384,192,25379,1,2,0:0:0:0:
+128,192,25379,1,0,0:0:0:0:
+298,192,25544,1,8,0:0:0:0:
+42,192,25544,1,0,0:0:0:0:
+213,192,25709,1,2,0:0:0:0:
+469,192,25709,1,0,0:0:0:0:
+384,192,25874,1,0,0:0:0:0:
+42,192,26039,1,2,0:0:0:0:
+298,192,26039,1,0,0:0:0:0:
+469,192,26203,1,8,0:0:0:0:
+213,192,26203,1,0,0:0:0:0:
+128,192,26368,1,2,0:0:0:0:
+42,192,26368,1,0,0:0:0:0:
+469,192,26533,1,2,0:0:0:0:
+298,192,26533,1,0,0:0:0:0:
+213,192,26698,1,0,0:0:0:0:
+42,192,26863,1,8,0:0:0:0:
+384,192,26863,1,0,0:0:0:0:
+213,192,27028,1,2,0:0:0:0:
+298,192,27028,1,0,0:0:0:0:
+469,192,27192,1,0,0:0:0:0:
+213,192,27357,1,2,0:0:0:0:
+384,192,27357,1,0,0:0:0:0:
+128,192,27522,1,8,0:0:0:0:
+298,192,27522,1,0,0:0:0:0:
+384,192,27687,1,0,0:0:0:0:
+384,192,27852,1,2,0:0:0:0:
+213,192,27852,1,0,0:0:0:0:
+42,192,28017,1,0,0:0:0:0:
+298,192,28181,1,8,0:0:0:0:
+469,192,28181,1,0,0:0:0:0:
+384,192,28346,1,2,0:0:0:0:
+42,192,28346,1,0,0:0:0:0:
+213,192,28511,1,0,0:0:0:0:
+128,192,28676,1,2,0:0:0:0:
+298,192,28676,1,0,0:0:0:0:
+42,192,28841,1,8,0:0:0:0:
+384,192,28841,1,0,0:0:0:0:
+128,192,29006,1,2,0:0:0:0:
+469,192,29006,1,0,0:0:0:0:
+213,192,29170,1,2,0:0:0:0:
+298,192,29170,1,0,0:0:0:0:
+42,192,29335,1,0,0:0:0:0:
+384,192,29500,1,8,0:0:0:0:
+128,192,29500,1,0,0:0:0:0:
+469,192,29665,1,2,0:0:0:0:
+213,192,29665,1,0,0:0:0:0:
+298,192,29830,1,0,0:0:0:0:
+469,192,29995,1,2,0:0:0:0:
+213,192,29995,1,0,0:0:0:0:
+384,192,30160,1,8,0:0:0:0:
+128,192,30160,1,0,0:0:0:0:
+298,192,30324,1,0,0:0:0:0:
+42,192,30489,1,2,0:0:0:0:
+298,192,30489,1,0,0:0:0:0:
+213,192,30654,1,2,0:0:0:0:
+384,192,30654,1,0,0:0:0:0:
+128,192,30819,1,8,0:0:0:0:
+298,192,30819,1,0,0:0:0:0:
+469,192,30984,128,2,31313:0:0:0:0:
+42,192,30984,1,0,0:0:0:0:
+298,192,31313,1,2,0:0:0:0:
+213,192,31313,1,0,0:0:0:0:
+384,192,31478,1,8,0:0:0:0:
+213,192,31478,1,0,0:0:0:0:
+128,192,31643,1,0,0:0:0:0:
+42,192,31808,1,0,0:0:0:0:
+128,192,31973,1,0,0:0:0:0:
+213,192,32138,1,0,0:0:0:0:
+298,192,32302,128,0,32632:0:0:0:0:
+384,192,32632,1,0,0:0:0:0:
+128,192,32797,1,0,0:0:0:0:
+384,192,32962,1,0,0:0:0:0:
+213,192,33127,1,0,0:0:0:0:
+298,192,33291,1,0,0:0:0:0:
+384,192,33456,1,0,0:0:0:0:
+469,192,33621,128,0,33951:0:0:0:0:
+298,192,33951,1,0,0:0:0:0:
+213,192,34116,1,0,0:0:0:0:
+128,192,34280,1,0,0:0:0:0:
+298,192,34445,1,0,0:0:0:0:
+384,192,34610,1,0,0:0:0:0:
+213,192,34775,1,0,0:0:0:0:
+298,192,34940,128,0,35269:0:0:0:0:
+42,192,35269,1,0,0:0:0:0:
+298,192,35434,1,0,0:0:0:0:
+42,192,35599,1,0,0:0:0:0:
+384,192,35764,1,0,0:0:0:0:
+298,192,35929,1,0,0:0:0:0:
+213,192,36094,1,0,0:0:0:0:
+128,192,36258,128,0,36588:0:0:0:0:
+469,192,36588,1,0,0:0:0:0:
+213,192,36753,1,0,0:0:0:0:
+469,192,36918,1,0,0:0:0:0:
+42,192,37083,1,0,0:0:0:0:
+128,192,37247,1,0,0:0:0:0:
+213,192,37412,1,0,0:0:0:0:
+298,192,37577,128,0,37907:0:0:0:0:
+213,192,37907,1,0,0:0:0:0:
+213,192,38072,1,0,0:0:0:0:
+384,192,38236,1,0,0:0:0:0:
+42,192,38401,1,0,0:0:0:0:
+298,192,38566,1,0,0:0:0:0:
+213,192,38731,1,0,0:0:0:0:
+128,192,38896,1,0,0:0:0:0:
+298,192,39061,1,0,0:0:0:0:
+213,192,39225,1,0,0:0:0:0:
+298,192,39390,1,0,0:0:0:0:
+384,192,39555,1,0,0:0:0:0:
+469,192,39720,1,0,0:0:0:0:
+384,192,39885,1,0,0:0:0:0:
+298,192,40050,1,0,0:0:0:0:
+213,192,40214,128,0,40544:0:0:0:0:
+128,192,40544,1,0,0:0:0:0:
+213,192,40709,1,0,0:0:0:0:
+298,192,40874,1,0,0:0:0:0:
+384,192,41039,1,0,0:0:0:0:
+298,192,41203,1,0,0:0:0:0:
+213,192,41368,1,0,0:0:0:0:
+128,192,41533,1,0,0:0:0:0:
+42,192,41698,128,0,42028:0:0:0:0:
+469,192,42028,1,0,0:0:0:0:
+298,192,42357,1,0,0:0:0:0:
+42,192,42357,1,0,0:0:0:0:
+128,192,42522,1,0,0:0:0:0:
+469,192,42687,5,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,42687,1,0,0:0:0:0:
+42,192,42852,1,0,0:0:0:0:
+298,192,42852,1,0,0:0:0:0:
+128,192,43181,1,0,0:0:0:0:
+469,192,43181,1,0,0:0:0:0:
+213,192,43346,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,43346,1,0,0:0:0:0:
+128,192,43511,1,0,0:0:0:0:
+469,192,43511,1,0,0:0:0:0:
+213,192,43676,1,0,0:0:0:0:
+384,192,43676,1,0,0:0:0:0:
+298,192,43841,1,0,0:0:0:0:
+42,192,44006,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,44006,1,0,0:0:0:0:
+213,192,44170,1,0,0:0:0:0:
+469,192,44170,1,0,0:0:0:0:
+213,192,44500,1,0,0:0:0:0:
+384,192,44500,1,0,0:0:0:0:
+298,192,44665,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,44665,1,0,0:0:0:0:
+42,192,44830,1,0,0:0:0:0:
+384,192,44830,1,0,0:0:0:0:
+213,192,44995,1,0,0:0:0:0:
+469,192,44995,1,0,0:0:0:0:
+128,192,45160,1,0,0:0:0:0:
+469,192,45324,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,45324,1,0,0:0:0:0:
+42,192,45489,1,0,0:0:0:0:
+298,192,45489,1,0,0:0:0:0:
+128,192,45819,1,0,0:0:0:0:
+298,192,45819,1,0,0:0:0:0:
+213,192,45984,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,45984,1,0,0:0:0:0:
+128,192,46149,1,0,0:0:0:0:
+298,192,46149,1,0,0:0:0:0:
+469,192,46313,1,0,0:0:0:0:
+42,192,46313,1,0,0:0:0:0:
+384,192,46478,1,0,0:0:0:0:
+42,192,46643,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,46643,1,0,0:0:0:0:
+384,192,46808,1,0,0:0:0:0:
+213,192,46808,1,0,0:0:0:0:
+469,192,47138,1,0,0:0:0:0:
+213,192,47138,1,0,0:0:0:0:
+298,192,47302,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,47302,1,0,0:0:0:0:
+469,192,47467,1,0,0:0:0:0:
+213,192,47467,1,0,0:0:0:0:
+42,192,47632,1,0,0:0:0:0:
+298,192,47632,1,0,0:0:0:0:
+128,192,47797,1,0,0:0:0:0:
+213,192,47962,1,0,0:0:0:0:
+469,192,47962,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,48127,1,0,0:0:0:0:
+298,192,48127,1,0,0:0:0:0:
+213,192,48456,1,0,0:0:0:0:
+384,192,48456,1,0,0:0:0:0:
+298,192,48621,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,48621,1,0,0:0:0:0:
+384,192,48786,1,0,0:0:0:0:
+42,192,48786,1,0,0:0:0:0:
+469,192,48951,1,0,0:0:0:0:
+298,192,49116,1,0,0:0:0:0:
+384,192,49280,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,49280,1,0,0:0:0:0:
+128,192,49445,1,0,0:0:0:0:
+469,192,49445,1,0,0:0:0:0:
+298,192,49610,1,0,0:0:0:0:
+213,192,49775,1,0,0:0:0:0:
+384,192,49775,1,0,0:0:0:0:
+298,192,49940,1,0,0:0:0:0:
+42,192,49940,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,50105,1,0,0:0:0:0:
+384,192,50105,1,0,0:0:0:0:
+128,192,50269,1,0,0:0:0:0:
+469,192,50269,1,0,0:0:0:0:
+42,192,50434,1,0,0:0:0:0:
+469,192,50599,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,50599,1,0,0:0:0:0:
+298,192,50764,1,0,0:0:0:0:
+213,192,50764,1,0,0:0:0:0:
+469,192,51094,1,0,0:0:0:0:
+128,192,51094,1,0,0:0:0:0:
+42,192,51258,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,51258,1,0,0:0:0:0:
+298,192,51423,1,0,0:0:0:0:
+128,192,51423,1,0,0:0:0:0:
+213,192,51588,1,0,0:0:0:0:
+469,192,51588,1,0,0:0:0:0:
+298,192,51753,1,0,0:0:0:0:
+42,192,51918,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,51918,1,0,0:0:0:0:
+213,192,52083,1,0,0:0:0:0:
+469,192,52083,1,0,0:0:0:0:
+384,192,52412,1,0,0:0:0:0:
+128,192,52412,1,0,0:0:0:0:
+42,192,52577,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,52577,1,0,0:0:0:0:
+213,192,52742,1,0,0:0:0:0:
+469,192,52742,1,0,0:0:0:0:
+42,192,52907,1,4,0:0:0:20:soft-hitfinish.wav
+128,192,52907,128,0,53236:0:0:0:0:
+384,192,52907,128,0,53236:0:0:0:0:
+384,192,53401,128,0,53566:0:0:0:0:
+128,192,53401,128,0,53566:0:0:0:0:
+213,192,54225,128,0,54555:0:0:0:0:
+469,192,54225,128,0,54555:0:0:0:0:
+469,192,54720,128,0,54885:0:0:0:0:
+213,192,54720,128,0,54885:0:0:0:0:
+298,192,55050,1,0,0:0:0:0:
+42,192,55214,1,8,0:0:0:20:soft-hitclap.wav
+384,192,55214,1,0,0:0:0:0:
+213,192,55214,1,0,0:0:0:0:
+469,192,55544,128,0,55874:0:0:0:0:
+128,192,55544,128,0,55874:0:0:0:0:
+128,192,56039,128,0,56203:0:0:0:0:
+469,192,56039,128,0,56203:0:0:0:0:
+42,192,56863,128,0,57192:0:0:0:0:
+384,192,56863,128,0,57192:0:0:0:0:
+384,192,57357,128,0,57522:0:0:0:0:
+42,192,57357,128,0,57522:0:0:0:0:
+469,192,57852,1,0,0:0:0:0:
+96,192,57852,1,8,0:0:0:20:soft-hitclap.wav
+298,192,57852,1,0,0:0:0:0:
+42,192,58181,128,0,58511:0:0:0:0:
+298,192,58181,128,0,58511:0:0:0:0:
+298,192,58676,128,0,58841:0:0:0:0:
+42,192,58676,128,0,58841:0:0:0:0:
+384,192,59500,128,0,59830:0:0:0:0:
+128,192,59500,128,0,59830:0:0:0:0:
+128,192,59995,128,0,60160:0:0:0:0:
+384,192,59995,128,0,60160:0:0:0:0:
+42,192,60489,1,8,0:0:0:20:soft-hitclap.wav
+384,192,60489,1,0,0:0:0:0:
+213,192,60489,1,0,0:0:0:0:
+128,192,60819,1,0,0:0:0:0:
+213,192,60984,1,0,0:0:0:0:
+298,192,61149,1,0,0:0:0:0:
+384,192,61313,128,0,61643:0:0:0:0:
+298,192,61643,1,0,0:0:0:0:
+213,192,61808,1,0,0:0:0:0:
+128,192,61973,1,0,0:0:0:0:
+384,192,61973,1,0,0:0:0:0:
+384,192,62302,1,0,0:0:0:0:
+128,192,62302,1,0,0:0:0:0:
+128,192,62632,1,0,0:0:0:0:
+384,192,62632,1,0,0:0:0:0:
+128,192,62797,1,0,0:0:0:0:
+384,192,62797,1,0,0:0:0:0:
+384,192,63456,5,4,0:0:0:0:
+51,192,63456,1,2,0:0:0:0:
+298,192,63456,1,0,0:0:0:0:
+128,192,63621,1,0,0:0:0:0:
+213,192,63786,1,8,0:0:0:0:
+469,192,63786,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,63951,128,2,64280:0:0:0:0:
+42,192,63951,1,0,0:0:0:0:
+469,192,64116,1,0,0:0:0:0:
+213,192,64280,1,2,0:0:0:0:
+384,192,64280,1,0,0:0:0:0:
+96,192,64445,1,8,0:0:0:0:
+298,192,64445,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,64610,1,0,0:0:0:0:
+128,192,64775,1,2,0:0:0:0:
+384,192,64775,1,0,0:0:0:0:
+213,192,64940,1,0,0:0:0:0:
+469,192,65105,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,65105,1,8,0:0:0:0:
+384,192,65269,128,2,65599:0:0:0:0:
+42,192,65269,1,0,0:0:0:0:
+128,192,65434,1,0,0:0:0:0:
+298,192,65599,1,2,0:0:0:0:
+42,192,65599,1,0,0:0:0:0:
+213,192,65764,1,8,0:0:0:0:
+469,192,65764,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,65929,1,0,0:0:0:0:
+51,192,66094,1,2,0:0:0:0:
+384,192,66094,1,0,0:0:0:0:
+213,192,66258,1,0,0:0:0:0:
+298,192,66423,1,8,0:0:0:0:
+128,192,66423,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,66588,128,2,66918:0:0:0:0:
+384,192,66588,1,0,0:0:0:0:
+42,192,66753,1,0,0:0:0:0:
+298,192,66918,1,2,0:0:0:0:
+213,192,66918,1,0,0:0:0:0:
+128,192,67083,1,8,0:0:0:0:
+384,192,67083,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,67247,1,0,0:0:0:0:
+469,192,67412,1,0,0:0:0:0:
+213,192,67412,1,2,0:0:0:0:
+298,192,67577,1,0,0:0:0:0:
+384,192,67742,1,8,0:0:0:0:
+128,192,67742,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,67907,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,67907,128,2,68236:0:0:0:0:
+213,192,68072,1,0,0:0:0:0:
+384,192,68236,1,2,0:0:0:0:
+42,192,68236,1,0,0:0:0:0:
+298,192,68401,1,8,0:0:0:0:
+128,192,68401,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,68566,1,0,0:0:0:0:
+51,192,68731,1,2,0:0:0:0:
+469,192,68731,1,0,0:0:0:0:
+128,192,68896,1,0,0:0:0:0:
+384,192,69061,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,69061,1,8,0:0:0:0:
+298,192,69225,128,2,69555:0:0:0:0:
+42,192,69225,1,0,0:0:0:0:
+384,192,69390,1,0,0:0:0:0:
+213,192,69555,1,2,0:0:0:0:
+469,192,69555,1,0,0:0:0:0:
+96,192,69720,1,8,0:0:0:0:
+384,192,69720,1,0,0:0:0:40:LR_Clap Reverb.wav
+51,192,69885,1,2,0:0:0:0:
+298,192,69885,1,0,0:0:0:0:
+213,192,70050,1,2,0:0:0:0:
+469,192,70050,1,0,0:0:0:0:
+298,192,70214,1,0,0:0:0:0:
+384,192,70379,1,8,0:0:0:0:
+42,192,70379,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,70544,128,2,70874:0:0:0:0:
+128,192,70544,1,0,0:0:0:0:
+298,192,70709,1,0,0:0:0:0:
+384,192,70874,1,2,0:0:0:0:
+128,192,70874,1,0,0:0:0:0:
+298,192,71039,1,8,0:0:0:0:
+42,192,71039,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,71203,1,0,0:0:0:0:
+128,192,71368,1,2,0:0:0:0:
+469,192,71368,1,0,0:0:0:0:
+213,192,71533,1,0,0:0:0:0:
+298,192,71698,1,8,0:0:0:0:
+42,192,71698,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,71863,128,2,72192:0:0:0:0:
+469,192,71863,1,0,0:0:0:0:
+128,192,72028,1,0,0:0:0:0:
+298,192,72192,1,2,0:0:0:0:
+42,192,72192,1,0,0:0:0:0:
+213,192,72357,1,8,0:0:0:0:
+469,192,72357,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,72522,1,2,0:0:0:0:
+42,192,72687,1,2,0:0:0:0:
+384,192,72687,1,0,0:0:0:0:
+213,192,72852,1,0,0:0:0:0:
+298,192,73017,1,8,0:0:0:0:
+128,192,73017,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,73181,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,73181,128,2,73511:0:0:0:0:
+213,192,73346,1,0,0:0:0:0:
+384,192,73511,1,2,0:0:0:0:
+42,192,73511,1,0,0:0:0:0:
+298,192,73676,1,8,0:0:0:0:
+128,192,73676,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,73841,1,2,0:0:0:0:
+469,192,73841,1,0,0:0:0:0:
+51,192,74006,1,2,0:0:0:0:
+298,192,74006,1,0,0:0:0:0:
+128,192,74170,1,0,0:0:0:0:
+213,192,74335,5,8,0:0:0:0:
+384,192,74335,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,74500,128,2,74830:0:0:0:0:
+42,192,74500,1,0,0:0:0:0:
+469,192,74665,1,0,0:0:0:0:
+384,192,74830,1,0,0:0:0:0:
+213,192,74830,1,2,0:0:0:0:
+96,192,74995,1,8,0:0:0:0:
+298,192,74995,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,75160,1,0,0:0:0:0:
+128,192,75324,1,2,0:0:0:0:
+298,192,75324,1,0,0:0:0:0:
+213,192,75489,1,0,0:0:0:0:
+298,192,75654,1,8,0:0:0:0:
+42,192,75654,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,75819,128,2,76149:0:0:0:0:
+469,192,75819,1,0,0:0:0:0:
+128,192,75984,1,0,0:0:0:0:
+298,192,76149,1,2,0:0:0:0:
+42,192,76149,1,0,0:0:0:0:
+213,192,76313,1,8,0:0:0:0:
+469,192,76313,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,76478,1,2,0:0:0:0:
+298,192,76478,1,0,0:0:0:0:
+51,192,76643,1,2,0:0:0:0:
+384,192,76643,1,0,0:0:0:0:
+128,192,76808,1,0,0:0:0:0:
+469,192,76973,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,76973,1,8,0:0:0:0:
+298,192,77138,128,2,77467:0:0:0:0:
+42,192,77138,1,0,0:0:0:0:
+384,192,77302,1,0,0:0:0:0:
+213,192,77467,1,2,0:0:0:0:
+469,192,77467,1,0,0:0:0:0:
+128,192,77632,1,8,0:0:0:0:
+384,192,77632,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,77797,1,2,0:0:0:0:
+298,192,77797,1,0,0:0:0:0:
+213,192,77962,1,2,0:0:0:0:
+469,192,77962,1,0,0:0:0:0:
+298,192,78127,1,0,0:0:0:0:
+384,192,78291,1,8,0:0:0:0:
+128,192,78291,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,78456,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,78456,128,0,78786:0:0:0:0:
+213,192,78621,1,0,0:0:0:0:
+384,192,78786,1,2,0:0:0:0:
+42,192,78786,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,78951,1,8,0:0:0:0:
+42,192,78951,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,79116,1,2,0:0:0:0:
+469,192,79116,1,0,0:0:0:40:LR_Clap Reverb.wav
+51,192,79280,1,2,0:0:0:0:
+298,192,79280,1,0,0:0:0:0:
+128,192,79445,1,0,0:0:0:0:
+213,192,79610,1,8,0:0:0:0:
+384,192,79610,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,79775,128,2,80105:0:0:0:0:
+469,192,79775,1,0,0:0:0:0:
+42,192,79940,1,0,0:0:0:0:
+213,192,80105,1,2,0:0:0:0:
+469,192,80105,1,0,0:0:0:0:
+96,192,80269,1,8,0:0:0:0:
+298,192,80269,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,80434,1,2,0:0:0:0:
+384,192,80434,1,0,0:0:0:0:
+213,192,80599,1,2,0:0:0:0:
+469,192,80599,1,0,0:0:0:0:
+42,192,81918,1,2,0:0:0:0:
+298,192,81918,1,0,0:0:0:0:
+213,192,82083,1,0,0:0:0:0:
+384,192,82247,1,8,0:0:0:0:
+128,192,82247,1,0,0:0:0:0:
+213,192,82412,1,0,0:0:0:0:
+469,192,82577,1,2,0:0:0:0:
+42,192,82577,1,0,0:0:0:0:
+384,192,82742,1,0,0:0:0:0:
+213,192,82742,1,2,0:0:0:0:
+298,192,82907,1,8,0:0:0:0:
+128,192,82907,1,0,0:0:0:0:
+384,192,83072,1,0,0:0:0:0:
+384,192,83236,1,2,0:0:0:0:
+213,192,83236,1,0,0:0:0:0:
+42,192,83401,1,0,0:0:0:0:
+298,192,83566,1,8,0:0:0:0:
+469,192,83566,1,0,0:0:0:0:
+384,192,83731,1,2,0:0:0:0:
+42,192,83731,1,0,0:0:0:0:
+213,192,83896,1,0,0:0:0:0:
+128,192,84061,1,2,0:0:0:0:
+298,192,84061,1,0,0:0:0:0:
+42,192,84225,1,8,0:0:0:0:
+384,192,84225,1,0,0:0:0:0:
+469,192,84390,1,0,0:0:0:0:
+213,192,84555,1,2,0:0:0:0:
+298,192,84555,1,0,0:0:0:0:
+42,192,84720,1,0,0:0:0:0:
+128,192,84885,1,8,0:0:0:0:
+384,192,84885,1,0,0:0:0:0:
+213,192,85050,1,0,0:0:0:0:
+298,192,85214,1,2,0:0:0:0:
+42,192,85214,1,0,0:0:0:0:
+213,192,85379,1,2,0:0:0:0:
+469,192,85379,1,0,0:0:0:0:
+298,192,85544,1,8,0:0:0:0:
+128,192,85544,1,0,0:0:0:0:
+384,192,85709,1,0,0:0:0:0:
+469,192,85874,1,2,0:0:0:0:
+213,192,85874,1,0,0:0:0:0:
+384,192,86039,1,2,0:0:0:0:
+128,192,86039,1,0,0:0:0:0:
+298,192,86203,1,8,0:0:0:0:
+42,192,86203,1,0,0:0:0:0:
+213,192,86368,1,2,0:0:0:0:
+469,192,86368,1,0,0:0:0:0:
+384,192,86533,1,0,0:0:0:0:
+298,192,86698,1,2,0:0:0:0:
+42,192,86698,1,0,0:0:0:0:
+213,192,86863,1,8,0:0:0:0:
+469,192,86863,1,0,0:0:0:0:
+128,192,87028,1,2,0:0:0:0:
+42,192,87028,1,0,0:0:0:0:
+298,192,87192,1,2,0:0:0:0:
+469,192,87192,1,0,0:0:0:0:
+213,192,87357,1,0,0:0:0:0:
+42,192,87522,1,8,0:0:0:0:
+384,192,87522,1,0,0:0:0:0:
+213,192,87687,1,2,0:0:0:0:
+298,192,87687,1,0,0:0:0:0:
+469,192,87852,1,0,0:0:0:0:
+213,192,88017,1,2,0:0:0:0:
+384,192,88017,1,0,0:0:0:0:
+298,192,88181,1,8,0:0:0:0:
+128,192,88181,1,0,0:0:0:0:
+384,192,88346,1,0,0:0:0:0:
+384,192,88511,1,2,0:0:0:0:
+213,192,88511,1,0,0:0:0:0:
+42,192,88676,1,0,0:0:0:0:
+469,192,88841,1,0,0:0:0:0:
+298,192,88841,1,8,0:0:0:0:
+384,192,89006,1,2,0:0:0:0:
+42,192,89006,1,0,0:0:0:0:
+213,192,89170,1,0,0:0:0:0:
+128,192,89335,1,2,0:0:0:0:
+298,192,89335,1,0,0:0:0:0:
+42,192,89500,1,8,0:0:0:0:
+384,192,89500,1,0,0:0:0:0:
+128,192,89665,1,2,0:0:0:0:
+469,192,89665,1,0,0:0:0:0:
+213,192,89830,1,2,0:0:0:0:
+384,192,89830,1,0,0:0:0:0:
+42,192,89995,1,0,0:0:0:0:
+384,192,90160,1,8,0:0:0:0:
+128,192,90160,1,0,0:0:0:0:
+469,192,90324,1,2,0:0:0:0:
+213,192,90324,1,0,0:0:0:0:
+298,192,90489,1,0,0:0:0:0:
+469,192,90654,1,2,0:0:0:0:
+213,192,90654,1,0,0:0:0:0:
+384,192,90819,1,8,0:0:0:0:
+128,192,90819,1,0,0:0:0:0:
+298,192,90984,1,0,0:0:0:0:
+42,192,91149,1,2,0:0:0:0:
+298,192,91149,1,0,0:0:0:0:
+384,192,91313,1,2,0:0:0:0:
+213,192,91313,1,0,0:0:0:0:
+128,192,91478,1,8,0:0:0:0:
+298,192,91478,1,0,0:0:0:0:
+469,192,91643,128,2,91973:0:0:0:0:
+42,192,91643,1,0,0:0:0:0:
+298,192,91973,1,2,0:0:0:0:
+213,192,91973,1,0,0:0:0:0:
+384,192,92138,1,8,0:0:0:0:
+213,192,92138,1,0,0:0:0:0:
+469,192,92302,1,2,0:0:0:0:
+128,192,92302,1,0,0:0:0:0:
+42,192,92467,1,0,0:0:0:0:
+128,192,92632,1,0,0:0:0:0:
+213,192,92797,1,0,0:0:0:0:
+298,192,92962,128,0,93291:0:0:0:0:
+384,192,93291,1,0,0:0:0:0:
+128,192,93456,1,0,0:0:0:0:
+384,192,93621,1,0,0:0:0:0:
+213,192,93786,1,0,0:0:0:0:
+298,192,93951,1,0,0:0:0:0:
+384,192,94116,1,0,0:0:0:0:
+469,192,94280,128,0,94610:0:0:0:0:
+298,192,94610,1,0,0:0:0:0:
+213,192,94775,1,0,0:0:0:0:
+128,192,94940,1,0,0:0:0:0:
+298,192,95105,1,0,0:0:0:0:
+384,192,95269,1,0,0:0:0:0:
+213,192,95434,1,0,0:0:0:0:
+298,192,95599,128,0,95929:0:0:0:0:
+42,192,95929,1,0,0:0:0:0:
+298,192,96094,1,0,0:0:0:0:
+42,192,96258,1,0,0:0:0:0:
+384,192,96423,1,0,0:0:0:0:
+298,192,96588,1,0,0:0:0:0:
+213,192,96753,1,0,0:0:0:0:
+128,192,96918,128,0,97247:0:0:0:0:
+469,192,97247,1,0,0:0:0:0:
+213,192,97412,1,0,0:0:0:0:
+469,192,97577,1,0,0:0:0:0:
+42,192,97742,1,0,0:0:0:0:
+128,192,97907,1,0,0:0:0:0:
+213,192,98072,1,0,0:0:0:0:
+298,192,98236,128,0,98566:0:0:0:0:
+213,192,98566,1,0,0:0:0:0:
+213,192,98731,1,0,0:0:0:0:
+384,192,98896,1,0,0:0:0:0:
+42,192,99061,1,0,0:0:0:0:
+298,192,99225,1,0,0:0:0:0:
+213,192,99390,1,0,0:0:0:0:
+128,192,99555,1,0,0:0:0:0:
+298,192,99720,1,0,0:0:0:0:
+213,192,99885,1,0,0:0:0:0:
+298,192,100050,1,0,0:0:0:0:
+384,192,100214,1,0,0:0:0:0:
+469,192,100379,1,0,0:0:0:0:
+384,192,100544,1,0,0:0:0:0:
+298,192,100709,1,0,0:0:0:0:
+213,192,100874,128,0,101203:0:0:0:0:
+128,192,101203,1,0,0:0:0:0:
+213,192,101368,1,0,0:0:0:0:
+298,192,101533,1,0,0:0:0:0:
+384,192,101698,1,0,0:0:0:0:
+298,192,101863,1,0,0:0:0:0:
+213,192,102028,1,0,0:0:0:0:
+128,192,102192,1,0,0:0:0:0:
+42,192,102357,128,0,102687:0:0:0:0:
+469,192,102687,1,0,0:0:0:0:
+298,192,103017,1,0,0:0:0:0:
+42,192,103181,1,0,0:0:0:0:
+416,192,103346,5,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,103346,1,0,0:0:0:0:
+213,192,103511,1,0,0:0:0:0:
+298,192,103511,1,0,0:0:0:0:
+469,192,103841,1,0,0:0:0:0:
+42,192,103841,1,0,0:0:0:0:
+128,192,104006,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,104006,1,0,0:0:0:0:
+42,192,104170,1,0,0:0:0:0:
+469,192,104170,1,0,0:0:0:0:
+213,192,104335,1,0,0:0:0:0:
+298,192,104500,1,0,0:0:0:0:
+128,192,104665,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,104665,1,0,0:0:0:0:
+469,192,104830,1,0,0:0:0:0:
+213,192,104830,1,0,0:0:0:0:
+298,192,105160,1,0,0:0:0:0:
+42,192,105160,1,0,0:0:0:0:
+469,192,105324,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,105324,1,0,0:0:0:0:
+128,192,105489,1,0,0:0:0:0:
+384,192,105489,1,0,0:0:0:0:
+42,192,105654,1,0,0:0:0:0:
+469,192,105654,1,0,0:0:0:0:
+213,192,105819,1,0,0:0:0:0:
+42,192,105984,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,105984,1,0,0:0:0:0:
+384,192,106149,1,0,0:0:0:0:
+128,192,106149,1,0,0:0:0:0:
+213,192,106478,1,0,0:0:0:0:
+469,192,106478,1,0,0:0:0:0:
+42,192,106643,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,106643,1,0,0:0:0:0:
+213,192,106808,1,0,0:0:0:0:
+384,192,106808,1,0,0:0:0:0:
+469,192,106973,1,0,0:0:0:0:
+128,192,106973,1,0,0:0:0:0:
+384,192,107138,1,0,0:0:0:0:
+42,192,107302,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,107302,1,0,0:0:0:0:
+213,192,107467,1,0,0:0:0:0:
+469,192,107467,1,0,0:0:0:0:
+128,192,107797,1,0,0:0:0:0:
+384,192,107797,1,0,0:0:0:0:
+42,192,107962,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,107962,1,0,0:0:0:0:
+128,192,108127,1,0,0:0:0:0:
+384,192,108127,1,0,0:0:0:0:
+213,192,108291,1,0,0:0:0:0:
+298,192,108456,1,0,0:0:0:0:
+42,192,108621,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,108621,1,0,0:0:0:0:
+213,192,108786,1,0,0:0:0:0:
+469,192,108786,1,0,0:0:0:0:
+384,192,109116,1,0,0:0:0:0:
+128,192,109116,1,0,0:0:0:0:
+42,192,109280,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,109280,1,0,0:0:0:0:
+213,192,109445,1,0,0:0:0:0:
+469,192,109445,1,0,0:0:0:0:
+128,192,109610,1,0,0:0:0:0:
+298,192,109775,1,0,0:0:0:0:
+469,192,109940,1,0,0:0:0:0:
+42,192,109940,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,110105,1,0,0:0:0:0:
+384,192,110105,1,0,0:0:0:0:
+298,192,110269,1,0,0:0:0:0:
+213,192,110434,1,0,0:0:0:0:
+469,192,110434,1,0,0:0:0:0:
+42,192,110599,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,110599,1,0,0:0:0:0:
+384,192,110764,1,0,0:0:0:0:
+213,192,110764,1,0,0:0:0:0:
+469,192,110929,1,0,0:0:0:0:
+42,192,110929,1,0,0:0:0:0:
+128,192,111094,1,0,0:0:0:0:
+384,192,111258,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,111258,1,0,0:0:0:0:
+128,192,111423,1,0,0:0:0:0:
+298,192,111423,1,0,0:0:0:0:
+469,192,111753,1,0,0:0:0:0:
+42,192,111753,1,0,0:0:0:0:
+128,192,111918,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,111918,1,0,0:0:0:0:
+42,192,112083,1,0,0:0:0:0:
+298,192,112083,1,0,0:0:0:0:
+469,192,112247,1,0,0:0:0:0:
+213,192,112247,1,0,0:0:0:0:
+298,192,112412,1,0,0:0:0:0:
+128,192,112577,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,112577,1,0,0:0:0:0:
+469,192,112742,1,0,0:0:0:0:
+42,192,112742,1,0,0:0:0:0:
+213,192,113072,1,0,0:0:0:0:
+469,192,113072,1,0,0:0:0:0:
+128,192,113236,1,0,0:0:0:0:
+298,192,113236,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,113401,1,0,0:0:0:0:
+384,192,113401,1,0,0:0:0:0:
+469,192,113566,128,0,113896:0:0:0:0:
+128,192,113566,1,4,0:0:0:20:soft-hitfinish.wav
+213,192,113566,128,0,113896:0:0:0:0:
+469,192,114061,128,0,114225:0:0:0:0:
+213,192,114061,128,0,114225:0:0:0:0:
+128,192,114885,128,0,115214:0:0:0:0:
+384,192,114885,128,0,115214:0:0:0:0:
+384,192,115379,128,0,115544:0:0:0:0:
+128,192,115379,128,0,115544:0:0:0:0:
+213,192,115709,1,0,0:0:0:0:
+469,192,115874,1,8,0:0:0:20:soft-hitclap.wav
+298,192,115874,1,0,0:0:0:0:
+128,192,115874,1,0,0:0:0:0:
+384,192,116203,128,0,116533:0:0:0:0:
+42,192,116203,128,0,116533:0:0:0:0:
+42,192,116698,128,0,116863:0:0:0:0:
+384,192,116698,128,0,116863:0:0:0:0:
+469,192,117522,128,0,117852:0:0:0:0:
+128,192,117522,128,0,117852:0:0:0:0:
+128,192,118017,128,0,118181:0:0:0:0:
+469,192,118017,128,0,118181:0:0:0:0:
+384,192,118511,1,8,0:0:0:20:soft-hitclap.wav
+42,192,118511,1,0,0:0:0:0:
+213,192,118511,1,0,0:0:0:0:
+469,192,118841,128,0,119170:0:0:0:0:
+213,192,118841,128,0,119170:0:0:0:0:
+213,192,119335,128,0,119500:0:0:0:0:
+469,192,119335,128,0,119500:0:0:0:0:
+128,192,120160,128,0,120489:0:0:0:0:
+384,192,120160,128,0,120489:0:0:0:0:
+384,192,120654,128,0,120819:0:0:0:0:
+128,192,120654,128,0,120819:0:0:0:0:
+469,192,121149,1,8,0:0:0:20:soft-hitclap.wav
+298,192,121149,1,0,0:0:0:0:
+128,192,121149,1,0,0:0:0:0:
+42,192,121478,1,0,0:0:0:0:
+213,192,121643,1,0,0:0:0:0:
+298,192,121808,1,0,0:0:0:0:
+384,192,121973,128,0,122302:0:0:0:0:
+298,192,122302,1,0,0:0:0:0:
+213,192,122467,1,0,0:0:0:0:
+128,192,122632,1,0,0:0:0:0:
+384,192,122632,1,0,0:0:0:0:
+384,192,122962,1,0,0:0:0:0:
+128,192,122962,1,0,0:0:0:0:
+384,192,123291,1,0,0:0:0:0:
+128,192,123291,1,0,0:0:0:0:
+128,192,123456,1,0,0:0:0:0:
+384,192,123456,1,0,0:0:0:0:
+469,192,124116,5,4,0:0:0:0:
+128,192,124116,1,2,0:0:0:0:
+384,192,124116,1,0,0:0:0:0:
+213,192,124280,1,0,0:0:0:0:
+42,192,124445,1,8,0:0:0:0:
+298,192,124445,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,124610,128,2,124940:0:0:0:0:
+213,192,124610,1,0,0:0:0:0:
+128,192,124775,1,0,0:0:0:0:
+298,192,124940,1,2,0:0:0:0:
+469,192,124940,1,0,0:0:0:0:
+213,192,125105,1,8,0:0:0:0:
+384,192,125105,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,125269,1,0,0:0:0:0:
+42,192,125434,1,2,0:0:0:0:
+298,192,125434,1,0,0:0:0:0:
+213,192,125599,1,0,0:0:0:0:
+128,192,125764,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,125764,1,8,0:0:0:0:
+469,192,125929,128,0,126258:0:0:0:0:
+384,192,125929,1,2,0:0:0:0:
+213,192,126094,1,0,0:0:0:0:
+298,192,126258,1,2,0:0:0:0:
+42,192,126258,1,0,0:0:0:0:
+213,192,126423,1,8,0:0:0:0:
+384,192,126423,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,126588,1,0,0:0:0:0:
+51,192,126753,1,2,0:0:0:0:
+469,192,126753,1,0,0:0:0:0:
+128,192,126918,1,0,0:0:0:0:
+384,192,127083,1,8,0:0:0:0:
+213,192,127083,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,127247,128,2,127577:0:0:0:0:
+469,192,127247,1,0,0:0:0:0:
+42,192,127412,1,0,0:0:0:0:
+469,192,127577,1,2,0:0:0:0:
+213,192,127577,1,0,0:0:0:0:
+384,192,127742,1,8,0:0:0:0:
+128,192,127742,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,127907,1,0,0:0:0:0:
+469,192,128072,1,2,0:0:0:0:
+213,192,128072,1,0,0:0:0:0:
+298,192,128236,1,0,0:0:0:0:
+384,192,128401,1,8,0:0:0:0:
+128,192,128401,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,128566,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,128566,128,2,128896:0:0:0:0:
+213,192,128731,1,0,0:0:0:0:
+384,192,128896,1,2,0:0:0:0:
+42,192,128896,1,0,0:0:0:0:
+298,192,129061,1,8,0:0:0:0:
+128,192,129061,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,129225,1,0,0:0:0:0:
+128,192,129390,1,2,0:0:0:0:
+384,192,129390,1,0,0:0:0:0:
+213,192,129555,1,0,0:0:0:0:
+469,192,129720,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,129720,1,8,0:0:0:0:
+384,192,129885,128,2,130214:0:0:0:0:
+42,192,129885,1,0,0:0:0:0:
+128,192,130050,1,0,0:0:0:0:
+298,192,130214,1,2,0:0:0:0:
+42,192,130214,1,0,0:0:0:0:
+213,192,130379,1,8,0:0:0:0:
+469,192,130379,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,130544,1,2,0:0:0:0:
+384,192,130544,1,0,0:0:0:0:
+42,192,130709,1,2,0:0:0:0:
+298,192,130709,1,0,0:0:0:0:
+213,192,130874,1,0,0:0:0:0:
+298,192,131039,1,8,0:0:0:0:
+128,192,131039,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,131203,128,2,131533:0:0:0:0:
+384,192,131203,1,0,0:0:0:0:
+213,192,131368,1,0,0:0:0:0:
+298,192,131533,1,2,0:0:0:0:
+42,192,131533,1,0,0:0:0:0:
+384,192,131698,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,131698,1,8,0:0:0:0:
+128,192,131863,1,0,0:0:0:0:
+42,192,132028,1,2,0:0:0:0:
+469,192,132028,1,0,0:0:0:0:
+213,192,132192,1,0,0:0:0:0:
+298,192,132357,1,8,0:0:0:0:
+42,192,132357,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,132522,128,0,132852:0:0:0:0:
+128,192,132522,1,2,0:0:0:0:
+298,192,132687,1,0,0:0:0:0:
+213,192,132852,1,2,0:0:0:0:
+469,192,132852,1,0,0:0:0:0:
+128,192,133017,1,8,0:0:0:0:
+384,192,133017,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,133181,1,2,0:0:0:0:
+298,192,133181,1,0,0:0:0:0:
+128,192,133346,1,2,0:0:0:0:
+384,192,133346,1,0,0:0:0:0:
+213,192,133511,1,0,0:0:0:0:
+298,192,133676,1,8,0:0:0:0:
+128,192,133676,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,133841,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,133841,128,2,134170:0:0:0:0:
+213,192,134006,1,0,0:0:0:0:
+298,192,134170,1,2,0:0:0:0:
+42,192,134170,1,0,0:0:0:0:
+213,192,134335,1,8,0:0:0:0:
+469,192,134335,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,134500,1,2,0:0:0:0:
+384,192,134500,1,0,0:0:0:0:
+51,192,134665,1,2,0:0:0:0:
+298,192,134665,1,0,0:0:0:0:
+128,192,134830,1,0,0:0:0:0:
+213,192,134995,5,8,0:0:0:0:
+384,192,134995,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,135160,128,2,135489:0:0:0:0:
+469,192,135160,1,0,0:0:0:0:
+42,192,135324,1,0,0:0:0:0:
+213,192,135489,1,2,0:0:0:0:
+469,192,135489,1,0,0:0:0:0:
+96,192,135654,1,8,0:0:0:0:
+384,192,135654,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,135819,1,0,0:0:0:0:
+128,192,135984,1,2,0:0:0:0:
+298,192,135984,1,0,0:0:0:0:
+213,192,136149,1,0,0:0:0:0:
+298,192,136313,1,8,0:0:0:0:
+469,192,136313,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,136478,128,2,136808:0:0:0:0:
+128,192,136478,1,0,0:0:0:0:
+42,192,136643,1,0,0:0:0:0:
+213,192,136808,1,2,0:0:0:0:
+469,192,136808,1,0,0:0:0:0:
+128,192,136973,1,8,0:0:0:0:
+384,192,136973,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,137138,1,2,0:0:0:0:
+298,192,137138,1,0,0:0:0:0:
+213,192,137302,1,2,0:0:0:0:
+469,192,137302,1,0,0:0:0:0:
+298,192,137467,1,0,0:0:0:0:
+384,192,137632,1,8,0:0:0:0:
+42,192,137632,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,137797,128,2,138127:0:0:0:0:
+213,192,137797,1,0,0:0:0:0:
+128,192,137962,1,0,0:0:0:0:
+298,192,138127,1,2,0:0:0:0:
+42,192,138127,1,0,0:0:0:0:
+213,192,138291,1,8,0:0:0:0:
+469,192,138291,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,138456,1,2,0:0:0:0:
+384,192,138456,1,0,0:0:0:0:
+42,192,138621,1,2,0:0:0:0:
+298,192,138621,1,0,0:0:0:0:
+213,192,138786,1,0,0:0:0:0:
+298,192,138951,1,8,0:0:0:0:
+128,192,138951,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,139116,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,139116,128,0,139445:0:0:0:0:
+213,192,139280,1,0,0:0:0:0:
+384,192,139445,1,2,0:0:0:0:
+42,192,139445,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,139610,1,8,0:0:0:0:
+42,192,139610,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,139775,1,2,0:0:0:0:
+469,192,139775,1,0,0:0:0:40:LR_Clap Reverb.wav
+51,192,139940,1,2,0:0:0:0:
+384,192,139940,1,0,0:0:0:0:
+128,192,140105,1,0,0:0:0:0:
+213,192,140269,1,8,0:0:0:0:
+469,192,140269,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,140434,128,2,140764:0:0:0:0:
+384,192,140434,1,0,0:0:0:0:
+42,192,140599,1,0,0:0:0:0:
+213,192,140764,1,2,0:0:0:0:
+384,192,140764,1,0,0:0:0:0:
+96,192,140929,1,8,0:0:0:0:
+469,192,140929,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,141094,1,2,0:0:0:0:
+298,192,141094,1,0,0:0:0:0:
+213,192,141258,1,2,0:0:0:0:
+384,192,141258,1,0,0:0:0:0:
+213,192,142577,1,0,0:0:0:0:
+469,192,142742,1,0,0:0:0:0:
+469,192,142907,1,0,0:0:0:0:
+42,192,142907,1,0,0:0:0:0:
+213,192,143072,1,0,0:0:0:0:
+469,192,143236,1,0,0:0:0:0:
+469,192,143401,1,0,0:0:0:0:
+213,192,143566,1,0,0:0:0:0:
+42,192,143566,1,0,0:0:0:0:
+469,192,143731,1,0,0:0:0:0:
+298,192,143896,1,0,0:0:0:0:
+42,192,144061,1,0,0:0:0:0:
+42,192,144225,1,0,0:0:0:0:
+469,192,144225,1,0,0:0:0:0:
+298,192,144390,1,0,0:0:0:0:
+42,192,144555,1,0,0:0:0:0:
+42,192,144720,1,0,0:0:0:0:
+298,192,144885,1,0,0:0:0:0:
+469,192,144885,1,0,0:0:0:0:
+42,192,145050,1,0,0:0:0:0:
+213,192,145214,1,0,0:0:0:0:
+384,192,145379,1,0,0:0:0:0:
+384,192,145544,1,0,0:0:0:0:
+42,192,145544,1,0,0:0:0:0:
+213,192,145709,1,0,0:0:0:0:
+384,192,145874,1,0,0:0:0:0:
+384,192,146039,1,0,0:0:0:0:
+42,192,146203,1,0,0:0:0:0:
+213,192,146203,1,0,0:0:0:0:
+384,192,146368,1,0,0:0:0:0:
+298,192,146533,1,0,0:0:0:0:
+128,192,146698,1,0,0:0:0:0:
+128,192,146863,1,0,0:0:0:0:
+469,192,146863,1,0,0:0:0:0:
+298,192,147028,1,0,0:0:0:0:
+128,192,147192,1,0,0:0:0:0:
+128,192,147357,1,0,0:0:0:0:
+298,192,147522,1,0,0:0:0:0:
+469,192,147522,1,0,0:0:0:0:
+128,192,147687,1,0,0:0:0:0:
+384,192,147852,1,0,0:0:0:0:
+213,192,148017,1,0,0:0:0:0:
+213,192,148181,1,0,0:0:0:0:
+42,192,148181,1,0,0:0:0:0:
+384,192,148346,1,0,0:0:0:0:
+213,192,148511,1,0,0:0:0:0:
+213,192,148676,1,0,0:0:0:0:
+384,192,148841,1,0,0:0:0:0:
+42,192,148841,1,0,0:0:0:0:
+213,192,149006,1,0,0:0:0:0:
+128,192,149170,1,0,0:0:0:0:
+298,192,149335,1,0,0:0:0:0:
+298,192,149500,1,0,0:0:0:0:
+469,192,149500,1,0,0:0:0:0:
+128,192,149665,1,0,0:0:0:0:
+298,192,149830,1,0,0:0:0:0:
+298,192,149995,1,0,0:0:0:0:
+128,192,150160,1,0,0:0:0:0:
+469,192,150160,1,0,0:0:0:0:
+298,192,150324,1,0,0:0:0:0:
+213,192,150489,1,0,0:0:0:0:
+469,192,150654,1,0,0:0:0:0:
+469,192,150819,1,0,0:0:0:0:
+42,192,150819,1,0,0:0:0:0:
+213,192,150984,1,0,0:0:0:0:
+469,192,151149,1,0,0:0:0:0:
+469,192,151313,1,0,0:0:0:0:
+42,192,151478,1,0,0:0:0:0:
+213,192,151478,1,0,0:0:0:0:
+469,192,151643,1,0,0:0:0:0:
+298,192,151808,1,0,0:0:0:0:
+42,192,151973,1,0,0:0:0:0:
+42,192,152138,1,0,0:0:0:0:
+469,192,152138,1,0,0:0:0:0:
+298,192,152302,1,0,0:0:0:0:
+128,192,152467,1,0,0:0:0:0:
+128,192,152632,1,0,0:0:0:0:
+384,192,152632,1,0,0:0:0:0:
+213,192,152797,1,0,0:0:0:0:
+469,192,152962,1,0,0:0:0:0:
+298,192,153127,1,0,0:0:0:0:
+128,192,153236,1,0,0:0:0:0:
+213,192,153346,1,0,0:0:0:0:
+469,192,153456,1,0,0:0:0:0:
+128,192,153456,1,0,0:0:0:0:
+384,192,153566,1,0,0:0:0:0:
+298,192,153676,1,0,0:0:0:0:
+213,192,153786,1,0,0:0:0:0:
+384,192,153896,1,0,0:0:0:0:
+298,192,154006,1,0,0:0:0:0:
+42,192,154116,1,0,0:0:0:0:
+384,192,154116,1,0,0:0:0:0:
+128,192,154225,1,0,0:0:0:0:
+213,192,154335,1,0,0:0:0:0:
+469,192,154445,1,0,0:0:0:0:
+298,192,154555,1,0,0:0:0:0:
+213,192,154665,1,0,0:0:0:0:
+384,192,154775,1,0,0:0:0:0:
+128,192,154775,1,0,0:0:0:0:
+298,192,154885,1,0,0:0:0:0:
+213,192,154995,1,0,0:0:0:0:
+42,192,155105,1,0,0:0:0:0:
+128,192,155214,1,0,0:0:0:0:
+213,192,155324,1,0,0:0:0:0:
+298,192,155434,1,0,0:0:0:0:
+128,192,155434,1,0,0:0:0:0:
+384,192,155544,1,0,0:0:0:0:
+469,192,155654,1,0,0:0:0:0:
+298,192,155764,1,0,0:0:0:0:
+42,192,155874,1,0,0:0:0:0:
+213,192,155984,1,0,0:0:0:0:
+384,192,156094,1,0,0:0:0:0:
+469,192,156094,1,0,0:0:0:0:
+128,192,156203,1,0,0:0:0:0:
+298,192,156313,1,0,0:0:0:0:
+469,192,156423,1,0,0:0:0:0:
+213,192,156533,1,0,0:0:0:0:
+384,192,156643,1,0,0:0:0:0:
+128,192,156753,1,0,0:0:0:0:
+42,192,156753,1,0,0:0:0:0:
+213,192,156863,1,0,0:0:0:0:
+298,192,156973,1,0,0:0:0:0:
+384,192,157083,1,0,0:0:0:0:
+298,192,157192,1,0,0:0:0:0:
+213,192,157302,1,0,0:0:0:0:
+42,192,157412,1,0,0:0:0:0:
+384,192,157412,1,0,0:0:0:0:
+213,192,157522,1,0,0:0:0:0:
+298,192,157632,1,0,0:0:0:0:
+469,192,157742,1,0,0:0:0:0:
+384,192,157852,1,0,0:0:0:0:
+298,192,157962,1,0,0:0:0:0:
+213,192,158072,1,0,0:0:0:0:
+469,192,158072,1,0,0:0:0:0:
+128,192,158181,1,0,0:0:0:0:
+298,192,158291,1,0,0:0:0:0:
+42,192,158401,1,0,0:0:0:0:
+384,192,158401,1,0,0:0:0:0:
+128,192,158731,1,0,0:0:0:0:
+469,192,158731,1,0,0:0:0:0:
+213,192,158841,1,0,0:0:0:0:
+298,192,158951,1,0,0:0:0:0:
+384,192,159061,1,0,0:0:0:0:
+298,192,159170,1,0,0:0:0:0:
+213,192,159280,1,0,0:0:0:0:
+42,192,159390,1,0,0:0:0:0:
+469,192,159390,1,0,0:0:0:0:
+128,192,159500,1,0,0:0:0:0:
+213,192,159610,1,0,0:0:0:0:
+298,192,159720,1,0,0:0:0:0:
+42,192,159830,1,0,0:0:0:0:
+213,192,159940,1,0,0:0:0:0:
+384,192,160050,1,0,0:0:0:0:
+469,192,160050,1,0,0:0:0:0:
+128,192,160160,1,0,0:0:0:0:
+298,192,160269,1,0,0:0:0:0:
+213,192,160379,1,0,0:0:0:0:
+298,192,160489,1,0,0:0:0:0:
+384,192,160599,1,0,0:0:0:0:
+128,192,160709,1,0,0:0:0:0:
+42,192,160709,1,0,0:0:0:0:
+213,192,160819,1,0,0:0:0:0:
+298,192,160929,1,0,0:0:0:0:
+469,192,161039,1,0,0:0:0:0:
+42,192,161039,1,0,0:0:0:0:
+469,192,161368,1,0,0:0:0:0:
+42,192,161368,1,0,0:0:0:0:
+213,192,161478,1,0,0:0:0:0:
+298,192,161588,1,0,0:0:0:0:
+469,192,161698,1,0,0:0:0:0:
+128,192,161808,1,0,0:0:0:0:
+213,192,161918,1,0,0:0:0:0:
+298,192,162028,1,0,0:0:0:0:
+128,192,162028,1,0,0:0:0:0:
+469,192,162138,1,0,0:0:0:0:
+298,192,162247,1,0,0:0:0:0:
+213,192,162357,1,0,0:0:0:0:
+384,192,162522,1,0,0:0:0:0:
+42,192,162687,1,0,0:0:0:0:
+128,192,162852,1,0,0:0:0:0:
+213,192,163017,1,0,0:0:0:0:
+298,192,163181,1,0,0:0:0:0:
+384,192,163346,1,0,0:0:0:0:
+469,192,163511,1,0,0:0:0:0:
+42,192,163676,128,0,164335:0:0:0:0:
+298,192,163676,128,0,164335:0:0:0:0:
+128,192,164995,128,0,165654:0:0:0:0:
+384,192,164995,128,0,165654:0:0:0:0:
+213,192,166313,128,0,166973:0:0:0:0:
+469,192,166313,128,0,166973:0:0:0:0:
+128,192,167632,128,0,168291:0:0:0:0:
+384,192,167632,128,0,168291:0:0:0:0:
+42,192,168951,128,0,169610:0:0:0:0:
+384,192,168951,128,0,169610:0:0:0:0:
+213,192,170269,128,0,170929:0:0:0:0:
+469,192,170269,128,0,170929:0:0:0:0:
+128,192,171588,128,0,172247:0:0:0:0:
+298,192,171588,128,0,172247:0:0:0:0:
+213,192,172907,5,0,0:0:0:0:
+213,192,173072,1,0,0:0:0:0:
+213,192,173236,1,0,0:0:0:0:
+213,192,173401,1,0,0:0:0:0:
+298,192,173566,1,0,0:0:0:0:
+298,192,173731,1,0,0:0:0:0:
+42,192,173896,5,0,0:0:0:50:climax.wav
+298,192,173896,1,0,0:0:0:0:
+128,192,173896,1,0,0:0:0:0:
+298,192,174061,1,0,0:0:0:0:
+469,192,174225,1,0,0:0:0:0:
+42,192,174225,1,0,0:0:0:0:
+128,192,174390,1,0,0:0:0:0:
+469,192,174555,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,174555,1,8,0:0:0:0:
+384,192,174555,1,4,0:0:0:0:
+298,192,174720,128,2,175050:0:0:0:0:
+42,192,174720,1,0,0:0:0:0:
+469,192,174885,1,0,0:0:0:0:
+213,192,175050,1,2,0:0:0:0:
+384,192,175050,1,0,0:0:0:0:
+298,192,175214,1,0,0:0:0:40:LR_Clap Reverb.wav
+128,192,175214,1,8,0:0:0:0:
+42,192,175379,1,0,0:0:0:0:
+128,192,175544,1,2,0:0:0:0:
+384,192,175544,1,0,0:0:0:0:
+213,192,175709,1,0,0:0:0:0:
+469,192,175874,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,175874,1,8,0:0:0:0:
+384,192,176039,128,2,176368:0:0:0:0:
+42,192,176039,1,0,0:0:0:0:
+128,192,176203,1,0,0:0:0:0:
+298,192,176368,1,2,0:0:0:0:
+469,192,176533,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,176533,1,8,0:0:0:0:
+128,192,176698,1,2,0:0:0:0:
+384,192,176698,1,0,0:0:0:0:
+213,192,176863,1,2,0:0:0:0:
+469,192,176863,1,0,0:0:0:0:
+298,192,177028,1,0,0:0:0:0:
+384,192,177192,1,0,0:0:0:40:LR_Clap Reverb.wav
+42,192,177192,1,8,0:0:0:0:
+469,192,177357,128,2,177687:0:0:0:0:
+213,192,177357,1,0,0:0:0:0:
+128,192,177522,1,0,0:0:0:0:
+298,192,177687,1,2,0:0:0:0:
+384,192,177687,1,0,0:0:0:0:
+469,192,177852,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,177852,1,8,0:0:0:0:
+128,192,178017,1,2,0:0:0:0:
+384,192,178017,1,0,0:0:0:0:
+51,192,178181,1,2,0:0:0:0:
+298,192,178181,1,0,0:0:0:0:
+213,192,178346,1,0,0:0:0:0:
+128,192,178511,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,178511,1,8,0:0:0:0:
+128,192,178676,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,178676,128,2,179006:0:0:0:0:
+213,192,178841,1,0,0:0:0:0:
+384,192,179006,1,2,0:0:0:0:
+42,192,179006,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,179170,1,8,0:0:0:0:
+42,192,179170,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,179335,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,179335,1,0,0:0:0:0:
+51,192,179500,1,2,0:0:0:0:
+298,192,179500,1,0,0:0:0:0:
+128,192,179665,1,0,0:0:0:0:
+384,192,179830,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,179830,1,8,0:0:0:0:
+298,192,179995,128,2,180324:0:0:0:0:
+469,192,179995,1,0,0:0:0:0:
+42,192,180160,1,0,0:0:0:0:
+213,192,180324,1,2,0:0:0:0:
+469,192,180324,1,0,0:0:0:0:
+384,192,180489,1,0,0:0:0:40:LR_Clap Reverb.wav
+96,192,180489,1,8,0:0:0:0:
+51,192,180654,1,2,0:0:0:0:
+298,192,180654,1,0,0:0:0:0:
+128,192,180819,1,2,0:0:0:0:
+469,192,180819,1,0,0:0:0:0:
+213,192,180984,1,0,0:0:0:0:
+42,192,181149,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,181149,1,8,0:0:0:0:
+469,192,181313,128,2,181643:0:0:0:0:
+298,192,181313,1,0,0:0:0:0:
+213,192,181478,1,0,0:0:0:0:
+298,192,181643,1,2,0:0:0:0:
+42,192,181643,1,0,0:0:0:0:
+128,192,181808,1,0,0:0:0:40:LR_Clap Reverb.wav
+384,192,181808,1,8,0:0:0:0:
+128,192,181973,1,0,0:0:0:40:LR_Clap Reverb.wav
+469,192,181973,1,0,0:0:0:0:
+51,192,182138,1,2,0:0:0:0:
+384,192,182138,1,0,0:0:0:0:
+213,192,182302,1,0,0:0:0:0:
+128,192,182467,1,0,0:0:0:40:LR_Clap Reverb.wav
+298,192,182467,1,8,0:0:0:0:
+384,192,182632,128,2,182962:0:0:0:0:
+469,192,182632,1,0,0:0:0:0:
+42,192,182797,1,0,0:0:0:0:
+298,192,182962,1,2,0:0:0:0:
+128,192,182962,1,0,0:0:0:0:
+469,192,183127,1,0,0:0:0:40:LR_Clap Reverb.wav
+213,192,183127,1,8,0:0:0:0:
+128,192,183291,1,2,0:0:0:0:
+384,192,183291,1,0,0:0:0:0:
+51,192,183456,1,2,0:0:0:0:
+298,192,183456,1,0,0:0:0:0:
+469,192,184775,5,4,0:0:0:0:
+42,192,184775,1,2,0:0:0:0:
+298,192,184775,1,0,0:0:0:0:
+213,192,184940,1,0,0:0:0:0:
+384,192,185105,1,8,0:0:0:0:
+128,192,185105,1,0,0:0:0:0:
+213,192,185269,1,0,0:0:0:0:
+469,192,185434,1,2,0:0:0:0:
+42,192,185434,1,0,0:0:0:0:
+384,192,185599,1,0,0:0:0:0:
+213,192,185599,1,2,0:0:0:0:
+298,192,185764,1,8,0:0:0:0:
+128,192,185764,1,0,0:0:0:0:
+384,192,185929,1,0,0:0:0:0:
+384,192,186094,1,2,0:0:0:0:
+213,192,186094,1,0,0:0:0:0:
+42,192,186258,1,0,0:0:0:0:
+298,192,186423,1,8,0:0:0:0:
+469,192,186423,1,0,0:0:0:0:
+384,192,186588,1,2,0:0:0:0:
+42,192,186588,1,0,0:0:0:0:
+213,192,186753,1,0,0:0:0:0:
+128,192,186918,1,2,0:0:0:0:
+298,192,186918,1,0,0:0:0:0:
+42,192,187083,1,8,0:0:0:0:
+384,192,187083,1,0,0:0:0:0:
+469,192,187247,1,0,0:0:0:0:
+213,192,187412,1,2,0:0:0:0:
+298,192,187412,1,0,0:0:0:0:
+42,192,187577,1,0,0:0:0:0:
+128,192,187742,1,8,0:0:0:0:
+384,192,187742,1,0,0:0:0:0:
+213,192,187907,1,0,0:0:0:0:
+298,192,188072,1,2,0:0:0:0:
+42,192,188072,1,0,0:0:0:0:
+213,192,188236,1,2,0:0:0:0:
+469,192,188236,1,0,0:0:0:0:
+298,192,188401,1,8,0:0:0:0:
+128,192,188401,1,0,0:0:0:0:
+384,192,188566,1,0,0:0:0:0:
+469,192,188731,1,2,0:0:0:0:
+213,192,188731,1,0,0:0:0:0:
+384,192,188896,1,2,0:0:0:0:
+128,192,188896,1,0,0:0:0:0:
+298,192,189061,1,8,0:0:0:0:
+42,192,189061,1,0,0:0:0:0:
+213,192,189225,1,2,0:0:0:0:
+469,192,189225,1,0,0:0:0:0:
+384,192,189390,1,0,0:0:0:0:
+298,192,189555,1,2,0:0:0:0:
+42,192,189555,1,0,0:0:0:0:
+213,192,189720,1,8,0:0:0:0:
+469,192,189720,1,0,0:0:0:0:
+128,192,189885,1,2,0:0:0:0:
+42,192,189885,1,0,0:0:0:0:
+298,192,190050,1,2,0:0:0:0:
+469,192,190050,1,0,0:0:0:0:
+213,192,190214,1,0,0:0:0:0:
+42,192,190379,1,8,0:0:0:0:
+384,192,190379,1,0,0:0:0:0:
+213,192,190544,1,2,0:0:0:0:
+298,192,190544,1,0,0:0:0:0:
+469,192,190709,1,0,0:0:0:0:
+213,192,190874,1,2,0:0:0:0:
+384,192,190874,1,0,0:0:0:0:
+298,192,191039,1,8,0:0:0:0:
+128,192,191039,1,0,0:0:0:0:
+384,192,191203,1,0,0:0:0:0:
+384,192,191368,1,2,0:0:0:0:
+213,192,191368,1,0,0:0:0:0:
+42,192,191533,1,0,0:0:0:0:
+469,192,191698,1,0,0:0:0:0:
+298,192,191698,1,8,0:0:0:0:
+384,192,191863,1,2,0:0:0:0:
+42,192,191863,1,0,0:0:0:0:
+213,192,192028,1,0,0:0:0:0:
+128,192,192192,1,2,0:0:0:0:
+298,192,192192,1,0,0:0:0:0:
+42,192,192357,1,8,0:0:0:0:
+384,192,192357,1,0,0:0:0:0:
+128,192,192522,1,2,0:0:0:0:
+469,192,192522,1,0,0:0:0:0:
+213,192,192687,1,2,0:0:0:0:
+384,192,192687,1,0,0:0:0:0:
+42,192,192852,1,0,0:0:0:0:
+384,192,193017,1,8,0:0:0:0:
+128,192,193017,1,0,0:0:0:0:
+469,192,193181,1,2,0:0:0:0:
+213,192,193181,1,0,0:0:0:0:
+298,192,193346,1,0,0:0:0:0:
+469,192,193511,1,2,0:0:0:0:
+213,192,193511,1,0,0:0:0:0:
+384,192,193676,1,8,0:0:0:0:
+128,192,193676,1,0,0:0:0:0:
+298,192,193841,1,0,0:0:0:0:
+42,192,194006,1,2,0:0:0:0:
+298,192,194006,1,0,0:0:0:0:
+384,192,194170,1,2,0:0:0:0:
+213,192,194170,1,0,0:0:0:0:
+128,192,194335,1,8,0:0:0:0:
+298,192,194335,1,0,0:0:0:0:
+469,192,194500,128,2,194830:0:0:0:0:
+42,192,194500,1,0,0:0:0:0:
+384,192,194830,1,2,0:0:0:0:
+128,192,194830,1,0,0:0:0:0:
+298,192,194995,1,8,0:0:0:0:
+128,192,194995,1,0,0:0:0:0:
+469,192,195160,1,2,0:0:0:0:
+42,192,195160,1,0,0:0:0:0:
+213,192,195324,1,2,0:0:0:0:
+384,192,195324,1,0,0:0:0:20:LR_Sleigh Bell.wav
+128,192,195489,1,0,0:0:0:0:
+298,192,195654,1,8,0:0:0:0:
+469,192,195654,1,0,0:0:0:20:LR_Sleigh Bell.wav
+128,192,195819,1,0,0:0:0:0:
+384,192,195984,1,2,0:0:0:0:
+480,192,195984,1,0,0:0:0:20:LR_Sleigh Bell.wav
+42,192,196149,1,2,0:0:0:0:
+213,192,196149,1,0,0:0:0:0:
+128,192,196313,1,8,0:0:0:0:
+384,192,196313,1,0,0:0:0:20:LR_Sleigh Bell.wav
+298,192,196478,1,0,0:0:0:0:
+298,192,196643,1,2,0:0:0:0:
+480,192,196643,1,0,0:0:0:20:LR_Sleigh Bell.wav
+42,192,196808,1,0,0:0:0:0:
+213,192,196973,1,8,0:0:0:0:
+384,192,196973,1,0,0:0:0:20:LR_Sleigh Bell.wav
+128,192,197138,1,2,0:0:0:0:
+42,192,197138,1,0,0:0:0:0:
+298,192,197302,1,0,0:0:0:0:
+480,192,197302,1,0,0:0:0:20:LR_Sleigh Bell.wav
+128,192,197467,1,2,0:0:0:0:
+42,192,197467,1,0,0:0:0:0:
+213,192,197632,1,8,0:0:0:0:
+298,192,197632,1,0,0:0:0:20:LR_Sleigh Bell.wav
+469,192,197797,1,0,0:0:0:0:
+128,192,197962,1,2,0:0:0:0:
+384,192,197962,1,0,0:0:0:20:LR_Sleigh Bell.wav
+42,192,198127,1,0,0:0:0:0:
+96,192,198291,1,8,0:0:0:0:
+469,192,198291,1,0,0:0:0:20:LR_Sleigh Bell.wav
+213,192,198456,1,0,0:0:0:0:
+298,192,198621,1,2,0:0:0:0:
+42,192,198621,1,0,0:0:0:20:LR_Sleigh Bell.wav
+128,192,198786,1,2,0:0:0:0:
+384,192,198786,1,0,0:0:0:0:
+213,192,198951,1,8,0:0:0:0:
+480,192,198951,1,0,0:0:0:20:LR_Sleigh Bell.wav
+298,192,199116,1,0,0:0:0:0:
+469,192,199280,1,2,0:0:0:0:
+213,192,199280,1,0,0:0:0:20:LR_Sleigh Bell.wav
+384,192,199445,1,2,0:0:0:0:
+128,192,199445,1,0,0:0:0:0:
+298,192,199610,1,8,0:0:0:0:
+42,192,199610,1,0,0:0:0:20:LR_Sleigh Bell.wav
+213,192,199775,1,2,0:0:0:0:
+384,192,199775,1,0,0:0:0:0:
+128,192,199940,1,0,0:0:0:20:LR_Sleigh Bell.wav
+298,192,199940,1,0,0:0:0:0:
+213,192,200105,1,2,0:0:0:0:
+469,192,200105,1,0,0:0:0:0:
+96,192,200269,1,8,0:0:0:0:
+384,192,200269,1,0,0:0:0:20:LR_Sleigh Bell.wav
+51,192,200434,1,2,0:0:0:0:
+298,192,200434,1,0,0:0:0:0:
+213,192,200599,1,2,0:0:0:0:
+384,192,200599,1,0,0:0:0:20:LR_Sleigh Bell.wav
+128,192,200764,1,0,0:0:0:0:
+469,192,200929,1,8,0:0:0:0:
+298,192,200929,1,0,0:0:0:20:LR_Sleigh Bell.wav
+128,192,201094,1,2,0:0:0:0:
+42,192,201094,1,0,0:0:0:0:
+469,192,201258,1,0,0:0:0:20:LR_Sleigh Bell.wav
+384,192,201258,1,0,0:0:0:0:
+42,192,201423,1,2,0:0:0:0:
+213,192,201423,1,0,0:0:0:0:
+128,192,201588,1,8,0:0:0:0:
+384,192,201588,1,0,0:0:0:20:LR_Sleigh Bell.wav
+298,192,201753,1,0,0:0:0:0:
+469,192,201918,1,2,0:0:0:0:
+298,192,201918,1,0,0:0:0:20:LR_Sleigh Bell.wav
+42,192,202083,1,0,0:0:0:0:
+213,192,202247,1,8,0:0:0:0:
+384,192,202247,1,0,0:0:0:20:LR_Sleigh Bell.wav
+42,192,202412,1,2,0:0:0:0:
+128,192,202412,1,0,0:0:0:0:
+469,192,202577,1,0,0:0:0:20:LR_Sleigh Bell.wav
+298,192,202577,1,0,0:0:0:0:
+51,192,202742,1,2,0:0:0:0:
+128,192,202742,1,0,0:0:0:0:
+213,192,202907,1,8,0:0:0:0:
+298,192,202907,1,0,0:0:0:20:LR_Sleigh Bell.wav
+384,192,203072,1,2,0:0:0:0:
+469,192,203072,1,0,0:0:0:0:
+42,192,203236,1,2,0:0:0:0:
+298,192,203236,1,0,0:0:0:20:LR_Sleigh Bell.wav
+128,192,203401,1,0,0:0:0:0:
+213,192,203566,1,8,0:0:0:0:
+480,192,203566,1,0,0:0:0:20:LR_Sleigh Bell.wav
+298,192,203731,1,2,0:0:0:0:
+42,192,203731,1,0,0:0:0:0:
+128,192,203896,1,0,0:0:0:20:LR_Sleigh Bell.wav
+384,192,203896,1,0,0:0:0:0:
+298,192,204061,1,2,0:0:0:0:
+42,192,204061,1,0,0:0:0:0:
+213,192,204225,1,8,0:0:0:0:
+469,192,204225,1,0,0:0:0:20:LR_Sleigh Bell.wav
+384,192,204390,1,0,0:0:0:0:
+384,192,204555,1,2,0:0:0:0:
+298,192,204555,1,0,0:0:0:20:LR_Sleigh Bell.wav
+213,192,204720,1,2,0:0:0:0:
+42,192,204720,1,0,0:0:0:0:
+298,192,204885,1,8,0:0:0:0:
+128,192,204885,1,0,0:0:0:20:LR_Sleigh Bell.wav
+384,192,205050,1,2,0:0:0:0:
+469,192,205050,1,0,0:0:0:0:
+128,192,205214,1,0,0:0:0:20:LR_Sleigh Bell.wav
+298,192,205379,1,2,0:0:0:0:
+42,192,205379,1,0,0:0:0:0:
+213,192,205544,1,8,0:0:0:0:
+469,192,205544,1,0,0:0:0:20:LR_Sleigh Bell.wav
+128,192,205709,1,2,0:0:0:0:
+384,192,205709,1,0,0:0:0:0:
+42,192,205874,1,0,0:0:0:0:
+213,192,205874,1,0,0:0:0:0:
+298,192,206039,1,0,0:0:0:0:
+384,192,206203,1,0,0:0:0:0:
+213,192,206368,1,0,0:0:0:0:
+298,192,206533,1,0,0:0:0:0:
+384,192,206698,1,0,0:0:0:0:
+469,192,207028,1,0,0:0:0:0:
+298,192,207028,1,0,0:0:0:0:
+128,192,207028,1,0,0:0:0:0:
+42,192,207357,1,0,0:0:0:0:
+469,192,207522,1,0,0:0:0:0:
+213,192,207687,1,0,0:0:0:0:
+384,192,207769,1,0,0:0:0:0:
+298,192,207852,1,0,0:0:0:0:
+213,192,208017,1,0,0:0:0:0:
+128,192,208181,1,0,0:0:0:0:
+384,192,208346,1,0,0:0:0:0:
+213,192,208511,1,0,0:0:0:0:
+42,192,208511,1,0,0:0:0:0:
+298,192,208676,1,0,0:0:0:0:
+384,192,208841,1,0,0:0:0:0:
+128,192,209170,1,0,0:0:0:0:
+469,192,209335,1,0,0:0:0:0:
+384,192,209335,1,0,0:0:0:0:
+213,192,209335,1,0,0:0:0:0:
+298,192,209665,128,0,210819:0:0:0:0:
+128,192,209665,1,0,0:0:0:0:
+42,192,209665,128,0,210819:0:0:0:0:
