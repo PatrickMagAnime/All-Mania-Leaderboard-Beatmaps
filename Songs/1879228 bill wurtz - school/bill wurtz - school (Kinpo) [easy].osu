@@ -1,0 +1,364 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 20161
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.1
+BeatDivisor: 8
+GridSize: 32
+TimelineZoom: 1.6
+
+[Metadata]
+Title:school
+TitleUnicode:school
+Artist:bill wurtz
+ArtistUnicode:bill wurtz
+Creator:Kinpo
+Version:easy
+Source:
+Tags:fa featured artist pop english new school ninaye bumpy cone
+BeatmapID:3868668
+BeatmapSetID:1879228
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+Video,0,"videoplayback.mp4"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,1255,0,"LR_Hit Med Click.wav",10
+Sample,1411,0,"LR_Hit Med Click.wav",10
+Sample,1567,0,"LR_Hit Med Click.wav",10
+Sample,2505,0,"LR_Hit Med Click.wav",10
+Sample,2817,0,"LR_Hit Med Click.wav",10
+Sample,2974,0,"LR_HiHat SClick 2.wav",60
+Sample,3286,0,"LR_Hit Med Click.wav",10
+Sample,3755,0,"LR_Hit Med Click.wav",10
+Sample,3911,0,"LR_Hit Med Click.wav",10
+Sample,4067,0,"LR_Hit Med Click.wav",10
+Sample,4380,0,"LR_Hit Med Click.wav",10
+Sample,5005,0,"LR_Hit Med Click.wav",10
+Sample,5161,0,"LR_Hit Med Click.wav",10
+Sample,5317,0,"LR_Hit Med Click.wav",10
+Sample,5786,0,"LR_Hit Med Click.wav",10
+Sample,6255,0,"LR_Hit Med Click.wav",10
+Sample,6567,0,"LR_Clap Normal.wav",8
+Sample,6567,0,"LR_Hit Med Click.wav",10
+Sample,6724,0,"LR_HiHat SClick 2.wav",60
+Sample,7505,0,"LR_Hit Med Click.wav",10
+Sample,7661,0,"LR_Hit Med Click.wav",10
+Sample,7817,0,"LR_Hit Med Click.wav",10
+Sample,8286,0,"LR_Hit Med Click.wav",10
+Sample,8755,0,"LR_Hit Med Click.wav",10
+Sample,8911,0,"LR_Hit Med Click.wav",10
+Sample,9067,0,"LR_Clap Normal.wav",8
+Sample,9067,0,"LR_Hit Med Click.wav",10
+Sample,10005,0,"LR_Hit Med Click.wav",10
+Sample,10161,0,"LR_Hit Med Click.wav",10
+Sample,10317,0,"LR_Hit Med Click.wav",10
+Sample,10786,0,"LR_Hit Med Click.wav",10
+Sample,11255,0,"LR_Hit Med Click.wav",10
+Sample,11567,0,"LR_Clap Normal.wav",8
+Sample,11567,0,"LR_Hit Med Click.wav",10
+Sample,11724,0,"LR_HiHat SClick 2.wav",60
+Sample,12505,0,"LR_Hit Med Click.wav",10
+Sample,12661,0,"LR_Hit Med Click.wav",10
+Sample,12817,0,"LR_Hit Med Click.wav",10
+Sample,13286,0,"LR_Hit Med Click.wav",10
+Sample,13755,0,"LR_Hit Med Click.wav",10
+Sample,14067,0,"LR_Clap Normal.wav",8
+Sample,14067,0,"LR_Hit Med Click.wav",10
+Sample,14224,0,"LR_HiHat SClick 2.wav",60
+Sample,15005,0,"kick.wav",80
+Sample,15005,0,"LR_Hit Med Click.wav",10
+Sample,15161,0,"LR_Hit Med Click.wav",10
+Sample,15317,0,"LR_Clap Normal.wav",8
+Sample,15317,0,"LR_Hit Med Click.wav",10
+Sample,15474,0,"LR_HiHat SClick 2.wav",60
+Sample,15786,0,"LR_Hit Med Click.wav",10
+Sample,16255,0,"LR_Clap Normal.wav",8
+Sample,16255,0,"LR_Hit Med Click.wav",10
+Sample,16411,0,"LR_Hit Med Click.wav",10
+Sample,16567,0,"LR_Hit Med Click.wav",10
+Sample,16724,0,"LR_HiHat SClick 2.wav",60
+Sample,17036,0,"LR_Hit Med Click.wav",10
+Sample,17349,0,"LR_Hit Med Click.wav",10
+Sample,17505,0,"LR_Hit Med Click.wav",10
+Sample,17817,0,"LR_Hit Med Click.wav",10
+Sample,21724,0,"LR_Drum Soft.wav",90
+Sample,22817,0,"LR_Hit Med Click.wav",10
+Sample,23755,0,"LR_Hit Med Click.wav",10
+Sample,24224,0,"LR_Drum Soft.wav",90
+Sample,25317,0,"LR_Hit Med Click.wav",10
+Sample,25786,0,"LR_Hit Med Click.wav",10
+Sample,26255,0,"LR_Hit Med Click.wav",10
+Sample,26724,0,"LR_Drum Soft.wav",90
+Sample,27817,0,"LR_Hit Med Click.wav",10
+Sample,29224,0,"LR_Drum Soft.wav",90
+Sample,30161,0,"LR_Hit Med Click.wav",10
+Sample,30317,0,"kick.wav",40
+Sample,30317,0,"LR_Hit Med Click.wav",10
+Sample,30630,0,"kick.wav",40
+Sample,30786,0,"LR_Hit Med Click.wav",10
+Sample,30942,0,"kick.wav",80
+Sample,31567,0,"LR_Hit Med Click.wav",10
+Sample,31724,0,"LR_Drum Soft.wav",90
+Sample,32192,0,"LR_Hit Med Click.wav",10
+Sample,32505,0,"LR_Clap Normal.wav",8
+Sample,32817,0,"LR_Hit Med Click.wav",10
+Sample,33286,0,"LR_Hit Med Click.wav",10
+Sample,33442,0,"LR_Hit Med Click.wav",10
+Sample,33599,0,"LR_Hit Med Click.wav",10
+Sample,33755,0,"LR_Hit Med Click.wav",10
+Sample,34067,0,"LR_Clap Normal.wav",8
+Sample,34380,0,"LR_Hit Med Click.wav",10
+Sample,34692,0,"LR_Hit Med Click.wav",10
+Sample,35005,0,"LR_Hit Med Click.wav",10
+Sample,35317,0,"LR_Hit Med Click.wav",10
+Sample,35786,0,"LR_Hit Med Click.wav",10
+Sample,36099,0,"LR_Hit Med Click.wav",10
+Sample,36255,0,"LR_Hit Med Click.wav",10
+Sample,36567,0,"LR_Clap Normal.wav",8
+Sample,36567,0,"LR_Hit Med Click.wav",10
+Sample,37817,0,"LR_Clap Normal.wav",8
+Sample,37817,0,"LR_Hit Med Click.wav",10
+Sample,38755,0,"LR_Hit Med Click.wav",10
+Sample,38911,0,"LR_Hit Med Click.wav",10
+Sample,38911,0,"LR_Drum Soft.wav",90
+Sample,39067,0,"LR_Hit Med Click.wav",10
+Sample,39224,0,"LR_Drum Soft.wav",90
+Sample,39536,0,"LR_Hit Med Click.wav",10
+Sample,39849,0,"LR_Hit Med Click.wav",10
+Sample,40005,0,"LR_Hit Med Click.wav",10
+Sample,40161,0,"LR_Hit Med Click.wav",10
+Sample,40317,0,"LR_Clap Normal.wav",8
+Sample,40317,0,"LR_Hit Med Click.wav",10
+Sample,40474,0,"LR_Drum Soft.wav",90
+Sample,40630,0,"LR_Clap Normal.wav",10
+Sample,40942,0,"LR_Hit Med Click.wav",10
+Sample,41255,0,"LR_Hit Med Click.wav",10
+Sample,41567,0,"LR_Clap Normal.wav",8
+Sample,41567,0,"LR_Hit Med Click.wav",10
+Sample,41880,0,"LR_Hit Med Click.wav",10
+Sample,42036,0,"LR_Hit Med Click.wav",10
+Sample,42505,0,"LR_Hit Med Click.wav",10
+Sample,42661,0,"LR_Hit Med Click.wav",10
+Sample,42817,0,"LR_Hit Med Click.wav",10
+Sample,42974,0,"LR_HiHat SClick 2.wav",60
+Sample,43755,0,"LR_Hit Med Click.wav",10
+Sample,44067,0,"kick.wav",80
+Sample,44067,0,"LR_Hit Med Click.wav",10
+Sample,44536,0,"LR_Hit Med Click.wav",10
+Sample,45005,0,"LR_Hit Med Click.wav",10
+Sample,45161,0,"LR_Hit Med Click.wav",10
+Sample,45317,0,"LR_Hit Med Click.wav",10
+Sample,45474,0,"LR_HiHat SClick 2.wav",60
+Sample,46255,0,"LR_Hit Med Click.wav",10
+Sample,46567,0,"LR_Clap Normal.wav",8
+Sample,46567,0,"LR_Hit Med Click.wav",10
+Sample,47036,0,"LR_Hit Med Click.wav",10
+Sample,47661,0,"LR_Clap Normal.wav",8
+Sample,47974,0,"LR_HiHat SClick 2.wav",60
+Sample,48130,0,"kick.wav",80
+
+[TimingPoints]
+1099,625,4,2,1,40,1,0
+
+
+[HitObjects]
+64,192,161,5,0,0:0:0:0:
+192,192,474,1,0,0:0:0:0:
+320,192,786,1,0,0:0:0:0:
+192,192,1099,1,0,0:0:0:80:kick.wav
+448,192,1099,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,1724,1,0,0:0:0:60:LR_HiHat SClick 2.wav
+192,192,2036,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,2349,1,0,0:0:0:20:LR_Clap Normal.wav
+448,192,2349,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,2661,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,3286,1,0,0:0:0:80:kick.wav
+64,192,3599,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,4224,1,0,0:0:0:60:LR_HiHat SClick 2.wav
+320,192,4536,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,4849,1,0,0:0:0:20:LR_Clap Normal.wav
+192,192,4849,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,5161,1,0,0:0:0:80:kick.wav
+320,192,5474,1,0,0:0:0:60:LR_HiHat SClick 2.wav
+192,192,5786,1,0,0:0:0:20:LR_Clap Normal.wav
+64,192,6099,1,0,0:0:0:80:kick.wav
+448,192,6099,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,6411,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,6724,1,0,0:0:0:8:LR_Clap Normal.wav
+320,192,7036,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,7349,1,0,0:0:0:20:LR_Clap Normal.wav
+192,192,7349,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,7974,1,0,0:0:0:60:LR_HiHat SClick 2.wav
+320,192,8286,1,0,0:0:0:80:kick.wav
+448,192,8599,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,9224,1,0,0:0:0:60:LR_HiHat SClick 2.wav
+192,192,9536,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,9849,1,0,0:0:0:20:LR_Clap Normal.wav
+448,192,9849,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,10161,1,0,0:0:0:80:kick.wav
+192,192,10474,1,0,0:0:0:60:LR_HiHat SClick 2.wav
+320,192,10786,1,0,0:0:0:40:LR_Drum Hit HAT.wav
+64,192,11099,1,0,0:0:0:80:kick.wav
+192,192,11099,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,11411,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,11724,1,0,0:0:0:8:LR_Clap Normal.wav
+320,192,12036,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,12349,1,0,0:0:0:20:LR_Clap Normal.wav
+192,192,12349,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,12974,1,0,0:0:0:60:LR_HiHat SClick 2.wav
+448,192,13286,1,0,0:0:0:80:kick.wav
+192,192,13599,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,13911,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,14224,1,0,0:0:0:8:LR_Clap Normal.wav
+448,192,14536,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,14849,1,0,0:0:0:20:LR_Clap Normal.wav
+192,192,14849,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,15474,1,0,0:0:0:8:LR_Clap Normal.wav
+448,192,15786,1,0,0:0:0:80:kick.wav
+64,192,16099,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,16411,1,0,0:0:0:8:LR_Clap Normal.wav
+320,192,16724,1,0,0:0:0:80:kick.wav
+448,192,17192,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,17661,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,17974,1,0,0:0:0:60:LR_HiHat SClick 2.wav
+64,192,18286,1,0,0:0:0:50:kick.wav
+192,192,18286,1,0,0:0:0:0:
+64,192,20161,1,0,0:0:0:0:
+192,192,20474,1,0,0:0:0:0:
+320,192,20786,1,0,0:0:0:0:
+64,192,21099,1,0,0:0:0:80:kick.wav
+448,192,21099,1,0,0:0:0:40:LR_CymbalFSU.wav
+192,192,21411,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,21567,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,21880,1,0,0:0:0:0:
+448,192,22036,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,22349,1,0,0:0:0:20:LR_Clap Normal.wav
+192,192,22349,1,0,0:0:0:0:
+320,192,22661,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,22974,1,0,0:0:0:90:LR_Drum Soft.wav
+192,192,23286,1,0,0:0:0:80:kick.wav
+320,192,23286,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,23599,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,23911,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,24067,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,24380,1,0,0:0:0:0:
+192,192,24536,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,24849,1,0,0:0:0:20:LR_Clap Normal.wav
+448,192,24849,1,0,0:0:0:0:
+64,192,25161,1,0,0:0:0:80:kick.wav
+320,192,25161,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,25474,1,0,0:0:0:90:LR_Drum Soft.wav
+64,192,25786,1,0,0:0:0:40:LR_Drum Hit HAT.wav
+320,192,26099,1,0,0:0:0:80:kick.wav
+448,192,26099,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,26411,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,26567,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,26880,1,0,0:0:0:0:
+320,192,27036,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,27349,1,0,0:0:0:20:LR_Clap Normal.wav
+448,192,27349,1,0,0:0:0:40:LR_CymbalFSU.wav
+192,192,27661,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,27974,1,0,0:0:0:90:LR_Drum Soft.wav
+64,192,28286,1,0,0:0:0:20:LR_CymbalFSU.wav
+192,192,28286,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,28599,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,28911,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,29067,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,29380,1,0,0:0:0:0:
+320,192,29536,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,29849,1,0,0:0:0:20:LR_Clap Normal.wav
+448,192,29849,1,0,0:0:0:0:
+320,192,30161,1,0,0:0:0:40:LR_Drum Hit HAT.wav
+192,192,30474,1,0,0:0:0:90:LR_Drum Soft.wav
+64,192,30786,1,0,0:0:0:40:kick.wav
+320,192,31099,1,0,0:0:0:80:kick.wav
+448,192,31099,1,0,0:0:0:20:LR_CymbalFSU.wav
+64,192,31411,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,31567,1,0,0:0:0:8:LR_Clap Normal.wav
+320,192,31880,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,32036,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,32349,1,0,0:0:0:20:LR_Clap Normal.wav
+192,192,32349,1,0,0:0:0:40:LR_CymbalFSU.wav
+320,192,32661,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,32974,1,0,0:0:0:90:LR_Drum Soft.wav
+64,192,33286,1,0,0:0:0:80:kick.wav
+192,192,33286,1,0,0:0:0:20:LR_CymbalFSU.wav
+448,192,33911,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,34224,1,0,0:0:0:90:LR_Drum Soft.wav
+192,192,34536,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,34849,1,0,0:0:0:15:LR_Clap Normal.wav
+320,192,34849,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,35161,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,35474,1,0,0:0:0:90:LR_Drum Soft.wav
+64,192,35786,1,0,0:0:0:80:kick.wav
+448,192,35786,1,0,0:0:0:40:LR_CymbalFSU.wav
+192,192,36411,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,36724,1,0,0:0:0:90:LR_Drum Soft.wav
+448,192,37036,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,37349,1,0,0:0:0:20:LR_Clap Normal.wav
+192,192,37349,1,0,0:0:0:0:
+192,192,37661,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,37974,1,0,0:0:0:90:LR_Drum Soft.wav
+64,192,38286,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,38599,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,38911,1,0,0:0:0:8:LR_Clap Normal.wav
+320,192,39067,1,0,0:0:0:8:LR_Clap Normal.wav
+192,192,39224,1,0,0:0:0:40:LR_Drum Hit HAT.wav
+64,192,39849,1,0,0:0:0:20:LR_Clap Normal.wav
+320,192,40161,1,0,0:0:0:80:kick.wav
+64,192,40786,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,41099,1,0,0:0:0:80:kick.wav
+448,192,41099,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,41411,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,41724,1,0,0:0:0:60:LR_HiHat SClick 2.wav
+320,192,42036,1,0,0:0:0:80:kick.wav
+64,192,42349,1,0,0:0:0:20:LR_Clap Normal.wav
+192,192,42349,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,43286,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,43599,1,0,0:0:0:80:kick.wav
+192,192,43599,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,43911,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,44224,1,0,0:0:0:60:LR_HiHat SClick 2.wav
+64,192,44536,1,0,0:0:0:80:kick.wav
+320,192,44849,1,0,0:0:0:20:LR_Clap Normal.wav
+448,192,44849,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,45317,1,0,0:0:0:80:kick.wav
+64,192,45786,1,0,0:0:0:10:LR_Hit Med Click.wav
+192,192,46099,1,0,0:0:0:80:kick.wav
+320,192,46099,1,0,0:0:0:10:LR_Hit Med Click.wav
+448,192,46411,1,0,0:0:0:10:LR_Hit Med Click.wav
+64,192,46724,1,0,0:0:0:60:LR_HiHat SClick 2.wav
+192,192,47036,1,0,0:0:0:80:kick.wav
+64,192,47349,1,0,0:0:0:20:LR_Clap Normal.wav
+448,192,47349,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,47817,1,0,0:0:0:8:LR_Clap Normal.wav
+64,192,48286,1,0,0:0:0:10:LR_Hit Med Click.wav
+320,192,48599,1,0,0:0:0:80:kick.wav
+448,192,48599,1,0,0:0:0:10:LR_Hit Med Click.wav

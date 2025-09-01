@@ -1,7 +1,7 @@
-# My Osu Songs Folder 1.4GB 26923 Maps
+# My Osu Songs Folder 1.4GB 27696 Maps
 
-Includes All MANIA Ranked, Approved and Loved state Beatmaps. NO AUDIO &amp; PICTURES
-around 2% graveyard maps.
+Includes All MANIA Ranked, Approved and Loved state Beatmaps. NO AUDIO &amp; PICTURES/VIDEOS
+around 3% graveyard maps.
 
 NOTE: The Folders Only includes MANIA .osu files.
 

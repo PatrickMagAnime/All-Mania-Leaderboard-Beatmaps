@@ -1,0 +1,118 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 11791
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 8
+GridSize: 16
+TimelineZoom: 1
+
+[Metadata]
+Title:An Acquittal
+TitleUnicode:An Acquittal
+Artist:MasterSwordRemix
+ArtistUnicode:MasterSwordRemix
+Creator:Hirosheap
+Version:10K Normal
+Source:Undertale Yellow
+Tags:video game fan game instrumental toby fox team uty teamuty ost track 097 original soundtrack ost waterfall rpg electronic slow ambient piano bgm background music undertaleyellow Matthewwwwww keysounds
+BeatmapID:5127955
+BeatmapSetID:2362700
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:10
+OverallDifficulty:6
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bgundertaleyellow.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,15166,0,"D#6S_Eb6S.wav",70
+Sample,21166,0,"D#6S_Eb6S.wav",70
+Sample,24166,0,"F#6S_Gb6S.wav",70
+Sample,27166,0,"D#6S_Eb6S.wav",70
+Sample,30166,0,"E6S.wav",70
+Sample,33259,0,"F4S_s.wav",70
+Sample,33353,0,"A6S.wav",70
+Sample,33447,0,"C5S.wav",70
+Sample,35509,0,"F4S_s.wav",70
+
+[TimingPoints]
+166,750,4,2,1,20,1,0
+33166,750,3,2,1,20,1,0
+35416,750,4,2,1,20,1,0
+
+
+[HitObjects]
+25,192,166,128,0,3166:0:0:0:70:C#4S_Db4S.wav
+486,192,166,128,0,3166:0:0:0:70:C#5S_Db5S.wav
+179,192,3166,128,0,6166:0:0:0:70:B3S.wav
+332,192,3166,128,0,6166:0:0:0:70:B4S.wav
+128,192,6166,128,0,9166:0:0:0:70:C#4S_Db4S.wav
+384,192,6166,128,0,9166:0:0:0:70:C#5S_Db5S.wav
+76,192,9166,128,0,12166:0:0:0:70:B3S.wav
+281,192,9166,128,0,12166:0:0:0:70:B4S.wav
+179,192,12166,1,0,0:0:0:70:C#4S_Db4S.wav
+435,192,12166,128,0,15166:0:0:0:70:C#5S_Db5S.wav
+25,192,12541,128,0,12916:0:0:0:70:C#7S_Db7S.wav
+128,192,12916,128,0,13291:0:0:0:70:C7S.wav
+76,192,13291,128,0,13666:0:0:0:70:A#6S_Bb6S.wav
+179,192,13666,128,0,14041:0:0:0:70:G#6S_Ab6S.wav
+128,192,14041,128,0,14416:0:0:0:70:F#6S_Gb6S.wav
+230,192,14416,128,0,14791:0:0:0:70:F6S.wav
+25,192,14791,128,0,15166:0:0:0:70:C#6S_Db6S.wav
+128,192,15166,128,0,18166:0:0:0:70:B3S.wav
+332,192,15166,128,0,15916:0:0:0:70:B4S.wav
+486,192,15916,128,0,18166:0:0:0:70:A#5S_Bb5S.wav
+230,192,18166,1,0,0:0:0:70:C#4S_Db4S.wav
+435,192,18166,128,0,21166:0:0:0:70:C#5S_Db5S.wav
+230,192,18541,128,0,18916:0:0:0:70:C#7S_Db7S.wav
+128,192,18916,128,0,19291:0:0:0:70:C7S.wav
+179,192,19291,128,0,19666:0:0:0:70:A#6S_Bb6S.wav
+230,192,19666,128,0,20041:0:0:0:70:G#6S_Ab6S.wav
+76,192,20041,128,0,20416:0:0:0:70:F#6S_Gb6S.wav
+25,192,20416,128,0,20791:0:0:0:70:F6S.wav
+128,192,20791,128,0,21166:0:0:0:70:C#6S_Db6S.wav
+76,192,21166,128,0,24166:0:0:0:70:B3S.wav
+332,192,21166,128,0,21916:0:0:0:70:B4S.wav
+486,192,21916,128,0,24166:0:0:0:70:A#6S_Bb6S.wav
+179,192,24166,128,0,24916:0:0:0:70:C#4S_Db4S.wav
+384,192,24166,128,0,27166:0:0:0:70:C#5S_Db5S.wav
+230,192,24916,128,0,25666:0:0:0:70:G#6S_Ab6S.wav
+76,192,25666,128,0,26416:0:0:0:70:A#6S_Bb6S.wav
+128,192,26416,128,0,27166:0:0:0:70:C#7S_Db7S.wav
+179,192,27166,128,0,30166:0:0:0:70:D#4S_Eb4S.wav
+332,192,27166,128,0,27916:0:0:0:70:D#5S_Eb5S.wav
+435,192,27916,128,0,28666:0:0:0:70:D#7S_Eb7S.wav
+281,192,28666,128,0,30166:0:0:0:70:A#6S_Bb6S.wav
+76,192,30166,128,0,30916:0:0:0:70:E4S.wav
+486,192,30166,128,0,33166:0:0:0:70:E5S.wav
+25,192,30916,128,0,31666:0:0:0:70:F#6S_Gb6S.wav
+179,192,31666,128,0,32416:0:0:0:70:A6S.wav
+128,192,32416,128,0,33166:0:0:0:70:C#7S_Db7S.wav
+76,192,33166,1,0,0:0:0:70:D4S_s.wav
+281,192,33353,128,0,35416:0:0:0:70:A4S_s.wav
+76,192,35416,128,0,38791:0:0:0:70:C#4S_Db4S_s.wav
+486,192,35416,1,0,0:0:0:70:G#6S_Ab6S.wav
+179,192,35603,128,0,38791:0:0:0:70:C5S.wav
